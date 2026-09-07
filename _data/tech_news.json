@@ -1,120 +1,129 @@
 [
   {
-    "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
-    "url": "https://nomac.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49597570",
-    "source": "nomac.app",
-    "date": "2026-09-07T12:29:17Z",
-    "timestamp": 1788784157,
+    "title": "The smallest edge AI device for local LLMs",
+    "url": "https://tiiny.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49603011",
+    "source": "tiiny.ai",
+    "date": "2026-09-07T21:09:12Z",
+    "timestamp": 1788815352,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
-    "url": "https://askpod.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49597472",
-    "source": "askpod.ai",
-    "date": "2026-09-07T12:18:56Z",
-    "timestamp": 1788783536,
+    "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+    "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602598",
+    "source": "ersnet.org",
+    "date": "2026-09-07T20:22:54Z",
+    "timestamp": 1788812574,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: A video editor where the LLM never watches the video",
-    "url": "https://github.com/ranahaani/i-hate-editing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49597350",
-    "source": "github.com",
-    "date": "2026-09-07T12:06:45Z",
-    "timestamp": 1788782805,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: How Pagecord Uses AI",
-    "url": "https://news.ycombinator.com/item?id=49597339",
-    "discussion_url": "https://news.ycombinator.com/item?id=49597339",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-07T12:04:39Z",
-    "timestamp": 1788782679,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI SEO for Startups and SaaS: A Complete Growth Strategy",
-    "url": "https://news.ycombinator.com/item?id=49597248",
-    "discussion_url": "https://news.ycombinator.com/item?id=49597248",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-07T11:53:05Z",
-    "timestamp": 1788781985,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in Test Automation: Real Limitations vs. User Error",
-    "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596909",
-    "source": "davidmello.com",
-    "date": "2026-09-07T11:15:30Z",
-    "timestamp": 1788779730,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI 2027",
-    "url": "https://ai-2027.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596867",
-    "source": "ai-2027.com",
-    "date": "2026-09-07T11:10:32Z",
-    "timestamp": 1788779432,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "French burglar used artificial intelligence to locate Canberra target in heist",
-    "url": "https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596853",
-    "source": "abc.net.au",
-    "date": "2026-09-07T11:08:41Z",
-    "timestamp": 1788779321,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AMD Working to \"Push Rust Deep into the GPU Stack\"",
-    "url": "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596778",
-    "source": "phoronix.com",
-    "date": "2026-09-07T10:59:27Z",
-    "timestamp": 1788778767,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tencent/Teamai-CLI: Make Every Team AI Native",
-    "url": "https://github.com/Tencent/teamai-cli",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596714",
-    "source": "github.com",
-    "date": "2026-09-07T10:52:10Z",
-    "timestamp": 1788778330,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596610",
-    "source": "economist.com",
-    "date": "2026-09-07T10:38:32Z",
-    "timestamp": 1788777512,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Terrence Tao – AI math solutions hurting the field",
-    "url": "https://mathstodon.xyz/@tao/117219548485446992",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596452",
-    "source": "mathstodon.xyz",
-    "date": "2026-09-07T10:18:00Z",
-    "timestamp": 1788776280,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Astra has beat all 48 levels of Neal.fun's \"I'm Not a Robot\" game",
-    "url": "https://twitter.com/sharifshameem/status/2096847916837314853",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596335",
-    "source": "twitter.com",
-    "date": "2026-09-07T10:03:32Z",
-    "timestamp": 1788775412,
+    "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+    "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602582",
+    "source": "electrek.co",
+    "date": "2026-09-07T20:21:12Z",
+    "timestamp": 1788812472,
     "category": "Physical AI"
+  },
+  {
+    "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
+    "url": "https://github.com/Nehanth/swarmllm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602451",
+    "source": "github.com",
+    "date": "2026-09-07T20:08:22Z",
+    "timestamp": 1788811702,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Code Reviews in the Age of AI",
+    "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602295",
+    "source": "danielfm.me",
+    "date": "2026-09-07T19:54:19Z",
+    "timestamp": 1788810859,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "El Yayster – a resident LLM that inhabits Emacs",
+    "url": "https://github.com/yayster/yayster.el",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602258",
+    "source": "github.com",
+    "date": "2026-09-07T19:50:21Z",
+    "timestamp": 1788810621,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Revise AI, an AI editor for fiction writers",
+    "url": "https://www.revise.net",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602170",
+    "source": "revise.net",
+    "date": "2026-09-07T19:44:07Z",
+    "timestamp": 1788810247,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+    "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602166",
+    "source": "forgemesh.io",
+    "date": "2026-09-07T19:43:34Z",
+    "timestamp": 1788810214,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Artificial Intelligence Policy UC Berkeley School of Law [pdf]",
+    "url": "https://www.law.berkeley.edu/wp-content/uploads/2026/05/AI-Final-Policy-26.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602018",
+    "source": "law.berkeley.edu",
+    "date": "2026-09-07T19:29:13Z",
+    "timestamp": 1788809353,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Turning Quick Notes into Long-Term AI Memory",
+    "url": "https://barbarito.me/notes-workflow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49602002",
+    "source": "barbarito.me",
+    "date": "2026-09-07T19:27:31Z",
+    "timestamp": 1788809251,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Cold Showers",
+    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49601810",
+    "source": "allan.reyes.sh",
+    "date": "2026-09-07T19:05:39Z",
+    "timestamp": 1788807939,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
+    "url": "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
+    "discussion_url": "https://news.ycombinator.com/item?id=49601734",
+    "source": "smarterarticles.co.uk",
+    "date": "2026-09-07T18:59:34Z",
+    "timestamp": 1788807574,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Secret Collusion Among AI Agents",
+    "url": "https://arxiv.org/abs/2402.07510",
+    "discussion_url": "https://news.ycombinator.com/item?id=49601706",
+    "source": "arxiv.org",
+    "date": "2026-09-07T18:57:17Z",
+    "timestamp": 1788807437,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fleet: Every GPU Deserves a Rating",
+    "url": "https://webgpu-kernels-fleet.hf.space/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49600969",
+    "source": "webgpu-kernels-fleet.hf.space",
+    "date": "2026-09-07T17:50:33Z",
+    "timestamp": 1788803433,
+    "category": "Computer Architecture"
   },
   {
     "title": "Speculative Decoding in vLLM on AMD GPUs",
@@ -124,50 +133,5 @@
     "date": "2026-09-07T09:26:41Z",
     "timestamp": 1788773201,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Raptor turns Claude Code into a general-purpose AI",
-    "url": "https://github.com/gadievron/raptor",
-    "discussion_url": "https://news.ycombinator.com/item?id=49596035",
-    "source": "github.com",
-    "date": "2026-09-07T09:24:37Z",
-    "timestamp": 1788773077,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "From dance floor to war: China readies humanoid robots for combat",
-    "url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49595720",
-    "source": "reuters.com",
-    "date": "2026-09-07T08:45:58Z",
-    "timestamp": 1788770758,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: H200 GPUs under $1.99/hour, H100s at $1.19/hour",
-    "url": "https://compute.cheap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49595371",
-    "source": "compute.cheap",
-    "date": "2026-09-07T08:06:36Z",
-    "timestamp": 1788768396,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-    "discussion_url": "https://news.ycombinator.com/item?id=49593896",
-    "source": "thelec.net",
-    "date": "2026-09-07T04:27:29Z",
-    "timestamp": 1788755249,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "GPT-6 Astra on robot arms",
-    "url": "https://openai.robocurve.org/gpt-6-astra/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49582582",
-    "source": "openai.robocurve.org",
-    "date": "2026-09-06T01:52:45Z",
-    "timestamp": 1788659565,
-    "category": "Physical AI"
   }
 ]
