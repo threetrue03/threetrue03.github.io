@@ -1,120 +1,156 @@
 [
   {
-    "title": "Gen AI Tools Are Now Being Used to Push 'Slop Jihad'",
-    "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608610",
-    "source": "wired.com",
-    "date": "2026-09-08T11:01:03Z",
-    "timestamp": 1788865263,
+    "title": "I made 5 AI models play a golf season. I think we benchmark agents wrong",
+    "url": "https://offscriptlabs.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612583",
+    "source": "offscriptlabs.ai",
+    "date": "2026-09-08T16:27:30Z",
+    "timestamp": 1788884850,
     "category": "Machine Learning"
   },
   {
-    "title": "Losing control of AI is the plan",
-    "url": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608501",
-    "source": "theargumentmag.com",
-    "date": "2026-09-08T10:47:07Z",
-    "timestamp": 1788864427,
+    "title": "$1 In, $100 Out: Does the AI Math Add Up?",
+    "url": "https://ganeshanmalhotra.substack.com/p/1-in-100-out-does-the-ai-math-add",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612522",
+    "source": "ganeshanmalhotra.substack.com",
+    "date": "2026-09-08T16:22:55Z",
+    "timestamp": 1788884575,
     "category": "Machine Learning"
   },
   {
-    "title": "Automatically detecting AI text in my browser",
-    "url": "https://www.seangoedecke.com/deckard/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608301",
-    "source": "seangoedecke.com",
-    "date": "2026-09-08T10:22:34Z",
-    "timestamp": 1788862954,
+    "title": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+    "url": "https://sparrow2.tavuslabs.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612459",
+    "source": "sparrow2.tavuslabs.org",
+    "date": "2026-09-08T16:16:58Z",
+    "timestamp": 1788884218,
     "category": "Machine Learning"
   },
   {
-    "title": "World Model (Artificial Intelligence)",
-    "url": "https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608264",
-    "source": "en.wikipedia.org",
-    "date": "2026-09-08T10:17:40Z",
-    "timestamp": 1788862660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What Can You Do with a Local LLM?",
-    "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608238",
-    "source": "grigio.org",
-    "date": "2026-09-08T10:14:27Z",
-    "timestamp": 1788862467,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Vaenyx – A personal AI app for family",
-    "url": "https://github.com/vaenyxai/core",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608188",
+    "title": "Show HN: DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay",
+    "url": "https://github.com/deepmemteam/deepmem",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612293",
     "source": "github.com",
-    "date": "2026-09-08T10:09:52Z",
-    "timestamp": 1788862192,
+    "date": "2026-09-08T16:04:24Z",
+    "timestamp": 1788883464,
     "category": "Machine Learning"
   },
   {
-    "title": "TrustFinder: Deep Search AI",
-    "url": "https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US",
-    "discussion_url": "https://news.ycombinator.com/item?id=49607896",
-    "source": "play.google.com",
-    "date": "2026-09-08T09:32:21Z",
-    "timestamp": 1788859941,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Arguments in Favor of AI Fair Use",
-    "url": "https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use",
-    "discussion_url": "https://news.ycombinator.com/item?id=49607805",
-    "source": "kevinkelly.substack.com",
-    "date": "2026-09-08T09:22:26Z",
-    "timestamp": 1788859346,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Pomeroy v1, give any AI assistant secure access to native macOS apps",
-    "url": "https://pomeroy.app/connect",
-    "discussion_url": "https://news.ycombinator.com/item?id=49607578",
-    "source": "pomeroy.app",
-    "date": "2026-09-08T08:58:26Z",
-    "timestamp": 1788857906,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Türk urges action before AI becomes an 'existential risk to humanity'",
-    "url": "https://news.un.org/en/story/2026/09/1168288",
-    "discussion_url": "https://news.ycombinator.com/item?id=49607515",
-    "source": "news.un.org",
-    "date": "2026-09-08T08:52:29Z",
-    "timestamp": 1788857549,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The most advanced and easy to use local AI builder you'll ever see",
-    "url": "https://github.com/markdr-hue/open-fabrica",
-    "discussion_url": "https://news.ycombinator.com/item?id=49607502",
+    "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
+    "url": "https://github.com/doldecomp/melee",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612081",
     "source": "github.com",
-    "date": "2026-09-08T08:50:57Z",
-    "timestamp": 1788857457,
+    "date": "2026-09-08T15:49:30Z",
+    "timestamp": 1788882570,
     "category": "Machine Learning"
   },
   {
-    "title": "Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI",
-    "url": "https://anima-ai.org/2026/09/07/stable-singularity-of-the-euler-equations-on-r3-without-forcing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49606817",
-    "source": "anima-ai.org",
-    "date": "2026-09-08T07:34:27Z",
-    "timestamp": 1788852867,
+    "title": "Measurement Before Control: A Broadly Applicable Principle for Better AI Policy",
+    "url": "https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494",
+    "discussion_url": "https://news.ycombinator.com/item?id=49612016",
+    "source": "medium.com",
+    "date": "2026-09-08T15:45:09Z",
+    "timestamp": 1788882309,
     "category": "Machine Learning"
   },
   {
-    "title": "From dance floor to war: China readies humanoid robots for combat",
-    "url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49606390",
-    "source": "reuters.com",
-    "date": "2026-09-08T06:45:49Z",
-    "timestamp": 1788849949,
+    "title": "The Ripgrep of AI Context",
+    "url": "https://github.com/redhat-et/ripwire",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611931",
+    "source": "github.com",
+    "date": "2026-09-08T15:39:12Z",
+    "timestamp": 1788881952,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Did AI Find Murakami's Voice? Student's $2 Experiment Divides China's Literati",
+    "url": "https://www.sixthtone.com/news/1018966",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611506",
+    "source": "sixthtone.com",
+    "date": "2026-09-08T15:11:33Z",
+    "timestamp": 1788880293,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making Tentacle Robots Useful [video]",
+    "url": "https://www.youtube.com/watch?v=BvGphB0iaHE",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611432",
+    "source": "youtube.com",
+    "date": "2026-09-08T15:06:11Z",
+    "timestamp": 1788879971,
     "category": "Physical AI"
+  },
+  {
+    "title": "Canonical Evolution of Enterprise Open Source RISC-V at Hot Chips 2026",
+    "url": "https://www.servethehome.com/canonical-evolution-of-enterprise-open-source-risc-v-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611297",
+    "source": "servethehome.com",
+    "date": "2026-09-08T14:58:43Z",
+    "timestamp": 1788879523,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+    "url": "https://endframe.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611174",
+    "source": "endframe.ai",
+    "date": "2026-09-08T14:52:01Z",
+    "timestamp": 1788879121,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Two cats, two dogs, four vendors, and the model the AI couldn't find",
+    "url": "https://victoriametrics.com/blog/two-cats-two-dogs-four-vendors-and-the-model-ai-couldnt-find/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611170",
+    "source": "victoriametrics.com",
+    "date": "2026-09-08T14:51:50Z",
+    "timestamp": 1788879110,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The failure your LLM dashboard can't see",
+    "url": "https://percentes.ai/writing/2026/the-failure-your-dashboard-cannot-see/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49611026",
+    "source": "percentes.ai",
+    "date": "2026-09-08T14:42:55Z",
+    "timestamp": 1788878575,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "List of mathematical discoveries by artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_by_artificial_intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49610905",
+    "source": "en.wikipedia.org",
+    "date": "2026-09-08T14:34:24Z",
+    "timestamp": 1788878064,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Training a GPT from scratch in C on a RISC-V MCU with no FPU, in 37KB of code",
+    "url": "https://rvembedded.com/blog_post/13/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49610324",
+    "source": "rvembedded.com",
+    "date": "2026-09-08T13:49:07Z",
+    "timestamp": 1788875347,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Meet Sally, the Robot Teacher. She Is a Real Doll",
+    "url": "https://galratner.substack.com/p/meet-sally-the-robot-teacher-she",
+    "discussion_url": "https://news.ycombinator.com/item?id=49609322",
+    "source": "galratner.substack.com",
+    "date": "2026-09-08T12:20:26Z",
+    "timestamp": 1788870026,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Getting Started with ECP5 FPGAs on the Colorlight I5 FPGA Development Board",
+    "url": "https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49608802",
+    "source": "tomverbeure.github.io",
+    "date": "2026-09-08T11:26:56Z",
+    "timestamp": 1788866816,
+    "category": "Computer Architecture"
   },
   {
     "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
@@ -126,15 +162,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "I Couldn't Play Guitar, So I Spent 6 Years Building a Guitar Robot [video]",
-    "url": "https://www.youtube.com/shorts/XgJjdkYOKz8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49604878",
-    "source": "youtube.com",
-    "date": "2026-09-08T01:59:31Z",
-    "timestamp": 1788832771,
-    "category": "Physical AI"
-  },
-  {
     "title": "Speculative Decoding in vLLM on AMD GPUs",
     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
     "discussion_url": "https://news.ycombinator.com/item?id=49596054",
@@ -144,7 +171,7 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Robot writes in languages it has never seen before",
+    "title": "Robot writes in languages it has never seen before (2019)",
     "url": "https://www.wired.com/story/robot-writing/",
     "discussion_url": "https://news.ycombinator.com/item?id=49583684",
     "source": "wired.com",
