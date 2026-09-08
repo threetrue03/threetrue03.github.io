@@ -1,5 +1,122 @@
 [
   {
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "discussion_url": "https://news.ycombinator.com/item?id=49605511",
+    "source": "newsroom.arm.com",
+    "date": "2026-09-08T04:06:20Z",
+    "timestamp": 1788840380,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Denzel Explains AI \"Slop\"",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49605324",
+    "source": "reddit.com",
+    "date": "2026-09-08T03:14:53Z",
+    "timestamp": 1788837293,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Making Us Build Too Much",
+    "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49605245",
+    "source": "sjg.io",
+    "date": "2026-09-08T02:58:16Z",
+    "timestamp": 1788836296,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Do LLMs Know What to Ask and When? Evaluating Multi-Turn Information Seeking",
+    "url": "https://arxiv.org/abs/2608.14808",
+    "discussion_url": "https://news.ycombinator.com/item?id=49605190",
+    "source": "arxiv.org",
+    "date": "2026-09-08T02:49:05Z",
+    "timestamp": 1788835745,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+    "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604956",
+    "source": "bbc.com",
+    "date": "2026-09-08T02:12:13Z",
+    "timestamp": 1788833533,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Couldn't Play Guitar, So I Spent 6 Years Building a Guitar Robot [video]",
+    "url": "https://www.youtube.com/shorts/XgJjdkYOKz8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604878",
+    "source": "youtube.com",
+    "date": "2026-09-08T01:59:31Z",
+    "timestamp": 1788832771,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Outrageously Small Neural Networks: Emergent Basic Reasoning at 6,616 tok/SEC [pdf]",
+    "url": "https://huggingface.co/gdiamos/amx-reasoning-v1-instruct/blob/main/paper.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604579",
+    "source": "huggingface.co",
+    "date": "2026-09-08T01:07:48Z",
+    "timestamp": 1788829668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+    "url": "https://www.nature.com/articles/d41586-026-02822-9",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604319",
+    "source": "nature.com",
+    "date": "2026-09-08T00:07:07Z",
+    "timestamp": 1788826027,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Secure temporary file sharing for AI agents and humans",
+    "url": "https://github.com/aispace-sh/aispace-client",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604280",
+    "source": "github.com",
+    "date": "2026-09-07T23:59:58Z",
+    "timestamp": 1788825598,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "WeatherNext 3: Our most advanced global weather AI model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604257",
+    "source": "blog.google",
+    "date": "2026-09-07T23:56:41Z",
+    "timestamp": 1788825401,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta's AI Crawler Crashing My DB, and What I Did About It",
+    "url": "https://usero.io/blog/meta-ai-crawler-crashing-my-db",
+    "discussion_url": "https://news.ycombinator.com/item?id=49604043",
+    "source": "usero.io",
+    "date": "2026-09-07T23:20:45Z",
+    "timestamp": 1788823245,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RISC-V Emulator and Linux System from Scratch",
+    "url": "https://github.com/WerWolv/riscv-emulator",
+    "discussion_url": "https://news.ycombinator.com/item?id=49603397",
+    "source": "github.com",
+    "date": "2026-09-07T21:57:15Z",
+    "timestamp": 1788818235,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Actually Real AI",
+    "url": "https://actually-real-ai.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49603155",
+    "source": "actually-real-ai.com",
+    "date": "2026-09-07T21:26:02Z",
+    "timestamp": 1788816362,
+    "category": "Machine Learning"
+  },
+  {
     "title": "The smallest edge AI device for local LLMs",
     "url": "https://tiiny.ai/",
     "discussion_url": "https://news.ycombinator.com/item?id=49603011",
@@ -27,111 +144,21 @@
     "category": "Physical AI"
   },
   {
-    "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
-    "url": "https://github.com/Nehanth/swarmllm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602451",
-    "source": "github.com",
-    "date": "2026-09-07T20:08:22Z",
-    "timestamp": 1788811702,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Code Reviews in the Age of AI",
-    "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602295",
-    "source": "danielfm.me",
-    "date": "2026-09-07T19:54:19Z",
-    "timestamp": 1788810859,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "El Yayster – a resident LLM that inhabits Emacs",
-    "url": "https://github.com/yayster/yayster.el",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602258",
-    "source": "github.com",
-    "date": "2026-09-07T19:50:21Z",
-    "timestamp": 1788810621,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Revise AI, an AI editor for fiction writers",
-    "url": "https://www.revise.net",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602170",
-    "source": "revise.net",
-    "date": "2026-09-07T19:44:07Z",
-    "timestamp": 1788810247,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
-    "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602166",
-    "source": "forgemesh.io",
-    "date": "2026-09-07T19:43:34Z",
-    "timestamp": 1788810214,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Artificial Intelligence Policy UC Berkeley School of Law [pdf]",
-    "url": "https://www.law.berkeley.edu/wp-content/uploads/2026/05/AI-Final-Policy-26.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602018",
-    "source": "law.berkeley.edu",
-    "date": "2026-09-07T19:29:13Z",
-    "timestamp": 1788809353,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Turning Quick Notes into Long-Term AI Memory",
-    "url": "https://barbarito.me/notes-workflow/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49602002",
-    "source": "barbarito.me",
-    "date": "2026-09-07T19:27:31Z",
-    "timestamp": 1788809251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Cold Showers",
-    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49601810",
-    "source": "allan.reyes.sh",
-    "date": "2026-09-07T19:05:39Z",
-    "timestamp": 1788807939,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
-    "url": "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
-    "discussion_url": "https://news.ycombinator.com/item?id=49601734",
-    "source": "smarterarticles.co.uk",
-    "date": "2026-09-07T18:59:34Z",
-    "timestamp": 1788807574,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Secret Collusion Among AI Agents",
-    "url": "https://arxiv.org/abs/2402.07510",
-    "discussion_url": "https://news.ycombinator.com/item?id=49601706",
-    "source": "arxiv.org",
-    "date": "2026-09-07T18:57:17Z",
-    "timestamp": 1788807437,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Fleet: Every GPU Deserves a Rating",
-    "url": "https://webgpu-kernels-fleet.hf.space/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49600969",
-    "source": "webgpu-kernels-fleet.hf.space",
-    "date": "2026-09-07T17:50:33Z",
-    "timestamp": 1788803433,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Speculative Decoding in vLLM on AMD GPUs",
     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
     "discussion_url": "https://news.ycombinator.com/item?id=49596054",
     "source": "vllm.ai",
     "date": "2026-09-07T09:26:41Z",
     "timestamp": 1788773201,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+    "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564064",
+    "source": "blog.yosyshq.com",
+    "date": "2026-09-04T13:05:31Z",
+    "timestamp": 1788527131,
     "category": "Computer Architecture"
   }
 ]
