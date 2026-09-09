@@ -1,21 +1,129 @@
 [
   {
-    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
-    "url": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49620951",
-    "source": "reuters.com",
-    "date": "2026-09-09T04:22:34Z",
-    "timestamp": 1788927754,
+    "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+    "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624469",
+    "source": "quantamagazine.org",
+    "date": "2026-09-09T11:02:56Z",
+    "timestamp": 1788951776,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Self-host open-source LLMs on AWS with scale-to-zero",
-    "url": "https://github.com/paguasmar/veloxml-deploy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49620813",
-    "source": "github.com",
-    "date": "2026-09-09T04:07:26Z",
-    "timestamp": 1788926846,
+    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+    "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624255",
+    "source": "bbc.co.uk",
+    "date": "2026-09-09T10:37:16Z",
+    "timestamp": 1788950236,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Check/strip AI watermarks (C2PA) and hidden Unicode from files",
+    "url": "https://remove-ai-watermark.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624208",
+    "source": "remove-ai-watermark.com",
+    "date": "2026-09-09T10:31:02Z",
+    "timestamp": 1788949862,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How An AI math breakthrough ignited a controversy",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624163",
+    "source": "science.org",
+    "date": "2026-09-09T10:25:41Z",
+    "timestamp": 1788949541,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China's white-collar experts are training AI to pay the bills",
+    "url": "https://restofworld.org/2026/china-expert-ai-trainers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624104",
+    "source": "restofworld.org",
+    "date": "2026-09-09T10:18:08Z",
+    "timestamp": 1788949088,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We should anthropomorphize AI agents",
+    "url": "https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49624014",
+    "source": "seangoedecke.com",
+    "date": "2026-09-09T10:09:19Z",
+    "timestamp": 1788948559,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Use Contributes to Global Decline in Student Reading Skills, OECD Says",
+    "url": "https://www.wsj.com/articles/ai-use-contributes-to-global-decline-in-student-reading-skills-oecd-says-2bfd591a",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623912",
+    "source": "wsj.com",
+    "date": "2026-09-09T09:58:48Z",
+    "timestamp": 1788947928,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions",
+    "url": "https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623870",
+    "source": "red5.net",
+    "date": "2026-09-09T09:53:55Z",
+    "timestamp": 1788947635,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans'",
+    "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623847",
+    "source": "cnbc.com",
+    "date": "2026-09-09T09:51:21Z",
+    "timestamp": 1788947481,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Losing control of AI is the plan",
+    "url": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623699",
+    "source": "theargumentmag.com",
+    "date": "2026-09-09T09:31:18Z",
+    "timestamp": 1788946278,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic aligment lead warns about extinction by AI",
+    "url": "https://twitter.com/EvanHub/status/2097497037956891126",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623643",
+    "source": "twitter.com",
+    "date": "2026-09-09T09:22:45Z",
+    "timestamp": 1788945765,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "PHP is Dead (and AI is to blame)",
+    "url": "https://www.lifeofguenter.de/2026/09/php-is-dead-and-ai-is-to-blame",
+    "discussion_url": "https://news.ycombinator.com/item?id=49623567",
+    "source": "lifeofguenter.de",
+    "date": "2026-09-09T09:14:04Z",
+    "timestamp": 1788945244,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Tested a New Intel Wildcat Lake CPU",
+    "url": "https://www.pcmag.com/news/i-tested-a-new-intel-wildcat-lake-cpu-should-laptop-shoppers-on-a-budget",
+    "discussion_url": "https://news.ycombinator.com/item?id=49622765",
+    "source": "pcmag.com",
+    "date": "2026-09-09T07:42:59Z",
+    "timestamp": 1788939779,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Booley – open-source IDE for agentic chip design",
+    "url": "https://github.com/boldaxolotl/booley",
+    "discussion_url": "https://news.ycombinator.com/item?id=49622684",
+    "source": "github.com",
+    "date": "2026-09-09T07:34:11Z",
+    "timestamp": 1788939251,
+    "category": "Computer Architecture"
   },
   {
     "title": "Mysterious x86 CPU Has APX, X86S Where Intel Left Off for LegacyFree x86",
@@ -27,129 +135,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Making your data ready for agentic AI",
-    "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49620450",
-    "source": "martinfowler.com",
-    "date": "2026-09-09T03:17:51Z",
-    "timestamp": 1788923871,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Transformer-Like Models for Z1",
-    "url": "https://extropic.ai/writing/z1t/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49620424",
-    "source": "extropic.ai",
-    "date": "2026-09-09T03:15:20Z",
-    "timestamp": 1788923720,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
-    "discussion_url": "https://news.ycombinator.com/item?id=49620146",
-    "source": "theguardian.com",
-    "date": "2026-09-09T02:38:03Z",
-    "timestamp": 1788921483,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
-    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-    "discussion_url": "https://news.ycombinator.com/item?id=49619672",
-    "source": "wsj.com",
-    "date": "2026-09-09T01:36:17Z",
-    "timestamp": 1788917777,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Responsibility – OpenAI and Anthropic",
-    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-    "discussion_url": "https://news.ycombinator.com/item?id=49619639",
-    "source": "twitter.com",
-    "date": "2026-09-09T01:32:49Z",
-    "timestamp": 1788917569,
-    "category": "Machine Learning"
-  },
-  {
     "title": "27.5KB language-agnostic WebGPU syntax highlighter",
     "url": "https://gpu-lexer.vercel.app/",
     "discussion_url": "https://news.ycombinator.com/item?id=49619464",
     "source": "gpu-lexer.vercel.app",
     "date": "2026-09-09T01:14:50Z",
     "timestamp": 1788916490,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Growing Push to Ban Superintelligent AI",
-    "url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49619044",
-    "source": "time.com",
-    "date": "2026-09-09T00:18:45Z",
-    "timestamp": 1788913125,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bullshit arguments about AI (not) replacing jobs (2023)",
-    "url": "https://imadrahmoune.com/bullshit-ai-argument/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618977",
-    "source": "imadrahmoune.com",
-    "date": "2026-09-09T00:10:30Z",
-    "timestamp": 1788912630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
-    "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618943",
-    "source": "quantamagazine.org",
-    "date": "2026-09-09T00:07:07Z",
-    "timestamp": 1788912427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Benchmarking LLMs' Swarm Intelligence",
-    "url": "https://github.com/RUC-GSAI/YuLan-SwarmIntell",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618666",
-    "source": "github.com",
-    "date": "2026-09-08T23:33:54Z",
-    "timestamp": 1788910434,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618642",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-08T23:30:48Z",
-    "timestamp": 1788910248,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Linux desktop image editor with local AI",
-    "url": "https://github.com/cthackers/inpaint",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618626",
-    "source": "github.com",
-    "date": "2026-09-08T23:29:28Z",
-    "timestamp": 1788910168,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Auto-Rig Web – Zero-click 3D humanoid rigging in a Web Worker",
-    "url": "https://github.com/nff747/auto-rig-web",
-    "discussion_url": "https://news.ycombinator.com/item?id=49618234",
-    "source": "github.com",
-    "date": "2026-09-08T22:48:55Z",
-    "timestamp": 1788907735,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Getting Started with ECP5 FPGAs on the Colorlight I5 FPGA Development Board",
-    "url": "https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49608802",
-    "source": "tomverbeure.github.io",
-    "date": "2026-09-08T11:26:56Z",
-    "timestamp": 1788866816,
     "category": "Computer Architecture"
   },
   {
@@ -186,6 +177,15 @@
     "source": "blog.yosyshq.com",
     "date": "2026-09-04T13:05:31Z",
     "timestamp": 1788527131,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Interactive demo of MINIX1-like O/S on emulated CPU",
+    "url": "https://swtos.softwarewrighter.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555155",
+    "source": "swtos.softwarewrighter.com",
+    "date": "2026-09-03T19:12:28Z",
+    "timestamp": 1788462748,
     "category": "Computer Architecture"
   }
 ]
