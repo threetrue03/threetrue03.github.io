@@ -1,12 +1,120 @@
 [
   {
-    "title": "Sergey Brin is cooking up Google's AI destiny",
-    "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9",
-    "discussion_url": "https://news.ycombinator.com/item?id=49638083",
-    "source": "businessinsider.com",
-    "date": "2026-09-10T03:34:12Z",
-    "timestamp": 1789011252,
+    "title": "AI rent can save humanity",
+    "url": "https://nonlineartransform.substack.com/p/how-ai-rent-can-save-humanity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49641801",
+    "source": "nonlineartransform.substack.com",
+    "date": "2026-09-10T11:19:53Z",
+    "timestamp": 1789039193,
     "category": "Machine Learning"
+  },
+  {
+    "title": "How Would AI Kill Us All? What to Know About the AI Doomsday Debate",
+    "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49641680",
+    "source": "wsj.com",
+    "date": "2026-09-10T11:07:36Z",
+    "timestamp": 1789038456,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI isn't going to kill us",
+    "url": "https://thecritic.co.uk/the-1-5-billion-ai-doomsday-cult/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49641502",
+    "source": "thecritic.co.uk",
+    "date": "2026-09-10T10:47:27Z",
+    "timestamp": 1789037247,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+    "url": "https://www.uprouter.online/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49641128",
+    "source": "uprouter.online",
+    "date": "2026-09-10T10:00:54Z",
+    "timestamp": 1789034454,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Laid-Off Developers Create AI Model to Replace CEOs and Other Executives",
+    "url": "https://uk.pcmag.com/ai/167048/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives",
+    "discussion_url": "https://news.ycombinator.com/item?id=49640939",
+    "source": "uk.pcmag.com",
+    "date": "2026-09-10T09:35:42Z",
+    "timestamp": 1789032942,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Stroq – a firewall that knows why your AI agent ran that command",
+    "url": "https://github.com/AGGIB/Stroq",
+    "discussion_url": "https://news.ycombinator.com/item?id=49640660",
+    "source": "github.com",
+    "date": "2026-09-10T09:05:14Z",
+    "timestamp": 1789031114,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How do you kill time while LLMs work for you?",
+    "url": "https://news.ycombinator.com/item?id=49640293",
+    "discussion_url": "https://news.ycombinator.com/item?id=49640293",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-10T08:29:04Z",
+    "timestamp": 1789028944,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Was Offered Money to Tell You AI Will Kill Us [video]",
+    "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49640159",
+    "source": "youtube.com",
+    "date": "2026-09-10T08:14:07Z",
+    "timestamp": 1789028047,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Kelivo: A Flutter LLM Chat Client. Support Mobile and Desktop",
+    "url": "https://github.com/Chevey339/kelivo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639819",
+    "source": "github.com",
+    "date": "2026-09-10T07:37:08Z",
+    "timestamp": 1789025828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic Researcher Quits over 'Out-of-Control' AI Fears",
+    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639694",
+    "source": "wsj.com",
+    "date": "2026-09-10T07:25:20Z",
+    "timestamp": 1789025120,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+    "url": "https://botbin.io/?v=next",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639496",
+    "source": "botbin.io",
+    "date": "2026-09-10T07:00:22Z",
+    "timestamp": 1789023622,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tao: Reject the irresponsible and unsustainable usages of AI technology",
+    "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/comment-page-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639438",
+    "source": "terrytao.wordpress.com",
+    "date": "2026-09-10T06:53:50Z",
+    "timestamp": 1789023230,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "After outrunning Bolt, China's robot champion races towards real-world work",
+    "url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49638976",
+    "source": "reuters.com",
+    "date": "2026-09-10T05:56:33Z",
+    "timestamp": 1789019793,
+    "category": "Physical AI"
   },
   {
     "title": "CUDA Rust: Two Tracks for Writing GPU Kernels",
@@ -18,24 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Copying explains the collective behavior of AI agents in the wild",
-    "url": "https://arxiv.org/abs/2609.09150",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637884",
-    "source": "arxiv.org",
-    "date": "2026-09-10T03:07:07Z",
-    "timestamp": 1789009627,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Looped Transformers as Programmable Computers (2023)",
-    "url": "https://arxiv.org/abs/2301.13196",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637745",
-    "source": "arxiv.org",
-    "date": "2026-09-10T02:46:31Z",
-    "timestamp": 1789008391,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Open source FPGA: the next frontier is silicon",
     "url": "https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/",
     "discussion_url": "https://news.ycombinator.com/item?id=49637697",
@@ -43,105 +133,6 @@
     "date": "2026-09-10T02:39:06Z",
     "timestamp": 1789007946,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Kepler Compute- New memory startup for AI",
-    "url": "https://keplercompute.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637652",
-    "source": "keplercompute.com",
-    "date": "2026-09-10T02:32:48Z",
-    "timestamp": 1789007568,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-    "url": "https://arxiv.org/abs/2606.16576",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637469",
-    "source": "arxiv.org",
-    "date": "2026-09-10T02:09:17Z",
-    "timestamp": 1789006157,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637435",
-    "source": "hugovergnes.github.io",
-    "date": "2026-09-10T02:04:11Z",
-    "timestamp": 1789005851,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637395",
-    "source": "slimemoldtimemold.com",
-    "date": "2026-09-10T01:59:51Z",
-    "timestamp": 1789005591,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "RDC – Remote Desktop Control for AI Agents",
-    "url": "https://github.com/bscott/rdc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637339",
-    "source": "github.com",
-    "date": "2026-09-10T01:50:47Z",
-    "timestamp": 1789005047,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "California enacts AI safety evaluation laws backed by Anthropic and OpenAI",
-    "url": "https://politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637268",
-    "source": "politico.com",
-    "date": "2026-09-10T01:42:45Z",
-    "timestamp": 1789004565,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
-    "url": "https://bms.ulb.ac.be/data/uploads/untitled.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49636560",
-    "source": "bms.ulb.ac.be",
-    "date": "2026-09-10T00:26:41Z",
-    "timestamp": 1789000001,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
-    "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49636547",
-    "source": "reuters.com",
-    "date": "2026-09-10T00:25:32Z",
-    "timestamp": 1788999932,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
-    "url": "https://www.coinbase.com/blog/how-coinbase-design-systems-are-powering-the-ai-prototyping-era",
-    "discussion_url": "https://news.ycombinator.com/item?id=49636459",
-    "source": "coinbase.com",
-    "date": "2026-09-10T00:13:16Z",
-    "timestamp": 1788999196,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Data Access Patterns That Makes Your CPU Angry",
-    "url": "https://blog.weineng.me/posts/slowest_add",
-    "discussion_url": "https://news.ycombinator.com/item?id=49635067",
-    "source": "blog.weineng.me",
-    "date": "2026-09-09T22:00:44Z",
-    "timestamp": 1788991244,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-    "url": "https://arxiv.org/abs/2609.01596",
-    "discussion_url": "https://news.ycombinator.com/item?id=49633194",
-    "source": "arxiv.org",
-    "date": "2026-09-09T19:54:14Z",
-    "timestamp": 1788983654,
-    "category": "Physical AI"
   },
   {
     "title": "27.5KB language-agnostic WebGPU syntax highlighter",
@@ -153,12 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "discussion_url": "https://news.ycombinator.com/item?id=49605511",
-    "source": "newsroom.arm.com",
-    "date": "2026-09-08T04:06:20Z",
-    "timestamp": 1788840380,
+    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593896",
+    "source": "thelec.net",
+    "date": "2026-09-07T04:27:29Z",
+    "timestamp": 1788755249,
     "category": "Computer Architecture"
   }
 ]
