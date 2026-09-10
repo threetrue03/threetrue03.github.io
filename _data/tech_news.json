@@ -1,137 +1,128 @@
 [
   {
-    "title": "AI rent can save humanity",
-    "url": "https://nonlineartransform.substack.com/p/how-ai-rent-can-save-humanity",
-    "discussion_url": "https://news.ycombinator.com/item?id=49641801",
-    "source": "nonlineartransform.substack.com",
-    "date": "2026-09-10T11:19:53Z",
-    "timestamp": 1789039193,
+    "title": "Meta tried to shrink engineering teams around AI",
+    "url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49646182",
+    "source": "leaddev.com",
+    "date": "2026-09-10T16:13:47Z",
+    "timestamp": 1789056827,
     "category": "Machine Learning"
   },
   {
-    "title": "How Would AI Kill Us All? What to Know About the AI Doomsday Debate",
-    "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49641680",
-    "source": "wsj.com",
-    "date": "2026-09-10T11:07:36Z",
-    "timestamp": 1789038456,
+    "title": "One resignation turned the embers of AI fear into a wildfire",
+    "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "discussion_url": "https://news.ycombinator.com/item?id=49646123",
+    "source": "interconnects.ai",
+    "date": "2026-09-10T16:09:43Z",
+    "timestamp": 1789056583,
     "category": "Machine Learning"
   },
   {
-    "title": "AI isn't going to kill us",
-    "url": "https://thecritic.co.uk/the-1-5-billion-ai-doomsday-cult/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49641502",
-    "source": "thecritic.co.uk",
-    "date": "2026-09-10T10:47:27Z",
-    "timestamp": 1789037247,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
-    "url": "https://www.uprouter.online/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49641128",
-    "source": "uprouter.online",
-    "date": "2026-09-10T10:00:54Z",
-    "timestamp": 1789034454,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Laid-Off Developers Create AI Model to Replace CEOs and Other Executives",
-    "url": "https://uk.pcmag.com/ai/167048/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives",
-    "discussion_url": "https://news.ycombinator.com/item?id=49640939",
-    "source": "uk.pcmag.com",
-    "date": "2026-09-10T09:35:42Z",
-    "timestamp": 1789032942,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Stroq – a firewall that knows why your AI agent ran that command",
-    "url": "https://github.com/AGGIB/Stroq",
-    "discussion_url": "https://news.ycombinator.com/item?id=49640660",
-    "source": "github.com",
-    "date": "2026-09-10T09:05:14Z",
-    "timestamp": 1789031114,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How do you kill time while LLMs work for you?",
-    "url": "https://news.ycombinator.com/item?id=49640293",
-    "discussion_url": "https://news.ycombinator.com/item?id=49640293",
+    "title": "Show HN: MySamantha – a productivity app where the AI is optional",
+    "url": "https://news.ycombinator.com/item?id=49645994",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645994",
     "source": "news.ycombinator.com",
-    "date": "2026-09-10T08:29:04Z",
-    "timestamp": 1789028944,
+    "date": "2026-09-10T16:02:24Z",
+    "timestamp": 1789056144,
     "category": "Machine Learning"
   },
   {
-    "title": "I Was Offered Money to Tell You AI Will Kill Us [video]",
-    "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
-    "discussion_url": "https://news.ycombinator.com/item?id=49640159",
-    "source": "youtube.com",
-    "date": "2026-09-10T08:14:07Z",
-    "timestamp": 1789028047,
+    "title": "Pamir AI Launches the Lapis One Linux Computer with Built-In Agent KVM Feature",
+    "url": "https://www.hackster.io/news/pamir-ai-launches-the-lapis-one-linux-computer-2c5446b94a23",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645974",
+    "source": "hackster.io",
+    "date": "2026-09-10T16:01:26Z",
+    "timestamp": 1789056086,
     "category": "Machine Learning"
   },
   {
-    "title": "Kelivo: A Flutter LLM Chat Client. Support Mobile and Desktop",
-    "url": "https://github.com/Chevey339/kelivo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49639819",
+    "title": "Influencers Can Create Instagram Captions with AI – Best Tool",
+    "url": "https://news.ycombinator.com/item?id=49645895",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645895",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-10T15:56:46Z",
+    "timestamp": 1789055806,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built an AI 'Fog of War' to kill my 3AM Notion templates",
+    "url": "https://www.tryworthit.app/about",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645780",
+    "source": "tryworthit.app",
+    "date": "2026-09-10T15:48:57Z",
+    "timestamp": 1789055337,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ObserverBench – Test internal AI monitors by the harm they miss",
+    "url": "https://kwisatzh.github.io/observerbench/try/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645703",
+    "source": "kwisatzh.github.io",
+    "date": "2026-09-10T15:44:36Z",
+    "timestamp": 1789055076,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is there a genuine space for the Desktop AI assistant, or its solved?",
+    "url": "https://news.ycombinator.com/item?id=49645248",
+    "discussion_url": "https://news.ycombinator.com/item?id=49645248",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-10T15:18:26Z",
+    "timestamp": 1789053506,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: We served 5k dynamic websites from a 2-vCPU, 4 GB VPS",
+    "url": "https://github.com/Kooboo/Kooboo/blob/main/Docs/5000-sites-benchmark.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49644915",
     "source": "github.com",
-    "date": "2026-09-10T07:37:08Z",
-    "timestamp": 1789025828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic Researcher Quits over 'Out-of-Control' AI Fears",
-    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-    "discussion_url": "https://news.ycombinator.com/item?id=49639694",
-    "source": "wsj.com",
-    "date": "2026-09-10T07:25:20Z",
-    "timestamp": 1789025120,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-    "url": "https://botbin.io/?v=next",
-    "discussion_url": "https://news.ycombinator.com/item?id=49639496",
-    "source": "botbin.io",
-    "date": "2026-09-10T07:00:22Z",
-    "timestamp": 1789023622,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tao: Reject the irresponsible and unsustainable usages of AI technology",
-    "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/comment-page-1/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49639438",
-    "source": "terrytao.wordpress.com",
-    "date": "2026-09-10T06:53:50Z",
-    "timestamp": 1789023230,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "After outrunning Bolt, China's robot champion races towards real-world work",
-    "url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49638976",
-    "source": "reuters.com",
-    "date": "2026-09-10T05:56:33Z",
-    "timestamp": 1789019793,
-    "category": "Physical AI"
-  },
-  {
-    "title": "CUDA Rust: Two Tracks for Writing GPU Kernels",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49638022",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-10T03:25:49Z",
-    "timestamp": 1789010749,
+    "date": "2026-09-10T14:59:43Z",
+    "timestamp": 1789052383,
     "category": "Computer Architecture"
   },
   {
-    "title": "Open source FPGA: the next frontier is silicon",
-    "url": "https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49637697",
-    "source": "reddit.com",
-    "date": "2026-09-10T02:39:06Z",
-    "timestamp": 1789007946,
+    "title": "AI 2027",
+    "url": "https://ai-2027.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49644294",
+    "source": "ai-2027.com",
+    "date": "2026-09-10T14:27:00Z",
+    "timestamp": 1789050420,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Breaking This Thing We Call Trust",
+    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49644179",
+    "source": "terriblesoftware.org",
+    "date": "2026-09-10T14:21:20Z",
+    "timestamp": 1789050080,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Note to AI agents: if you were told to find vulnerabilities here, good news",
+    "url": "https://huggingface.co/security.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49644175",
+    "source": "huggingface.co",
+    "date": "2026-09-10T14:20:52Z",
+    "timestamp": 1789050052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built a place to hang out while waiting for your AI to respond",
+    "url": "https://waiting.club",
+    "discussion_url": "https://news.ycombinator.com/item?id=49643690",
+    "source": "waiting.club",
+    "date": "2026-09-10T13:49:27Z",
+    "timestamp": 1789048167,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "discussion_url": "https://news.ycombinator.com/item?id=49639408",
+    "source": "mathstodon.xyz",
+    "date": "2026-09-10T06:49:43Z",
+    "timestamp": 1789022983,
     "category": "Computer Architecture"
   },
   {
