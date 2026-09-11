@@ -1,75 +1,138 @@
 [
   {
-    "title": "UK government rejects 'kill switch' idea for dangerous AI",
-    "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49661026",
-    "source": "bbc.co.uk",
-    "date": "2026-09-11T16:22:41Z",
-    "timestamp": 1789143761,
+    "title": "AI children's books, body horror edition",
+    "url": "https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition",
+    "discussion_url": "https://news.ycombinator.com/item?id=49664634",
+    "source": "blog.coredump.cx",
+    "date": "2026-09-11T20:10:48Z",
+    "timestamp": 1789157448,
     "category": "Machine Learning"
   },
   {
-    "title": "The AI Takeover Checklist: A Devil's Advocate Audit",
-    "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660923",
-    "source": "nochan.net",
-    "date": "2026-09-11T16:16:05Z",
-    "timestamp": 1789143365,
+    "title": "The State of AI Antibody Design",
+    "url": "https://www.science.org/content/blog-post/state-ai-antibody-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49664579",
+    "source": "science.org",
+    "date": "2026-09-11T20:06:33Z",
+    "timestamp": 1789157193,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic claims Claude AI used for missile projects, global espionage",
-    "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660909",
-    "source": "aljazeera.com",
-    "date": "2026-09-11T16:15:01Z",
-    "timestamp": 1789143301,
+    "title": "Is open-weight AI banned yet?",
+    "url": "https://isopenweightaibannedyet.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49664570",
+    "source": "isopenweightaibannedyet.com",
+    "date": "2026-09-11T20:05:42Z",
+    "timestamp": 1789157142,
     "category": "Machine Learning"
   },
   {
-    "title": "AI made 16 new viruses",
-    "url": "https://www.morningbrew.com/stories/ai-made-16-brand-new-viruses",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660907",
-    "source": "morningbrew.com",
-    "date": "2026-09-11T16:14:55Z",
-    "timestamp": 1789143295,
+    "title": "Show HN: HungryGPU – Track local AI models, patches and recipes by hardware",
+    "url": "https://hungrygpu.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49664363",
+    "source": "hungrygpu.com",
+    "date": "2026-09-11T19:49:39Z",
+    "timestamp": 1789156179,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
+    "url": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49664145",
+    "source": "al-monitor.com",
+    "date": "2026-09-11T19:35:43Z",
+    "timestamp": 1789155343,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: AI and Math",
-    "url": "https://news.ycombinator.com/item?id=49660811",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660811",
+    "title": "Show HN: Hacker News, but only AI news",
+    "url": "https://allslop.news/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49663764",
+    "source": "allslop.news",
+    "date": "2026-09-11T19:12:33Z",
+    "timestamp": 1789153953,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Spanda: Sub-microsecond LLM epistemic uncertainty in Rust",
+    "url": "https://news.ycombinator.com/item?id=49663329",
+    "discussion_url": "https://news.ycombinator.com/item?id=49663329",
     "source": "news.ycombinator.com",
-    "date": "2026-09-11T16:10:29Z",
-    "timestamp": 1789143029,
+    "date": "2026-09-11T18:48:16Z",
+    "timestamp": 1789152496,
     "category": "Machine Learning"
   },
   {
-    "title": "Emerging Paradigm of Quantum Machine Learning: Knowledge Insights and Prospects",
-    "url": "https://www.computer.org/csdl/journal/ai/2026/08/11419129/2eyKIGfYowg",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660806",
-    "source": "computer.org",
-    "date": "2026-09-11T16:10:10Z",
-    "timestamp": 1789143010,
+    "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
+    "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+    "discussion_url": "https://news.ycombinator.com/item?id=49663191",
+    "source": "theguardian.com",
+    "date": "2026-09-11T18:38:26Z",
+    "timestamp": 1789151906,
     "category": "Machine Learning"
   },
   {
-    "title": "Token Bills, Exhausting Change, AI Thesis Crack, Automating Broken Systems",
-    "url": "https://age-of-product.com/food-agile-thought-561-token-bills/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660805",
-    "source": "age-of-product.com",
-    "date": "2026-09-11T16:10:09Z",
-    "timestamp": 1789143009,
+    "title": "Project NOPE: An observatory for human – AI relationships",
+    "url": "https://nope.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49663076",
+    "source": "nope.net",
+    "date": "2026-09-11T18:31:21Z",
+    "timestamp": 1789151481,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Hacker News, Without AI",
-    "url": "https://www.unslop.news/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660783",
-    "source": "unslop.news",
-    "date": "2026-09-11T16:08:50Z",
-    "timestamp": 1789142930,
+    "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662990",
+    "source": "dayzlegame.com",
+    "date": "2026-09-11T18:24:55Z",
+    "timestamp": 1789151095,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Ask HN: How are much smarter AI models made?",
+    "url": "https://news.ycombinator.com/item?id=49662978",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662978",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-11T18:24:20Z",
+    "timestamp": 1789151060,
     "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs Are Cheating [video]",
+    "url": "https://www.youtube.com/shorts/skV0hDd-chM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662916",
+    "source": "youtube.com",
+    "date": "2026-09-11T18:19:47Z",
+    "timestamp": 1789150787,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662767",
+    "source": "github.com",
+    "date": "2026-09-11T18:10:20Z",
+    "timestamp": 1789150220,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Limiting AI news would hide what is happening to software",
+    "url": "https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662714",
+    "source": "lord.technology",
+    "date": "2026-09-11T18:08:03Z",
+    "timestamp": 1789150083,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU-time: A small neural model for parsing date and time",
+    "url": "https://gpu-time.arikko.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662635",
+    "source": "gpu-time.arikko.dev",
+    "date": "2026-09-11T18:02:55Z",
+    "timestamp": 1789149775,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Streameriux – TV Player PoC Using Gpuix and Mediabunny",
@@ -81,57 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Meta says it's changing AI suggestions after posing invasive personal questions",
-    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660731",
-    "source": "theverge.com",
-    "date": "2026-09-11T16:06:03Z",
-    "timestamp": 1789142763,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030 [video]",
-    "url": "https://www.youtube.com/watch?v=i30jVPqQeOM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660663",
-    "source": "youtube.com",
-    "date": "2026-09-11T16:02:36Z",
-    "timestamp": 1789142556,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI pulls out of math hackathon after open letter criticizing AI math 'slop'",
-    "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660651",
-    "source": "businessinsider.com",
-    "date": "2026-09-11T16:02:11Z",
-    "timestamp": 1789142531,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta's AI agent Muse is now the No. 2 app in the US",
-    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660577",
-    "source": "techcrunch.com",
-    "date": "2026-09-11T15:58:10Z",
-    "timestamp": 1789142290,
-    "category": "Machine Learning"
-  },
-  {
     "title": "How to Build a $20B Semiconductor Fab (2024)",
     "url": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
     "discussion_url": "https://news.ycombinator.com/item?id=49657991",
     "source": "construction-physics.com",
     "date": "2026-09-11T13:22:01Z",
     "timestamp": 1789132921,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Qualcomm Talks Next-Gen Oryon CPU, Adreno GPU, and Hexagon NPU – ServeTheHome",
-    "url": "https://www.servethehome.com/qualcomm-details-next-gen-oryon-cpu-adreno-gpu-and-hexagon-npu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49657495",
-    "source": "servethehome.com",
-    "date": "2026-09-11T12:44:50Z",
-    "timestamp": 1789130690,
     "category": "Computer Architecture"
   },
   {
