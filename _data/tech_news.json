@@ -1,29 +1,119 @@
 [
   {
-    "title": "AI children's books, body horror edition",
-    "url": "https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition",
-    "discussion_url": "https://news.ycombinator.com/item?id=49664634",
-    "source": "blog.coredump.cx",
-    "date": "2026-09-11T20:10:48Z",
-    "timestamp": 1789157448,
+    "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+    "url": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
+    "discussion_url": "https://news.ycombinator.com/item?id=49668364",
+    "source": "groups.google.com",
+    "date": "2026-09-12T03:10:17Z",
+    "timestamp": 1789182617,
     "category": "Machine Learning"
   },
   {
-    "title": "The State of AI Antibody Design",
-    "url": "https://www.science.org/content/blog-post/state-ai-antibody-design",
-    "discussion_url": "https://news.ycombinator.com/item?id=49664579",
-    "source": "science.org",
-    "date": "2026-09-11T20:06:33Z",
-    "timestamp": 1789157193,
+    "title": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
+    "url": "https://news.ycombinator.com/item?id=49668216",
+    "discussion_url": "https://news.ycombinator.com/item?id=49668216",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-12T02:44:56Z",
+    "timestamp": 1789181096,
     "category": "Machine Learning"
   },
   {
-    "title": "Is open-weight AI banned yet?",
-    "url": "https://isopenweightaibannedyet.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49664570",
-    "source": "isopenweightaibannedyet.com",
-    "date": "2026-09-11T20:05:42Z",
-    "timestamp": 1789157142,
+    "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "discussion_url": "https://news.ycombinator.com/item?id=49668002",
+    "source": "yoshuabengio.org",
+    "date": "2026-09-12T02:13:50Z",
+    "timestamp": 1789179230,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt",
+    "url": "https://www.echohive.ai/grok-integrity-agreement-less-cheating",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667648",
+    "source": "echohive.ai",
+    "date": "2026-09-12T01:21:38Z",
+    "timestamp": 1789176098,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mathematicians Confront the AI Apocalypse",
+    "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667606",
+    "source": "scientificamerican.com",
+    "date": "2026-09-12T01:15:25Z",
+    "timestamp": 1789175725,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
+    "url": "https://github.com/XNet-NGO/aiope",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667587",
+    "source": "github.com",
+    "date": "2026-09-12T01:11:18Z",
+    "timestamp": 1789175478,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+    "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667253",
+    "source": "twitter.com",
+    "date": "2026-09-12T00:24:36Z",
+    "timestamp": 1789172676,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Learning Alzheimer signatures by bridging EEG with spiking neural networks",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925231226022885",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667237",
+    "source": "sciencedirect.com",
+    "date": "2026-09-12T00:22:40Z",
+    "timestamp": 1789172560,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The robotics revolution won't be humanoid",
+    "url": "https://techcrunch.com/video/the-robotics-revolution-wont-be-humanoid/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667084",
+    "source": "techcrunch.com",
+    "date": "2026-09-11T23:59:55Z",
+    "timestamp": 1789171195,
+    "category": "Physical AI"
+  },
+  {
+    "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
+    "url": "https://play.google.com/store/apps/details?id=com.council.the_council",
+    "discussion_url": "https://news.ycombinator.com/item?id=49667075",
+    "source": "play.google.com",
+    "date": "2026-09-11T23:59:17Z",
+    "timestamp": 1789171157,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+    "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49666960",
+    "source": "firecrawl.dev",
+    "date": "2026-09-11T23:43:53Z",
+    "timestamp": 1789170233,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Which LLMs are best suited for prose?",
+    "url": "https://news.ycombinator.com/item?id=49666450",
+    "discussion_url": "https://news.ycombinator.com/item?id=49666450",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-11T22:45:43Z",
+    "timestamp": 1789166743,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Houthis used Anthropic AI to build ballistic missiles",
+    "url": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880",
+    "discussion_url": "https://news.ycombinator.com/item?id=49666402",
+    "source": "ft.com",
+    "date": "2026-09-11T22:42:08Z",
+    "timestamp": 1789166528,
     "category": "Machine Learning"
   },
   {
@@ -36,52 +126,7 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
-    "url": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
-    "discussion_url": "https://news.ycombinator.com/item?id=49664145",
-    "source": "al-monitor.com",
-    "date": "2026-09-11T19:35:43Z",
-    "timestamp": 1789155343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Hacker News, but only AI news",
-    "url": "https://allslop.news/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49663764",
-    "source": "allslop.news",
-    "date": "2026-09-11T19:12:33Z",
-    "timestamp": 1789153953,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Spanda: Sub-microsecond LLM epistemic uncertainty in Rust",
-    "url": "https://news.ycombinator.com/item?id=49663329",
-    "discussion_url": "https://news.ycombinator.com/item?id=49663329",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-11T18:48:16Z",
-    "timestamp": 1789152496,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
-    "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-    "discussion_url": "https://news.ycombinator.com/item?id=49663191",
-    "source": "theguardian.com",
-    "date": "2026-09-11T18:38:26Z",
-    "timestamp": 1789151906,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Project NOPE: An observatory for human – AI relationships",
-    "url": "https://nope.net/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49663076",
-    "source": "nope.net",
-    "date": "2026-09-11T18:31:21Z",
-    "timestamp": 1789151481,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "discussion_url": "https://news.ycombinator.com/item?id=49662990",
     "source": "dayzlegame.com",
@@ -90,75 +135,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Ask HN: How are much smarter AI models made?",
-    "url": "https://news.ycombinator.com/item?id=49662978",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662978",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-11T18:24:20Z",
-    "timestamp": 1789151060,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs Are Cheating [video]",
-    "url": "https://www.youtube.com/shorts/skV0hDd-chM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662916",
-    "source": "youtube.com",
-    "date": "2026-09-11T18:19:47Z",
-    "timestamp": 1789150787,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Litelm: LiteLLM Without the Bloat",
-    "url": "https://github.com/kennethwolters/litelm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662767",
-    "source": "github.com",
-    "date": "2026-09-11T18:10:20Z",
-    "timestamp": 1789150220,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Limiting AI news would hide what is happening to software",
-    "url": "https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662714",
-    "source": "lord.technology",
-    "date": "2026-09-11T18:08:03Z",
-    "timestamp": 1789150083,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPU-time: A small neural model for parsing date and time",
-    "url": "https://gpu-time.arikko.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662635",
-    "source": "gpu-time.arikko.dev",
-    "date": "2026-09-11T18:02:55Z",
-    "timestamp": 1789149775,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Streameriux – TV Player PoC Using Gpuix and Mediabunny",
-    "url": "https://github.com/rubnogueira/streameriux",
-    "discussion_url": "https://news.ycombinator.com/item?id=49660740",
-    "source": "github.com",
-    "date": "2026-09-11T16:06:45Z",
-    "timestamp": 1789142805,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "How to Build a $20B Semiconductor Fab (2024)",
     "url": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
     "discussion_url": "https://news.ycombinator.com/item?id=49657991",
     "source": "construction-physics.com",
     "date": "2026-09-11T13:22:01Z",
     "timestamp": 1789132921,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49651372",
-    "source": "system76.com",
-    "date": "2026-09-10T23:10:06Z",
-    "timestamp": 1789081806,
     "category": "Computer Architecture"
   },
   {
@@ -186,15 +168,6 @@
     "source": "github.com",
     "date": "2026-09-07T21:57:15Z",
     "timestamp": 1788818235,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-    "discussion_url": "https://news.ycombinator.com/item?id=49593896",
-    "source": "thelec.net",
-    "date": "2026-09-07T04:27:29Z",
-    "timestamp": 1788755249,
     "category": "Computer Architecture"
   }
 ]
