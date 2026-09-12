@@ -1,11 +1,119 @@
 [
   {
-    "title": "Anthropic CEO calls for immediate slowdown in AI development",
-    "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49673344",
+    "title": "Show HN: AgentRuleBench, does AI agents violate inferred architecture rules?",
+    "url": "https://github.com/Tommkruix/agentrulebench",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676575",
+    "source": "github.com",
+    "date": "2026-09-12T19:57:08Z",
+    "timestamp": 1789243028,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+    "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676564",
     "source": "axios.com",
-    "date": "2026-09-12T15:30:17Z",
-    "timestamp": 1789227017,
+    "date": "2026-09-12T19:55:41Z",
+    "timestamp": 1789242941,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+    "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676506",
+    "source": "phoronix.com",
+    "date": "2026-09-12T19:49:12Z",
+    "timestamp": 1789242552,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Asking the most uncomfortable question in AI",
+    "url": "https://www.aiminority.dev/the-ai-danger-public-temperature-check",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676468",
+    "source": "aiminority.dev",
+    "date": "2026-09-12T19:46:42Z",
+    "timestamp": 1789242402,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO calls on AI companies to slow down development",
+    "url": "https://www.euronews.com/my-europe/2026/09/12/anthropic-ceo-dario-amodei-calls-on-ai-companies-to-slow-down-ai-development-amid-superint",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676369",
+    "source": "euronews.com",
+    "date": "2026-09-12T19:38:49Z",
+    "timestamp": 1789241929,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Catholic tech leaders urge ethical boundaries for AI",
+    "url": "https://www.ewtnnews.com/world/us/catholic-tech-leaders-urge-ethical-boundaries-for-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49676123",
+    "source": "ewtnnews.com",
+    "date": "2026-09-12T19:17:42Z",
+    "timestamp": 1789240662,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google allegedly stole open-source code for mobile AI tool",
+    "url": "https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675970",
+    "source": "neowin.net",
+    "date": "2026-09-12T19:05:11Z",
+    "timestamp": 1789239911,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Musk and Altman back Anthropic CEO on slowing AI down",
+    "url": "https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675740",
+    "source": "yahoo.com",
+    "date": "2026-09-12T18:45:34Z",
+    "timestamp": 1789238734,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "San Franciscans are having sex in robotaxis, and nobody is talking about it",
+    "url": "https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675622",
+    "source": "sfstandard.com",
+    "date": "2026-09-12T18:36:25Z",
+    "timestamp": 1789238185,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Dario Just Said Pump the Brakes on AI",
+    "url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675489",
+    "source": "captaincompliance.com",
+    "date": "2026-09-12T18:26:54Z",
+    "timestamp": 1789237614,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Bubble Crashing Its Way into AI Abundance?",
+    "url": "https://news.ycombinator.com/item?id=49675362",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675362",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-12T18:16:59Z",
+    "timestamp": 1789237019,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+    "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675270",
+    "source": "theguardian.com",
+    "date": "2026-09-12T18:08:33Z",
+    "timestamp": 1789236513,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49675247",
+    "source": "bloomberg.com",
+    "date": "2026-09-12T18:07:07Z",
+    "timestamp": 1789236427,
     "category": "Machine Learning"
   },
   {
@@ -27,168 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Nvidia is the central bank of AI",
-    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49673098",
-    "source": "economist.com",
-    "date": "2026-09-12T15:08:27Z",
-    "timestamp": 1789225707,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "BioNeMo Inference Runtime",
-    "url": "https://github.com/NVIDIA-BioNeMo/BioNeMo-Inference-Runtime",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672745",
-    "source": "github.com",
-    "date": "2026-09-12T14:36:43Z",
-    "timestamp": 1789223803,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Misalignment of AI in Mathematics: Kevin Buzzard Responds",
-    "url": "https://leanprover.zulipchat.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672572",
-    "source": "leanprover.zulipchat.com",
-    "date": "2026-09-12T14:19:30Z",
-    "timestamp": 1789222770,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EU tech chief backs global AI rules in wake of extinction warning",
-    "url": "https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672551",
-    "source": "politico.eu",
-    "date": "2026-09-12T14:16:33Z",
-    "timestamp": 1789222593,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alignment Research Engineer Accelerator ARENA course content",
-    "url": "https://learn.arena.education/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672452",
-    "source": "learn.arena.education",
-    "date": "2026-09-12T14:05:50Z",
-    "timestamp": 1789221950,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A Mathematical Framework for Transformer Circuits (2021)",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672365",
-    "source": "transformer-circuits.pub",
-    "date": "2026-09-12T13:56:58Z",
-    "timestamp": 1789221418,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs are real, AI is fake",
-    "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49672281",
-    "source": "pluralistic.net",
-    "date": "2026-09-12T13:47:28Z",
-    "timestamp": 1789220848,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "FPGA: Clocks, Timing, Metastability, and Clock Domain Crossing",
-    "url": "https://codingpirate.com/fpga-clocks-timing-metastability-and-clock-domain-crossing-50192478be77",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671954",
-    "source": "codingpirate.com",
-    "date": "2026-09-12T13:05:50Z",
-    "timestamp": 1789218350,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Intel Linux NPU Driver Only Now Officially Supports Ubuntu 26.04 LTS",
-    "url": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671716",
-    "source": "phoronix.com",
-    "date": "2026-09-12T12:34:38Z",
-    "timestamp": 1789216478,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "368 of the top 2,771 sites block at least one AI search crawler",
-    "url": "https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671635",
-    "source": "ai-visibility.lastminutedealshq.com",
-    "date": "2026-09-12T12:25:58Z",
-    "timestamp": 1789215958,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]",
-    "url": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671538",
-    "source": "youtube.com",
-    "date": "2026-09-12T12:14:22Z",
-    "timestamp": 1789215262,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI changing the calculus for Canadian students interested in comp sci",
-    "url": "https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671432",
-    "source": "theglobeandmail.com",
-    "date": "2026-09-12T11:59:43Z",
-    "timestamp": 1789214383,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TinyEMU is a system emulator for the RISC-V and x86 archs",
-    "url": "https://github.com/dearchap/tinyemu",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671423",
-    "source": "github.com",
-    "date": "2026-09-12T11:58:10Z",
-    "timestamp": 1789214290,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-    "url": "https://tattoopreviewai.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671355",
-    "source": "tattoopreviewai.com",
-    "date": "2026-09-12T11:46:14Z",
-    "timestamp": 1789213574,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
-    "url": "https://github.com/eremes81/game-design-ai-practice-en",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671342",
-    "source": "github.com",
-    "date": "2026-09-12T11:44:34Z",
-    "timestamp": 1789213474,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Altman tells staff OpenAI is open to slowing AI development",
-    "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49671274",
-    "source": "reuters.com",
-    "date": "2026-09-12T11:33:02Z",
-    "timestamp": 1789212782,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "BabaCAD Robotics Web – free browser-based industrial robot simulator",
-    "url": "https://www.babacad.com/robotics/web/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49670608",
-    "source": "babacad.com",
-    "date": "2026-09-12T09:29:05Z",
-    "timestamp": 1789205345,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Isaac Asimov's \"Profession\"",
-    "url": "https://en.wikipedia.org/wiki/Profession_(novella)",
-    "discussion_url": "https://news.ycombinator.com/item?id=49670170",
-    "source": "en.wikipedia.org",
-    "date": "2026-09-12T08:15:03Z",
-    "timestamp": 1789200903,
-    "category": "Physical AI"
-  },
-  {
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "discussion_url": "https://news.ycombinator.com/item?id=49662990",
@@ -198,21 +144,21 @@
     "category": "Physical AI"
   },
   {
-    "title": "How to Build a $20B Semiconductor Fab (2024)",
-    "url": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
-    "discussion_url": "https://news.ycombinator.com/item?id=49657991",
-    "source": "construction-physics.com",
-    "date": "2026-09-11T13:22:01Z",
-    "timestamp": 1789132921,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
     "discussion_url": "https://news.ycombinator.com/item?id=49639408",
     "source": "mathstodon.xyz",
     "date": "2026-09-10T06:49:43Z",
     "timestamp": 1789022983,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "RISC-V Emulator and Linux System from Scratch",
+    "url": "https://github.com/WerWolv/riscv-emulator",
+    "discussion_url": "https://news.ycombinator.com/item?id=49603397",
+    "source": "github.com",
+    "date": "2026-09-07T21:57:15Z",
+    "timestamp": 1788818235,
     "category": "Computer Architecture"
   }
 ]
