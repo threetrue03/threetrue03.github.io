@@ -1,110 +1,119 @@
 [
   {
-    "title": "AI is breaking our proxies for expertise",
-    "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49680114",
-    "source": "seangoedecke.com",
-    "date": "2026-09-13T04:46:58Z",
-    "timestamp": 1789274818,
+    "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+    "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+    "discussion_url": "https://news.ycombinator.com/item?id=49682858",
+    "source": "theregister.com",
+    "date": "2026-09-13T11:37:51Z",
+    "timestamp": 1789299471,
     "category": "Machine Learning"
   },
   {
-    "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
-    "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49680084",
-    "source": "youtube.com",
-    "date": "2026-09-13T04:41:13Z",
-    "timestamp": 1789274473,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "JPMorgan cut off Situational Awareness lending after AI losses",
-    "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679971",
-    "source": "ft.com",
-    "date": "2026-09-13T04:14:35Z",
-    "timestamp": 1789272875,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-    "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679685",
-    "source": "venturebeat.com",
-    "date": "2026-09-13T03:25:32Z",
-    "timestamp": 1789269932,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Backflip: Apple now wants to train AI models with user data after all",
-    "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679599",
-    "source": "heise.de",
-    "date": "2026-09-13T03:09:01Z",
-    "timestamp": 1789268941,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "U.S. agencies say top Chinese AI companies systematically copied American models",
-    "url": "https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679528",
-    "source": "nbcnews.com",
-    "date": "2026-09-13T02:57:19Z",
-    "timestamp": 1789268239,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Biggest AI Rivals Agree They Need to Slow It Down",
-    "url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679515",
-    "source": "wsj.com",
-    "date": "2026-09-13T02:55:33Z",
-    "timestamp": 1789268133,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
-    "url": "https://www.echohive.ai/a-short-agreement-zero-observed-cheating",
-    "discussion_url": "https://news.ycombinator.com/item?id=49679396",
-    "source": "echohive.ai",
-    "date": "2026-09-13T02:34:33Z",
-    "timestamp": 1789266873,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nova Seed. Create an AI friend and build something together",
-    "url": "https://github.com/mas-bandwidth/nova",
-    "discussion_url": "https://news.ycombinator.com/item?id=49678975",
+    "title": "MeshDrive and Local AI Agent for FS",
+    "url": "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49682723",
     "source": "github.com",
-    "date": "2026-09-13T01:23:03Z",
-    "timestamp": 1789262583,
+    "date": "2026-09-13T11:23:01Z",
+    "timestamp": 1789298581,
     "category": "Machine Learning"
   },
   {
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "discussion_url": "https://news.ycombinator.com/item?id=49678969",
-    "source": "yoshuabengio.org",
-    "date": "2026-09-13T01:22:31Z",
-    "timestamp": 1789262551,
+    "title": "GCC AI Policy Announcement",
+    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49682465",
+    "source": "gcc.gnu.org",
+    "date": "2026-09-13T10:50:51Z",
+    "timestamp": 1789296651,
     "category": "Machine Learning"
   },
   {
-    "title": "Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'",
-    "url": "https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid",
-    "discussion_url": "https://news.ycombinator.com/item?id=49678950",
-    "source": "cnn.com",
-    "date": "2026-09-13T01:17:55Z",
-    "timestamp": 1789262275,
+    "title": "Give to AI Formulas from Charts",
+    "url": "https://github.com/BorisYamp/plotparse",
+    "discussion_url": "https://news.ycombinator.com/item?id=49682034",
+    "source": "github.com",
+    "date": "2026-09-13T09:52:22Z",
+    "timestamp": 1789293142,
     "category": "Machine Learning"
   },
   {
-    "title": "Apple wants to train AI on your private personal data",
-    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49678878",
-    "source": "machinelearning.apple.com",
-    "date": "2026-09-13T01:06:29Z",
-    "timestamp": 1789261589,
+    "title": "Lawyer used fake AI cases to defend himself at tribunal and it didn't end well",
+    "url": "https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681776",
+    "source": "legalcheek.com",
+    "date": "2026-09-13T09:15:12Z",
+    "timestamp": 1789290912,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How supermarkets are using AI to watch you in the aisles",
+    "url": "https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681606",
+    "source": "rte.ie",
+    "date": "2026-09-13T08:49:55Z",
+    "timestamp": 1789289395,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robots protest in Poland over AI regulation concerns",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681513",
+    "source": "aljazeera.com",
+    "date": "2026-09-13T08:37:54Z",
+    "timestamp": 1789288674,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681276",
+    "source": "bbc.co.uk",
+    "date": "2026-09-13T08:07:36Z",
+    "timestamp": 1789286856,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Keep calm and regulate on: Inside the EU's response to AI extinction warnings",
+    "url": "https://www.politico.eu/article/eu-response-ai-extinction-warnings/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681164",
+    "source": "politico.eu",
+    "date": "2026-09-13T07:50:57Z",
+    "timestamp": 1789285857,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How are you using a Desktop or Browser AI agent daily?",
+    "url": "https://news.ycombinator.com/item?id=49681100",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681100",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-13T07:40:59Z",
+    "timestamp": 1789285259,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI staff 'genuinely frightened' for humanity's future",
+    "url": "https://www.bbc.com/news/articles/c1kx0gyje9wo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681060",
+    "source": "bbc.com",
+    "date": "2026-09-13T07:33:37Z",
+    "timestamp": 1789284817,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+    "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+    "discussion_url": "https://news.ycombinator.com/item?id=49681012",
+    "source": "theguardian.com",
+    "date": "2026-09-13T07:25:52Z",
+    "timestamp": 1789284352,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The News Tonight Is AI Danger",
+    "url": "https://cmart.blog/the-news-tonight-is-ai-danger/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49680930",
+    "source": "cmart.blog",
+    "date": "2026-09-13T07:13:39Z",
+    "timestamp": 1789283619,
     "category": "Machine Learning"
   },
   {
@@ -115,15 +124,6 @@
     "date": "2026-09-12T21:44:28Z",
     "timestamp": 1789249468,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "San Franciscans are having sex in robotaxis, and nobody is talking about it",
-    "url": "https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675622",
-    "source": "sfstandard.com",
-    "date": "2026-09-12T18:36:25Z",
-    "timestamp": 1789238185,
-    "category": "Physical AI"
   },
   {
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
