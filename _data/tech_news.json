@@ -1,57 +1,138 @@
 [
   {
+    "title": "Ask HN: What if the step to control AI is to control the internet?",
+    "url": "https://news.ycombinator.com/item?id=49685404",
+    "discussion_url": "https://news.ycombinator.com/item?id=49685404",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-13T15:57:02Z",
+    "timestamp": 1789315022,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49685253",
+    "source": "techcrunch.com",
+    "date": "2026-09-13T15:44:38Z",
+    "timestamp": 1789314278,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hollywood fears an AI future. China is living it",
+    "url": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
+    "discussion_url": "https://news.ycombinator.com/item?id=49685219",
+    "source": "latimes.com",
+    "date": "2026-09-13T15:41:45Z",
+    "timestamp": 1789314105,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49685132",
+    "source": "techcrunch.com",
+    "date": "2026-09-13T15:32:34Z",
+    "timestamp": 1789313554,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What do AI improvements at these labs look like?",
+    "url": "https://news.ycombinator.com/item?id=49684921",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684921",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-13T15:14:06Z",
+    "timestamp": 1789312446,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built my own knowledge graph from the code AI writes",
+    "url": "https://github.com/aeroscissorz/learnlance/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684835",
+    "source": "github.com",
+    "date": "2026-09-13T15:07:42Z",
+    "timestamp": 1789312062,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Why haven't people vibe coded popular 80s word processors as TUI apps?",
+    "url": "https://news.ycombinator.com/item?id=49684729",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684729",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-13T14:59:16Z",
+    "timestamp": 1789311556,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Big AI to Humanity: Drop Dead",
+    "url": "https://matthewbutterick.com/chron/drop-dead.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684695",
+    "source": "matthewbutterick.com",
+    "date": "2026-09-13T14:56:18Z",
+    "timestamp": 1789311378,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CUDA for AMD on Windows",
+    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684356",
+    "source": "github.com",
+    "date": "2026-09-13T14:25:13Z",
+    "timestamp": 1789309513,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Local AI app that vibecodes websites, generates images and videos and musics",
+    "url": "https://www.llm-hub.app",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684243",
+    "source": "llm-hub.app",
+    "date": "2026-09-13T14:13:45Z",
+    "timestamp": 1789308825,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-    "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
-    "discussion_url": "https://news.ycombinator.com/item?id=49682858",
+    "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684180",
     "source": "theregister.com",
-    "date": "2026-09-13T11:37:51Z",
-    "timestamp": 1789299471,
+    "date": "2026-09-13T14:08:51Z",
+    "timestamp": 1789308531,
     "category": "Machine Learning"
   },
   {
-    "title": "MeshDrive and Local AI Agent for FS",
-    "url": "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49682723",
-    "source": "github.com",
-    "date": "2026-09-13T11:23:01Z",
-    "timestamp": 1789298581,
+    "title": "LLMs are real, AI is fake",
+    "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684086",
+    "source": "pluralistic.net",
+    "date": "2026-09-13T13:59:36Z",
+    "timestamp": 1789307976,
     "category": "Machine Learning"
   },
   {
-    "title": "GCC AI Policy Announcement",
-    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49682465",
-    "source": "gcc.gnu.org",
-    "date": "2026-09-13T10:50:51Z",
-    "timestamp": 1789296651,
+    "title": "AI Writing Is Fine",
+    "url": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49684082",
+    "source": "matthewphillips.info",
+    "date": "2026-09-13T13:59:12Z",
+    "timestamp": 1789307952,
     "category": "Machine Learning"
   },
   {
-    "title": "Give to AI Formulas from Charts",
-    "url": "https://github.com/BorisYamp/plotparse",
-    "discussion_url": "https://news.ycombinator.com/item?id=49682034",
-    "source": "github.com",
-    "date": "2026-09-13T09:52:22Z",
-    "timestamp": 1789293142,
+    "title": "AI models don't kill people – people kill people",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "discussion_url": "https://news.ycombinator.com/item?id=49683834",
+    "source": "theregister.com",
+    "date": "2026-09-13T13:33:34Z",
+    "timestamp": 1789306414,
     "category": "Machine Learning"
   },
   {
-    "title": "Lawyer used fake AI cases to defend himself at tribunal and it didn't end well",
-    "url": "https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681776",
-    "source": "legalcheek.com",
-    "date": "2026-09-13T09:15:12Z",
-    "timestamp": 1789290912,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How supermarkets are using AI to watch you in the aisles",
-    "url": "https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681606",
-    "source": "rte.ie",
-    "date": "2026-09-13T08:49:55Z",
-    "timestamp": 1789289395,
-    "category": "Machine Learning"
+    "title": "Gemma 4 26B on a 24 GB Mac Mini M4: from 66% CPU to 100% GPU",
+    "url": "https://mac-mini-m4-doc.masterfabric.co/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49683450",
+    "source": "mac-mini-m4-doc.masterfabric.co",
+    "date": "2026-09-13T12:53:53Z",
+    "timestamp": 1789304033,
+    "category": "Computer Architecture"
   },
   {
     "title": "Robots protest in Poland over AI regulation concerns",
@@ -61,60 +142,6 @@
     "date": "2026-09-13T08:37:54Z",
     "timestamp": 1789288674,
     "category": "Physical AI"
-  },
-  {
-    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681276",
-    "source": "bbc.co.uk",
-    "date": "2026-09-13T08:07:36Z",
-    "timestamp": 1789286856,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Keep calm and regulate on: Inside the EU's response to AI extinction warnings",
-    "url": "https://www.politico.eu/article/eu-response-ai-extinction-warnings/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681164",
-    "source": "politico.eu",
-    "date": "2026-09-13T07:50:57Z",
-    "timestamp": 1789285857,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How are you using a Desktop or Browser AI agent daily?",
-    "url": "https://news.ycombinator.com/item?id=49681100",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681100",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-13T07:40:59Z",
-    "timestamp": 1789285259,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI staff 'genuinely frightened' for humanity's future",
-    "url": "https://www.bbc.com/news/articles/c1kx0gyje9wo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681060",
-    "source": "bbc.com",
-    "date": "2026-09-13T07:33:37Z",
-    "timestamp": 1789284817,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
-    "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-    "discussion_url": "https://news.ycombinator.com/item?id=49681012",
-    "source": "theguardian.com",
-    "date": "2026-09-13T07:25:52Z",
-    "timestamp": 1789284352,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The News Tonight Is AI Danger",
-    "url": "https://cmart.blog/the-news-tonight-is-ai-danger/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49680930",
-    "source": "cmart.blog",
-    "date": "2026-09-13T07:13:39Z",
-    "timestamp": 1789283619,
-    "category": "Machine Learning"
   },
   {
     "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
