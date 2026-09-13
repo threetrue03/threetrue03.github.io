@@ -1,75 +1,120 @@
 [
   {
-    "title": "Show HN: AgentRuleBench, does AI agents violate inferred architecture rules?",
-    "url": "https://github.com/Tommkruix/agentrulebench",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676575",
+    "title": "AI is breaking our proxies for expertise",
+    "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49680114",
+    "source": "seangoedecke.com",
+    "date": "2026-09-13T04:46:58Z",
+    "timestamp": 1789274818,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
+    "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49680084",
+    "source": "youtube.com",
+    "date": "2026-09-13T04:41:13Z",
+    "timestamp": 1789274473,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+    "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679971",
+    "source": "ft.com",
+    "date": "2026-09-13T04:14:35Z",
+    "timestamp": 1789272875,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+    "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679685",
+    "source": "venturebeat.com",
+    "date": "2026-09-13T03:25:32Z",
+    "timestamp": 1789269932,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Backflip: Apple now wants to train AI models with user data after all",
+    "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679599",
+    "source": "heise.de",
+    "date": "2026-09-13T03:09:01Z",
+    "timestamp": 1789268941,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "U.S. agencies say top Chinese AI companies systematically copied American models",
+    "url": "https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679528",
+    "source": "nbcnews.com",
+    "date": "2026-09-13T02:57:19Z",
+    "timestamp": 1789268239,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Biggest AI Rivals Agree They Need to Slow It Down",
+    "url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679515",
+    "source": "wsj.com",
+    "date": "2026-09-13T02:55:33Z",
+    "timestamp": 1789268133,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
+    "url": "https://www.echohive.ai/a-short-agreement-zero-observed-cheating",
+    "discussion_url": "https://news.ycombinator.com/item?id=49679396",
+    "source": "echohive.ai",
+    "date": "2026-09-13T02:34:33Z",
+    "timestamp": 1789266873,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nova Seed. Create an AI friend and build something together",
+    "url": "https://github.com/mas-bandwidth/nova",
+    "discussion_url": "https://news.ycombinator.com/item?id=49678975",
     "source": "github.com",
-    "date": "2026-09-12T19:57:08Z",
-    "timestamp": 1789243028,
+    "date": "2026-09-13T01:23:03Z",
+    "timestamp": 1789262583,
     "category": "Machine Learning"
   },
   {
-    "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
-    "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676564",
-    "source": "axios.com",
-    "date": "2026-09-12T19:55:41Z",
-    "timestamp": 1789242941,
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "discussion_url": "https://news.ycombinator.com/item?id=49678969",
+    "source": "yoshuabengio.org",
+    "date": "2026-09-13T01:22:31Z",
+    "timestamp": 1789262551,
     "category": "Machine Learning"
   },
   {
-    "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
-    "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676506",
-    "source": "phoronix.com",
-    "date": "2026-09-12T19:49:12Z",
-    "timestamp": 1789242552,
+    "title": "Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'",
+    "url": "https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid",
+    "discussion_url": "https://news.ycombinator.com/item?id=49678950",
+    "source": "cnn.com",
+    "date": "2026-09-13T01:17:55Z",
+    "timestamp": 1789262275,
     "category": "Machine Learning"
   },
   {
-    "title": "Asking the most uncomfortable question in AI",
-    "url": "https://www.aiminority.dev/the-ai-danger-public-temperature-check",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676468",
-    "source": "aiminority.dev",
-    "date": "2026-09-12T19:46:42Z",
-    "timestamp": 1789242402,
+    "title": "Apple wants to train AI on your private personal data",
+    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49678878",
+    "source": "machinelearning.apple.com",
+    "date": "2026-09-13T01:06:29Z",
+    "timestamp": 1789261589,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic CEO calls on AI companies to slow down development",
-    "url": "https://www.euronews.com/my-europe/2026/09/12/anthropic-ceo-dario-amodei-calls-on-ai-companies-to-slow-down-ai-development-amid-superint",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676369",
-    "source": "euronews.com",
-    "date": "2026-09-12T19:38:49Z",
-    "timestamp": 1789241929,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Catholic tech leaders urge ethical boundaries for AI",
-    "url": "https://www.ewtnnews.com/world/us/catholic-tech-leaders-urge-ethical-boundaries-for-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49676123",
-    "source": "ewtnnews.com",
-    "date": "2026-09-12T19:17:42Z",
-    "timestamp": 1789240662,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google allegedly stole open-source code for mobile AI tool",
-    "url": "https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675970",
-    "source": "neowin.net",
-    "date": "2026-09-12T19:05:11Z",
-    "timestamp": 1789239911,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Musk and Altman back Anthropic CEO on slowing AI down",
-    "url": "https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675740",
-    "source": "yahoo.com",
-    "date": "2026-09-12T18:45:34Z",
-    "timestamp": 1789238734,
-    "category": "Machine Learning"
+    "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+    "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
+    "discussion_url": "https://news.ycombinator.com/item?id=49677519",
+    "source": "siliconcodesign.com",
+    "date": "2026-09-12T21:44:28Z",
+    "timestamp": 1789249468,
+    "category": "Computer Architecture"
   },
   {
     "title": "San Franciscans are having sex in robotaxis, and nobody is talking about it",
@@ -81,60 +126,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Dario Just Said Pump the Brakes on AI",
-    "url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675489",
-    "source": "captaincompliance.com",
-    "date": "2026-09-12T18:26:54Z",
-    "timestamp": 1789237614,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Bubble Crashing Its Way into AI Abundance?",
-    "url": "https://news.ycombinator.com/item?id=49675362",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675362",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-12T18:16:59Z",
-    "timestamp": 1789237019,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
-    "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675270",
-    "source": "theguardian.com",
-    "date": "2026-09-12T18:08:33Z",
-    "timestamp": 1789236513,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49675247",
-    "source": "bloomberg.com",
-    "date": "2026-09-12T18:07:07Z",
-    "timestamp": 1789236427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I spent $4,000 on a robot dog from China",
-    "url": "https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
-    "discussion_url": "https://news.ycombinator.com/item?id=49673310",
-    "source": "understandingai.org",
-    "date": "2026-09-12T15:27:25Z",
-    "timestamp": 1789226845,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Apple GPU Microarchitecture (2022)",
-    "url": "https://github.com/philipturner/metal-benchmarks",
-    "discussion_url": "https://news.ycombinator.com/item?id=49673121",
-    "source": "github.com",
-    "date": "2026-09-12T15:10:51Z",
-    "timestamp": 1789225851,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "discussion_url": "https://news.ycombinator.com/item?id=49662990",
@@ -142,23 +133,5 @@
     "date": "2026-09-11T18:24:55Z",
     "timestamp": 1789151095,
     "category": "Physical AI"
-  },
-  {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "discussion_url": "https://news.ycombinator.com/item?id=49639408",
-    "source": "mathstodon.xyz",
-    "date": "2026-09-10T06:49:43Z",
-    "timestamp": 1789022983,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RISC-V Emulator and Linux System from Scratch",
-    "url": "https://github.com/WerWolv/riscv-emulator",
-    "discussion_url": "https://news.ycombinator.com/item?id=49603397",
-    "source": "github.com",
-    "date": "2026-09-07T21:57:15Z",
-    "timestamp": 1788818235,
-    "category": "Computer Architecture"
   }
 ]
