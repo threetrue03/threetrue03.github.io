@@ -1,201 +1,138 @@
 [
   {
-    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695876",
-    "source": "tenderlovemaking.com",
-    "date": "2026-09-14T12:40:57Z",
-    "timestamp": 1789389657,
+    "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+    "discussion_url": "https://news.ycombinator.com/item?id=49704249",
+    "source": "docs.google.com",
+    "date": "2026-09-14T21:23:04Z",
+    "timestamp": 1789420984,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Vigilator – human-in-the-loop layer for AI agents",
-    "url": "https://vigilator.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695678",
-    "source": "vigilator.ai",
-    "date": "2026-09-14T12:24:37Z",
-    "timestamp": 1789388677,
+    "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+    "url": "https://arxiv.org/abs/2609.12551",
+    "discussion_url": "https://news.ycombinator.com/item?id=49704018",
+    "source": "arxiv.org",
+    "date": "2026-09-14T21:06:23Z",
+    "timestamp": 1789419983,
     "category": "Machine Learning"
   },
   {
-    "title": "China Pushes Back Against AI Slowdown Talks, Alleging \"Fearmongering\"",
-    "url": "https://www.forbes.com/sites/siladityaray/2026/09/14/china-pushes-back-against-ai-slowdown-talks-alleging-fearmongering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695575",
-    "source": "forbes.com",
-    "date": "2026-09-14T12:15:16Z",
-    "timestamp": 1789388116,
+    "title": "We grew AI usage 52x, then cut our costs 90%",
+    "url": "https://www.prosus.com/news-insights/2026/we-grew-ai-usage-52x-then-cut-our-costs-90-percent-heres-how",
+    "discussion_url": "https://news.ycombinator.com/item?id=49703948",
+    "source": "prosus.com",
+    "date": "2026-09-14T21:00:51Z",
+    "timestamp": 1789419651,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Bare-Metal AI – Zero-dependency, sub-millisecond AI engines",
-    "url": "https://github.com/eminsk/awesome-baremetal-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695460",
+    "title": "The current debate about AI replacing Mathematicians (take 2)",
+    "url": "https://www.wisdom.weizmann.ac.il/~oded/on-proofs-t2.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49703936",
+    "source": "wisdom.weizmann.ac.il",
+    "date": "2026-09-14T21:00:22Z",
+    "timestamp": 1789419622,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tiny League – compare small LLMs easily",
+    "url": "https://tinyleague.nunodonato.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49703788",
+    "source": "tinyleague.nunodonato.com",
+    "date": "2026-09-14T20:48:58Z",
+    "timestamp": 1789418938,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
+    "url": "https://news.ycombinator.com/item?id=49703186",
+    "discussion_url": "https://news.ycombinator.com/item?id=49703186",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-14T20:08:25Z",
+    "timestamp": 1789416505,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta bet that AI would shrink its management ranks and is now rebuilding them",
+    "url": "https://fortune.com/2026/09/12/meta-year-of-efficiency-managers-ai-investment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49703095",
+    "source": "fortune.com",
+    "date": "2026-09-14T20:01:57Z",
+    "timestamp": 1789416117,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making a vintage LLM from scratch; Take #2",
+    "url": "https://crlf.link/log/entries/260911-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702949",
+    "source": "crlf.link",
+    "date": "2026-09-14T19:52:34Z",
+    "timestamp": 1789415554,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic AI cringe wars [video]",
+    "url": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702885",
+    "source": "youtube.com",
+    "date": "2026-09-14T19:49:03Z",
+    "timestamp": 1789415343,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Roadmap of Mathematics for Machine Learning",
+    "url": "https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702744",
+    "source": "thepalindrome.org",
+    "date": "2026-09-14T19:39:32Z",
+    "timestamp": 1789414772,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Arm64e.x1: Apple's Checked Pointer Arithmetic Slice",
+    "url": "https://blakecrosley.com/blog/arm64e-x1-checked-pointer-arithmetic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702705",
+    "source": "blakecrosley.com",
+    "date": "2026-09-14T19:37:14Z",
+    "timestamp": 1789414634,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Safety Conspiracy Theories",
+    "url": "https://chaseadam.com/ai-safety-conspiracy-theories",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702391",
+    "source": "chaseadam.com",
+    "date": "2026-09-14T19:15:19Z",
+    "timestamp": 1789413319,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ZKSM83,a ZK proof system for GameBoy CPU execution",
+    "url": "https://github.com/RyanKung/zksm83",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702386",
     "source": "github.com",
-    "date": "2026-09-14T12:05:52Z",
-    "timestamp": 1789387552,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695409",
-    "source": "macrumors.com",
-    "date": "2026-09-14T12:01:32Z",
-    "timestamp": 1789387292,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tech stocks fall after calls for AI development to slow down",
-    "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695336",
-    "source": "bbc.com",
-    "date": "2026-09-14T11:56:21Z",
-    "timestamp": 1789386981,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-    "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695117",
-    "source": "cnbc.com",
-    "date": "2026-09-14T11:33:30Z",
-    "timestamp": 1789385610,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
-    "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695065",
-    "source": "servethehome.com",
-    "date": "2026-09-14T11:27:54Z",
-    "timestamp": 1789385274,
+    "date": "2026-09-14T19:15:08Z",
+    "timestamp": 1789413308,
     "category": "Computer Architecture"
   },
   {
-    "title": "Can I Release This? – Check AI music release rules",
-    "url": "https://aimusic.events/can-i-release-this",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695058",
-    "source": "aimusic.events",
-    "date": "2026-09-14T11:26:54Z",
-    "timestamp": 1789385214,
+    "title": "Categorizing AI inference: Initialization, Reasoning, Orchestration, Synthesis",
+    "url": "https://jeffauriemma.leaflet.pub/3mv6jnffo6k24",
+    "discussion_url": "https://news.ycombinator.com/item?id=49702143",
+    "source": "jeffauriemma.leaflet.pub",
+    "date": "2026-09-14T18:59:21Z",
+    "timestamp": 1789412361,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
-    "url": "https://stemjson.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695057",
-    "source": "stemjson.com",
-    "date": "2026-09-14T11:26:45Z",
-    "timestamp": 1789385205,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Coming Robotaxi Revolution",
-    "url": "https://www.ft.com/content/2404d7db-002e-42d6-a746-183bb23c1234",
-    "discussion_url": "https://news.ycombinator.com/item?id=49695055",
-    "source": "ft.com",
-    "date": "2026-09-14T11:26:45Z",
-    "timestamp": 1789385205,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI Risk: The Approval Nobody Signed Off",
-    "url": "https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49694997",
-    "source": "sdarchitect.blog",
-    "date": "2026-09-14T11:17:27Z",
-    "timestamp": 1789384647,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'Who's on First' for AI Risk?",
-    "url": "https://sdarchitect.blog/2026/09/13/ai-risk-a-users-guide-part-ii-whos-on-first-for-ai-risk/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49694992",
-    "source": "sdarchitect.blog",
-    "date": "2026-09-14T11:16:45Z",
-    "timestamp": 1789384605,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CUDA Rust: Two Tracks for Writing GPU Kernels",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49694982",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-14T11:15:36Z",
-    "timestamp": 1789384536,
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49697477",
+    "source": "nathannaveen.dev",
+    "date": "2026-09-14T14:29:23Z",
+    "timestamp": 1789396163,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
-    "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70",
-    "discussion_url": "https://news.ycombinator.com/item?id=49694977",
-    "source": "ft.com",
-    "date": "2026-09-14T11:14:30Z",
-    "timestamp": 1789384470,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pragtical 3.12 Adds an Opt-In SDL GPU Back End to a 50MB Code Editor",
-    "url": "https://news.lavx.hu/article/pragtical-3-12-adds-an-opt-in-sdl-gpu-backend-to-a-50mb-code-editor",
-    "discussion_url": "https://news.ycombinator.com/item?id=49694478",
-    "source": "news.lavx.hu",
-    "date": "2026-09-14T10:12:10Z",
-    "timestamp": 1789380730,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tesla owners to get insurance discount if they use self-driving",
-    "url": "https://www.afr.com/companies/transport/tesla-owners-to-get-insurance-discount-if-they-use-self-drive-tech-20260909-p60vsu",
-    "discussion_url": "https://news.ycombinator.com/item?id=49693359",
-    "source": "afr.com",
-    "date": "2026-09-14T07:51:57Z",
-    "timestamp": 1789372317,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Australian insurer offers discount to self-driving car owners",
-    "url": "https://www.smh.com.au/business/consumer-affairs/humans-make-mistakes-insurer-offers-discount-to-self-driving-car-owners-20260911-p60wkk.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49693208",
-    "source": "smh.com.au",
-    "date": "2026-09-14T07:33:28Z",
-    "timestamp": 1789371208,
-    "category": "Physical AI"
-  },
-  {
-    "title": "If Astra was trained on 100k Blackwell GPUs, what happens with 1M Rubin?",
-    "url": "https://twitter.com/JensenHuang/status/2096700264569090384",
-    "discussion_url": "https://news.ycombinator.com/item?id=49693099",
-    "source": "twitter.com",
-    "date": "2026-09-14T07:20:45Z",
-    "timestamp": 1789370445,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "War over robotaxis in NYC heats up with retracted Waymo report, 'Autokill' novel",
-    "url": "https://gothamist.com/news/war-over-robotaxis-in-nyc-heats-up-after-retracted-waymo-report-and-autokill-novel",
-    "discussion_url": "https://news.ycombinator.com/item?id=49693000",
-    "source": "gothamist.com",
-    "date": "2026-09-14T07:07:24Z",
-    "timestamp": 1789369644,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Infineon RISC-V for Automotive at Hot Chips 2026",
-    "url": "https://www.servethehome.com/infineon-risc-v-for-automotive-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49692436",
-    "source": "servethehome.com",
-    "date": "2026-09-14T05:41:06Z",
-    "timestamp": 1789364466,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Robots – When will they be in our homes",
-    "url": "https://spectrum.ieee.org/ai-robots",
-    "discussion_url": "https://news.ycombinator.com/item?id=49690411",
-    "source": "spectrum.ieee.org",
-    "date": "2026-09-14T00:44:23Z",
-    "timestamp": 1789346663,
-    "category": "Physical AI"
   },
   {
     "title": "CUDA for AMD on Windows",
@@ -205,14 +142,5 @@
     "date": "2026-09-13T14:25:13Z",
     "timestamp": 1789309513,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49662990",
-    "source": "dayzlegame.com",
-    "date": "2026-09-11T18:24:55Z",
-    "timestamp": 1789151095,
-    "category": "Physical AI"
   }
 ]
