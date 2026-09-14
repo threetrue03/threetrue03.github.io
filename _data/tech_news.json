@@ -1,147 +1,129 @@
 [
   {
-    "title": "A computational constitution to stop LLM agents from bricking servers",
-    "url": "https://github.com/misqe/zero-trust-llm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49688115",
+    "title": "Does AI Assistance Enhance or Erode Expertise?",
+    "url": "https://www.nber.org/papers/w35720",
+    "discussion_url": "https://news.ycombinator.com/item?id=49691998",
+    "source": "nber.org",
+    "date": "2026-09-14T04:27:43Z",
+    "timestamp": 1789360063,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Local LLMs vs. Cloud API cost analysis",
+    "url": "https://www.sitepoint.com/local-llms-vs-cloud-api-cost-analysis-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49691534",
+    "source": "sitepoint.com",
+    "date": "2026-09-14T03:18:26Z",
+    "timestamp": 1789355906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google Artemis: Let AI assistants and test suites use real phones like a human",
+    "url": "https://github.com/google/artemis",
+    "discussion_url": "https://news.ycombinator.com/item?id=49691379",
     "source": "github.com",
-    "date": "2026-09-13T20:05:14Z",
-    "timestamp": 1789329914,
+    "date": "2026-09-14T02:57:26Z",
+    "timestamp": 1789354646,
     "category": "Machine Learning"
   },
   {
-    "title": "There Is No AI (It's Just People) with Jaron Lanier",
-    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687869",
-    "source": "singjupost.com",
-    "date": "2026-09-13T19:41:06Z",
-    "timestamp": 1789328466,
+    "title": "Show HN: Kairo – Fail-closed LLM inference routing from RTX 5090 measurements",
+    "url": "https://github.com/peter941221/Kairo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49691112",
+    "source": "github.com",
+    "date": "2026-09-14T02:21:23Z",
+    "timestamp": 1789352483,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
-    "url": "https://www.kibblebites.com/app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687860",
-    "source": "kibblebites.com",
-    "date": "2026-09-13T19:39:57Z",
-    "timestamp": 1789328397,
+    "title": "AI Forces You to Commit to Your Initial Belief",
+    "url": "https://idiallo.com/blog/making-changes-mid-sentence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49691048",
+    "source": "idiallo.com",
+    "date": "2026-09-14T02:13:29Z",
+    "timestamp": 1789352009,
     "category": "Machine Learning"
   },
   {
-    "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687566",
-    "source": "cnbc.com",
-    "date": "2026-09-13T19:13:33Z",
-    "timestamp": 1789326813,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687334",
-    "source": "technologyreview.com",
-    "date": "2026-09-13T18:49:44Z",
-    "timestamp": 1789325384,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog",
-    "url": "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687242",
-    "source": "aeroscissorz.github.io",
-    "date": "2026-09-13T18:40:48Z",
-    "timestamp": 1789324848,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
-    "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687150",
-    "source": "ai-frontiers.org",
-    "date": "2026-09-13T18:32:53Z",
-    "timestamp": 1789324373,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
-    "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49687013",
-    "source": "yahoo.com",
-    "date": "2026-09-13T18:22:30Z",
-    "timestamp": 1789323750,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SubmitHub's new AI music policy",
-    "url": "https://www.submithub.com/story/ai-policy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49686912",
-    "source": "submithub.com",
-    "date": "2026-09-13T18:15:17Z",
-    "timestamp": 1789323317,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
-    "url": "https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts",
-    "discussion_url": "https://news.ycombinator.com/item?id=49686882",
-    "source": "mckinsey.com",
-    "date": "2026-09-13T18:13:34Z",
-    "timestamp": 1789323214,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CS 312: Deep Learning Alchemy",
-    "url": "https://www.cs.stanford.edu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49686830",
-    "source": "cs.stanford.edu",
-    "date": "2026-09-13T18:09:01Z",
-    "timestamp": 1789322941,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Russian developers used AI to build 'kamikaze' attack drone software",
-    "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-    "discussion_url": "https://news.ycombinator.com/item?id=49686825",
+    "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690921",
     "source": "theguardian.com",
-    "date": "2026-09-13T18:08:40Z",
-    "timestamp": 1789322920,
+    "date": "2026-09-14T01:55:37Z",
+    "timestamp": 1789350937,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: \"Am I GPU Poor?\" Check how your GPU stacks against PC Gamers Worldwide",
-    "url": "https://gpupoor.sykah.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49685819",
-    "source": "gpupoor.sykah.com",
-    "date": "2026-09-13T16:36:47Z",
-    "timestamp": 1789317407,
-    "category": "Computer Architecture"
+    "title": "The Malicious Use of Artificial Intelligence",
+    "url": "https://arxiv.org/abs/1802.07228",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690678",
+    "source": "arxiv.org",
+    "date": "2026-09-14T01:22:35Z",
+    "timestamp": 1789348955,
+    "category": "Machine Learning"
   },
   {
-    "title": "ZLUDA – Drop-In Replacement for CUDA on Non-Nvidia GPUs",
-    "url": "https://github.com/vosen/ZLUDA",
-    "discussion_url": "https://news.ycombinator.com/item?id=49685739",
-    "source": "github.com",
-    "date": "2026-09-13T16:29:07Z",
-    "timestamp": 1789316947,
-    "category": "Computer Architecture"
+    "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
+    "url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690627",
+    "source": "radiologybusiness.com",
+    "date": "2026-09-14T01:16:43Z",
+    "timestamp": 1789348603,
+    "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
-    "url": "https://geoprompttracker.com/bots",
-    "discussion_url": "https://news.ycombinator.com/item?id=49685136",
-    "source": "geoprompttracker.com",
-    "date": "2026-09-13T15:33:04Z",
-    "timestamp": 1789313584,
+    "title": "AI is not a normal technology",
+    "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690529",
+    "source": "12gramsofcarbon.com",
+    "date": "2026-09-14T01:00:09Z",
+    "timestamp": 1789347609,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Godfather of AI welcomes pause in development (interview with Hinton)",
+    "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690522",
+    "source": "abc.net.au",
+    "date": "2026-09-14T00:59:25Z",
+    "timestamp": 1789347565,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Robots – When will they be in our homes",
+    "url": "https://spectrum.ieee.org/ai-robots",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690411",
+    "source": "spectrum.ieee.org",
+    "date": "2026-09-14T00:44:23Z",
+    "timestamp": 1789346663,
     "category": "Physical AI"
   },
   {
-    "title": "Ask HN: Why haven't people vibe coded popular 80s word processors as TUI apps?",
-    "url": "https://news.ycombinator.com/item?id=49684729",
-    "discussion_url": "https://news.ycombinator.com/item?id=49684729",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-13T14:59:16Z",
-    "timestamp": 1789311556,
-    "category": "Computer Architecture"
+    "title": "The librarian, the car keys, and AI",
+    "url": "https://eternallyradicalidea.com/p/the-librarian-the-car-keys-and-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690382",
+    "source": "eternallyradicalidea.com",
+    "date": "2026-09-14T00:39:57Z",
+    "timestamp": 1789346397,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Worrying about bad AI code is worrying about the wrong problem",
+    "url": "https://matthorn.io/posts/2026-09-13-bad-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49690366",
+    "source": "matthorn.io",
+    "date": "2026-09-14T00:37:40Z",
+    "timestamp": 1789346260,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robots protest rampant AI in Poland",
+    "url": "https://techxplore.com/news/2026-09-robots-protest-rampant-ai-poland.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49689990",
+    "source": "techxplore.com",
+    "date": "2026-09-13T23:46:41Z",
+    "timestamp": 1789343201,
+    "category": "Physical AI"
   },
   {
     "title": "CUDA for AMD on Windows",
@@ -150,15 +132,6 @@
     "source": "github.com",
     "date": "2026-09-13T14:25:13Z",
     "timestamp": 1789309513,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
-    "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
-    "discussion_url": "https://news.ycombinator.com/item?id=49677519",
-    "source": "siliconcodesign.com",
-    "date": "2026-09-12T21:44:28Z",
-    "timestamp": 1789249468,
     "category": "Computer Architecture"
   },
   {
