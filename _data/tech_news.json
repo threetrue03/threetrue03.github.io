@@ -1,5 +1,185 @@
 [
   {
+    "title": "Local LLM engine where a tool call cut by the token limit still parses",
+    "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49719027",
+    "source": "xyntetik.com",
+    "date": "2026-09-15T21:17:18Z",
+    "timestamp": 1789507038,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Agent Whistleblower Hotline – Ryan Greenblatt",
+    "url": "https://hotline.ryan-g.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49718720",
+    "source": "hotline.ryan-g.ai",
+    "date": "2026-09-15T20:49:23Z",
+    "timestamp": 1789505363,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Liquid Compute Launches with $15M to Build a Regulated Exchange for GPUs",
+    "url": "https://www.businesswire.com/news/home/20260915989921/en/Liquid-Compute-Launches-with-%2415M-to-Build-a-Regulated-Exchange-for-AI-Infrastructure",
+    "discussion_url": "https://news.ycombinator.com/item?id=49718699",
+    "source": "businesswire.com",
+    "date": "2026-09-15T20:47:43Z",
+    "timestamp": 1789505263,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "We're not ready for superpersistent AI",
+    "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49718283",
+    "source": "natesilver.net",
+    "date": "2026-09-15T20:17:10Z",
+    "timestamp": 1789503430,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49718194",
+    "source": "spectrum.ieee.org",
+    "date": "2026-09-15T20:11:19Z",
+    "timestamp": 1789503079,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI",
+    "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717958",
+    "source": "bbc.com",
+    "date": "2026-09-15T19:52:03Z",
+    "timestamp": 1789501923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I tagged you, not the AI you're using",
+    "url": "https://nomeatproxy.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717769",
+    "source": "nomeatproxy.com",
+    "date": "2026-09-15T19:38:54Z",
+    "timestamp": 1789501134,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linux embedded log/errors detector on Imx8's NPU",
+    "url": "https://github.com/leonardosalvatore/sentinel-imx-sys",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717683",
+    "source": "github.com",
+    "date": "2026-09-15T19:33:01Z",
+    "timestamp": 1789500781,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717679",
+    "source": "wsj.com",
+    "date": "2026-09-15T19:32:50Z",
+    "timestamp": 1789500770,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717638",
+    "source": "codyho.dev",
+    "date": "2026-09-15T19:30:03Z",
+    "timestamp": 1789500603,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
+    "url": "https://raw.githubusercontent.com/kbr-/math-research/3979e0cc0a75dde9b845df7ec8869d033dfcd8d4/publications/bit-php-resolution-over-parities/whitepaper.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717545",
+    "source": "raw.githubusercontent.com",
+    "date": "2026-09-15T19:24:06Z",
+    "timestamp": 1789500246,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Infrastructure at Periodic",
+    "url": "https://periodic.com/news/ai-infrastructure-at-periodic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717176",
+    "source": "periodic.com",
+    "date": "2026-09-15T18:59:53Z",
+    "timestamp": 1789498793,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hassett: Trump 'wholeheartedly rejects government takeover of AI regulation",
+    "url": "https://www.youtube.com/watch?v=xkNAbgS6b5g",
+    "discussion_url": "https://news.ycombinator.com/item?id=49717031",
+    "source": "youtube.com",
+    "date": "2026-09-15T18:50:58Z",
+    "timestamp": 1789498258,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+    "discussion_url": "https://news.ycombinator.com/item?id=49716852",
+    "source": "theguardian.com",
+    "date": "2026-09-15T18:37:41Z",
+    "timestamp": 1789497461,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
+    "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
+    "discussion_url": "https://news.ycombinator.com/item?id=49716832",
+    "source": "thedrive.com",
+    "date": "2026-09-15T18:36:36Z",
+    "timestamp": 1789497396,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SiFive and AMD Collaborate to Optimize AMD ROCm on RISC-V Datacenter Servers",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sifive-amd-collaborate-optimize-amd-130000907.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49716800",
+    "source": "finance.yahoo.com",
+    "date": "2026-09-15T18:34:18Z",
+    "timestamp": 1789497258,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Smooth Exponentials for Robotics",
+    "url": "https://evjang.com/2026/09/10/smooth-exponential.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715997",
+    "source": "evjang.com",
+    "date": "2026-09-15T17:41:00Z",
+    "timestamp": 1789494060,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715813",
+    "source": "global.fujitsu",
+    "date": "2026-09-15T17:28:38Z",
+    "timestamp": 1789493318,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A labor forecasting approach built to keep pace with AI and robotics",
+    "url": "https://endoflabor.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715541",
+    "source": "endoflabor.org",
+    "date": "2026-09-15T17:08:32Z",
+    "timestamp": 1789492112,
+    "category": "Physical AI"
+  },
+  {
+    "title": "We asked creative experts to rank AI image / video models. Here's what happened",
+    "url": "https://openart.ai/arena",
+    "discussion_url": "https://news.ycombinator.com/item?id=49715465",
+    "source": "openart.ai",
+    "date": "2026-09-15T17:02:23Z",
+    "timestamp": 1789491743,
+    "category": "Computer Vision"
+  },
+  {
     "title": "Subnormal floating-point numbers are expensive on Intel processors",
     "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
     "discussion_url": "https://news.ycombinator.com/item?id=49715408",
@@ -7,186 +187,6 @@
     "date": "2026-09-15T16:58:22Z",
     "timestamp": 1789491502,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "The Physical Stack Behind AI",
-    "url": "https://intelligence.mts.now/compute",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715276",
-    "source": "intelligence.mts.now",
-    "date": "2026-09-15T16:49:14Z",
-    "timestamp": 1789490954,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why a Swift AI pause is unlikely: No one trusts AI companies",
-    "url": "https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715182",
-    "source": "axios.com",
-    "date": "2026-09-15T16:43:10Z",
-    "timestamp": 1789490590,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I ported COLMAP (photogrammetry) to the browser in WASM and WebGPU",
-    "url": "https://offlinetools.io/colmap-landing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715142",
-    "source": "offlinetools.io",
-    "date": "2026-09-15T16:40:47Z",
-    "timestamp": 1789490447,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715113",
-    "source": "404media.co",
-    "date": "2026-09-15T16:38:45Z",
-    "timestamp": 1789490325,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Rogue AI didn't breach Hugging Face, human decisions did",
-    "url": "https://thebulletin.org/2026/09/rogue-ai-didnt-breach-hugging-face-human-decisions-did/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715010",
-    "source": "thebulletin.org",
-    "date": "2026-09-15T16:31:33Z",
-    "timestamp": 1789489893,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714853",
-    "source": "techcrunch.com",
-    "date": "2026-09-15T16:19:20Z",
-    "timestamp": 1789489160,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Lowering the Cost of Competence and Raising the Value of Judgment",
-    "url": "https://pensero.ai/blog/knowledge-is-no-longer-the-competitive-advantage.-judgment-is",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714838",
-    "source": "pensero.ai",
-    "date": "2026-09-15T16:18:39Z",
-    "timestamp": 1789489119,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Scalpel – give AI coding agents get_symbol() instead of a whole file",
-    "url": "https://github.com/amritessh/scalpel-mcp",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714713",
-    "source": "github.com",
-    "date": "2026-09-15T16:10:25Z",
-    "timestamp": 1789488625,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Four Biological Conjectures: Strange and Marvelous Challenges for Biological AI",
-    "url": "https://americanwetware.substack.com/p/four-biological-conjectures",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714687",
-    "source": "americanwetware.substack.com",
-    "date": "2026-09-15T16:08:48Z",
-    "timestamp": 1789488528,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Musk urges top AI labs, Chinese companies to test each other's models",
-    "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714673",
-    "source": "cnbc.com",
-    "date": "2026-09-15T16:07:36Z",
-    "timestamp": 1789488456,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Dangerous Ideology Behind the AI Warnings",
-    "url": "https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714631",
-    "source": "thefp.com",
-    "date": "2026-09-15T16:05:02Z",
-    "timestamp": 1789488302,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: An open source safety layer for AI agent actions",
-    "url": "https://github.com/CTRLRun/ctrlrun",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714619",
-    "source": "github.com",
-    "date": "2026-09-15T16:03:31Z",
-    "timestamp": 1789488211,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Speeding up gearhash on ARM64 (2× faster)",
-    "url": "https://sam.dev/blog/gearhash-on-arm64",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714596",
-    "source": "sam.dev",
-    "date": "2026-09-15T16:02:15Z",
-    "timestamp": 1789488135,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Convenient Fear of AI",
-    "url": "https://medium.com/@claudi.martinez/the-convenient-fear-of-ai-9f38cfa5898b",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714428",
-    "source": "medium.com",
-    "date": "2026-09-15T15:51:43Z",
-    "timestamp": 1789487503,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Voice AI that runs on CPUs",
-    "url": "https://lokutor.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714400",
-    "source": "lokutor.com",
-    "date": "2026-09-15T15:49:45Z",
-    "timestamp": 1789487385,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Agility reveals new robot: Digit 5",
-    "url": "https://www.agilityrobotics.com/solutions/digit-5",
-    "discussion_url": "https://news.ycombinator.com/item?id=49713796",
-    "source": "agilityrobotics.com",
-    "date": "2026-09-15T15:14:13Z",
-    "timestamp": 1789485253,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Into the CUDA Multiverse of Runtime Compilation: GPU DBMS Kernel Fusion [pdf]",
-    "url": "https://www.vldb.org/pvldb/vol19/p4658-schule.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49713268",
-    "source": "vldb.org",
-    "date": "2026-09-15T14:40:18Z",
-    "timestamp": 1789483218,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Quantum Elements, USC Demonstrate Surface Code Scaling on IBM Heron Processors",
-    "url": "https://www.hpcwire.com/off-the-wire/quantum-elements-and-usc-demonstrate-surface-code-scaling-on-ibm-heron-processors/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49713059",
-    "source": "hpcwire.com",
-    "date": "2026-09-15T14:26:06Z",
-    "timestamp": 1789482366,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Sovereign: A Unified GPU Inference Substrate (Fractal Memory, Manifold Routing)",
-    "url": "https://github.com/CuppaTea1983/Sovereign/tree/V1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49712596",
-    "source": "github.com",
-    "date": "2026-09-15T13:56:18Z",
-    "timestamp": 1789480578,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Unitree launches upgraded G1 humanoid robot with six major upgrades",
-    "url": "https://technode.com/2026/09/15/unitree-g1-plus-humanoid-robot/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49712256",
-    "source": "technode.com",
-    "date": "2026-09-15T13:30:16Z",
-    "timestamp": 1789479016,
-    "category": "Physical AI"
   },
   {
     "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
