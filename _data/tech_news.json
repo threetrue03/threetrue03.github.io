@@ -1,11 +1,146 @@
 [
   {
-    "title": "China hit back at Anthropic CEO's call to curb China's AI development",
-    "url": "https://www.youtube.com/watch?v=BIM5G5kFYAg",
-    "discussion_url": "https://news.ycombinator.com/item?id=49707471",
-    "source": "youtube.com",
-    "date": "2026-09-15T03:47:39Z",
-    "timestamp": 1789444059,
+    "title": "OpenStreetMap fighting a large set of AI crawlers / scrapers",
+    "url": "https://en.osm.town/@osm_tech/117273699871137554",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710980",
+    "source": "en.osm.town",
+    "date": "2026-09-15T11:35:42Z",
+    "timestamp": 1789472142,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jalapeño Shows Power of LLMs for Chip Design",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710843",
+    "source": "spectrum.ieee.org",
+    "date": "2026-09-15T11:22:38Z",
+    "timestamp": 1789471358,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Crypto's Biggest Week Ever? AI Swarm Fears Put the Market on Alert",
+    "url": "https://coinmarketcap.com/community/post/379296157/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710525",
+    "source": "coinmarketcap.com",
+    "date": "2026-09-15T10:55:24Z",
+    "timestamp": 1789469724,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
+    "url": "https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710219",
+    "source": "stereogum.com",
+    "date": "2026-09-15T10:16:45Z",
+    "timestamp": 1789467405,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "WebGPU Engine Bench: Three.js vs. PlayCanvas vs. Babylon.js",
+    "url": "https://claude.ai/code/artifact/b2f3c482-3d9d-481e-ab0a-0d97620c09a2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710173",
+    "source": "claude.ai",
+    "date": "2026-09-15T10:10:19Z",
+    "timestamp": 1789467019,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Variational Quantum Circuits in Physics-Informed Neural Networks",
+    "url": "https://meshapplied.com/posts/quantum-neural-solvers",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710148",
+    "source": "meshapplied.com",
+    "date": "2026-09-15T10:05:51Z",
+    "timestamp": 1789466751,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I measured Apple's on-device LLM across an OS beta cycle",
+    "url": "https://www.deforget.app/blog/apple-on-device-model-measured",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710030",
+    "source": "deforget.app",
+    "date": "2026-09-15T09:50:10Z",
+    "timestamp": 1789465810,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49710015",
+    "source": "tintotint.eu",
+    "date": "2026-09-15T09:47:48Z",
+    "timestamp": 1789465668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pocket Bibles and AI",
+    "url": "https://www.amytis.io/blog/insights-on-ai-from-the-reformation",
+    "discussion_url": "https://news.ycombinator.com/item?id=49709903",
+    "source": "amytis.io",
+    "date": "2026-09-15T09:28:17Z",
+    "timestamp": 1789464497,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OrthoRoute: GPU Accelerated Autorouting for KiCad",
+    "url": "https://bbenchoff.com/pages/OrthoRoute.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49709286",
+    "source": "bbenchoff.com",
+    "date": "2026-09-15T08:08:07Z",
+    "timestamp": 1789459687,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "discussion_url": "https://news.ycombinator.com/item?id=49709283",
+    "source": "theverge.com",
+    "date": "2026-09-15T08:07:08Z",
+    "timestamp": 1789459628,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude Fable 5.1 and GPT 6 Astra controlled my Robot Arm. Who painted better?",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/rfi4npFNSr",
+    "discussion_url": "https://news.ycombinator.com/item?id=49709175",
+    "source": "reddit.com",
+    "date": "2026-09-15T07:52:01Z",
+    "timestamp": 1789458721,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49709109",
+    "source": "finance.yahoo.com",
+    "date": "2026-09-15T07:42:50Z",
+    "timestamp": 1789458170,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+    "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49708891",
+    "source": "bbc.co.uk",
+    "date": "2026-09-15T07:14:46Z",
+    "timestamp": 1789456486,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Blueprint for Keeping Humans in Control of AI",
+    "url": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49708836",
+    "source": "gsb.stanford.edu",
+    "date": "2026-09-15T07:08:38Z",
+    "timestamp": 1789456118,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49708793",
+    "source": "arstechnica.com",
+    "date": "2026-09-15T07:02:39Z",
+    "timestamp": 1789455759,
     "category": "Machine Learning"
   },
   {
@@ -16,123 +151,6 @@
     "date": "2026-09-15T02:41:14Z",
     "timestamp": 1789440074,
     "category": "Physical AI"
-  },
-  {
-    "title": "US-China AI strategic planning",
-    "url": "https://sinocism.com/p/us-china-strategic-ai-dialogue-said",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706976",
-    "source": "sinocism.com",
-    "date": "2026-09-15T02:34:00Z",
-    "timestamp": 1789439640,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
-    "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706941",
-    "source": "theguardian.com",
-    "date": "2026-09-15T02:25:41Z",
-    "timestamp": 1789439141,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-    "url": "https://sunkcost.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706656",
-    "source": "sunkcost.ai",
-    "date": "2026-09-15T01:37:43Z",
-    "timestamp": 1789436263,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Unveils RTX Pro 5500 Blackwell Workstation Edition GPU",
-    "url": "https://www.nvidia.com/en-gb/products/workstations/professional-desktop-gpus/rtx-pro-5500/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706483",
-    "source": "nvidia.com",
-    "date": "2026-09-15T01:10:53Z",
-    "timestamp": 1789434653,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706223",
-    "source": "theregister.com",
-    "date": "2026-09-15T00:40:14Z",
-    "timestamp": 1789432814,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
-    "url": "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
-    "discussion_url": "https://news.ycombinator.com/item?id=49706175",
-    "source": "abc.net.au",
-    "date": "2026-09-15T00:33:15Z",
-    "timestamp": 1789432395,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sloppy Joe's – The era of AI signage",
-    "url": "https://luke.zip/posts/sloppy-joes/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705904",
-    "source": "luke.zip",
-    "date": "2026-09-14T23:56:36Z",
-    "timestamp": 1789430196,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Downside of Robot Solutionism",
-    "url": "https://www.programmablemutter.com/p/the-downside-of-robot-solutionism",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705885",
-    "source": "programmablemutter.com",
-    "date": "2026-09-14T23:53:54Z",
-    "timestamp": 1789430034,
-    "category": "Physical AI"
-  },
-  {
-    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-    "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705877",
-    "source": "cnbc.com",
-    "date": "2026-09-14T23:53:04Z",
-    "timestamp": 1789429984,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Personal Statement on AI Risk",
-    "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705873",
-    "source": "docs.google.com",
-    "date": "2026-09-14T23:52:36Z",
-    "timestamp": 1789429956,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dan Selsam's Personal Statement on AI Risk",
-    "url": "https://twitter.com/DKokotajlo/status/2099600298855829616",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705866",
-    "source": "twitter.com",
-    "date": "2026-09-14T23:52:05Z",
-    "timestamp": 1789429925,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open-source Python framework for AI agents, workflows, and automations",
-    "url": "https://github.com/BindBrain/BindAI",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705864",
-    "source": "github.com",
-    "date": "2026-09-14T23:51:55Z",
-    "timestamp": 1789429915,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Can Be Used for Cognitive Warfare",
-    "url": "https://thecarrierwave.substack.com/p/how-ai-can-be-used-for-cognitive",
-    "discussion_url": "https://news.ycombinator.com/item?id=49705776",
-    "source": "thecarrierwave.substack.com",
-    "date": "2026-09-14T23:41:19Z",
-    "timestamp": 1789429279,
-    "category": "Machine Learning"
   },
   {
     "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
@@ -159,6 +177,15 @@
     "source": "github.com",
     "date": "2026-09-13T14:17:49Z",
     "timestamp": 1789309069,
+    "category": "Physical AI"
+  },
+  {
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49662990",
+    "source": "dayzlegame.com",
+    "date": "2026-09-11T18:24:55Z",
+    "timestamp": 1789151095,
     "category": "Physical AI"
   }
 ]
