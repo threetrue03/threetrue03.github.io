@@ -1,21 +1,120 @@
 [
   {
-    "title": "Inference Is the Last LLM Moat",
-    "url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721882",
-    "source": "vincentschmalbach.com",
-    "date": "2026-09-16T03:48:16Z",
-    "timestamp": 1789530496,
+    "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+    "discussion_url": "https://news.ycombinator.com/item?id=49724690",
+    "source": "tomshardware.com",
+    "date": "2026-09-16T10:58:32Z",
+    "timestamp": 1789556312,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration",
-    "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721736",
-    "source": "theguardian.com",
-    "date": "2026-09-16T03:20:10Z",
-    "timestamp": 1789528810,
+    "title": "Is it hypocritical to criticize AI slop while promoting vibecoding tools?",
+    "url": "https://elephant.wuemeli.com/@wuemeli/117280311233495501",
+    "discussion_url": "https://news.ycombinator.com/item?id=49724576",
+    "source": "elephant.wuemeli.com",
+    "date": "2026-09-16T10:48:10Z",
+    "timestamp": 1789555690,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
+    "url": "https://airbus.github.io/scikit-decide/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723963",
+    "source": "airbus.github.io",
+    "date": "2026-09-16T09:26:41Z",
+    "timestamp": 1789550801,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723939",
+    "source": "finance.yahoo.com",
+    "date": "2026-09-16T09:21:47Z",
+    "timestamp": 1789550507,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Learning Programming in an Age of LLMs",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723873",
+    "source": "blog.ploeh.dk",
+    "date": "2026-09-16T09:12:34Z",
+    "timestamp": 1789549954,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cost of AI Slop in Software Development Report",
+    "url": "https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723767",
+    "source": "qawolf.com",
+    "date": "2026-09-16T08:56:23Z",
+    "timestamp": 1789548983,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+    "url": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723441",
+    "source": "nypost.com",
+    "date": "2026-09-16T08:13:23Z",
+    "timestamp": 1789546403,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723408",
+    "source": "mistral.ai",
+    "date": "2026-09-16T08:08:57Z",
+    "timestamp": 1789546137,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Never-again – so your AI agent stops repeating mistakes you fixed",
+    "url": "https://github.com/malaysherasia-ai/claude-never-again",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723279",
+    "source": "github.com",
+    "date": "2026-09-16T07:48:53Z",
+    "timestamp": 1789544933,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "There is NO realistic scenario where AI wipes out all of humanity",
+    "url": "https://twitter.com/RichardSocher/status/2099889673153683766",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723272",
+    "source": "twitter.com",
+    "date": "2026-09-16T07:48:17Z",
+    "timestamp": 1789544897,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Potemkin Understanding in Large Language Models (2025)",
+    "url": "https://arxiv.org/abs/2506.21521",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723244",
+    "source": "arxiv.org",
+    "date": "2026-09-16T07:45:04Z",
+    "timestamp": 1789544704,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "COBOL dev won .NET hackathon with help from AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
+    "discussion_url": "https://news.ycombinator.com/item?id=49723159",
+    "source": "theregister.com",
+    "date": "2026-09-16T07:30:04Z",
+    "timestamp": 1789543804,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tesla Full Self-Driving customers can now access lower insurance premiums",
+    "url": "https://www.drive.com.au/news/tesla-full-self-driving-customers-can-now-access-lower-insurance-premiums/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49722394",
+    "source": "drive.com.au",
+    "date": "2026-09-16T05:20:35Z",
+    "timestamp": 1789536035,
+    "category": "Physical AI"
   },
   {
     "title": "Isaac Asimov Asks, \"How Do People Get New Ideas?\"",
@@ -27,129 +126,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
-    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721626",
-    "source": "arstechnica.com",
-    "date": "2026-09-16T03:02:30Z",
-    "timestamp": 1789527750,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is not going to kill you",
-    "url": "https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721514",
-    "source": "sufficientlyadvanced.blog",
-    "date": "2026-09-16T02:39:05Z",
-    "timestamp": 1789526345,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stay discoverable in search while disallowing AI training",
-    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721435",
-    "source": "blog.cloudflare.com",
-    "date": "2026-09-16T02:25:18Z",
-    "timestamp": 1789525518,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
-    "url": "https://github.com/vyang472/five-bugs",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721214",
-    "source": "github.com",
-    "date": "2026-09-16T01:48:53Z",
-    "timestamp": 1789523333,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
-    "url": "https://github.com/Thurbeen/thurbox",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721082",
-    "source": "github.com",
-    "date": "2026-09-16T01:25:49Z",
-    "timestamp": 1789521949,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Artificial Intelligence, Quote Unquote",
-    "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
-    "discussion_url": "https://news.ycombinator.com/item?id=49721068",
-    "source": "penny-arcade.com",
-    "date": "2026-09-16T01:23:28Z",
-    "timestamp": 1789521808,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49720966",
-    "source": "nvidianews.nvidia.com",
-    "date": "2026-09-16T01:07:38Z",
-    "timestamp": 1789520858,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Musk proposes adversarsial peer review for AI Safety",
-    "url": "https://twitter.com/theallinpod/status/2099731166530277549",
-    "discussion_url": "https://news.ycombinator.com/item?id=49720938",
-    "source": "twitter.com",
-    "date": "2026-09-16T01:03:49Z",
-    "timestamp": 1789520629,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AgentReady – can AI assistants read your site?",
-    "url": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
-    "discussion_url": "https://news.ycombinator.com/item?id=49720850",
-    "source": "shop.lumnika.com",
-    "date": "2026-09-16T00:50:37Z",
-    "timestamp": 1789519837,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
-    "url": "https://github.com/alex-zaporozhan/leo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49720815",
-    "source": "github.com",
-    "date": "2026-09-16T00:47:27Z",
-    "timestamp": 1789519647,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
-    "url": "https://arxiv.org/abs/2609.15383",
-    "discussion_url": "https://news.ycombinator.com/item?id=49720533",
-    "source": "arxiv.org",
-    "date": "2026-09-16T00:07:07Z",
-    "timestamp": 1789517227,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
     "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
     "discussion_url": "https://news.ycombinator.com/item?id=49719938",
     "source": "nand2mario.github.io",
     "date": "2026-09-15T22:50:55Z",
     "timestamp": 1789512655,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "'Robots building robots': a 10k unit industrial humanoid robot smart factory",
-    "url": "https://www.globaltimes.cn/page/202609/1370528.shtml",
-    "discussion_url": "https://news.ycombinator.com/item?id=49719258",
-    "source": "globaltimes.cn",
-    "date": "2026-09-15T21:42:24Z",
-    "timestamp": 1789508544,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Liquid Compute Launches with $15M to Build a Regulated Exchange for GPUs",
-    "url": "https://www.businesswire.com/news/home/20260915989921/en/Liquid-Compute-Launches-with-%2415M-to-Build-a-Regulated-Exchange-for-AI-Infrastructure",
-    "discussion_url": "https://news.ycombinator.com/item?id=49718699",
-    "source": "businesswire.com",
-    "date": "2026-09-15T20:47:43Z",
-    "timestamp": 1789505263,
     "category": "Computer Architecture"
   },
   {
