@@ -1,21 +1,147 @@
 [
   {
-    "title": "Local LLM engine where a tool call cut by the token limit still parses",
-    "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49719027",
-    "source": "xyntetik.com",
-    "date": "2026-09-15T21:17:18Z",
-    "timestamp": 1789507038,
+    "title": "Inference Is the Last LLM Moat",
+    "url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721882",
+    "source": "vincentschmalbach.com",
+    "date": "2026-09-16T03:48:16Z",
+    "timestamp": 1789530496,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Agent Whistleblower Hotline – Ryan Greenblatt",
-    "url": "https://hotline.ryan-g.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49718720",
-    "source": "hotline.ryan-g.ai",
-    "date": "2026-09-15T20:49:23Z",
-    "timestamp": 1789505363,
+    "title": "Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721736",
+    "source": "theguardian.com",
+    "date": "2026-09-16T03:20:10Z",
+    "timestamp": 1789528810,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Isaac Asimov Asks, \"How Do People Get New Ideas?\"",
+    "url": "https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721687",
+    "source": "technologyreview.com",
+    "date": "2026-09-16T03:12:01Z",
+    "timestamp": 1789528321,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721626",
+    "source": "arstechnica.com",
+    "date": "2026-09-16T03:02:30Z",
+    "timestamp": 1789527750,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is not going to kill you",
+    "url": "https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721514",
+    "source": "sufficientlyadvanced.blog",
+    "date": "2026-09-16T02:39:05Z",
+    "timestamp": 1789526345,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721435",
+    "source": "blog.cloudflare.com",
+    "date": "2026-09-16T02:25:18Z",
+    "timestamp": 1789525518,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
+    "url": "https://github.com/vyang472/five-bugs",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721214",
+    "source": "github.com",
+    "date": "2026-09-16T01:48:53Z",
+    "timestamp": 1789523333,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
+    "url": "https://github.com/Thurbeen/thurbox",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721082",
+    "source": "github.com",
+    "date": "2026-09-16T01:25:49Z",
+    "timestamp": 1789521949,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Artificial Intelligence, Quote Unquote",
+    "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
+    "discussion_url": "https://news.ycombinator.com/item?id=49721068",
+    "source": "penny-arcade.com",
+    "date": "2026-09-16T01:23:28Z",
+    "timestamp": 1789521808,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49720966",
+    "source": "nvidianews.nvidia.com",
+    "date": "2026-09-16T01:07:38Z",
+    "timestamp": 1789520858,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Musk proposes adversarsial peer review for AI Safety",
+    "url": "https://twitter.com/theallinpod/status/2099731166530277549",
+    "discussion_url": "https://news.ycombinator.com/item?id=49720938",
+    "source": "twitter.com",
+    "date": "2026-09-16T01:03:49Z",
+    "timestamp": 1789520629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AgentReady – can AI assistants read your site?",
+    "url": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
+    "discussion_url": "https://news.ycombinator.com/item?id=49720850",
+    "source": "shop.lumnika.com",
+    "date": "2026-09-16T00:50:37Z",
+    "timestamp": 1789519837,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+    "url": "https://github.com/alex-zaporozhan/leo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49720815",
+    "source": "github.com",
+    "date": "2026-09-16T00:47:27Z",
+    "timestamp": 1789519647,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
+    "url": "https://arxiv.org/abs/2609.15383",
+    "discussion_url": "https://news.ycombinator.com/item?id=49720533",
+    "source": "arxiv.org",
+    "date": "2026-09-16T00:07:07Z",
+    "timestamp": 1789517227,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49719938",
+    "source": "nand2mario.github.io",
+    "date": "2026-09-15T22:50:55Z",
+    "timestamp": 1789512655,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "'Robots building robots': a 10k unit industrial humanoid robot smart factory",
+    "url": "https://www.globaltimes.cn/page/202609/1370528.shtml",
+    "discussion_url": "https://news.ycombinator.com/item?id=49719258",
+    "source": "globaltimes.cn",
+    "date": "2026-09-15T21:42:24Z",
+    "timestamp": 1789508544,
+    "category": "Physical AI"
   },
   {
     "title": "Liquid Compute Launches with $15M to Build a Regulated Exchange for GPUs",
@@ -27,165 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "We're not ready for superpersistent AI",
-    "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
-    "discussion_url": "https://news.ycombinator.com/item?id=49718283",
-    "source": "natesilver.net",
-    "date": "2026-09-15T20:17:10Z",
-    "timestamp": 1789503430,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
-    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "discussion_url": "https://news.ycombinator.com/item?id=49718194",
-    "source": "spectrum.ieee.org",
-    "date": "2026-09-15T20:11:19Z",
-    "timestamp": 1789503079,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI",
-    "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717958",
-    "source": "bbc.com",
-    "date": "2026-09-15T19:52:03Z",
-    "timestamp": 1789501923,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I tagged you, not the AI you're using",
-    "url": "https://nomeatproxy.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717769",
-    "source": "nomeatproxy.com",
-    "date": "2026-09-15T19:38:54Z",
-    "timestamp": 1789501134,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Linux embedded log/errors detector on Imx8's NPU",
-    "url": "https://github.com/leonardosalvatore/sentinel-imx-sys",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717683",
-    "source": "github.com",
-    "date": "2026-09-15T19:33:01Z",
-    "timestamp": 1789500781,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
-    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717679",
-    "source": "wsj.com",
-    "date": "2026-09-15T19:32:50Z",
-    "timestamp": 1789500770,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
     "url": "https://codyho.dev/blog/gpu-driver/",
     "discussion_url": "https://news.ycombinator.com/item?id=49717638",
     "source": "codyho.dev",
     "date": "2026-09-15T19:30:03Z",
     "timestamp": 1789500603,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
-    "url": "https://raw.githubusercontent.com/kbr-/math-research/3979e0cc0a75dde9b845df7ec8869d033dfcd8d4/publications/bit-php-resolution-over-parities/whitepaper.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717545",
-    "source": "raw.githubusercontent.com",
-    "date": "2026-09-15T19:24:06Z",
-    "timestamp": 1789500246,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Infrastructure at Periodic",
-    "url": "https://periodic.com/news/ai-infrastructure-at-periodic",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717176",
-    "source": "periodic.com",
-    "date": "2026-09-15T18:59:53Z",
-    "timestamp": 1789498793,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hassett: Trump 'wholeheartedly rejects government takeover of AI regulation",
-    "url": "https://www.youtube.com/watch?v=xkNAbgS6b5g",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717031",
-    "source": "youtube.com",
-    "date": "2026-09-15T18:50:58Z",
-    "timestamp": 1789498258,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
-    "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-    "discussion_url": "https://news.ycombinator.com/item?id=49716852",
-    "source": "theguardian.com",
-    "date": "2026-09-15T18:37:41Z",
-    "timestamp": 1789497461,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
-    "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
-    "discussion_url": "https://news.ycombinator.com/item?id=49716832",
-    "source": "thedrive.com",
-    "date": "2026-09-15T18:36:36Z",
-    "timestamp": 1789497396,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SiFive and AMD Collaborate to Optimize AMD ROCm on RISC-V Datacenter Servers",
-    "url": "https://finance.yahoo.com/technology/ai/articles/sifive-amd-collaborate-optimize-amd-130000907.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49716800",
-    "source": "finance.yahoo.com",
-    "date": "2026-09-15T18:34:18Z",
-    "timestamp": 1789497258,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Smooth Exponentials for Robotics",
-    "url": "https://evjang.com/2026/09/10/smooth-exponential.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715997",
-    "source": "evjang.com",
-    "date": "2026-09-15T17:41:00Z",
-    "timestamp": 1789494060,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715813",
-    "source": "global.fujitsu",
-    "date": "2026-09-15T17:28:38Z",
-    "timestamp": 1789493318,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A labor forecasting approach built to keep pace with AI and robotics",
-    "url": "https://endoflabor.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715541",
-    "source": "endoflabor.org",
-    "date": "2026-09-15T17:08:32Z",
-    "timestamp": 1789492112,
-    "category": "Physical AI"
-  },
-  {
-    "title": "We asked creative experts to rank AI image / video models. Here's what happened",
-    "url": "https://openart.ai/arena",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715465",
-    "source": "openart.ai",
-    "date": "2026-09-15T17:02:23Z",
-    "timestamp": 1789491743,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "Subnormal floating-point numbers are expensive on Intel processors",
-    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715408",
-    "source": "lemire.me",
-    "date": "2026-09-15T16:58:22Z",
-    "timestamp": 1789491502,
     "category": "Computer Architecture"
   },
   {
