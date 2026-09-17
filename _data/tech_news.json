@@ -1,57 +1,129 @@
 [
   {
-    "title": "The LLMs Yearn for the Spines",
-    "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49733100",
-    "source": "buttondown.com",
-    "date": "2026-09-16T21:13:10Z",
-    "timestamp": 1789593190,
-    "category": "Machine Learning"
+    "title": "Designing a TPU and optimizing transformer inference on a $100 FPGA",
+    "url": "https://im-afan.github.io/transformer-tpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49736372",
+    "source": "im-afan.github.io",
+    "date": "2026-09-17T04:23:09Z",
+    "timestamp": 1789618989,
+    "category": "Computer Architecture"
   },
   {
-    "title": "We're not ready for superpersistent AI",
-    "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
-    "discussion_url": "https://news.ycombinator.com/item?id=49733022",
-    "source": "natesilver.net",
-    "date": "2026-09-16T21:06:22Z",
-    "timestamp": 1789592782,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
-    "url": "https://github.com/alphasolutionsrepo/interakt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732963",
+    "title": "Quire – Humans and AI agents edit local Markdown together",
+    "url": "https://github.com/heetdalsania/quire",
+    "discussion_url": "https://news.ycombinator.com/item?id=49736281",
     "source": "github.com",
-    "date": "2026-09-16T21:01:06Z",
-    "timestamp": 1789592466,
+    "date": "2026-09-17T04:08:25Z",
+    "timestamp": 1789618105,
     "category": "Machine Learning"
   },
   {
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "url": "https://arxiv.org/abs/2609.16338",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732931",
-    "source": "arxiv.org",
-    "date": "2026-09-16T20:59:24Z",
-    "timestamp": 1789592364,
+    "title": "Ḽava AI Bitcoin Talk Article",
+    "url": "https://bitcointalk.org/index.php?topic=5594370",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735846",
+    "source": "bitcointalk.org",
+    "date": "2026-09-17T02:47:20Z",
+    "timestamp": 1789613240,
     "category": "Machine Learning"
   },
   {
-    "title": "New satellites and artificial intelligence are transforming wildfire detection",
-    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732617",
+    "title": "AI models chatting in 'surreal' dialect mixing poetic language and techbrojargon",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735801",
     "source": "theguardian.com",
-    "date": "2026-09-16T20:34:26Z",
-    "timestamp": 1789590866,
+    "date": "2026-09-17T02:40:55Z",
+    "timestamp": 1789612855,
     "category": "Machine Learning"
   },
   {
-    "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
-    "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732515",
-    "source": "blog.mozilla.org",
-    "date": "2026-09-16T20:27:23Z",
-    "timestamp": 1789590443,
+    "title": "Show HN: Echodot – Local-first AI that writes replies in your tone",
+    "url": "https://github.com/ohkariku-boop/Echodot",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735771",
+    "source": "github.com",
+    "date": "2026-09-17T02:34:13Z",
+    "timestamp": 1789612453,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Overlord – a trust kernel for AI agents",
+    "url": "https://github.com/B1tR0n1n/overlord",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735668",
+    "source": "github.com",
+    "date": "2026-09-17T02:17:18Z",
+    "timestamp": 1789611438,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"Start with a Monolith\" Was Good Advice. AI Is Changing That",
+    "url": "https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735426",
+    "source": "medium.com",
+    "date": "2026-09-17T01:41:14Z",
+    "timestamp": 1789609274,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
+    "url": "https://fastrecall.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735358",
+    "source": "fastrecall.ai",
+    "date": "2026-09-17T01:31:50Z",
+    "timestamp": 1789608710,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+    "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735351",
+    "source": "nypost.com",
+    "date": "2026-09-17T01:30:49Z",
+    "timestamp": 1789608649,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+    "url": "https://www.reuters.com/business/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report-2026-09-15/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735336",
+    "source": "reuters.com",
+    "date": "2026-09-17T01:28:48Z",
+    "timestamp": 1789608528,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pangram – AI detector for text and images",
+    "url": "https://www.pangram.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735241",
+    "source": "pangram.com",
+    "date": "2026-09-17T01:13:10Z",
+    "timestamp": 1789607590,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will AI Replace Your Doctor? Dr. Zeke Emanuel and AMA President Dr. John Whyte",
+    "url": "https://www.youtube.com/watch?v=WTnZ6W7qsLQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735105",
+    "source": "youtube.com",
+    "date": "2026-09-17T00:51:52Z",
+    "timestamp": 1789606312,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+    "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49735049",
+    "source": "fractalsofchange.substack.com",
+    "date": "2026-09-17T00:44:51Z",
+    "timestamp": 1789605891,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can I get insurance for company renting humanoids for parties?",
+    "url": "https://news.ycombinator.com/item?id=49733718",
+    "discussion_url": "https://news.ycombinator.com/item?id=49733718",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-16T22:09:05Z",
+    "timestamp": 1789596545,
+    "category": "Physical AI"
   },
   {
     "title": "Raycast Rugpull: Free Alternative to Raycast",
@@ -63,78 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
-    "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732221",
-    "source": "finance.yahoo.com",
-    "date": "2026-09-16T20:05:55Z",
-    "timestamp": 1789589155,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
-    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731922",
-    "source": "wired.com",
-    "date": "2026-09-16T19:44:21Z",
-    "timestamp": 1789587861,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
-    "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731792",
-    "source": "youtube.com",
-    "date": "2026-09-16T19:33:55Z",
-    "timestamp": 1789587235,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cortex: An open-source L1 memory and state layer for autonomous AI agents",
-    "url": "https://github.com/cortex-protocol/cortex-protocol",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731631",
-    "source": "github.com",
-    "date": "2026-09-16T19:20:01Z",
-    "timestamp": 1789586401,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Padwan-LLM, a lightweight LLM Python client",
-    "url": "https://github.com/polarsen-io/padwan-llm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731552",
-    "source": "github.com",
-    "date": "2026-09-16T19:12:12Z",
-    "timestamp": 1789585932,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Forget the AI Apocalypse – The Real Threats Are Already Here",
-    "url": "https://www.wsj.com/tech/ai/ai-apocalypse-dangers-already-here-f3cd57de",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731478",
-    "source": "wsj.com",
-    "date": "2026-09-16T19:06:20Z",
-    "timestamp": 1789585580,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China's Ubtech Opens Plant Making a Humanoid Robot Every 10 Minutes",
-    "url": "https://en.sedaily.com/international/2026/09/16/chinas-ubtech-opens-plant-making-a-humanoid-robot-every-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=49731310",
-    "source": "en.sedaily.com",
-    "date": "2026-09-16T18:51:42Z",
-    "timestamp": 1789584702,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Real-Time Chess Assistant (C++ DirectX, OpenCV, ImGui and Stockfish)",
-    "url": "https://github.com/rccmb/oracle",
-    "discussion_url": "https://news.ycombinator.com/item?id=49730729",
-    "source": "github.com",
-    "date": "2026-09-16T18:05:26Z",
-    "timestamp": 1789581926,
-    "category": "Computer Vision"
-  },
-  {
     "title": "Training Text-to-Image Models 3.6× Faster",
     "url": "https://www.linum.ai/field-notes/jit-ddt",
     "discussion_url": "https://news.ycombinator.com/item?id=49729816",
@@ -144,12 +144,12 @@
     "category": "Computer Vision"
   },
   {
-    "title": "Column built an issuer processor from scratch",
-    "url": "https://column.com/card-issuing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49729631",
-    "source": "column.com",
-    "date": "2026-09-16T16:42:37Z",
-    "timestamp": 1789576957,
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49724881",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-16T11:15:53Z",
+    "timestamp": 1789557353,
     "category": "Computer Architecture"
   },
   {
