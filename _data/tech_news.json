@@ -1,129 +1,183 @@
 [
   {
-    "title": "Palantir's Karp: AI needs to have 'reasonable guidelines,'",
-    "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49743506",
-    "source": "cnbc.com",
-    "date": "2026-09-17T16:57:10Z",
-    "timestamp": 1789664230,
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746369",
+    "source": "anthropic.com",
+    "date": "2026-09-17T20:50:01Z",
+    "timestamp": 1789678201,
     "category": "Machine Learning"
   },
   {
-    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-    "url": "https://skillsync.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49743049",
-    "source": "skillsync.com",
-    "date": "2026-09-17T16:22:15Z",
-    "timestamp": 1789662135,
+    "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+    "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746301",
+    "source": "pewresearch.org",
+    "date": "2026-09-17T20:45:24Z",
+    "timestamp": 1789677924,
     "category": "Machine Learning"
   },
   {
-    "title": "AI has transformed The Pentagon's aging networks into a national security risk",
-    "url": "https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742881",
-    "source": "washingtonpost.com",
-    "date": "2026-09-17T16:11:23Z",
-    "timestamp": 1789661483,
+    "title": "US, China security experts propose nuclear-style safeguards for AI risks",
+    "url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746248",
+    "source": "reuters.com",
+    "date": "2026-09-17T20:41:32Z",
+    "timestamp": 1789677692,
     "category": "Machine Learning"
   },
   {
-    "title": "AI model watermarking changes agent behavior",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742797",
-    "source": "theregister.com",
-    "date": "2026-09-17T16:05:34Z",
-    "timestamp": 1789661134,
+    "title": "Jina-OCR-v1: Faster Document Parsing on Low-Budget GPU",
+    "url": "https://jina.ai/en-US/news/jina-ocr-v1-faster-document-parsing-on-low-budget-gpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746139",
+    "source": "jina.ai",
+    "date": "2026-09-17T20:34:28Z",
+    "timestamp": 1789677268,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What Policymakers and the Public Need to Know About the Cult of AI",
+    "url": "https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745928",
+    "source": "techpolicy.press",
+    "date": "2026-09-17T20:16:14Z",
+    "timestamp": 1789676174,
     "category": "Machine Learning"
   },
   {
-    "title": "Go-based Robotics Framework built around NATS.io",
-    "url": "https://github.com/emergingrobotics/gorai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742642",
+    "title": "Killer AI Is Here. We're Using It in Iran",
+    "url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745926",
+    "source": "motherjones.com",
+    "date": "2026-09-17T20:16:04Z",
+    "timestamp": 1789676164,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The FAA's $875M Plan to Use AI to Ease Air-Traffic Woes",
+    "url": "https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745766",
+    "source": "wsj.com",
+    "date": "2026-09-17T20:01:21Z",
+    "timestamp": 1789675281,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CC is an AI agent for families and groups",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745728",
+    "source": "blog.google",
+    "date": "2026-09-17T19:56:58Z",
+    "timestamp": 1789675018,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Multiplayer Mode for AI Agents",
+    "url": "https://gotincan.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745627",
+    "source": "gotincan.com",
+    "date": "2026-09-17T19:48:24Z",
+    "timestamp": 1789674504,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Run QWEN3.8 27B on 16gb Nvidia GPUs",
+    "url": "https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745610",
     "source": "github.com",
-    "date": "2026-09-17T15:54:43Z",
-    "timestamp": 1789660483,
+    "date": "2026-09-17T19:46:57Z",
+    "timestamp": 1789674417,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "DuckDuckGo No-AI: Private Search Without AI",
+    "url": "https://noai.duckduckgo.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745566",
+    "source": "noai.duckduckgo.com",
+    "date": "2026-09-17T19:42:34Z",
+    "timestamp": 1789674154,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pedagogy in the Times of AI [YT] [video]",
+    "url": "https://www.youtube.com/watch?v=N2a1J0UPeL4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745531",
+    "source": "youtube.com",
+    "date": "2026-09-17T19:39:30Z",
+    "timestamp": 1789673970,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization",
+    "url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745512",
+    "source": "figure.ai",
+    "date": "2026-09-17T19:37:23Z",
+    "timestamp": 1789673843,
     "category": "Physical AI"
   },
   {
-    "title": "Robotaxi Might Be a Narc",
-    "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742638",
-    "source": "theverge.com",
-    "date": "2026-09-17T15:54:25Z",
-    "timestamp": 1789660465,
+    "title": "AI could create a 'silicon species' that rivals humans, Microsoft chief warns",
+    "url": "https://www.euronews.com/next/2026/09/17/ai-could-create-a-silicon-species-that-rivals-humans-microsoft-chief-warns",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745249",
+    "source": "euronews.com",
+    "date": "2026-09-17T19:15:05Z",
+    "timestamp": 1789672505,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "More Kiwis taking 'hands off' approach with self-driving technology",
+    "url": "https://www.rnz.co.nz/news/science-and-technology/1447009/more-kiwis-taking-hands-off-approach-with-self-driving-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745229",
+    "source": "rnz.co.nz",
+    "date": "2026-09-17T19:13:11Z",
+    "timestamp": 1789672391,
     "category": "Physical AI"
   },
   {
-    "title": "LLM Classification Is Feature Engineering",
-    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742437",
-    "source": "minimallysufficient.com",
-    "date": "2026-09-17T15:40:17Z",
-    "timestamp": 1789659617,
+    "title": "Robots are asking for tips. But who gets the money?",
+    "url": "https://www.bbc.com/future/article/20260818-do-you-have-to-tip-the-robots",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745223",
+    "source": "bbc.com",
+    "date": "2026-09-17T19:12:55Z",
+    "timestamp": 1789672375,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Goldman Sachs – Physical AI",
+    "url": "https://finvaulta.com/share/IiHiYMiUB7CdVQWuq-EKpw",
+    "discussion_url": "https://news.ycombinator.com/item?id=49745096",
+    "source": "finvaulta.com",
+    "date": "2026-09-17T19:03:40Z",
+    "timestamp": 1789671820,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Tell HN: Stop posting your departures from AI labs",
+    "url": "https://news.ycombinator.com/item?id=49744931",
+    "discussion_url": "https://news.ycombinator.com/item?id=49744931",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-17T18:50:45Z",
+    "timestamp": 1789671045,
     "category": "Machine Learning"
   },
   {
-    "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
-    "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742415",
-    "source": "blog.mozilla.ai",
-    "date": "2026-09-17T15:38:11Z",
-    "timestamp": 1789659491,
-    "category": "Machine Learning"
+    "title": "The Last Question by Isaac Asimov – This Is Ageless",
+    "url": "https://users.ece.cmu.edu/~gamvrosi/thelastq.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49743880",
+    "source": "users.ece.cmu.edu",
+    "date": "2026-09-17T17:27:31Z",
+    "timestamp": 1789666051,
+    "category": "Physical AI"
   },
   {
-    "title": "Prompting large language models for quality ecological statistics",
-    "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70267?af=R",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742397",
-    "source": "besjournals.onlinelibrary.wiley.com",
-    "date": "2026-09-17T15:37:13Z",
-    "timestamp": 1789659433,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Open-source AI teammates with their own computer",
-    "url": "https://runerrand.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742388",
-    "source": "runerrand.dev",
-    "date": "2026-09-17T15:36:50Z",
-    "timestamp": 1789659410,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-    "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742233",
-    "source": "asiaai.fyi",
-    "date": "2026-09-17T15:26:23Z",
-    "timestamp": 1789658783,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Consciousness Is Not a Safety Property",
-    "url": "https://philippdubach.com/posts/ai-consciousness-is-not-a-safety-property/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742078",
-    "source": "philippdubach.com",
-    "date": "2026-09-17T15:16:55Z",
-    "timestamp": 1789658215,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Artificial intelligence now beats some of the best human forecasters",
-    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-    "discussion_url": "https://news.ycombinator.com/item?id=49742021",
-    "source": "economist.com",
-    "date": "2026-09-17T15:13:30Z",
-    "timestamp": 1789658010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom",
-    "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-    "discussion_url": "https://news.ycombinator.com/item?id=49741977",
-    "source": "bloomberg.com",
-    "date": "2026-09-17T15:11:02Z",
-    "timestamp": 1789657862,
-    "category": "Machine Learning"
+    "title": "Towards Self-Driving Codebases",
+    "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49743527",
+    "source": "blog.detail.dev",
+    "date": "2026-09-17T16:58:31Z",
+    "timestamp": 1789664311,
+    "category": "Physical AI"
   },
   {
     "title": "Training Text-to-Image Models 3.6× Faster",
@@ -144,15 +198,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49719938",
-    "source": "nand2mario.github.io",
-    "date": "2026-09-15T22:50:55Z",
-    "timestamp": 1789512655,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
     "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "discussion_url": "https://news.ycombinator.com/item?id=49715813",
@@ -160,14 +205,5 @@
     "date": "2026-09-15T17:28:38Z",
     "timestamp": 1789493318,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "OpenArm: An open-source 7DOF humanoid arm",
-    "url": "https://github.com/enactic/OpenArm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49684289",
-    "source": "github.com",
-    "date": "2026-09-13T14:17:49Z",
-    "timestamp": 1789309069,
-    "category": "Physical AI"
   }
 ]
