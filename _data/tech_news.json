@@ -1,137 +1,128 @@
 [
   {
+    "title": "If you take away AI and the new Siri, is there anything new in Apple's OS 27?",
+    "url": "https://manualdousuario.net/en/macos-golden-gate-ios-27-review/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49739115",
+    "source": "manualdousuario.net",
+    "date": "2026-09-17T11:13:14Z",
+    "timestamp": 1789643594,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The White House Tussle to Sway Trump on AI",
+    "url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738719",
+    "source": "wsj.com",
+    "date": "2026-09-17T10:25:12Z",
+    "timestamp": 1789640712,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Don't build tools for AI agents",
+    "url": "https://www.seangoedecke.com/dont-build-tools-for-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738456",
+    "source": "seangoedecke.com",
+    "date": "2026-09-17T09:48:25Z",
+    "timestamp": 1789638505,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: SyntaxCue – local-first AI interview copilot (whisper.cpp and BYOK)",
+    "url": "https://syntaxcue.com/how-syntaxcue-captures-system-audio/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738454",
+    "source": "syntaxcue.com",
+    "date": "2026-09-17T09:48:19Z",
+    "timestamp": 1789638499,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738428",
+    "source": "arstechnica.com",
+    "date": "2026-09-17T09:45:33Z",
+    "timestamp": 1789638333,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Inference vs. the OOM Killer",
+    "url": "https://www.nobodywho.ai/posts/inference-oom/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738408",
+    "source": "nobodywho.ai",
+    "date": "2026-09-17T09:42:45Z",
+    "timestamp": 1789638165,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lattice Prompt brings AI agents into the full FPGA design flow via MCP",
+    "url": "https://www.businesswire.com/news/home/20260916317324/en/Lattice-Advances-FPGA-Design-with-New-Leadership-AI-Driven-Development-Tool-Lattice-Prompt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738141",
+    "source": "businesswire.com",
+    "date": "2026-09-17T08:59:56Z",
+    "timestamp": 1789635596,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The paradox of AI automation at the workplace",
+    "url": "https://news.ycombinator.com/item?id=49738100",
+    "discussion_url": "https://news.ycombinator.com/item?id=49738100",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-17T08:52:52Z",
+    "timestamp": 1789635172,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Safety Is Mostly a Sex Cult",
+    "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+    "discussion_url": "https://news.ycombinator.com/item?id=49737985",
+    "source": "skywriter.blue",
+    "date": "2026-09-17T08:36:37Z",
+    "timestamp": 1789634197,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "discussion_url": "https://news.ycombinator.com/item?id=49737922",
+    "source": "z.ai",
+    "date": "2026-09-17T08:27:09Z",
+    "timestamp": 1789633629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jev Is the Missing Piece in Production AI Systems",
+    "url": "https://blog.nimendra.xyz/blog/jev-decision-layer-for-production-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49737892",
+    "source": "blog.nimendra.xyz",
+    "date": "2026-09-17T08:21:14Z",
+    "timestamp": 1789633274,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI reveals cases of 'concerning' AI behaviour as it announces new ... system",
+    "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49737638",
+    "source": "theguardian.com",
+    "date": "2026-09-17T07:41:57Z",
+    "timestamp": 1789630917,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In the ruins of the AI gold rush, we choose craft",
+    "url": "https://doudouexe.substack.com/p/the-sovereign-creator-in-the-ruins",
+    "discussion_url": "https://news.ycombinator.com/item?id=49737426",
+    "source": "doudouexe.substack.com",
+    "date": "2026-09-17T07:10:27Z",
+    "timestamp": 1789629027,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Designing a TPU and optimizing transformer inference on a $100 FPGA",
     "url": "https://im-afan.github.io/transformer-tpu/",
     "discussion_url": "https://news.ycombinator.com/item?id=49736372",
     "source": "im-afan.github.io",
     "date": "2026-09-17T04:23:09Z",
     "timestamp": 1789618989,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Quire – Humans and AI agents edit local Markdown together",
-    "url": "https://github.com/heetdalsania/quire",
-    "discussion_url": "https://news.ycombinator.com/item?id=49736281",
-    "source": "github.com",
-    "date": "2026-09-17T04:08:25Z",
-    "timestamp": 1789618105,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ḽava AI Bitcoin Talk Article",
-    "url": "https://bitcointalk.org/index.php?topic=5594370",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735846",
-    "source": "bitcointalk.org",
-    "date": "2026-09-17T02:47:20Z",
-    "timestamp": 1789613240,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models chatting in 'surreal' dialect mixing poetic language and techbrojargon",
-    "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735801",
-    "source": "theguardian.com",
-    "date": "2026-09-17T02:40:55Z",
-    "timestamp": 1789612855,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Echodot – Local-first AI that writes replies in your tone",
-    "url": "https://github.com/ohkariku-boop/Echodot",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735771",
-    "source": "github.com",
-    "date": "2026-09-17T02:34:13Z",
-    "timestamp": 1789612453,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Overlord – a trust kernel for AI agents",
-    "url": "https://github.com/B1tR0n1n/overlord",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735668",
-    "source": "github.com",
-    "date": "2026-09-17T02:17:18Z",
-    "timestamp": 1789611438,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Start with a Monolith\" Was Good Advice. AI Is Changing That",
-    "url": "https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735426",
-    "source": "medium.com",
-    "date": "2026-09-17T01:41:14Z",
-    "timestamp": 1789609274,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
-    "url": "https://fastrecall.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735358",
-    "source": "fastrecall.ai",
-    "date": "2026-09-17T01:31:50Z",
-    "timestamp": 1789608710,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
-    "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735351",
-    "source": "nypost.com",
-    "date": "2026-09-17T01:30:49Z",
-    "timestamp": 1789608649,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
-    "url": "https://www.reuters.com/business/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report-2026-09-15/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735336",
-    "source": "reuters.com",
-    "date": "2026-09-17T01:28:48Z",
-    "timestamp": 1789608528,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pangram – AI detector for text and images",
-    "url": "https://www.pangram.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735241",
-    "source": "pangram.com",
-    "date": "2026-09-17T01:13:10Z",
-    "timestamp": 1789607590,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Will AI Replace Your Doctor? Dr. Zeke Emanuel and AMA President Dr. John Whyte",
-    "url": "https://www.youtube.com/watch?v=WTnZ6W7qsLQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735105",
-    "source": "youtube.com",
-    "date": "2026-09-17T00:51:52Z",
-    "timestamp": 1789606312,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
-    "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49735049",
-    "source": "fractalsofchange.substack.com",
-    "date": "2026-09-17T00:44:51Z",
-    "timestamp": 1789605891,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can I get insurance for company renting humanoids for parties?",
-    "url": "https://news.ycombinator.com/item?id=49733718",
-    "discussion_url": "https://news.ycombinator.com/item?id=49733718",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-16T22:09:05Z",
-    "timestamp": 1789596545,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Raycast Rugpull: Free Alternative to Raycast",
-    "url": "https://github.com/abue-ammar/tinycast",
-    "discussion_url": "https://news.ycombinator.com/item?id=49732366",
-    "source": "github.com",
-    "date": "2026-09-16T20:17:01Z",
-    "timestamp": 1789589821,
     "category": "Computer Architecture"
   },
   {
@@ -159,24 +150,6 @@
     "source": "nand2mario.github.io",
     "date": "2026-09-15T22:50:55Z",
     "timestamp": 1789512655,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49717638",
-    "source": "codyho.dev",
-    "date": "2026-09-15T19:30:03Z",
-    "timestamp": 1789500603,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49697477",
-    "source": "nathannaveen.dev",
-    "date": "2026-09-14T14:29:23Z",
-    "timestamp": 1789396163,
     "category": "Computer Architecture"
   },
   {
