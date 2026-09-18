@@ -1,30 +1,147 @@
 [
   {
-    "title": "Measurements for understanding the pace of AI development inside frontier labs",
-    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-    "discussion_url": "https://news.ycombinator.com/item?id=49746369",
-    "source": "anthropic.com",
-    "date": "2026-09-17T20:50:01Z",
-    "timestamp": 1789678201,
+    "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
+    "url": "https://arxiv.org/abs/2609.17817",
+    "discussion_url": "https://news.ycombinator.com/item?id=49750082",
+    "source": "arxiv.org",
+    "date": "2026-09-18T04:07:08Z",
+    "timestamp": 1789704428,
     "category": "Machine Learning"
   },
   {
-    "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
-    "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49746301",
-    "source": "pewresearch.org",
-    "date": "2026-09-17T20:45:24Z",
-    "timestamp": 1789677924,
+    "title": "Show HN: Continuity – project state your AI sessions can't silently contradict",
+    "url": "https://github.com/vikcena01/ai-continuity-plugin",
+    "discussion_url": "https://news.ycombinator.com/item?id=49750016",
+    "source": "github.com",
+    "date": "2026-09-18T03:56:51Z",
+    "timestamp": 1789703811,
     "category": "Machine Learning"
   },
   {
-    "title": "US, China security experts propose nuclear-style safeguards for AI risks",
-    "url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49746248",
-    "source": "reuters.com",
-    "date": "2026-09-17T20:41:32Z",
-    "timestamp": 1789677692,
+    "title": "macOS 27 is a lifesaver for killing leftover AI Agent processes",
+    "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49750009",
+    "source": "9to5mac.com",
+    "date": "2026-09-18T03:55:42Z",
+    "timestamp": 1789703742,
     "category": "Machine Learning"
+  },
+  {
+    "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749997",
+    "source": "lasso.security",
+    "date": "2026-09-18T03:53:51Z",
+    "timestamp": 1789703631,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Concerns Surrounding Rapid Rise of AI and What We Should Do About It",
+    "url": "https://medium.com/@f9121212/this-article-addresses-the-concerns-surrounding-the-rapid-rise-of-ai-from-various-perspectives-and-eae34506d586",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749971",
+    "source": "medium.com",
+    "date": "2026-09-18T03:48:04Z",
+    "timestamp": 1789703284,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749829",
+    "source": "arstechnica.com",
+    "date": "2026-09-18T03:14:57Z",
+    "timestamp": 1789701297,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+    "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749680",
+    "source": "reddit.com",
+    "date": "2026-09-18T02:50:34Z",
+    "timestamp": 1789699834,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Low-Cost Servers for AI and Developers",
+    "url": "https://rawhq.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749551",
+    "source": "rawhq.io",
+    "date": "2026-09-18T02:26:14Z",
+    "timestamp": 1789698374,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale",
+    "url": "https://asiaai.fyi/tech-index/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749539",
+    "source": "asiaai.fyi",
+    "date": "2026-09-18T02:25:01Z",
+    "timestamp": 1789698301,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Essays of Dario Amodei are why people are worried about artificial intelligence",
+    "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749454",
+    "source": "nytimes.com",
+    "date": "2026-09-18T02:13:09Z",
+    "timestamp": 1789697589,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Spectral AI Architecture: Executive Summary and Core Concepts",
+    "url": "https://github.com/srdwy99m5j-lab/glowing-rotary-phone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49749202",
+    "source": "github.com",
+    "date": "2026-09-18T01:37:06Z",
+    "timestamp": 1789695426,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hypercomb – AI open software platform",
+    "url": "https://hypercomb.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=49748991",
+    "source": "hypercomb.io",
+    "date": "2026-09-18T01:09:14Z",
+    "timestamp": 1789693754,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "From Operations to a Robot Arm",
+    "url": "https://huggingface.co/blog/TheMuz/from-operations-to-a-robot-arm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49748760",
+    "source": "huggingface.co",
+    "date": "2026-09-18T00:35:52Z",
+    "timestamp": 1789691752,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Publishers block the robots.txt path their own affiliate redirects live on",
+    "url": "https://disclosed.info/the-index/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49748237",
+    "source": "disclosed.info",
+    "date": "2026-09-17T23:34:51Z",
+    "timestamp": 1789688091,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Wonder debuts first robotic meal assembly system, acquired tech from Sweetgreen",
+    "url": "https://www.fastcompany.com/91606368/marc-lore-startup-wonder-infinite-makeline-robotic-food-prep",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746492",
+    "source": "fastcompany.com",
+    "date": "2026-09-17T21:00:17Z",
+    "timestamp": 1789678817,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49746163",
+    "source": "bend-lang.com",
+    "date": "2026-09-17T20:36:13Z",
+    "timestamp": 1789677373,
+    "category": "Computer Architecture"
   },
   {
     "title": "Jina-OCR-v1: Faster Document Parsing on Low-Budget GPU",
@@ -36,51 +153,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "What Policymakers and the Public Need to Know About the Cult of AI",
-    "url": "https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745928",
-    "source": "techpolicy.press",
-    "date": "2026-09-17T20:16:14Z",
-    "timestamp": 1789676174,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Killer AI Is Here. We're Using It in Iran",
-    "url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745926",
-    "source": "motherjones.com",
-    "date": "2026-09-17T20:16:04Z",
-    "timestamp": 1789676164,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The FAA's $875M Plan to Use AI to Ease Air-Traffic Woes",
-    "url": "https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745766",
-    "source": "wsj.com",
-    "date": "2026-09-17T20:01:21Z",
-    "timestamp": 1789675281,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CC is an AI agent for families and groups",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745728",
-    "source": "blog.google",
-    "date": "2026-09-17T19:56:58Z",
-    "timestamp": 1789675018,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Multiplayer Mode for AI Agents",
-    "url": "https://gotincan.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745627",
-    "source": "gotincan.com",
-    "date": "2026-09-17T19:48:24Z",
-    "timestamp": 1789674504,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Run QWEN3.8 27B on 16gb Nvidia GPUs",
     "url": "https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install",
     "discussion_url": "https://news.ycombinator.com/item?id=49745610",
@@ -88,24 +160,6 @@
     "date": "2026-09-17T19:46:57Z",
     "timestamp": 1789674417,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "DuckDuckGo No-AI: Private Search Without AI",
-    "url": "https://noai.duckduckgo.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745566",
-    "source": "noai.duckduckgo.com",
-    "date": "2026-09-17T19:42:34Z",
-    "timestamp": 1789674154,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pedagogy in the Times of AI [YT] [video]",
-    "url": "https://www.youtube.com/watch?v=N2a1J0UPeL4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745531",
-    "source": "youtube.com",
-    "date": "2026-09-17T19:39:30Z",
-    "timestamp": 1789673970,
-    "category": "Machine Learning"
   },
   {
     "title": "Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization",
@@ -117,60 +171,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "AI could create a 'silicon species' that rivals humans, Microsoft chief warns",
-    "url": "https://www.euronews.com/next/2026/09/17/ai-could-create-a-silicon-species-that-rivals-humans-microsoft-chief-warns",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745249",
-    "source": "euronews.com",
-    "date": "2026-09-17T19:15:05Z",
-    "timestamp": 1789672505,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "More Kiwis taking 'hands off' approach with self-driving technology",
-    "url": "https://www.rnz.co.nz/news/science-and-technology/1447009/more-kiwis-taking-hands-off-approach-with-self-driving-technology",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745229",
-    "source": "rnz.co.nz",
-    "date": "2026-09-17T19:13:11Z",
-    "timestamp": 1789672391,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Robots are asking for tips. But who gets the money?",
-    "url": "https://www.bbc.com/future/article/20260818-do-you-have-to-tip-the-robots",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745223",
-    "source": "bbc.com",
-    "date": "2026-09-17T19:12:55Z",
-    "timestamp": 1789672375,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Goldman Sachs – Physical AI",
-    "url": "https://finvaulta.com/share/IiHiYMiUB7CdVQWuq-EKpw",
-    "discussion_url": "https://news.ycombinator.com/item?id=49745096",
-    "source": "finvaulta.com",
-    "date": "2026-09-17T19:03:40Z",
-    "timestamp": 1789671820,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Tell HN: Stop posting your departures from AI labs",
-    "url": "https://news.ycombinator.com/item?id=49744931",
-    "discussion_url": "https://news.ycombinator.com/item?id=49744931",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-17T18:50:45Z",
-    "timestamp": 1789671045,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Last Question by Isaac Asimov – This Is Ageless",
-    "url": "https://users.ece.cmu.edu/~gamvrosi/thelastq.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49743880",
-    "source": "users.ece.cmu.edu",
-    "date": "2026-09-17T17:27:31Z",
-    "timestamp": 1789666051,
-    "category": "Physical AI"
-  },
-  {
     "title": "Towards Self-Driving Codebases",
     "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
     "discussion_url": "https://news.ycombinator.com/item?id=49743527",
@@ -178,15 +178,6 @@
     "date": "2026-09-17T16:58:31Z",
     "timestamp": 1789664311,
     "category": "Physical AI"
-  },
-  {
-    "title": "Training Text-to-Image Models 3.6× Faster",
-    "url": "https://www.linum.ai/field-notes/jit-ddt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49729816",
-    "source": "linum.ai",
-    "date": "2026-09-16T16:58:13Z",
-    "timestamp": 1789577893,
-    "category": "Computer Vision"
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
