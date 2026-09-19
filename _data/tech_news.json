@@ -1,12 +1,129 @@
 [
   {
-    "title": "The last IMO problem AI could not solve [video]",
-    "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49765084",
-    "source": "youtube.com",
-    "date": "2026-09-19T10:08:58Z",
-    "timestamp": 1789812538,
+    "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+    "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+    "discussion_url": "https://news.ycombinator.com/item?id=49767480",
+    "source": "thenextweb.com",
+    "date": "2026-09-19T15:43:32Z",
+    "timestamp": 1789832612,
     "category": "Machine Learning"
+  },
+  {
+    "title": "The LLMs Yearn for the Spines",
+    "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49767316",
+    "source": "buttondown.com",
+    "date": "2026-09-19T15:26:21Z",
+    "timestamp": 1789831581,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Certify the Conversation, Not Just the AI Agent",
+    "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49767068",
+    "source": "anuclei.com",
+    "date": "2026-09-19T14:55:41Z",
+    "timestamp": 1789829741,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Guesswork – zsh autosuggestions ranked by an AI model instead of prefix match",
+    "url": "https://guesswork.findmalek.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766992",
+    "source": "guesswork.findmalek.com",
+    "date": "2026-09-19T14:46:55Z",
+    "timestamp": 1789829215,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Safety Is Mostly a Sex Cult",
+    "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766911",
+    "source": "bsky.app",
+    "date": "2026-09-19T14:36:28Z",
+    "timestamp": 1789828588,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
+    "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766722",
+    "source": "politico.com",
+    "date": "2026-09-19T14:09:55Z",
+    "timestamp": 1789826995,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: We've built an AI UGC video creator,free for one month",
+    "url": "https://kuvu.ai/marketing/ai-ugc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766639",
+    "source": "kuvu.ai",
+    "date": "2026-09-19T13:55:57Z",
+    "timestamp": 1789826157,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Wrong Race: the US, China, and AI Competition [pdf]",
+    "url": "https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766535",
+    "source": "quincyinst-2.s3.amazonaws.com",
+    "date": "2026-09-19T13:41:27Z",
+    "timestamp": 1789825287,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766366",
+    "source": "nature.com",
+    "date": "2026-09-19T13:18:20Z",
+    "timestamp": 1789823900,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can the AI arms race be stopped?",
+    "url": "https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766278",
+    "source": "economist.com",
+    "date": "2026-09-19T13:06:02Z",
+    "timestamp": 1789823162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]",
+    "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766216",
+    "source": "youtube.com",
+    "date": "2026-09-19T12:58:11Z",
+    "timestamp": 1789822691,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Yoshua Bengio's non-profit LawZero to build safe AI",
+    "url": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49766153",
+    "source": "theglobeandmail.com",
+    "date": "2026-09-19T12:48:10Z",
+    "timestamp": 1789822090,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
+    "url": "https://robocurve.org/roboharm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49765438",
+    "source": "robocurve.org",
+    "date": "2026-09-19T11:00:32Z",
+    "timestamp": 1789815632,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Goosebumps: A Paradigm Shift Is Occurring in Robotics",
+    "url": "https://twitter.com/ken_goldberg/status/2100986412762087909",
+    "discussion_url": "https://news.ycombinator.com/item?id=49765295",
+    "source": "twitter.com",
+    "date": "2026-09-19T10:40:03Z",
+    "timestamp": 1789814403,
+    "category": "Physical AI"
   },
   {
     "title": "Show HN: Word42 Open Source Wordprocessor",
@@ -18,129 +135,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "CrypLLM: AI chat agent for CrypTool 2",
-    "url": "https://github.com/CrypToolProject/CrypTool-2/tree/main/CrypLLM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764648",
-    "source": "github.com",
-    "date": "2026-09-19T08:51:42Z",
-    "timestamp": 1789807902,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google says its Gemini AI model hacked three other companies",
-    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764440",
-    "source": "theguardian.com",
-    "date": "2026-09-19T08:08:24Z",
-    "timestamp": 1789805304,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How universities are affected by AI moving knowledge outside their walls",
-    "url": "https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764439",
-    "source": "brookings.edu",
-    "date": "2026-09-19T08:08:02Z",
-    "timestamp": 1789805282,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI hallucination nearly triggers US Military operation",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764435",
-    "source": "techcrunch.com",
-    "date": "2026-09-19T08:07:08Z",
-    "timestamp": 1789805228,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
-    "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764330",
-    "source": "youtube.com",
-    "date": "2026-09-19T07:49:01Z",
-    "timestamp": 1789804141,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EFF Statement on California Governor's Executive Order on AI",
-    "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764156",
-    "source": "eff.org",
-    "date": "2026-09-19T07:15:45Z",
-    "timestamp": 1789802145,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "RubyLLM 2.0: What's New",
-    "url": "https://rubyllm.com/whats-new-in-2-0/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764151",
-    "source": "rubyllm.com",
-    "date": "2026-09-19T07:14:58Z",
-    "timestamp": 1789802098,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-    "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764141",
-    "source": "vice.com",
-    "date": "2026-09-19T07:13:10Z",
-    "timestamp": 1789801990,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI systems out-persuade expert humans",
-    "url": "https://arxiv.org/abs/2606.16475",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764139",
-    "source": "arxiv.org",
-    "date": "2026-09-19T07:12:15Z",
-    "timestamp": 1789801935,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Could AI kill us all? Your questions, answered",
-    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49764084",
-    "source": "technologyreview.com",
-    "date": "2026-09-19T07:02:27Z",
-    "timestamp": 1789801347,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
-    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49763977",
-    "source": "arstechnica.com",
-    "date": "2026-09-19T06:39:15Z",
-    "timestamp": 1789799955,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
     "url": "https://browser.geekbench.com/v7/cpu/389219",
     "discussion_url": "https://news.ycombinator.com/item?id=49763883",
     "source": "browser.geekbench.com",
     "date": "2026-09-19T06:19:24Z",
     "timestamp": 1789798764,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Faster JSON parsing with SVE2 on ARM processors",
-    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49761445",
-    "source": "lemire.me",
-    "date": "2026-09-18T23:05:35Z",
-    "timestamp": 1789772735,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Parallel vector graphics rasterization on CPU",
-    "url": "https://gasiulis.name/parallel-rasterization-on-cpu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49761288",
-    "source": "gasiulis.name",
-    "date": "2026-09-18T22:47:07Z",
-    "timestamp": 1789771627,
     "category": "Computer Architecture"
   },
   {
@@ -151,15 +151,6 @@
     "date": "2026-09-17T20:36:13Z",
     "timestamp": 1789677373,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Towards Self-Driving Codebases",
-    "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49743527",
-    "source": "blog.detail.dev",
-    "date": "2026-09-17T16:58:31Z",
-    "timestamp": 1789664311,
-    "category": "Physical AI"
   },
   {
     "title": "Column built an issuer processor from scratch",
@@ -186,24 +177,6 @@
     "source": "global.fujitsu",
     "date": "2026-09-15T17:28:38Z",
     "timestamp": 1789493318,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Subnormal floating-point numbers are expensive on Intel processors",
-    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49715408",
-    "source": "lemire.me",
-    "date": "2026-09-15T16:58:22Z",
-    "timestamp": 1789491502,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Speeding up gearhash on ARM64",
-    "url": "https://sam.dev/blog/gearhash-on-arm64",
-    "discussion_url": "https://news.ycombinator.com/item?id=49714596",
-    "source": "sam.dev",
-    "date": "2026-09-15T16:02:15Z",
-    "timestamp": 1789488135,
     "category": "Computer Architecture"
   }
 ]
