@@ -1,66 +1,138 @@
 [
   {
-    "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
-    "url": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759808",
-    "source": "gcaptain.com",
-    "date": "2026-09-18T20:27:59Z",
-    "timestamp": 1789763279,
+    "title": "AI Regulation and the China Question",
+    "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+    "discussion_url": "https://news.ycombinator.com/item?id=49762955",
+    "source": "casssunstein.substack.com",
+    "date": "2026-09-19T03:15:41Z",
+    "timestamp": 1789787741,
     "category": "Machine Learning"
   },
   {
-    "title": "Graduating in AI Era Is Like Large Recession for Starting Pay",
-    "url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759739",
-    "source": "census.gov",
-    "date": "2026-09-18T20:22:04Z",
-    "timestamp": 1789762924,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
-    "url": "https://github.com/unclebob/uml-viewer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759501",
+    "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+    "url": "https://github.com/JOxKxER/garza-global-graviton",
+    "discussion_url": "https://news.ycombinator.com/item?id=49762923",
     "source": "github.com",
-    "date": "2026-09-18T20:05:25Z",
-    "timestamp": 1789761925,
+    "date": "2026-09-19T03:09:11Z",
+    "timestamp": 1789787351,
     "category": "Machine Learning"
   },
   {
-    "title": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759443",
-    "source": "sciencedaily.com",
-    "date": "2026-09-18T20:00:41Z",
-    "timestamp": 1789761641,
+    "title": "Gemini hacked three companies in first known breakout by Google's AI",
+    "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49762493",
+    "source": "reuters.com",
+    "date": "2026-09-19T01:40:35Z",
+    "timestamp": 1789782035,
     "category": "Machine Learning"
   },
   {
-    "title": "AI chatbot's false report nearly sparked war with China, sources say",
-    "url": "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759430",
-    "source": "rnz.co.nz",
-    "date": "2026-09-18T19:59:56Z",
-    "timestamp": 1789761596,
+    "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+    "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49762422",
+    "source": "cnbc.com",
+    "date": "2026-09-19T01:24:13Z",
+    "timestamp": 1789781053,
     "category": "Machine Learning"
   },
   {
-    "title": "3Blue1Brown: The last IMO problem AI could not solve [video]",
-    "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759394",
-    "source": "youtube.com",
-    "date": "2026-09-18T19:57:25Z",
-    "timestamp": 1789761445,
+    "title": "The Great Unbundling of the LLM",
+    "url": "https://seldon-ai.com/blog/generation-is-the-wrong-primitive",
+    "discussion_url": "https://news.ycombinator.com/item?id=49762040",
+    "source": "seldon-ai.com",
+    "date": "2026-09-19T00:23:38Z",
+    "timestamp": 1789777418,
     "category": "Machine Learning"
   },
   {
-    "title": "Airlines' panic as FAA pushed new AI tool",
-    "url": "https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759191",
-    "source": "politico.com",
-    "date": "2026-09-18T19:41:41Z",
-    "timestamp": 1789760501,
+    "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
+    "url": "https://github.com/alibaba-damo-academy/damo-radar",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761981",
+    "source": "github.com",
+    "date": "2026-09-19T00:16:12Z",
+    "timestamp": 1789776972,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
+    "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761885",
+    "source": "slashdot.org",
+    "date": "2026-09-19T00:01:59Z",
+    "timestamp": 1789776119,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761840",
+    "source": "scmp.com",
+    "date": "2026-09-18T23:54:42Z",
+    "timestamp": 1789775682,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
+    "url": "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761730",
+    "source": "forkast.news",
+    "date": "2026-09-18T23:40:15Z",
+    "timestamp": 1789774815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
+    "url": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761584",
+    "source": "reuters.com",
+    "date": "2026-09-18T23:22:05Z",
+    "timestamp": 1789773725,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Compsci grads facing recession-like job prospects thanks to AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761529",
+    "source": "theregister.com",
+    "date": "2026-09-18T23:15:02Z",
+    "timestamp": 1789773302,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
+    "url": "https://agentgit.co/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761528",
+    "source": "agentgit.co",
+    "date": "2026-09-18T23:14:58Z",
+    "timestamp": 1789773298,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Faster JSON parsing with SVE2 on ARM processors",
+    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761445",
+    "source": "lemire.me",
+    "date": "2026-09-18T23:05:35Z",
+    "timestamp": 1789772735,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Parallel vector graphics rasterization on CPU",
+    "url": "https://gasiulis.name/parallel-rasterization-on-cpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49761288",
+    "source": "gasiulis.name",
+    "date": "2026-09-18T22:47:07Z",
+    "timestamp": 1789771627,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A CPU Backdoor (2025)",
+    "url": "https://phrack.org/issues/72/a-cpu-backdoor_md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49760613",
+    "source": "phrack.org",
+    "date": "2026-09-18T21:37:17Z",
+    "timestamp": 1789767437,
+    "category": "Computer Architecture"
   },
   {
     "title": "The US government just banned almost all robot vacuums – here's why",
@@ -70,60 +142,6 @@
     "date": "2026-09-18T19:35:23Z",
     "timestamp": 1789760123,
     "category": "Physical AI"
-  },
-  {
-    "title": "I got tired of taking screenshots and explaining everything to AI agents",
-    "url": "https://news.ycombinator.com/item?id=49759108",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759108",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-18T19:35:22Z",
-    "timestamp": 1789760122,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
-    "url": "https://onpanda.diyer22.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49759013",
-    "source": "onpanda.diyer22.com",
-    "date": "2026-09-18T19:26:50Z",
-    "timestamp": 1789759610,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face",
-    "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49758977",
-    "source": "techcrunch.com",
-    "date": "2026-09-18T19:23:26Z",
-    "timestamp": 1789759406,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic sets up biology lab as it ramps AI drug program",
-    "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49758943",
-    "source": "reuters.com",
-    "date": "2026-09-18T19:20:38Z",
-    "timestamp": 1789759238,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Implications of Linguistic Illegibility for LLM Security",
-    "url": "https://arxiv.org/abs/2609.02852",
-    "discussion_url": "https://news.ycombinator.com/item?id=49758689",
-    "source": "arxiv.org",
-    "date": "2026-09-18T19:00:06Z",
-    "timestamp": 1789758006,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Asus Ascent QN10, first mini PC powered by Qualcomm 18-core ARMv9 CPU",
-    "url": "https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49757710",
-    "source": "cnx-software.com",
-    "date": "2026-09-18T17:42:12Z",
-    "timestamp": 1789753332,
-    "category": "Computer Architecture"
   },
   {
     "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
@@ -142,6 +160,15 @@
     "date": "2026-09-17T16:58:31Z",
     "timestamp": 1789664311,
     "category": "Physical AI"
+  },
+  {
+    "title": "Column built an issuer processor from scratch",
+    "url": "https://column.com/card-issuing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49729631",
+    "source": "column.com",
+    "date": "2026-09-16T16:42:37Z",
+    "timestamp": 1789576957,
+    "category": "Computer Architecture"
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
