@@ -1,66 +1,156 @@
 [
   {
-    "title": "The Weak Foundations of AI Doomsday",
-    "url": "https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769791",
-    "source": "aipanic.news",
-    "date": "2026-09-19T20:18:37Z",
-    "timestamp": 1789849117,
-    "category": "Machine Learning"
+    "title": "Testing 8 VLMs on a single 3090 GPU",
+    "url": "https://www.reddit.com/r/LocalLLaMA/s/uSxsTw5Wno",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772566",
+    "source": "reddit.com",
+    "date": "2026-09-20T04:46:04Z",
+    "timestamp": 1789879564,
+    "category": "Computer Architecture"
   },
   {
-    "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
-    "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769723",
+    "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+    "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772544",
     "source": "medium.com",
-    "date": "2026-09-19T20:08:18Z",
-    "timestamp": 1789848498,
+    "date": "2026-09-20T04:39:12Z",
+    "timestamp": 1789879152,
     "category": "Machine Learning"
   },
   {
-    "title": "OpenAI and Anthropic oversold AI security breaches",
-    "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769668",
-    "source": "nypost.com",
-    "date": "2026-09-19T19:59:28Z",
-    "timestamp": 1789847968,
+    "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
+    "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772501",
+    "source": "abc.net.au",
+    "date": "2026-09-20T04:27:13Z",
+    "timestamp": 1789878433,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+    "url": "https://github.com/BenSiv/fossil-scm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772474",
+    "source": "github.com",
+    "date": "2026-09-20T04:17:59Z",
+    "timestamp": 1789877879,
     "category": "Machine Learning"
   },
   {
-    "title": "How I see software dev in AI era",
-    "url": "https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769574",
-    "source": "dhilst.github.io",
-    "date": "2026-09-19T19:44:56Z",
-    "timestamp": 1789847096,
+    "title": "Show HN: Architectural Guardrails for AI native development",
+    "url": "https://github.com/cxgrd/cli",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772473",
+    "source": "github.com",
+    "date": "2026-09-20T04:17:49Z",
+    "timestamp": 1789877869,
     "category": "Machine Learning"
   },
   {
-    "title": "PC ports of old console games are the new AI vibe coding battleground",
-    "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769554",
-    "source": "pcgamer.com",
-    "date": "2026-09-19T19:42:35Z",
-    "timestamp": 1789846955,
+    "title": "Integrating Volt Active Data with AI Agents and Chatbots",
+    "url": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772434",
+    "source": "docs.voltdb.com",
+    "date": "2026-09-20T04:07:46Z",
+    "timestamp": 1789877266,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: KillSwitch – a programming language designed to be difficult for LLMs",
-    "url": "https://killswitch-lang.org",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769531",
-    "source": "killswitch-lang.org",
-    "date": "2026-09-19T19:40:28Z",
-    "timestamp": 1789846828,
+    "title": "Inference-Engine Fingerprinting Attacks Are Practical",
+    "url": "https://arxiv.org/abs/2609.20614",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772432",
+    "source": "arxiv.org",
+    "date": "2026-09-20T04:07:09Z",
+    "timestamp": 1789877229,
     "category": "Machine Learning"
   },
   {
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769222",
-    "source": "techcrunch.com",
-    "date": "2026-09-19T18:56:08Z",
-    "timestamp": 1789844168,
+    "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
+    "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772427",
+    "source": "youtube.com",
+    "date": "2026-09-20T04:06:24Z",
+    "timestamp": 1789877184,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: The Smallest LLM in JavaScript",
+    "url": "https://gist.github.com/skorotkiewicz/dedc3b5a857be7d0f2b378334721713c",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772424",
+    "source": "gist.github.com",
+    "date": "2026-09-20T04:05:05Z",
+    "timestamp": 1789877105,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Another terminal/shell AI assistant (shell native)",
+    "url": "https://github.com/TheR1D/aty",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772391",
+    "source": "github.com",
+    "date": "2026-09-20T03:55:19Z",
+    "timestamp": 1789876519,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nscale S-1 demonstrates unprofitability of AI",
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772368",
+    "source": "reddit.com",
+    "date": "2026-09-20T03:49:33Z",
+    "timestamp": 1789876173,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China doesn't need to beat US AI [video]",
+    "url": "https://www.youtube.com/watch?v=sXA77wLF678",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772225",
+    "source": "youtube.com",
+    "date": "2026-09-20T03:13:41Z",
+    "timestamp": 1789874021,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
+    "url": "https://www.youtube.com/watch?v=0YIczZDCgsM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771886",
+    "source": "youtube.com",
+    "date": "2026-09-20T02:04:19Z",
+    "timestamp": 1789869859,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why are AI leaders calling for a slow down? [audio]",
+    "url": "https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771827",
+    "source": "cbc.ca",
+    "date": "2026-09-20T01:52:18Z",
+    "timestamp": 1789869138,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+    "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771092",
+    "source": "copper-robotics.com",
+    "date": "2026-09-19T23:44:07Z",
+    "timestamp": 1789861447,
+    "category": "Physical AI"
+  },
+  {
+    "title": "HellGates, custom CPU gate-level challenge",
+    "url": "https://blog.xutaxkamay.com/posts/hellgates/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49770369",
+    "source": "blog.xutaxkamay.com",
+    "date": "2026-09-19T21:44:07Z",
+    "timestamp": 1789854247,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Qualcomm's Adreno X2 GPU",
+    "url": "https://chipsandcheese.com/p/qualcomms-adreno-x2-gpu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49770018",
+    "source": "chipsandcheese.com",
+    "date": "2026-09-19T20:50:42Z",
+    "timestamp": 1789851042,
+    "category": "Computer Architecture"
   },
   {
     "title": "Your robotic vacuum is a witness: evidence, privacy and the law",
@@ -72,75 +162,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
-    "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769109",
-    "source": "wsj.com",
-    "date": "2026-09-19T18:43:36Z",
-    "timestamp": 1789843416,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "When Does AI Stop Needing Us?",
-    "url": "https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769084",
-    "source": "cacm.acm.org",
-    "date": "2026-09-19T18:40:35Z",
-    "timestamp": 1789843235,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-    "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769050",
-    "source": "apnews.com",
-    "date": "2026-09-19T18:36:44Z",
-    "timestamp": 1789843004,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Just Greg – Inside an AI Datacenter [video]",
-    "url": "https://www.youtube.com/watch?v=0GofbjETCS4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769028",
-    "source": "youtube.com",
-    "date": "2026-09-19T18:33:49Z",
-    "timestamp": 1789842829,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-    "discussion_url": "https://news.ycombinator.com/item?id=49768921",
-    "source": "tomshardware.com",
-    "date": "2026-09-19T18:21:30Z",
-    "timestamp": 1789842090,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-    "url": "https://browser.geekbench.com/v7/cpu/389219",
-    "discussion_url": "https://news.ycombinator.com/item?id=49763883",
-    "source": "browser.geekbench.com",
-    "date": "2026-09-19T06:19:24Z",
-    "timestamp": 1789798764,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
     "url": "https://bend-lang.com/",
     "discussion_url": "https://news.ycombinator.com/item?id=49746163",
     "source": "bend-lang.com",
     "date": "2026-09-17T20:36:13Z",
     "timestamp": 1789677373,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Column built an issuer processor from scratch",
-    "url": "https://column.com/card-issuing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49729631",
-    "source": "column.com",
-    "date": "2026-09-16T16:42:37Z",
-    "timestamp": 1789576957,
     "category": "Computer Architecture"
   },
   {
