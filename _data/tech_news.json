@@ -1,5 +1,140 @@
 [
   {
+    "title": "I'm Tired of the AI Tone",
+    "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774665",
+    "source": "sagivo.com",
+    "date": "2026-09-20T11:18:26Z",
+    "timestamp": 1789903106,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CoyoPedal – ESP32-S3 effects processor with NAM A2 Full amp profiles",
+    "url": "https://playtaurus.com/blog/introducing-coyopedal",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774551",
+    "source": "playtaurus.com",
+    "date": "2026-09-20T10:56:45Z",
+    "timestamp": 1789901805,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI is giving scientists more ideas than they can test",
+    "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774493",
+    "source": "scientificamerican.com",
+    "date": "2026-09-20T10:43:34Z",
+    "timestamp": 1789901014,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What the Hugging Face Incident Changed in How I See the Current State of AI",
+    "url": "https://chrhenning.com/blog/2026/hugging-face-incident/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774452",
+    "source": "chrhenning.com",
+    "date": "2026-09-20T10:35:54Z",
+    "timestamp": 1789900554,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI regulation smackdown isn't over",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774447",
+    "source": "theverge.com",
+    "date": "2026-09-20T10:35:13Z",
+    "timestamp": 1789900513,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Automatic Against the People: Reading, Writing, and AI",
+    "url": "http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774415",
+    "source": "unemployednegativity.com",
+    "date": "2026-09-20T10:27:20Z",
+    "timestamp": 1789900040,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and the Destruction of the Creative Commons",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774329",
+    "source": "chesterwisniewski.com",
+    "date": "2026-09-20T10:07:51Z",
+    "timestamp": 1789898871,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jev is the fastest-adopted model in AI Gateway history",
+    "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774164",
+    "source": "vercel.com",
+    "date": "2026-09-20T09:38:26Z",
+    "timestamp": 1789897106,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "MIT Just Proved LLMs Will Stop Getting Smarter, and Money Won't Fix It [video]",
+    "url": "https://www.youtube.com/watch?v=6xQ8LQfkBg4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774130",
+    "source": "youtube.com",
+    "date": "2026-09-20T09:33:38Z",
+    "timestamp": 1789896818,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Delightful Cells – reliable AI batch processing for spreadsheets",
+    "url": "https://delightfulcells.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774124",
+    "source": "delightfulcells.com",
+    "date": "2026-09-20T09:31:29Z",
+    "timestamp": 1789896689,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Drop-in Django app to serve a decent LLM-ready documentation site",
+    "url": "https://mdjango.chesselink.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774057",
+    "source": "mdjango.chesselink.com",
+    "date": "2026-09-20T09:18:44Z",
+    "timestamp": 1789895924,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built an extension that hides your personal information from AI",
+    "url": "https://github.com/arikchakma/opencloak",
+    "discussion_url": "https://news.ycombinator.com/item?id=49774033",
+    "source": "github.com",
+    "date": "2026-09-20T09:15:09Z",
+    "timestamp": 1789895709,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why China is pushing back on US warnings over rapid AI development",
+    "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+    "discussion_url": "https://news.ycombinator.com/item?id=49773995",
+    "source": "theguardian.com",
+    "date": "2026-09-20T09:08:07Z",
+    "timestamp": 1789895287,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Every Nvidia GPU has 10 to 30 RISC-V cores inside it",
+    "url": "https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49773511",
+    "source": "xda-developers.com",
+    "date": "2026-09-20T07:50:58Z",
+    "timestamp": 1789890658,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
+    "url": "https://zenodo.org/records/22824778",
+    "discussion_url": "https://news.ycombinator.com/item?id=49772745",
+    "source": "zenodo.org",
+    "date": "2026-09-20T05:32:16Z",
+    "timestamp": 1789882336,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Testing 8 VLMs on a single 3090 GPU",
     "url": "https://www.reddit.com/r/LocalLLaMA/s/uSxsTw5Wno",
     "discussion_url": "https://news.ycombinator.com/item?id=49772566",
@@ -9,15 +144,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
-    "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772544",
-    "source": "medium.com",
-    "date": "2026-09-20T04:39:12Z",
-    "timestamp": 1789879152,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
     "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
     "discussion_url": "https://news.ycombinator.com/item?id=49772501",
@@ -25,105 +151,6 @@
     "date": "2026-09-20T04:27:13Z",
     "timestamp": 1789878433,
     "category": "Physical AI"
-  },
-  {
-    "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-    "url": "https://github.com/BenSiv/fossil-scm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772474",
-    "source": "github.com",
-    "date": "2026-09-20T04:17:59Z",
-    "timestamp": 1789877879,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Architectural Guardrails for AI native development",
-    "url": "https://github.com/cxgrd/cli",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772473",
-    "source": "github.com",
-    "date": "2026-09-20T04:17:49Z",
-    "timestamp": 1789877869,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Integrating Volt Active Data with AI Agents and Chatbots",
-    "url": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772434",
-    "source": "docs.voltdb.com",
-    "date": "2026-09-20T04:07:46Z",
-    "timestamp": 1789877266,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inference-Engine Fingerprinting Attacks Are Practical",
-    "url": "https://arxiv.org/abs/2609.20614",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772432",
-    "source": "arxiv.org",
-    "date": "2026-09-20T04:07:09Z",
-    "timestamp": 1789877229,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
-    "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772427",
-    "source": "youtube.com",
-    "date": "2026-09-20T04:06:24Z",
-    "timestamp": 1789877184,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: The Smallest LLM in JavaScript",
-    "url": "https://gist.github.com/skorotkiewicz/dedc3b5a857be7d0f2b378334721713c",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772424",
-    "source": "gist.github.com",
-    "date": "2026-09-20T04:05:05Z",
-    "timestamp": 1789877105,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Another terminal/shell AI assistant (shell native)",
-    "url": "https://github.com/TheR1D/aty",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772391",
-    "source": "github.com",
-    "date": "2026-09-20T03:55:19Z",
-    "timestamp": 1789876519,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nscale S-1 demonstrates unprofitability of AI",
-    "url": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772368",
-    "source": "reddit.com",
-    "date": "2026-09-20T03:49:33Z",
-    "timestamp": 1789876173,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China doesn't need to beat US AI [video]",
-    "url": "https://www.youtube.com/watch?v=sXA77wLF678",
-    "discussion_url": "https://news.ycombinator.com/item?id=49772225",
-    "source": "youtube.com",
-    "date": "2026-09-20T03:13:41Z",
-    "timestamp": 1789874021,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
-    "url": "https://www.youtube.com/watch?v=0YIczZDCgsM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49771886",
-    "source": "youtube.com",
-    "date": "2026-09-20T02:04:19Z",
-    "timestamp": 1789869859,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why are AI leaders calling for a slow down? [audio]",
-    "url": "https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down",
-    "discussion_url": "https://news.ycombinator.com/item?id=49771827",
-    "source": "cbc.ca",
-    "date": "2026-09-20T01:52:18Z",
-    "timestamp": 1789869138,
-    "category": "Machine Learning"
   },
   {
     "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
@@ -150,24 +177,6 @@
     "source": "chipsandcheese.com",
     "date": "2026-09-19T20:50:42Z",
     "timestamp": 1789851042,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Your robotic vacuum is a witness: evidence, privacy and the law",
-    "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
-    "discussion_url": "https://news.ycombinator.com/item?id=49769153",
-    "source": "theconversation.com",
-    "date": "2026-09-19T18:48:26Z",
-    "timestamp": 1789843706,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-    "url": "https://bend-lang.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49746163",
-    "source": "bend-lang.com",
-    "date": "2026-09-17T20:36:13Z",
-    "timestamp": 1789677373,
     "category": "Computer Architecture"
   },
   {
