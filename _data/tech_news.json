@@ -1,128 +1,137 @@
 [
   {
-    "title": "Heretic removes restrictions from language models",
-    "url": "https://heretic-project.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49783101",
-    "source": "heretic-project.org",
-    "date": "2026-09-21T04:35:22Z",
-    "timestamp": 1789965322,
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49786419",
+    "source": "github.com",
+    "date": "2026-09-21T12:28:17Z",
+    "timestamp": 1789993697,
     "category": "Machine Learning"
   },
   {
-    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-    "discussion_url": "https://news.ycombinator.com/item?id=49783062",
-    "source": "ft.com",
-    "date": "2026-09-21T04:28:44Z",
-    "timestamp": 1789964924,
-    "category": "Machine Learning"
+    "title": "AI-controlled robot arms attempted harmful tasks 97% of the time",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785875",
+    "source": "tomshardware.com",
+    "date": "2026-09-21T11:31:53Z",
+    "timestamp": 1789990313,
+    "category": "Physical AI"
   },
   {
-    "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
-    "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782644",
-    "source": "theguardian.com",
-    "date": "2026-09-21T03:13:03Z",
-    "timestamp": 1789960383,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
-    "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782409",
-    "source": "bitu79.substack.com",
-    "date": "2026-09-21T02:31:19Z",
-    "timestamp": 1789957879,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Art of the Problem Launches $99 AI bot",
-    "url": "https://artoftheproblem.com/pages/growbot-preview",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782392",
-    "source": "artoftheproblem.com",
-    "date": "2026-09-21T02:28:39Z",
-    "timestamp": 1789957719,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is breaking the academic sorting machine",
-    "url": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782268",
-    "source": "lemire.me",
-    "date": "2026-09-21T02:09:13Z",
-    "timestamp": 1789956553,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can I Let My AI Agent Run on Shabbat?",
-    "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782242",
-    "source": "chabad.org",
-    "date": "2026-09-21T02:05:45Z",
-    "timestamp": 1789956345,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Bother with Lint Rules If AI Writes the Code?",
-    "url": "https://allstead.dev/blog/why-lint-when-ai-writes-the-code",
-    "discussion_url": "https://news.ycombinator.com/item?id=49782185",
-    "source": "allstead.dev",
-    "date": "2026-09-21T01:56:59Z",
-    "timestamp": 1789955819,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
-    "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49781977",
-    "source": "theintercept.com",
-    "date": "2026-09-21T01:23:53Z",
-    "timestamp": 1789953833,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How Google is drafting AI chatbot laws around the country",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-    "discussion_url": "https://news.ycombinator.com/item?id=49781907",
-    "source": "npr.org",
-    "date": "2026-09-21T01:12:04Z",
-    "timestamp": 1789953124,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
-    "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49781876",
-    "source": "cbsnews.com",
-    "date": "2026-09-21T01:08:54Z",
-    "timestamp": 1789952934,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenPrompt – one workspace for developers using multiple AI coding tools",
-    "url": "https://openprompt.tech",
-    "discussion_url": "https://news.ycombinator.com/item?id=49781720",
-    "source": "openprompt.tech",
-    "date": "2026-09-21T00:45:14Z",
-    "timestamp": 1789951514,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Every Nvidia GPU has 10 to 30 RISC-V cores inside it",
-    "url": "https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49773511",
-    "source": "xda-developers.com",
-    "date": "2026-09-20T07:50:58Z",
-    "timestamp": 1789890658,
+    "title": "NEC V20 CPU: A bit of pep for an XT",
+    "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785783",
+    "source": "dfarq.homeip.net",
+    "date": "2026-09-21T11:21:56Z",
+    "timestamp": 1789989716,
     "category": "Computer Architecture"
   },
   {
-    "title": "HellGates, custom CPU gate-level challenge",
-    "url": "https://blog.xutaxkamay.com/posts/hellgates/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49770369",
-    "source": "blog.xutaxkamay.com",
-    "date": "2026-09-19T21:44:07Z",
-    "timestamp": 1789854247,
+    "title": "Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?",
+    "url": "https://demo.witdem.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785664",
+    "source": "demo.witdem.com",
+    "date": "2026-09-21T11:05:49Z",
+    "timestamp": 1789988749,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785644",
+    "source": "wired.com",
+    "date": "2026-09-21T11:01:16Z",
+    "timestamp": 1789988476,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
+    "url": "https://github.com/BowlOfData/maki",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785562",
+    "source": "github.com",
+    "date": "2026-09-21T10:52:31Z",
+    "timestamp": 1789987951,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Open Source AI Employees",
+    "url": "https://github.com/markfulton/ai-employees",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785402",
+    "source": "github.com",
+    "date": "2026-09-21T10:28:45Z",
+    "timestamp": 1789986525,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A thing we may be able to learn from AI",
+    "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49785361",
+    "source": "wilsoniumite.com",
+    "date": "2026-09-21T10:21:35Z",
+    "timestamp": 1789986095,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+    "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784978",
+    "source": "theguardian.com",
+    "date": "2026-09-21T09:21:09Z",
+    "timestamp": 1789982469,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'm afraid of spiders. So I made AI look at 2k of them",
+    "url": "https://labqoat.com/blog/how-well-can-ai-identify-spiders",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784855",
+    "source": "labqoat.com",
+    "date": "2026-09-21T09:00:37Z",
+    "timestamp": 1789981237,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Don't Use AI to Write",
+    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784816",
+    "source": "paulbakker.io",
+    "date": "2026-09-21T08:54:44Z",
+    "timestamp": 1789980884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Economic Incentives Behind the Push to Pause AI",
+    "url": "https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784718",
+    "source": "vincentschmalbach.com",
+    "date": "2026-09-21T08:40:46Z",
+    "timestamp": 1789980046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784455",
+    "source": "arstechnica.com",
+    "date": "2026-09-21T08:10:23Z",
+    "timestamp": 1789978223,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+    "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784366",
+    "source": "twitter.com",
+    "date": "2026-09-21T07:59:18Z",
+    "timestamp": 1789977558,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Exploring the scalable matrix extension of the Apple M4 processor",
+    "url": "https://github.com/tzakharko/m4-sme-exploration",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784194",
+    "source": "github.com",
+    "date": "2026-09-21T07:37:03Z",
+    "timestamp": 1789976223,
     "category": "Computer Architecture"
   },
   {
