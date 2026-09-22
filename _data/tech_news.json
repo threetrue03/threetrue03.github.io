@@ -1,11 +1,110 @@
 [
   {
-    "title": "Show HN: Praxos – Multiplayer AI",
-    "url": "https://www.praxos.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49793831",
-    "source": "praxos.ai",
-    "date": "2026-09-21T21:40:19Z",
-    "timestamp": 1790026819,
+    "title": "Pangram flags award-winning novel as largely AI written",
+    "url": "https://twitter.com/Pangramed/status/2102045146674053162",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796865",
+    "source": "twitter.com",
+    "date": "2026-09-22T04:43:50Z",
+    "timestamp": 1790052230,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jev introduces a new shape of LLM",
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796843",
+    "source": "simonwillison.net",
+    "date": "2026-09-22T04:38:31Z",
+    "timestamp": 1790051911,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Basics of Transformer Inference",
+    "url": "https://jax-ml.github.io/scaling-book/inference/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796785",
+    "source": "jax-ml.github.io",
+    "date": "2026-09-22T04:25:29Z",
+    "timestamp": 1790051129,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Call for Open Science in AI Safety",
+    "url": "https://make-safety-open.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796651",
+    "source": "make-safety-open.github.io",
+    "date": "2026-09-22T04:00:29Z",
+    "timestamp": 1790049629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lean Verified Transformers",
+    "url": "https://srush.github.io/lean-transformer/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796630",
+    "source": "srush.github.io",
+    "date": "2026-09-22T03:55:18Z",
+    "timestamp": 1790049318,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China's AI Realism Is Not Conspiracy",
+    "url": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796331",
+    "source": "fredgao.com",
+    "date": "2026-09-22T03:01:06Z",
+    "timestamp": 1790046066,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Francis Fukuyama: Why I Changed My Mind About AI Risk",
+    "url": "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796300",
+    "source": "persuasion.community",
+    "date": "2026-09-22T02:54:32Z",
+    "timestamp": 1790045672,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Turn ad-hoc subagents into durable, accountable AI teams",
+    "url": "https://github.com/ringlochid/oh-my-subagents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796249",
+    "source": "github.com",
+    "date": "2026-09-22T02:45:47Z",
+    "timestamp": 1790045147,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A 7B fact-checker beat 30B LLM reviewers and deleted no true claims",
+    "url": "https://openteams.com/llm-review-reliability/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796056",
+    "source": "openteams.com",
+    "date": "2026-09-22T02:18:22Z",
+    "timestamp": 1790043502,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Vibes vs. Evidence: What delivers AI code review quality",
+    "url": "https://dsifry.github.io/harnesseval/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796016",
+    "source": "dsifry.github.io",
+    "date": "2026-09-22T02:12:35Z",
+    "timestamp": 1790043155,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What Makes Jev Different from Other LLMs? A Simple Explanation",
+    "url": "https://medium.com/@dolevietthang/what-makes-jev-different-from-chatgpt-and-claude-a-simple-explanation-45ce943697eb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49796013",
+    "source": "medium.com",
+    "date": "2026-09-22T02:12:26Z",
+    "timestamp": 1790043146,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
+    "url": "https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49795990",
+    "source": "shatteringtheabyss.substack.com",
+    "date": "2026-09-22T02:10:04Z",
+    "timestamp": 1790043004,
     "category": "Machine Learning"
   },
   {
@@ -15,114 +114,6 @@
     "source": "gcm.echorelay.net",
     "date": "2026-09-21T21:15:04Z",
     "timestamp": 1790025304,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Google CC, an AI agent built for families",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49793382",
-    "source": "blog.google",
-    "date": "2026-09-21T21:02:55Z",
-    "timestamp": 1790024575,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-    "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-    "discussion_url": "https://news.ycombinator.com/item?id=49793333",
-    "source": "g-ftech.com",
-    "date": "2026-09-21T20:59:10Z",
-    "timestamp": 1790024350,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
-    "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
-    "discussion_url": "https://news.ycombinator.com/item?id=49793312",
-    "source": "noyb.eu",
-    "date": "2026-09-21T20:57:27Z",
-    "timestamp": 1790024247,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New bill to protect American citizens access to AI – Please read and share",
-    "url": "https://righttorun.us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792965",
-    "source": "righttorun.us",
-    "date": "2026-09-21T20:30:38Z",
-    "timestamp": 1790022638,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"80% of AI projects fail\" traces to a footnote one line long",
-    "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792600",
-    "source": "jamiewatters.work",
-    "date": "2026-09-21T20:02:47Z",
-    "timestamp": 1790020967,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "In the heart of tech country, voters turn on AI",
-    "url": "https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792415",
-    "source": "politico.com",
-    "date": "2026-09-21T19:49:16Z",
-    "timestamp": 1790020156,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Transformers Explained Visually",
-    "url": "https://poloclub.github.io/transformer-explainer/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792342",
-    "source": "poloclub.github.io",
-    "date": "2026-09-21T19:43:49Z",
-    "timestamp": 1790019829,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Self-hosted AI agent that builds internal apps on your own data",
-    "url": "https://www.youtube.com/watch?v=FNgjuvw2BmU",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792200",
-    "source": "youtube.com",
-    "date": "2026-09-21T19:32:33Z",
-    "timestamp": 1790019153,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta's New Muse AI App Tops Charts, Draws Strong Early Reviews",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792181",
-    "source": "bloomberg.com",
-    "date": "2026-09-21T19:31:05Z",
-    "timestamp": 1790019065,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "url": "https://linear.app/now/ci-bottleneck-reworked",
-    "discussion_url": "https://news.ycombinator.com/item?id=49792067",
-    "source": "linear.app",
-    "date": "2026-09-21T19:23:33Z",
-    "timestamp": 1790018613,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49791997",
-    "source": "terrytao.wordpress.com",
-    "date": "2026-09-21T19:17:42Z",
-    "timestamp": 1790018262,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HHS Seeks Public Input on Electromagnetic Fields and Wireless Radiation",
-    "url": "https://www.hhs.gov/press-room/hhs-seeks-public-input-electromagnetic-fields-wireless-radiation.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49791943",
-    "source": "hhs.gov",
-    "date": "2026-09-21T19:14:24Z",
-    "timestamp": 1790018064,
     "category": "Computer Architecture"
   },
   {
@@ -144,12 +135,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Alcor: Simulate cpuid and sgdt/sidt results per-process",
-    "url": "https://github.com/er-azh/alcor",
-    "discussion_url": "https://news.ycombinator.com/item?id=49789492",
-    "source": "github.com",
-    "date": "2026-09-21T16:30:50Z",
-    "timestamp": 1790008250,
-    "category": "Computer Architecture"
+    "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+    "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49771092",
+    "source": "copper-robotics.com",
+    "date": "2026-09-19T23:44:07Z",
+    "timestamp": 1789861447,
+    "category": "Physical AI"
   }
 ]
