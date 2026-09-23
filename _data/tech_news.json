@@ -1,47 +1,119 @@
 [
   {
-    "title": "America is in the wrong AI race with China",
-    "url": "https://restofworld.org/2026/america-china-ai-race-trust/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49811640",
-    "source": "restofworld.org",
-    "date": "2026-09-23T04:27:06Z",
-    "timestamp": 1790137626,
+    "title": "Manycore Processor",
+    "url": "https://en.wikipedia.org/wiki/Manycore_processor",
+    "discussion_url": "https://news.ycombinator.com/item?id=49814056",
+    "source": "en.wikipedia.org",
+    "date": "2026-09-23T10:41:46Z",
+    "timestamp": 1790160106,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+    "url": "https://github.com/zariffromlatif/life-forge",
+    "discussion_url": "https://news.ycombinator.com/item?id=49813880",
+    "source": "github.com",
+    "date": "2026-09-23T10:17:33Z",
+    "timestamp": 1790158653,
     "category": "Machine Learning"
   },
   {
-    "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
-    "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
-    "discussion_url": "https://news.ycombinator.com/item?id=49811556",
-    "source": "gizmodo.com",
-    "date": "2026-09-23T04:13:29Z",
-    "timestamp": 1790136809,
+    "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+    "url": "https://camplight.net/ai/ai-software-factory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49813704",
+    "source": "camplight.net",
+    "date": "2026-09-23T09:57:06Z",
+    "timestamp": 1790157426,
     "category": "Machine Learning"
   },
   {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49811361",
-    "source": "techcrunch.com",
-    "date": "2026-09-23T03:38:12Z",
-    "timestamp": 1790134692,
+    "title": "Trained KV cache bank turns any LLM into Jev like Model",
+    "url": "https://gambler-relay-us-west1.leo-fish.ts.net/demo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49813610",
+    "source": "gambler-relay-us-west1.leo-fish.ts.net",
+    "date": "2026-09-23T09:40:21Z",
+    "timestamp": 1790156421,
     "category": "Machine Learning"
   },
   {
-    "title": "How to Create Your Own Personal AI Benchmark",
-    "url": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark",
-    "discussion_url": "https://news.ycombinator.com/item?id=49811036",
-    "source": "every.to",
-    "date": "2026-09-23T02:48:23Z",
-    "timestamp": 1790131703,
+    "title": "Positive emotions toward AI outweigh negative ones in 34 out of 37 countries",
+    "url": "https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49813430",
+    "source": "news.gallup.com",
+    "date": "2026-09-23T09:11:55Z",
+    "timestamp": 1790154715,
     "category": "Machine Learning"
   },
   {
-    "title": "Wiki Foundation Model for Complex Agentic Reasoning",
-    "url": "https://academy.dair.ai/papers/wfm-wiki-foundation-model-for-complex-agentic-reasoning-2609.18182",
-    "discussion_url": "https://news.ycombinator.com/item?id=49810764",
-    "source": "academy.dair.ai",
-    "date": "2026-09-23T02:01:17Z",
-    "timestamp": 1790128877,
+    "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+    "discussion_url": "https://news.ycombinator.com/item?id=49813122",
+    "source": "inc.com",
+    "date": "2026-09-23T08:24:01Z",
+    "timestamp": 1790151841,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How do you cope with AI being used to target and bomb children?",
+    "url": "https://news.ycombinator.com/item?id=49812905",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812905",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-23T07:48:08Z",
+    "timestamp": 1790149688,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812778",
+    "source": "news.mit.edu",
+    "date": "2026-09-23T07:27:25Z",
+    "timestamp": 1790148445,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rebranding artificial intelligence as super intelligence",
+    "url": "https://www.bbc.com/news/videos/c8n5d9x10v14o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812776",
+    "source": "bbc.com",
+    "date": "2026-09-23T07:27:22Z",
+    "timestamp": 1790148442,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812718",
+    "source": "simonwillison.net",
+    "date": "2026-09-23T07:20:05Z",
+    "timestamp": 1790148005,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Recursive self-improvement of AI research agents",
+    "url": "https://arxiv.org/abs/2609.26457",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812641",
+    "source": "arxiv.org",
+    "date": "2026-09-23T07:07:09Z",
+    "timestamp": 1790147229,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Which AI model should your team use for Ansible",
+    "url": "https://steampunk.si/spotter/ai-leaderboard/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812391",
+    "source": "steampunk.si",
+    "date": "2026-09-23T06:25:21Z",
+    "timestamp": 1790144721,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Transformers now runs llama.cpp quants",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "discussion_url": "https://news.ycombinator.com/item?id=49812339",
+    "source": "huggingface.co",
+    "date": "2026-09-23T06:18:18Z",
+    "timestamp": 1790144298,
     "category": "Machine Learning"
   },
   {
@@ -54,78 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "EN World Is Being DDoS'd by AI Bots",
-    "url": "https://www.enworld.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49810493",
-    "source": "enworld.org",
-    "date": "2026-09-23T01:20:02Z",
-    "timestamp": 1790126402,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Naming AI agents after Seinfeld characters helps bots join the team – report",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
-    "discussion_url": "https://news.ycombinator.com/item?id=49810295",
-    "source": "theregister.com",
-    "date": "2026-09-23T00:54:48Z",
-    "timestamp": 1790124888,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump says US will henceforth call AI 'super intelligence'",
-    "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49810231",
-    "source": "reuters.com",
-    "date": "2026-09-23T00:46:08Z",
-    "timestamp": 1790124368,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The new CC, an AI agent built for families",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49809806",
-    "source": "blog.google",
-    "date": "2026-09-22T23:46:07Z",
-    "timestamp": 1790120767,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The ruble markup on AI tokens",
-    "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49809698",
-    "source": "infertrail.com",
-    "date": "2026-09-22T23:30:11Z",
-    "timestamp": 1790119811,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The 'AI Safety' Movement Is Making AI Less Safe",
-    "url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49809567",
-    "source": "reason.com",
-    "date": "2026-09-22T23:11:29Z",
-    "timestamp": 1790118689,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "UN General Assembly: Trump renames AI to Super Intelligence",
-    "url": "https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49809314",
-    "source": "washingtonpost.com",
-    "date": "2026-09-22T22:43:49Z",
-    "timestamp": 1790117029,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Are Meta's smart glasses training AI for robots?",
-    "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
-    "discussion_url": "https://news.ycombinator.com/item?id=49807281",
-    "source": "proton.me",
-    "date": "2026-09-22T20:01:20Z",
-    "timestamp": 1790107280,
-    "category": "Physical AI"
-  },
-  {
     "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
     "url": "https://github.com/General-Instinct/InstinctFlash",
     "discussion_url": "https://news.ycombinator.com/item?id=49802789",
@@ -133,6 +133,15 @@
     "date": "2026-09-22T15:20:06Z",
     "timestamp": 1790090406,
     "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+    "url": "https://github.com/hsfzxjy/npunlock",
+    "discussion_url": "https://news.ycombinator.com/item?id=49800513",
+    "source": "github.com",
+    "date": "2026-09-22T12:58:02Z",
+    "timestamp": 1790081882,
+    "category": "Computer Architecture"
   },
   {
     "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
