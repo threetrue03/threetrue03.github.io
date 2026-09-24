@@ -1,137 +1,137 @@
 [
   {
-    "title": "Cheaper LLM Labelling",
-    "url": "https://entropicthoughts.com/cheaper-llm-labeling",
-    "discussion_url": "https://news.ycombinator.com/item?id=49833421",
-    "source": "entropicthoughts.com",
-    "date": "2026-09-24T16:50:57Z",
-    "timestamp": 1790268657,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Transformers Won't End the Human Race Lol",
-    "url": "https://www.stephendiehl.com/posts/transformers_wont_end_human_race/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49833411",
-    "source": "stephendiehl.com",
-    "date": "2026-09-24T16:50:39Z",
-    "timestamp": 1790268639,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-    "discussion_url": "https://news.ycombinator.com/item?id=49833264",
-    "source": "wsj.com",
-    "date": "2026-09-24T16:41:55Z",
-    "timestamp": 1790268115,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "So yeah it was written using AI",
-    "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49833245",
-    "source": "berthub.eu",
-    "date": "2026-09-24T16:40:36Z",
-    "timestamp": 1790268036,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Teaching a video model to fail convincingly",
-    "url": "https://humansignal.com/blog/how-to-teach-a-robot-to-water-the-table/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49833191",
-    "source": "humansignal.com",
-    "date": "2026-09-24T16:38:28Z",
-    "timestamp": 1790267908,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "Meta puts its AI assistant on a keychain",
-    "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832965",
-    "source": "arstechnica.com",
-    "date": "2026-09-24T16:24:46Z",
-    "timestamp": 1790267086,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Welcoming Jürgen Schmidhuber to Sakana AI",
-    "url": "https://sakana.ai/schmidhuber/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832842",
-    "source": "sakana.ai",
-    "date": "2026-09-24T16:15:30Z",
-    "timestamp": 1790266530,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI doomers may be wrong but the skeptics seem even wronger",
-    "url": "https://mathewingramblog.wordpress.com/2026/09/24/ai-doomers-may-be-wrong-but-the-skeptics-seem-even-wronger/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832782",
-    "source": "mathewingramblog.wordpress.com",
-    "date": "2026-09-24T16:12:28Z",
-    "timestamp": 1790266348,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mathematics in the Age of AI Oracles [pdf]",
-    "url": "https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832689",
-    "source": "colala.berkeley.edu",
-    "date": "2026-09-24T16:06:24Z",
-    "timestamp": 1790265984,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Oracle invokes force majeure on New Mexico AI data center",
-    "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832564",
-    "source": "qz.com",
-    "date": "2026-09-24T15:58:40Z",
-    "timestamp": 1790265520,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-    "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832491",
-    "source": "dynamicallytyped.org",
-    "date": "2026-09-24T15:54:23Z",
-    "timestamp": 1790265263,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh",
-    "url": "https://trify3d.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832351",
-    "source": "trify3d.com",
-    "date": "2026-09-24T15:47:11Z",
-    "timestamp": 1790264831,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Evals: Everything You Need to Know",
-    "url": "https://hamel.dev/blog/posts/evals-faq/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832346",
-    "source": "hamel.dev",
-    "date": "2026-09-24T15:46:51Z",
-    "timestamp": 1790264811,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Potluck – Run local AI across the computers you own",
-    "url": "https://trypotluck.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49832275",
-    "source": "trypotluck.ai",
-    "date": "2026-09-24T15:42:36Z",
-    "timestamp": 1790264556,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nesbox: A fast MicroVM with GPU sharing",
-    "url": "https://github.com/nestrilabs/nesbox",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824884",
+    "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836678",
     "source": "github.com",
-    "date": "2026-09-24T01:04:16Z",
-    "timestamp": 1790211856,
+    "date": "2026-09-24T21:02:34Z",
+    "timestamp": 1790283754,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Help for Biological or Chemical Weapons",
+    "url": "https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836647",
+    "source": "science.org",
+    "date": "2026-09-24T20:59:16Z",
+    "timestamp": 1790283556,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Canary (YC) – Independent verification for AI code",
+    "url": "https://www.runcanary.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836632",
+    "source": "runcanary.ai",
+    "date": "2026-09-24T20:57:52Z",
+    "timestamp": 1790283472,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836579",
+    "source": "thelastsoftwareengineer.substack.com",
+    "date": "2026-09-24T20:51:50Z",
+    "timestamp": 1790283110,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+    "url": "https://zephclick.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836576",
+    "source": "zephclick.com",
+    "date": "2026-09-24T20:51:25Z",
+    "timestamp": 1790283085,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836378",
+    "source": "kotaku.com",
+    "date": "2026-09-24T20:29:34Z",
+    "timestamp": 1790281774,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836364",
+    "source": "bloomberg.com",
+    "date": "2026-09-24T20:27:48Z",
+    "timestamp": 1790281668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
+    "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+    "discussion_url": "https://news.ycombinator.com/item?id=49836094",
+    "source": "wsj.com",
+    "date": "2026-09-24T20:03:11Z",
+    "timestamp": 1790280191,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A new data layer for robot learning",
+    "url": "https://rerun.io/blog/data-layer-for-robot-learning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835987",
+    "source": "rerun.io",
+    "date": "2026-09-24T19:53:38Z",
+    "timestamp": 1790279618,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Why AI companies don't need new laws",
+    "url": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835968",
+    "source": "twitter.com",
+    "date": "2026-09-24T19:51:58Z",
+    "timestamp": 1790279518,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
+    "url": "https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835964",
+    "source": "businessinsider.com",
+    "date": "2026-09-24T19:51:46Z",
+    "timestamp": 1790279506,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
+    "url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835931",
+    "source": "apnews.com",
+    "date": "2026-09-24T19:48:45Z",
+    "timestamp": 1790279325,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835531",
+    "source": "resobscura.substack.com",
+    "date": "2026-09-24T19:14:27Z",
+    "timestamp": 1790277267,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"It Was Tragic\": Exploring the Impact of a Robot's Shutdown",
+    "url": "https://arxiv.org/abs/2509.06934",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835216",
+    "source": "arxiv.org",
+    "date": "2026-09-24T18:52:07Z",
+    "timestamp": 1790275927,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Building a GPU in 24 Hours",
+    "url": "https://www.outercloud.dev/blogs/gpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49835144",
+    "source": "outercloud.dev",
+    "date": "2026-09-24T18:47:42Z",
+    "timestamp": 1790275662,
     "category": "Computer Architecture"
   },
   {
@@ -144,12 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-    "url": "https://github.com/hsfzxjy/npunlock",
-    "discussion_url": "https://news.ycombinator.com/item?id=49800513",
-    "source": "github.com",
-    "date": "2026-09-22T12:58:02Z",
-    "timestamp": 1790081882,
-    "category": "Computer Architecture"
+    "title": "Motor Characterization for Small Running Robots (2016)",
+    "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49794824",
+    "source": "robot-daycare.com",
+    "date": "2026-09-21T23:27:31Z",
+    "timestamp": 1790033251,
+    "category": "Physical AI"
   }
 ]
