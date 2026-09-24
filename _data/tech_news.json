@@ -1,29 +1,128 @@
 [
   {
-    "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
-    "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822510",
-    "source": "jeffreylminch.substack.com",
-    "date": "2026-09-23T20:59:17Z",
-    "timestamp": 1790197157,
+    "title": "Contrastive Language Models",
+    "url": "https://contrastive-lm.notion.site/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49826221",
+    "source": "contrastive-lm.notion.site",
+    "date": "2026-09-24T04:20:59Z",
+    "timestamp": 1790223659,
     "category": "Machine Learning"
   },
   {
-    "title": "Debian Inference Portal",
-    "url": "https://inference.debian.net/doc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822482",
-    "source": "inference.debian.net",
-    "date": "2026-09-23T20:57:32Z",
-    "timestamp": 1790197052,
+    "title": "China's Approach to AI",
+    "url": "https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49826102",
+    "source": "madeinchinajournal.com",
+    "date": "2026-09-24T04:01:17Z",
+    "timestamp": 1790222477,
     "category": "Machine Learning"
   },
   {
-    "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
-    "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822442",
-    "source": "calcalistech.com",
-    "date": "2026-09-23T20:54:39Z",
-    "timestamp": 1790196879,
+    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+    "discussion_url": "https://news.ycombinator.com/item?id=49825855",
+    "source": "wsj.com",
+    "date": "2026-09-24T03:24:33Z",
+    "timestamp": 1790220273,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Automatically detecting AI text in my browser",
+    "url": "https://www.seangoedecke.com/deckard/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49825489",
+    "source": "seangoedecke.com",
+    "date": "2026-09-24T02:31:32Z",
+    "timestamp": 1790217092,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Isn't Going to Destroy Humanity–But the People Building It Might",
+    "url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49825339",
+    "source": "theatlantic.com",
+    "date": "2026-09-24T02:09:12Z",
+    "timestamp": 1790215752,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Misalignment Is Within: Why Mathematics Must Embrace the AI Paradigm",
+    "url": "https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda",
+    "discussion_url": "https://news.ycombinator.com/item?id=49825240",
+    "source": "medium.com",
+    "date": "2026-09-24T01:54:20Z",
+    "timestamp": 1790214860,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+    "url": "https://github.com/saulpw/visidata/pull/3229",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824957",
+    "source": "github.com",
+    "date": "2026-09-24T01:14:43Z",
+    "timestamp": 1790212483,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+    "url": "https://news.ycombinator.com/item?id=49824887",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824887",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-24T01:04:35Z",
+    "timestamp": 1790211875,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nesbox: A fast MicroVM with GPU sharing",
+    "url": "https://github.com/nestrilabs/nesbox",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824884",
+    "source": "github.com",
+    "date": "2026-09-24T01:04:16Z",
+    "timestamp": 1790211856,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "url": "https://github.com/nestrilabs/virtio-nvgpu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824864",
+    "source": "github.com",
+    "date": "2026-09-24T01:02:23Z",
+    "timestamp": 1790211743,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+    "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824843",
+    "source": "wsj.com",
+    "date": "2026-09-24T00:59:41Z",
+    "timestamp": 1790211581,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824686",
+    "source": "kenklippenstein.com",
+    "date": "2026-09-24T00:41:31Z",
+    "timestamp": 1790210491,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Holistic design systems for the AI coding era",
+    "url": "https://numeric.substack.com/p/design-systems-at-numeric",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824554",
+    "source": "numeric.substack.com",
+    "date": "2026-09-24T00:21:16Z",
+    "timestamp": 1790209276,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google says its AI model gained unauthorized access to three outside systems",
+    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+    "discussion_url": "https://news.ycombinator.com/item?id=49824369",
+    "source": "nbcnews.com",
+    "date": "2026-09-23T23:58:27Z",
+    "timestamp": 1790207907,
     "category": "Machine Learning"
   },
   {
@@ -36,40 +135,13 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "AI can never produce sublime art",
-    "url": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822154",
-    "source": "hilariusbookbinder.substack.com",
-    "date": "2026-09-23T20:33:44Z",
-    "timestamp": 1790195624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An LLM Beat NetHack",
-    "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822109",
-    "source": "kenforthewin.github.io",
-    "date": "2026-09-23T20:30:58Z",
-    "timestamp": 1790195458,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jev vs. LLMs on 770 \"Am I the Asshole?\" posts",
-    "url": "https://github.com/dchristopoulos/jev-aita",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821894",
+    "title": "Show HN: Lifeboat, 2-6x more concurrent agent sessions per GPU, no quantization",
+    "url": "https://github.com/IterateAI/lifeboat-releases",
+    "discussion_url": "https://news.ycombinator.com/item?id=49822130",
     "source": "github.com",
-    "date": "2026-09-23T20:17:19Z",
-    "timestamp": 1790194639,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Security auditing in the age of (good enough) AI",
-    "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821770",
-    "source": "blog.trailofbits.com",
-    "date": "2026-09-23T20:07:20Z",
-    "timestamp": 1790194040,
-    "category": "Machine Learning"
+    "date": "2026-09-23T20:32:43Z",
+    "timestamp": 1790195563,
+    "category": "Computer Architecture"
   },
   {
     "title": "RF applications in particle accelerators (2024) [pdf]",
@@ -79,69 +151,6 @@
     "date": "2026-09-23T19:48:51Z",
     "timestamp": 1790192931,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "VSArena – The official open browser benchmark for embodied AI",
-    "url": "https://vsarena.vercel.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821427",
-    "source": "vsarena.vercel.app",
-    "date": "2026-09-23T19:41:58Z",
-    "timestamp": 1790192518,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought",
-    "url": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821377",
-    "source": "futurism.com",
-    "date": "2026-09-23T19:36:54Z",
-    "timestamp": 1790192214,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Good\" AI",
-    "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821352",
-    "source": "thoughts.wyounas.com",
-    "date": "2026-09-23T19:35:01Z",
-    "timestamp": 1790192101,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jensen Huang on AI Alarmists – NYT Ezra Klein Show",
-    "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49820909",
-    "source": "nytimes.com",
-    "date": "2026-09-23T19:03:32Z",
-    "timestamp": 1790190212,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How AI Helps and Hampers Junior Workers",
-    "url": "https://www.nominalnews.com/p/how-ai-helps-and-hampers-junior-workers",
-    "discussion_url": "https://news.ycombinator.com/item?id=49820337",
-    "source": "nominalnews.com",
-    "date": "2026-09-23T18:22:39Z",
-    "timestamp": 1790187759,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What AI pays the people who train it",
-    "url": "https://blastradius.dpdns.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49820303",
-    "source": "blastradius.dpdns.org",
-    "date": "2026-09-23T18:19:39Z",
-    "timestamp": 1790187579,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
-    "url": "https://github.com/General-Instinct/InstinctFlash",
-    "discussion_url": "https://news.ycombinator.com/item?id=49802789",
-    "source": "github.com",
-    "date": "2026-09-22T15:20:06Z",
-    "timestamp": 1790090406,
-    "category": "Physical AI"
   },
   {
     "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
