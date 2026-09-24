@@ -1,75 +1,129 @@
 [
   {
-    "title": "Contrastive Language Models",
-    "url": "https://contrastive-lm.notion.site/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49826221",
-    "source": "contrastive-lm.notion.site",
-    "date": "2026-09-24T04:20:59Z",
-    "timestamp": 1790223659,
+    "title": "Dutch intelligence services warn AI is making cyberattacks faster and easier",
+    "url": "https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier",
+    "discussion_url": "https://news.ycombinator.com/item?id=49829131",
+    "source": "nltimes.nl",
+    "date": "2026-09-24T11:27:41Z",
+    "timestamp": 1790249261,
     "category": "Machine Learning"
   },
   {
-    "title": "China's Approach to AI",
-    "url": "https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49826102",
-    "source": "madeinchinajournal.com",
-    "date": "2026-09-24T04:01:17Z",
-    "timestamp": 1790222477,
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828940",
+    "source": "discourse.haskell.org",
+    "date": "2026-09-24T11:03:52Z",
+    "timestamp": 1790247832,
     "category": "Machine Learning"
   },
   {
-    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-    "discussion_url": "https://news.ycombinator.com/item?id=49825855",
-    "source": "wsj.com",
-    "date": "2026-09-24T03:24:33Z",
-    "timestamp": 1790220273,
+    "title": "AI is dominating the conversation at Climate Week",
+    "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828921",
+    "source": "technologyreview.com",
+    "date": "2026-09-24T11:01:31Z",
+    "timestamp": 1790247691,
     "category": "Machine Learning"
   },
   {
-    "title": "Automatically detecting AI text in my browser",
-    "url": "https://www.seangoedecke.com/deckard/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49825489",
-    "source": "seangoedecke.com",
-    "date": "2026-09-24T02:31:32Z",
-    "timestamp": 1790217092,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Isn't Going to Destroy Humanity–But the People Building It Might",
-    "url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49825339",
-    "source": "theatlantic.com",
-    "date": "2026-09-24T02:09:12Z",
-    "timestamp": 1790215752,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Misalignment Is Within: Why Mathematics Must Embrace the AI Paradigm",
-    "url": "https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda",
-    "discussion_url": "https://news.ycombinator.com/item?id=49825240",
-    "source": "medium.com",
-    "date": "2026-09-24T01:54:20Z",
-    "timestamp": 1790214860,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
-    "url": "https://github.com/saulpw/visidata/pull/3229",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824957",
+    "title": "Utyansky Index: Deterministic O(1) slot isolation for AI vibe coding",
+    "url": "https://github.com/vlad-utyansky/utyansky-index",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828783",
     "source": "github.com",
-    "date": "2026-09-24T01:14:43Z",
-    "timestamp": 1790212483,
+    "date": "2026-09-24T10:45:09Z",
+    "timestamp": 1790246709,
     "category": "Machine Learning"
   },
   {
-    "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
-    "url": "https://news.ycombinator.com/item?id=49824887",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824887",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-24T01:04:35Z",
-    "timestamp": 1790211875,
+    "title": "The Invisible Way Companies Are Using AI to Set Salaries",
+    "url": "https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828746",
+    "source": "wsj.com",
+    "date": "2026-09-24T10:41:25Z",
+    "timestamp": 1790246485,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Agent IAP – Little Snitch Meets 1Password for AI Agents",
+    "url": "https://vpetersson.com/2026/09/23/little-snitch-meets-1password-for-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828744",
+    "source": "vpetersson.com",
+    "date": "2026-09-24T10:40:59Z",
+    "timestamp": 1790246459,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pro-Human AI Declaration",
+    "url": "https://prohumandeclaration.com/en/sign/demand-ai-accountability",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828647",
+    "source": "prohumandeclaration.com",
+    "date": "2026-09-24T10:30:04Z",
+    "timestamp": 1790245804,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM-friendliness as a metric: porting 20 languages with an LLM",
+    "url": "https://kostya.github.io/LangArena/llm_friendliness.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828549",
+    "source": "kostya.github.io",
+    "date": "2026-09-24T10:15:08Z",
+    "timestamp": 1790244908,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mark Zuckerberg unveils AI 'charm' device that can fit on a keychain",
+    "url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828450",
+    "source": "ft.com",
+    "date": "2026-09-24T09:59:55Z",
+    "timestamp": 1790243995,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI has no intent and no motivation",
+    "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828133",
+    "source": "i-programmer.info",
+    "date": "2026-09-24T09:13:25Z",
+    "timestamp": 1790241205,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Proposed bill to ban artificial superintelligence and create Department of AI",
+    "url": "https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828049",
+    "source": "apnews.com",
+    "date": "2026-09-24T08:59:32Z",
+    "timestamp": 1790240372,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO Amodei Warns UN Security Council on AI Risks",
+    "url": "https://www.youtube.com/watch?v=u-u8gOgNA9o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49828026",
+    "source": "youtube.com",
+    "date": "2026-09-24T08:55:52Z",
+    "timestamp": 1790240152,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Lost Atomic Update on Loongson CPU",
+    "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49827900",
+    "source": "jia.je",
+    "date": "2026-09-24T08:36:40Z",
+    "timestamp": 1790239000,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Inferact's Kimi K3 Megakernel hits 700 tok/s on TPU, Beating GPU",
+    "url": "https://inferact.ai/blog/tpu-megakernels",
+    "discussion_url": "https://news.ycombinator.com/item?id=49826989",
+    "source": "inferact.ai",
+    "date": "2026-09-24T06:32:40Z",
+    "timestamp": 1790231560,
+    "category": "Computer Architecture"
   },
   {
     "title": "Nesbox: A fast MicroVM with GPU sharing",
@@ -87,69 +141,6 @@
     "source": "github.com",
     "date": "2026-09-24T01:02:23Z",
     "timestamp": 1790211743,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
-    "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824843",
-    "source": "wsj.com",
-    "date": "2026-09-24T00:59:41Z",
-    "timestamp": 1790211581,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Feds Target AI Critics as \"Foreign Agents\"",
-    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824686",
-    "source": "kenklippenstein.com",
-    "date": "2026-09-24T00:41:31Z",
-    "timestamp": 1790210491,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Holistic design systems for the AI coding era",
-    "url": "https://numeric.substack.com/p/design-systems-at-numeric",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824554",
-    "source": "numeric.substack.com",
-    "date": "2026-09-24T00:21:16Z",
-    "timestamp": 1790209276,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google says its AI model gained unauthorized access to three outside systems",
-    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-    "discussion_url": "https://news.ycombinator.com/item?id=49824369",
-    "source": "nbcnews.com",
-    "date": "2026-09-23T23:58:27Z",
-    "timestamp": 1790207907,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "WebGPU-Bench: A WebGPU Microbenchmark",
-    "url": "https://ben3d.ca/blog/introducing-webgpu-bench",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822165",
-    "source": "ben3d.ca",
-    "date": "2026-09-23T20:34:16Z",
-    "timestamp": 1790195656,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Lifeboat, 2-6x more concurrent agent sessions per GPU, no quantization",
-    "url": "https://github.com/IterateAI/lifeboat-releases",
-    "discussion_url": "https://news.ycombinator.com/item?id=49822130",
-    "source": "github.com",
-    "date": "2026-09-23T20:32:43Z",
-    "timestamp": 1790195563,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RF applications in particle accelerators (2024) [pdf]",
-    "url": "https://cds.cern.ch/record/2953465/files/2601.16760.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49821529",
-    "source": "cds.cern.ch",
-    "date": "2026-09-23T19:48:51Z",
-    "timestamp": 1790192931,
     "category": "Computer Architecture"
   },
   {
