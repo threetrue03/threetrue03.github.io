@@ -1,38 +1,128 @@
 [
   {
-    "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
-    "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
-    "discussion_url": "https://news.ycombinator.com/item?id=49855238",
+    "title": "Neomacs: GPU rendered Rust hard fork of Emacs",
+    "url": "https://github.com/eval-exec/neomacs",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857805",
+    "source": "github.com",
+    "date": "2026-09-26T16:03:13Z",
+    "timestamp": 1790438593,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The AI Bubble Explained",
+    "url": "https://hughhowey.com/the-ai-bubble-explained/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857723",
+    "source": "hughhowey.com",
+    "date": "2026-09-26T15:55:36Z",
+    "timestamp": 1790438136,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857555",
+    "source": "techcrunch.com",
+    "date": "2026-09-26T15:37:31Z",
+    "timestamp": 1790437051,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI won't take your career",
+    "url": "https://andrej.sh/posts/ai-wont-take-your-career",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857463",
+    "source": "andrej.sh",
+    "date": "2026-09-26T15:26:35Z",
+    "timestamp": 1790436395,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I think this AI models are making us stupid and the reason is their interface",
+    "url": "https://news.ycombinator.com/item?id=49857342",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857342",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-26T15:12:40Z",
+    "timestamp": 1790435560,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
+    "url": "https://arxiv.org/abs/2609.28615",
+    "discussion_url": "https://news.ycombinator.com/item?id=49857257",
+    "source": "arxiv.org",
+    "date": "2026-09-26T15:03:28Z",
+    "timestamp": 1790435008,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'm coding directly in production with AI and I'm not looking back",
+    "url": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856750",
+    "source": "joydemo.com",
+    "date": "2026-09-26T14:11:22Z",
+    "timestamp": 1790431882,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Fly Language Model",
+    "url": "https://flm.kuber.studio/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856744",
+    "source": "flm.kuber.studio",
+    "date": "2026-09-26T14:10:43Z",
+    "timestamp": 1790431843,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
+    "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856677",
+    "source": "theguardian.com",
+    "date": "2026-09-26T14:04:55Z",
+    "timestamp": 1790431495,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Fraud Loophole Washington Refuses to Close",
+    "url": "https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856594",
+    "source": "shearerp.substack.com",
+    "date": "2026-09-26T13:56:05Z",
+    "timestamp": 1790430965,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Genie Phenomenon and Three Types of AI Chatbot Addiction",
+    "url": "https://arxiv.org/abs/2601.13348",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856439",
+    "source": "arxiv.org",
+    "date": "2026-09-26T13:38:33Z",
+    "timestamp": 1790429913,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Minecraft random seed world record (with a particle accelerator) [video]",
+    "url": "https://www.youtube.com/watch?v=Kd5-1IXqiDQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856161",
     "source": "youtube.com",
-    "date": "2026-09-26T10:42:01Z",
-    "timestamp": 1790419321,
+    "date": "2026-09-26T13:07:11Z",
+    "timestamp": 1790428031,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856149",
+    "source": "lasso.security",
+    "date": "2026-09-26T13:05:36Z",
+    "timestamp": 1790427936,
     "category": "Machine Learning"
   },
   {
-    "title": "One Month Without AI",
-    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49855018",
-    "source": "blog.bustikiller.com",
-    "date": "2026-09-26T10:08:21Z",
-    "timestamp": 1790417301,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Drum Machines (LLMs) Have No Soul",
-    "url": "https://calvinflegal.com/2026/09/26/drum-machines-have-no-soul.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854928",
-    "source": "calvinflegal.com",
-    "date": "2026-09-26T09:52:14Z",
-    "timestamp": 1790416334,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854875",
-    "source": "discourse.haskell.org",
-    "date": "2026-09-26T09:41:58Z",
-    "timestamp": 1790415718,
+    "title": "CEO of Mistral: AI is software. It can be controlled",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49856034",
+    "source": "lemonde.fr",
+    "date": "2026-09-26T12:52:04Z",
+    "timestamp": 1790427124,
     "category": "Machine Learning"
   },
   {
@@ -45,87 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Using Pomodoro to limit interaction with AI",
-    "url": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854538",
-    "source": "anaivebidder.com",
-    "date": "2026-09-26T08:53:58Z",
-    "timestamp": 1790412838,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854528",
-    "source": "arstechnica.com",
-    "date": "2026-09-26T08:52:57Z",
-    "timestamp": 1790412777,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
-    "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854518",
-    "source": "noyb.eu",
-    "date": "2026-09-26T08:51:00Z",
-    "timestamp": 1790412660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
-    "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854439",
-    "source": "phoronix.com",
-    "date": "2026-09-26T08:36:59Z",
-    "timestamp": 1790411819,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Who is behind the AI safety backlash?",
-    "url": "https://twitter.com/TheMidasProj/status/2103577207700365719",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854282",
-    "source": "twitter.com",
-    "date": "2026-09-26T08:03:46Z",
-    "timestamp": 1790409826,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can a language model run in Linux eBPF?",
-    "url": "https://eunomia.dev/blog/2026/09/24/qwen3-ebpf-in-kernel-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49854228",
-    "source": "eunomia.dev",
-    "date": "2026-09-26T07:52:02Z",
-    "timestamp": 1790409122,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Thought on how to deal with AI crawlers",
-    "url": "https://copepod.dev/human-required",
-    "discussion_url": "https://news.ycombinator.com/item?id=49853899",
-    "source": "copepod.dev",
-    "date": "2026-09-26T06:48:42Z",
-    "timestamp": 1790405322,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
-    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49853845",
-    "source": "arstechnica.com",
-    "date": "2026-09-26T06:37:38Z",
-    "timestamp": 1790404658,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Gutcheck, grep for meaning with a local CPU model",
-    "url": "https://github.com/sfmqrb/gutcheck",
-    "discussion_url": "https://news.ycombinator.com/item?id=49853451",
-    "source": "github.com",
-    "date": "2026-09-26T05:21:34Z",
-    "timestamp": 1790400094,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "A single function Jev-like wrapper for LLMs, including vision models",
     "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
     "discussion_url": "https://news.ycombinator.com/item?id=49853175",
@@ -133,51 +142,6 @@
     "date": "2026-09-26T04:20:58Z",
     "timestamp": 1790396458,
     "category": "Computer Vision"
-  },
-  {
-    "title": "Reflex – run a Jev-like decision model locally on a 16GB Nvidia GPU",
-    "url": "https://github.com/lateos-ai/reflex",
-    "discussion_url": "https://news.ycombinator.com/item?id=49852130",
-    "source": "github.com",
-    "date": "2026-09-26T01:11:18Z",
-    "timestamp": 1790385078,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49851856",
-    "source": "arstechnica.com",
-    "date": "2026-09-26T00:26:37Z",
-    "timestamp": 1790382397,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Nvidia 5090 DLSS 5 power hits 647W, power connector runs hotter than the GPU die",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
-    "discussion_url": "https://news.ycombinator.com/item?id=49851680",
-    "source": "tomshardware.com",
-    "date": "2026-09-25T23:55:58Z",
-    "timestamp": 1790380558,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "How OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
-    "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49851120",
-    "source": "nytimes.com",
-    "date": "2026-09-25T22:59:32Z",
-    "timestamp": 1790377172,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Agentic CUDA Kernel Optimizer",
-    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49842596",
-    "source": "github.com",
-    "date": "2026-09-25T10:32:58Z",
-    "timestamp": 1790332378,
-    "category": "Computer Architecture"
   },
   {
     "title": "Motor Characterization for Small Running Robots (2016)",
