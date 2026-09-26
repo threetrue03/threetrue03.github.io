@@ -1,65 +1,155 @@
 [
   {
-    "title": "It's not hypothetical: the dangers of AI are here",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-    "discussion_url": "https://news.ycombinator.com/item?id=49850168",
-    "source": "theguardian.com",
-    "date": "2026-09-25T21:26:31Z",
-    "timestamp": 1790371591,
+    "title": "Evolving programming languages in the AI era",
+    "url": "https://twitter.com/josevalim/status/2103133294317445290",
+    "discussion_url": "https://news.ycombinator.com/item?id=49853177",
+    "source": "twitter.com",
+    "date": "2026-09-26T04:21:24Z",
+    "timestamp": 1790396484,
     "category": "Machine Learning"
   },
   {
-    "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
-    "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
-    "discussion_url": "https://news.ycombinator.com/item?id=49850114",
-    "source": "aiweekly.co",
-    "date": "2026-09-25T21:22:49Z",
-    "timestamp": 1790371369,
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49853175",
+    "source": "allanrbo.blogspot.com",
+    "date": "2026-09-26T04:20:58Z",
+    "timestamp": 1790396458,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "AI Safety's Disallowed Conclusion",
+    "url": "https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion",
+    "discussion_url": "https://news.ycombinator.com/item?id=49852267",
+    "source": "souprecipies.com",
+    "date": "2026-09-26T01:31:56Z",
+    "timestamp": 1790386316,
     "category": "Machine Learning"
   },
   {
-    "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-    "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-    "discussion_url": "https://news.ycombinator.com/item?id=49850042",
-    "source": "bsky.app",
-    "date": "2026-09-25T21:15:55Z",
-    "timestamp": 1790370955,
+    "title": "McDonald's turns to AI for drive-thru, inventory management, order accuracy",
+    "url": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49852198",
+    "source": "restaurantdive.com",
+    "date": "2026-09-26T01:21:14Z",
+    "timestamp": 1790385674,
     "category": "Machine Learning"
   },
   {
-    "title": "The Scarcity Premium: AI made images free; advertising as a solvency bond",
-    "url": "https://scarcity.danieldeboulay.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49849608",
-    "source": "scarcity.danieldeboulay.com",
-    "date": "2026-09-25T20:35:54Z",
-    "timestamp": 1790368554,
+    "title": "Reflex – run a Jev-like decision model locally on a 16GB Nvidia GPU",
+    "url": "https://github.com/lateos-ai/reflex",
+    "discussion_url": "https://news.ycombinator.com/item?id=49852130",
+    "source": "github.com",
+    "date": "2026-09-26T01:11:18Z",
+    "timestamp": 1790385078,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Why AI is booming, but productivity isn't",
+    "url": "https://research.socialcapital.com/p/ai-roi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49852079",
+    "source": "research.socialcapital.com",
+    "date": "2026-09-26T01:00:55Z",
+    "timestamp": 1790384455,
     "category": "Machine Learning"
   },
   {
-    "title": "AI will grow beyond our control, we must instill good values before it does",
-    "url": "https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we",
-    "discussion_url": "https://news.ycombinator.com/item?id=49849417",
-    "source": "blog.kradle.ai",
-    "date": "2026-09-25T20:21:17Z",
-    "timestamp": 1790367677,
+    "title": "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More",
+    "url": "https://doug.sh/posts/oh-my-pi-custom-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49852029",
+    "source": "doug.sh",
+    "date": "2026-09-26T00:53:29Z",
+    "timestamp": 1790384009,
     "category": "Machine Learning"
   },
   {
-    "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
-    "url": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49849171",
-    "source": "electrek.co",
-    "date": "2026-09-25T20:00:11Z",
-    "timestamp": 1790366411,
+    "title": "Generate fonts where every LLM token is the same width",
+    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851883",
+    "source": "ampdot.mesh.host",
+    "date": "2026-09-26T00:30:03Z",
+    "timestamp": 1790382603,
     "category": "Machine Learning"
   },
   {
-    "title": "Tell HN: Stop emailing HN users with deceptive AI spam",
-    "url": "https://news.ycombinator.com/item?id=49849134",
-    "discussion_url": "https://news.ycombinator.com/item?id=49849134",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-25T19:56:26Z",
-    "timestamp": 1790366186,
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851856",
+    "source": "arstechnica.com",
+    "date": "2026-09-26T00:26:37Z",
+    "timestamp": 1790382397,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Nvidia 5090 DLSS 5 power hits 647W, power connector runs hotter than the GPU die",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851680",
+    "source": "tomshardware.com",
+    "date": "2026-09-25T23:55:58Z",
+    "timestamp": 1790380558,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
+    "url": "https://www.youtube.com/watch?v=1HMOA3BawXg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851584",
+    "source": "youtube.com",
+    "date": "2026-09-25T23:43:26Z",
+    "timestamp": 1790379806,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Our Big Dumb AI Gods Are Wrong",
+    "url": "https://news.massopen.ai/our-big-dumb-ai-gods-were-wrong/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851475",
+    "source": "news.massopen.ai",
+    "date": "2026-09-25T23:34:03Z",
+    "timestamp": 1790379243,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Gaia, an AI character trying to earn enough to stay online",
+    "url": "https://gaiabot.lol",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851265",
+    "source": "gaiabot.lol",
+    "date": "2026-09-25T23:13:51Z",
+    "timestamp": 1790378031,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
+    "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49851120",
+    "source": "nytimes.com",
+    "date": "2026-09-25T22:59:32Z",
+    "timestamp": 1790377172,
+    "category": "Physical AI"
+  },
+  {
+    "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+    "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49850999",
+    "source": "reuters.com",
+    "date": "2026-09-25T22:49:41Z",
+    "timestamp": 1790376581,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
+    "url": "https://wallstreetclaws.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49850874",
+    "source": "wallstreetclaws.com",
+    "date": "2026-09-25T22:37:15Z",
+    "timestamp": 1790375835,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is a Boring Technology",
+    "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49850719",
+    "source": "chrbutler.com",
+    "date": "2026-09-25T22:22:11Z",
+    "timestamp": 1790374931,
     "category": "Machine Learning"
   },
   {
@@ -70,69 +160,6 @@
     "date": "2026-09-25T19:25:29Z",
     "timestamp": 1790364329,
     "category": "Computer Vision"
-  },
-  {
-    "title": "Pope: AI must serve humans not become tool of domination",
-    "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-    "discussion_url": "https://news.ycombinator.com/item?id=49848734",
-    "source": "euronews.com",
-    "date": "2026-09-25T19:18:05Z",
-    "timestamp": 1790363885,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A reminder on why basic prompt caching is so important to build AI agents",
-    "url": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend",
-    "discussion_url": "https://news.ycombinator.com/item?id=49848678",
-    "source": "revefi.com",
-    "date": "2026-09-25T19:12:41Z",
-    "timestamp": 1790363561,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The cost of free AI restaurant ads is greater than it seems",
-    "url": "https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49848247",
-    "source": "phoenixnewtimes.com",
-    "date": "2026-09-25T18:31:50Z",
-    "timestamp": 1790361110,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI applications need better primitives than text generation",
-    "url": "https://seldon-ai.com/blog/better-primitives-than-text-generation",
-    "discussion_url": "https://news.ycombinator.com/item?id=49848236",
-    "source": "seldon-ai.com",
-    "date": "2026-09-25T18:30:30Z",
-    "timestamp": 1790361030,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Towards GPU Type Inference",
-    "url": "https://winwang.blog/posts/dphm-1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49847926",
-    "source": "winwang.blog",
-    "date": "2026-09-25T18:03:44Z",
-    "timestamp": 1790359424,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI agent hacks government website for first time: why this breach matters",
-    "url": "https://www.nature.com/articles/d41586-026-03024-z",
-    "discussion_url": "https://news.ycombinator.com/item?id=49847847",
-    "source": "nature.com",
-    "date": "2026-09-25T17:56:50Z",
-    "timestamp": 1790359010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jev for Input Validation",
-    "url": "https://unstack.io/jev-for-input-validation",
-    "discussion_url": "https://news.ycombinator.com/item?id=49847802",
-    "source": "unstack.io",
-    "date": "2026-09-25T17:52:56Z",
-    "timestamp": 1790358776,
-    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Agentic CUDA Kernel Optimizer",
