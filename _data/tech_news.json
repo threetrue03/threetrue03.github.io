@@ -1,12 +1,120 @@
 [
   {
-    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-    "discussion_url": "https://news.ycombinator.com/item?id=49868202",
-    "source": "theguardian.com",
-    "date": "2026-09-27T16:29:38Z",
-    "timestamp": 1790526578,
+    "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870438",
+    "source": "bloomberg.com",
+    "date": "2026-09-27T20:20:45Z",
+    "timestamp": 1790540445,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870419",
+    "source": "cnbc.com",
+    "date": "2026-09-27T20:17:43Z",
+    "timestamp": 1790540263,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+    "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870296",
+    "source": "crypto-sentiment-x402.onrender.com",
+    "date": "2026-09-27T20:03:44Z",
+    "timestamp": 1790539424,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Corporate America embraces cheaper 'open' AI models",
+    "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870126",
+    "source": "ft.com",
+    "date": "2026-09-27T19:44:25Z",
+    "timestamp": 1790538265,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DSPy – Program, don't prompt, your LLMs",
+    "url": "https://dspy.ai/current/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870084",
+    "source": "dspy.ai",
+    "date": "2026-09-27T19:38:34Z",
+    "timestamp": 1790537914,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+    "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870039",
+    "source": "politico.com",
+    "date": "2026-09-27T19:33:49Z",
+    "timestamp": 1790537629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+    "url": "https://heysquint.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49870007",
+    "source": "heysquint.com",
+    "date": "2026-09-27T19:29:41Z",
+    "timestamp": 1790537381,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869973",
+    "source": "bloomberg.com",
+    "date": "2026-09-27T19:26:14Z",
+    "timestamp": 1790537174,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+    "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869944",
+    "source": "motherjones.com",
+    "date": "2026-09-27T19:23:18Z",
+    "timestamp": 1790536998,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+    "url": "https://github.com/davidsonff/asimov4laws",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869595",
+    "source": "github.com",
+    "date": "2026-09-27T18:46:13Z",
+    "timestamp": 1790534773,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+    "url": "https://orglet.codepawl.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869508",
+    "source": "orglet.codepawl.com",
+    "date": "2026-09-27T18:37:45Z",
+    "timestamp": 1790534265,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+    "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869486",
+    "source": "apnews.com",
+    "date": "2026-09-27T18:34:38Z",
+    "timestamp": 1790534078,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU Glossary (Readable)",
+    "url": "https://modal.com/gpu-glossary/readme",
+    "discussion_url": "https://news.ycombinator.com/item?id=49869057",
+    "source": "modal.com",
+    "date": "2026-09-27T17:55:01Z",
+    "timestamp": 1790531701,
+    "category": "Computer Architecture"
   },
   {
     "title": "Glyd – Run LLMs in 33% less GPU memory, bit for bit",
@@ -18,156 +126,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "There are no \"rogue\" AI agents",
-    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-    "discussion_url": "https://news.ycombinator.com/item?id=49868083",
-    "source": "eoinhiggins.substack.com",
-    "date": "2026-09-27T16:19:46Z",
-    "timestamp": 1790525986,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kimi K3 vs. Claude Opus 5.5: How Two Flagship LLMs Built Pokémon Emerald Worms",
-    "url": "https://www.runsybil.com/blog/kimi-k3-vs-claude-opus-5-5-how-two-flagship-llms-built-pokemon-emerald-worms",
-    "discussion_url": "https://news.ycombinator.com/item?id=49868056",
-    "source": "runsybil.com",
-    "date": "2026-09-27T16:17:10Z",
-    "timestamp": 1790525830,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867987",
-    "source": "deepmind.google",
-    "date": "2026-09-27T16:10:34Z",
-    "timestamp": 1790525434,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Tragic Alley of the LLM",
-    "url": "https://nikotak.com/tragic-alley-of-the-llm.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867823",
-    "source": "nikotak.com",
-    "date": "2026-09-27T15:55:43Z",
-    "timestamp": 1790524543,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
-    "url": "https://tinyaiarena.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867775",
-    "source": "tinyaiarena.com",
-    "date": "2026-09-27T15:51:28Z",
-    "timestamp": 1790524288,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Current ways of developing AI agents contribute to degradation of oversight",
-    "url": "https://arxiv.org/abs/2608.23642",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867596",
-    "source": "arxiv.org",
-    "date": "2026-09-27T15:35:52Z",
-    "timestamp": 1790523352,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Updated Ceptile AI Search Improved Answers and Research",
-    "url": "https://www.ceptile.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867350",
-    "source": "ceptile.com",
-    "date": "2026-09-27T15:14:15Z",
-    "timestamp": 1790522055,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-    "discussion_url": "https://news.ycombinator.com/item?id=49867212",
-    "source": "theguardian.com",
-    "date": "2026-09-27T14:59:53Z",
-    "timestamp": 1790521193,
-    "category": "Machine Learning"
-  },
-  {
     "title": "GPU Glossary",
     "url": "https://modal.com/gpu-glossary",
     "discussion_url": "https://news.ycombinator.com/item?id=49867203",
     "source": "modal.com",
     "date": "2026-09-27T14:58:59Z",
     "timestamp": 1790521139,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say",
-    "url": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49866983",
-    "source": "reuters.com",
-    "date": "2026-09-27T14:34:45Z",
-    "timestamp": 1790519685,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-    "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49866912",
-    "source": "broutonlab.com",
-    "date": "2026-09-27T14:26:11Z",
-    "timestamp": 1790519171,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and the Fall? Of the Creative Class",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "discussion_url": "https://news.ycombinator.com/item?id=49866839",
-    "source": "apricitas.io",
-    "date": "2026-09-27T14:17:02Z",
-    "timestamp": 1790518622,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jev in your local browser in Go with WebGPU using Jeyzma",
-    "url": "https://jeyzma.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49866106",
-    "source": "jeyzma.com",
-    "date": "2026-09-27T12:29:28Z",
-    "timestamp": 1790512168,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "CUDA Device Max Connections",
-    "url": "https://leimao.github.io/blog/CUDA-Device-Max-Connections/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49865660",
-    "source": "leimao.github.io",
-    "date": "2026-09-27T11:19:20Z",
-    "timestamp": 1790507960,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "From game physics to care robots (2023) [The Royal Society] [video]",
-    "url": "https://www.youtube.com/watch?v=R1D9Ma4m9Q0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49865054",
-    "source": "youtube.com",
-    "date": "2026-09-27T09:42:10Z",
-    "timestamp": 1790502130,
-    "category": "Physical AI"
-  },
-  {
-    "title": "New Futex Syscalls for Helping Valve's ARM64 Gaming Ambitions",
-    "url": "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls",
-    "discussion_url": "https://news.ycombinator.com/item?id=49864985",
-    "source": "phoronix.com",
-    "date": "2026-09-27T09:32:49Z",
-    "timestamp": 1790501569,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: A Simple GPU Job Scheduler",
-    "url": "https://github.com/ceruleane/gpusched",
-    "discussion_url": "https://news.ycombinator.com/item?id=49864439",
-    "source": "github.com",
-    "date": "2026-09-27T08:08:41Z",
-    "timestamp": 1790496521,
     "category": "Computer Architecture"
   },
   {
