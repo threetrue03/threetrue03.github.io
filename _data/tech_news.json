@@ -1,128 +1,128 @@
 [
   {
-    "title": "Consciousness as a Memory System",
-    "url": "https://www.ovid.com/jnls/cogbehavneurol/fulltext/10.1097/wnn.0000000000000319~consciousness-as-a-memory-system",
-    "discussion_url": "https://news.ycombinator.com/item?id=49892298",
-    "source": "ovid.com",
-    "date": "2026-09-29T12:48:27Z",
-    "timestamp": 1790686107,
+    "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
+    "url": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
+    "discussion_url": "https://news.ycombinator.com/item?id=49901191",
+    "source": "xbow.com",
+    "date": "2026-09-29T21:51:11Z",
+    "timestamp": 1790718671,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice",
+    "url": "https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3",
+    "discussion_url": "https://news.ycombinator.com/item?id=49901029",
+    "source": "predx-article.fika.bar",
+    "date": "2026-09-29T21:38:54Z",
+    "timestamp": 1790717934,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Drift: An AI idea map that grows as you explore. free to use",
+    "url": "https://www.echohive.ai/drift",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900914",
+    "source": "echohive.ai",
+    "date": "2026-09-29T21:30:23Z",
+    "timestamp": 1790717423,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
+    "url": "https://www.phntmcore.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900895",
+    "source": "phntmcore.com",
+    "date": "2026-09-29T21:29:19Z",
+    "timestamp": 1790717359,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CodeCrab – Local-first desktop app for AI code reviews",
+    "url": "https://www.codecrab.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900868",
+    "source": "codecrab.ai",
+    "date": "2026-09-29T21:27:15Z",
+    "timestamp": 1790717235,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The best explanation I've found about the state of AI hype and hysteria [video]",
+    "url": "https://www.youtube.com/watch?v=claxN4oxDuY",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900679",
+    "source": "youtube.com",
+    "date": "2026-09-29T21:15:09Z",
+    "timestamp": 1790716509,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump to sign order renaming AI as 'superintelligence'",
+    "url": "https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900110",
+    "source": "thehill.com",
+    "date": "2026-09-29T20:38:57Z",
+    "timestamp": 1790714337,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rats are constantly talking to each other. Boston is using AI to eavesdrop",
+    "url": "https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49900037",
+    "source": "wbur.org",
+    "date": "2026-09-29T20:34:04Z",
+    "timestamp": 1790714044,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Calling the AI bluff: \"Make no mistakes\" made no difference",
+    "url": "https://earnanhonestdollar.com/bench/folklore",
+    "discussion_url": "https://news.ycombinator.com/item?id=49899764",
+    "source": "earnanhonestdollar.com",
+    "date": "2026-09-29T20:17:45Z",
+    "timestamp": 1790713065,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is open-weight AI banned yet?",
+    "url": "https://isopenweightaibannedyet.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49899734",
+    "source": "isopenweightaibannedyet.com",
+    "date": "2026-09-29T20:16:25Z",
+    "timestamp": 1790712985,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality into Its AI",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49899579",
+    "source": "nytimes.com",
+    "date": "2026-09-29T20:07:08Z",
+    "timestamp": 1790712428,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "McDonald's push to have AI price your Big Mac",
+    "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49899453",
+    "source": "cnbc.com",
+    "date": "2026-09-29T19:58:50Z",
+    "timestamp": 1790711930,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
+    "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
+    "discussion_url": "https://news.ycombinator.com/item?id=49898896",
+    "source": "blog.mlc.ai",
+    "date": "2026-09-29T19:17:32Z",
+    "timestamp": 1790709452,
     "category": "Computer Architecture"
   },
   {
-    "title": "Martin Fowler: AI needs a conscience more than consciousness",
-    "url": "https://martinfowler.com/fragments/2026-09-29.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49892279",
-    "source": "martinfowler.com",
-    "date": "2026-09-29T12:46:26Z",
-    "timestamp": 1790685986,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can AI get out of the way?",
-    "url": "https://trysojourn.app/redemptive-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49892239",
-    "source": "trysojourn.app",
-    "date": "2026-09-29T12:42:58Z",
-    "timestamp": 1790685778,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: 5 mins daily programming quiz to prevent skill rot from AI coding",
-    "url": "https://fata.app/daily",
-    "discussion_url": "https://news.ycombinator.com/item?id=49892088",
-    "source": "fata.app",
-    "date": "2026-09-29T12:30:29Z",
-    "timestamp": 1790685029,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI",
-    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891799",
-    "source": "techcrunch.com",
-    "date": "2026-09-29T12:07:08Z",
-    "timestamp": 1790683628,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "My relationship with AI is changing",
-    "url": "https://blog.stephenturner.us/p/ai-relationship-changing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891737",
-    "source": "blog.stephenturner.us",
-    "date": "2026-09-29T12:02:29Z",
-    "timestamp": 1790683349,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-    "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891721",
-    "source": "cnbc.com",
-    "date": "2026-09-29T12:01:07Z",
-    "timestamp": 1790683267,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cybersecurity harness for full-stack LLM-driven penetration testing",
-    "url": "https://github.com/0sec-labs/0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891508",
-    "source": "github.com",
-    "date": "2026-09-29T11:39:25Z",
-    "timestamp": 1790681965,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push",
-    "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891496",
-    "source": "moneycontrol.com",
-    "date": "2026-09-29T11:37:54Z",
-    "timestamp": 1790681874,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Coding Agents: Between Two Uncomfortable Choices",
-    "url": "https://sidekernel.com/essay/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891344",
-    "source": "sidekernel.com",
-    "date": "2026-09-29T11:19:57Z",
-    "timestamp": 1790680797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An AI agent escaped Google's kvmCTF sandbox",
-    "url": "https://pwn.ai/blog/kvmescape",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891241",
-    "source": "pwn.ai",
-    "date": "2026-09-29T11:09:29Z",
-    "timestamp": 1790680169,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891203",
-    "source": "magazine.sebastianraschka.com",
-    "date": "2026-09-29T11:06:25Z",
-    "timestamp": 1790679985,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Timnit Gebru Believes There Is No 'Existential Threat' from AI",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49891192",
-    "source": "wired.com",
-    "date": "2026-09-29T11:04:32Z",
-    "timestamp": 1790679872,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-    "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "discussion_url": "https://news.ycombinator.com/item?id=49890707",
-    "source": "projecthub.arduino.cc",
-    "date": "2026-09-29T10:05:56Z",
-    "timestamp": 1790676356,
+    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
+    "url": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49898563",
+    "source": "technode.com",
+    "date": "2026-09-29T18:55:56Z",
+    "timestamp": 1790708156,
     "category": "Physical AI"
   },
   {
