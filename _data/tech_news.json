@@ -1,155 +1,137 @@
 [
   {
-    "title": "A person has been using the Pain steering paper to make an AI torture chamber",
-    "url": "https://twitter.com/danmar_here/status/2105059762240979283",
-    "discussion_url": "https://news.ycombinator.com/item?id=49908001",
-    "source": "twitter.com",
-    "date": "2026-09-30T12:35:19Z",
-    "timestamp": 1790771719,
+    "title": "Distillation Defenses Easily Break After Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.35699",
+    "discussion_url": "https://news.ycombinator.com/item?id=49915039",
+    "source": "arxiv.org",
+    "date": "2026-09-30T21:58:38Z",
+    "timestamp": 1790805518,
     "category": "Machine Learning"
   },
   {
-    "title": "AI tool that copied actor's voice violated his rights, Tokyo court rules",
-    "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907818",
-    "source": "theguardian.com",
-    "date": "2026-09-30T12:18:32Z",
-    "timestamp": 1790770712,
+    "title": "Show HN: Certify you wrote it and not AI",
+    "url": "https://iwrote.co",
+    "discussion_url": "https://news.ycombinator.com/item?id=49914770",
+    "source": "iwrote.co",
+    "date": "2026-09-30T21:33:05Z",
+    "timestamp": 1790803985,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: FinTrace – point-in-time guardrails for financial LLM agents",
-    "url": "https://github.com/FredXing1/FinTrace",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907790",
+    "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
+    "url": "https://github.com/Niko1221/Strata",
+    "discussion_url": "https://news.ycombinator.com/item?id=49914465",
     "source": "github.com",
-    "date": "2026-09-30T12:16:37Z",
-    "timestamp": 1790770597,
+    "date": "2026-09-30T21:06:44Z",
+    "timestamp": 1790802404,
     "category": "Machine Learning"
   },
   {
-    "title": "Gates thinks AI could kill 1B people, can we trust his judgment after Epstein?",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907776",
-    "source": "theguardian.com",
-    "date": "2026-09-30T12:15:18Z",
-    "timestamp": 1790770518,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How Long Will the AI Boom Last? Memory Stocks Offer Clues",
-    "url": "https://www.wsj.com/tech/ai/how-long-will-the-ai-boom-last-memory-stocks-offer-clues-622be948",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907721",
-    "source": "wsj.com",
-    "date": "2026-09-30T12:07:36Z",
-    "timestamp": 1790770056,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reanimated AI Greta Garbo stars again in a ball-bearing advert",
-    "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907570",
-    "source": "theguardian.com",
-    "date": "2026-09-30T11:50:50Z",
-    "timestamp": 1790769050,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HBO Max is making paying subscribers watch AI casino slop",
-    "url": "https://adguard.com/en/blog/ai-casino-ads-hbo-streaming.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907447",
-    "source": "adguard.com",
-    "date": "2026-09-30T11:36:40Z",
-    "timestamp": 1790768200,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Making AI an asset, not an expense",
-    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907164",
-    "source": "technologyreview.com",
-    "date": "2026-09-30T11:01:38Z",
-    "timestamp": 1790766098,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump announces vague AI deal among tech CEOs for 'tremendous self-policing'",
-    "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907140",
-    "source": "theguardian.com",
-    "date": "2026-09-30T10:58:59Z",
-    "timestamp": 1790765939,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We need 'right to intervene' in AI amid growing threat says Bank of England boss",
-    "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907118",
-    "source": "theguardian.com",
-    "date": "2026-09-30T10:56:47Z",
-    "timestamp": 1790765807,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Oura postpones it's IPO with 24hrs notice citing AI threat",
-    "url": "https://www.businessinsider.com/oura-smart-ring-postpones-ipo-cites-market-uncertainty-2026-9",
-    "discussion_url": "https://news.ycombinator.com/item?id=49907017",
-    "source": "businessinsider.com",
-    "date": "2026-09-30T10:44:19Z",
-    "timestamp": 1790765059,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
-    "url": "https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49906892",
-    "source": "machine.news",
-    "date": "2026-09-30T10:28:31Z",
-    "timestamp": 1790764111,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: A crypto trading demo using WebGPU and QuestDB",
-    "url": "https://www.scitrader.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49906683",
-    "source": "scitrader.io",
-    "date": "2026-09-30T10:01:08Z",
-    "timestamp": 1790762468,
+    "title": "Agentic GPU Programming for MLSys",
+    "url": "https://mlc.ai/agentic-gpu-programming-for-mlsys/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49914283",
+    "source": "mlc.ai",
+    "date": "2026-09-30T20:54:19Z",
+    "timestamp": 1790801659,
     "category": "Computer Architecture"
   },
   {
-    "title": "I ran a 397B-parameter model on 20 GPUs with 16 GB each",
-    "url": "https://diljitpr.net/blog-post-2026-09-30-running-397b-model-on-20-gpus-peer-to-peer.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49905869",
-    "source": "diljitpr.net",
-    "date": "2026-09-30T08:04:24Z",
-    "timestamp": 1790755464,
+    "title": "Vulnerability disclosures double to 10k per month as AI fuels exploitation",
+    "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49914052",
+    "source": "therecord.media",
+    "date": "2026-09-30T20:38:07Z",
+    "timestamp": 1790800687,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Factory AI vs. Cognition (Devin) board tussle",
+    "url": "https://news.ycombinator.com/item?id=49913868",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913868",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-30T20:24:32Z",
+    "timestamp": 1790799872,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "America.gov AI Easter Egg? Type \"play minecraft\"",
+    "url": "https://www.facebook.com/AnthonyDavidAdams/posts/breaking-head-over-to-america-gov-and-type-play-minecraft-in-the-ai-chat-bot-and/10122353973499797/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913780",
+    "source": "facebook.com",
+    "date": "2026-09-30T20:18:35Z",
+    "timestamp": 1790799515,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Practical Guide to Making Yourself Obsolete Through AI",
+    "url": "https://ana15.substack.com/p/a-practical-guide-to-making-yourself",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913642",
+    "source": "ana15.substack.com",
+    "date": "2026-09-30T20:09:01Z",
+    "timestamp": 1790798941,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Domainpuff.com – Find memorable domain names within your budget",
+    "url": "https://domainpuff.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913466",
+    "source": "domainpuff.com",
+    "date": "2026-09-30T19:55:26Z",
+    "timestamp": 1790798126,
     "category": "Computer Architecture"
   },
   {
-    "title": "GLM 5.3 flash on AMD GPUs 670 tok/s",
-    "url": "https://twitter.com/runinfrai/status/2105186912634057086",
-    "discussion_url": "https://news.ycombinator.com/item?id=49905366",
+    "title": "CS240 AI Cheating Retrospective",
+    "url": "https://turkeyland.net/thoughts/ai.php",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913458",
+    "source": "turkeyland.net",
+    "date": "2026-09-30T19:54:29Z",
+    "timestamp": 1790798069,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Coop: A small language model pretrained by volunteers",
+    "url": "https://github.com/commonsense-ai/coop",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913428",
+    "source": "github.com",
+    "date": "2026-09-30T19:51:50Z",
+    "timestamp": 1790797910,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Factory AI vs. Cognition (Devin)",
+    "url": "https://twitter.com/ScottWu46/status/2105360290993115469",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913382",
     "source": "twitter.com",
-    "date": "2026-09-30T06:57:30Z",
-    "timestamp": 1790751450,
-    "category": "Computer Architecture"
+    "date": "2026-09-30T19:47:54Z",
+    "timestamp": 1790797674,
+    "category": "Machine Learning"
   },
   {
-    "title": "Efficiently Joining Large Relations on Multi-GPU Systems [pdf]",
-    "url": "https://hpi.de/fileadmin/user_upload/fachgebiete/rabl/publications/2025/multi_gpu_join_vldb25.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49904588",
-    "source": "hpi.de",
-    "date": "2026-09-30T05:10:38Z",
-    "timestamp": 1790745038,
-    "category": "Computer Architecture"
+    "title": "Is Trump's Push to Rename AI to Super Intelligence Part of a Bigger Conspiracy?",
+    "url": "https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913341",
+    "source": "gizmodo.com",
+    "date": "2026-09-30T19:43:34Z",
+    "timestamp": 1790797414,
+    "category": "Machine Learning"
   },
   {
-    "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
-    "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
-    "discussion_url": "https://news.ycombinator.com/item?id=49898896",
-    "source": "blog.mlc.ai",
-    "date": "2026-09-29T19:17:32Z",
-    "timestamp": 1790709452,
+    "title": "Government AI Chatbot Reprogrammed to Stop Fact-Checking President",
+    "url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
+    "discussion_url": "https://news.ycombinator.com/item?id=49913312",
+    "source": "newrepublic.com",
+    "date": "2026-09-30T19:40:09Z",
+    "timestamp": 1790797209,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49908962",
+    "source": "alphapixeldev.com",
+    "date": "2026-09-30T13:50:50Z",
+    "timestamp": 1790776250,
     "category": "Computer Architecture"
   },
   {
@@ -169,5 +151,14 @@
     "date": "2026-09-28T20:28:08Z",
     "timestamp": 1790627288,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Getting out of the way: my robotics crash course",
+    "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49879346",
+    "source": "thisismypersonalblog.com",
+    "date": "2026-09-28T15:12:43Z",
+    "timestamp": 1790608363,
+    "category": "Physical AI"
   }
 ]
