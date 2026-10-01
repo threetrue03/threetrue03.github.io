@@ -1,138 +1,147 @@
 [
   {
-    "title": "Language models will hide 'bad news' in reports by default",
-    "url": "https://www.unite.ai/language-models-will-hide-bad-news-in-reports-by-default/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49918117",
-    "source": "unite.ai",
-    "date": "2026-10-01T05:40:23Z",
-    "timestamp": 1790833223,
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49921157",
+    "source": "bbc.co.uk",
+    "date": "2026-10-01T13:08:28Z",
+    "timestamp": 1790860108,
     "category": "Machine Learning"
   },
   {
-    "title": "PSSA: A non-transformer language model written from scratch in Rust",
-    "url": "https://ai-news-site-cyan.vercel.app/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i",
-    "discussion_url": "https://news.ycombinator.com/item?id=49917643",
-    "source": "ai-news-site-cyan.vercel.app",
-    "date": "2026-10-01T04:11:45Z",
-    "timestamp": 1790827905,
+    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+    "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+    "discussion_url": "https://news.ycombinator.com/item?id=49921051",
+    "source": "ft.com",
+    "date": "2026-10-01T13:01:02Z",
+    "timestamp": 1790859662,
     "category": "Machine Learning"
   },
   {
-    "title": "Thoughts on AI",
-    "url": "https://medium.com/@dhillonravi1983/thoughts-on-ai-1e1400f9fe4f",
-    "discussion_url": "https://news.ycombinator.com/item?id=49917634",
-    "source": "medium.com",
-    "date": "2026-10-01T04:09:57Z",
-    "timestamp": 1790827797,
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49921050",
+    "source": "cnbc.com",
+    "date": "2026-10-01T13:00:55Z",
+    "timestamp": 1790859655,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: If AI took your job tomorrow, what is your plan?",
-    "url": "https://news.ycombinator.com/item?id=49917455",
-    "discussion_url": "https://news.ycombinator.com/item?id=49917455",
+    "title": "Trump renames AI to 'super intelligence' and tells Americans they have no choice",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-super-intelligence-rename-order-b3058607.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920735",
+    "source": "independent.co.uk",
+    "date": "2026-10-01T12:26:30Z",
+    "timestamp": 1790857590,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is it 1999? – where the AI boom sits on the dot-com timeline",
+    "url": "https://isit1999.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920630",
+    "source": "isit1999.com",
+    "date": "2026-10-01T12:12:35Z",
+    "timestamp": 1790856755,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Sensii – LeagueOfLegends live AI coach",
+    "url": "https://sensii.gg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920584",
+    "source": "sensii.gg",
+    "date": "2026-10-01T12:07:16Z",
+    "timestamp": 1790856436,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Yann LeCun's $1B Bet Against LLMs [Part 1] [video]",
+    "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920574",
+    "source": "youtube.com",
+    "date": "2026-10-01T12:06:04Z",
+    "timestamp": 1790856364,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What landmarks/lighthouses in the era of LLM/AI?",
+    "url": "https://news.ycombinator.com/item?id=49920340",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920340",
     "source": "news.ycombinator.com",
-    "date": "2026-10-01T03:39:12Z",
-    "timestamp": 1790825952,
+    "date": "2026-10-01T11:32:36Z",
+    "timestamp": 1790854356,
     "category": "Machine Learning"
   },
   {
-    "title": "Stanislaw Lem quote related to LLMs",
-    "url": "https://news.ycombinator.com/item?id=49917321",
-    "discussion_url": "https://news.ycombinator.com/item?id=49917321",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-01T03:18:07Z",
-    "timestamp": 1790824687,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and TCS: The Next Six Months Working Group Report",
-    "url": "https://simons.berkeley.edu/AITCSreport?inline=",
-    "discussion_url": "https://news.ycombinator.com/item?id=49917111",
-    "source": "simons.berkeley.edu",
-    "date": "2026-10-01T02:47:26Z",
-    "timestamp": 1790822846,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "8 Questions about Minds and AI",
-    "url": "https://www.echohive.ai/eight-questions-about-minds-and-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916892",
-    "source": "echohive.ai",
-    "date": "2026-10-01T02:16:30Z",
-    "timestamp": 1790820990,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Aw1-breaker: Sub-0.02ms AST circuit breaker for Python AI agent tools",
-    "url": "https://github.com/MvikManners/aw1-circuit-breaker",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916877",
+    "title": "CPU Performance Engineering",
+    "url": "https://github.com/usamahz/cpu-performance-engineering",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920325",
     "source": "github.com",
-    "date": "2026-10-01T02:14:20Z",
-    "timestamp": 1790820860,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google's AI Push into Schools: 'It Slowed My Thinking Down'",
-    "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916867",
-    "source": "wsj.com",
-    "date": "2026-10-01T02:12:51Z",
-    "timestamp": 1790820771,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Physical Stack Behind AI",
-    "url": "https://intelligence.mts.now/compute",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916739",
-    "source": "intelligence.mts.now",
-    "date": "2026-10-01T01:53:13Z",
-    "timestamp": 1790819593,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can AI self-improvement overcome diminishing returns?",
-    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916662",
-    "source": "rameznaam.com",
-    "date": "2026-10-01T01:40:01Z",
-    "timestamp": 1790818801,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inside the Biggest Feud in Artificial Intelligence: Dario Amodei and Sam Altman",
-    "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916543",
-    "source": "theatlantic.com",
-    "date": "2026-10-01T01:21:57Z",
-    "timestamp": 1790817717,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "If Robots Keep Getting Better, Will Humans Still Have an Edge?",
-    "url": "https://pindexis.github.io",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916428",
-    "source": "pindexis.github.io",
-    "date": "2026-10-01T01:00:34Z",
-    "timestamp": 1790816434,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
-    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49916388",
-    "source": "404media.co",
-    "date": "2026-10-01T00:54:40Z",
-    "timestamp": 1790816080,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Agentic GPU Programming for MLSys",
-    "url": "https://mlc.ai/agentic-gpu-programming-for-mlsys/index.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49914283",
-    "source": "mlc.ai",
-    "date": "2026-09-30T20:54:19Z",
-    "timestamp": 1790801659,
+    "date": "2026-10-01T11:30:27Z",
+    "timestamp": 1790854227,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "An AI \"mind-reading\" tool can reconstruct what you're looking at based on a bra",
+    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49920171",
+    "source": "technologyreview.com",
+    "date": "2026-10-01T11:01:48Z",
+    "timestamp": 1790852508,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'Things may get ugly': Meta's new AI Muse is about to make the net more annoying",
+    "url": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919924",
+    "source": "bbc.com",
+    "date": "2026-10-01T10:23:24Z",
+    "timestamp": 1790850204,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
+    "source": "news.synopsys.com",
+    "date": "2026-10-01T10:21:36Z",
+    "timestamp": 1790850096,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Calls to take down AI torture chamber on GitHub",
+    "url": "https://github.com/login",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919821",
+    "source": "github.com",
+    "date": "2026-10-01T10:08:41Z",
+    "timestamp": 1790849321,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We are all just LLMs",
+    "url": "https://f055.net/opinion/we-are-all-just-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919817",
+    "source": "f055.net",
+    "date": "2026-10-01T10:08:08Z",
+    "timestamp": 1790849288,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Danger of Include: How C++'s Preprocessor Destroys Architecture",
+    "url": "https://www.cppdepend.com/blog/the-danger-of-include-cpp-preprocessor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919738",
+    "source": "cppdepend.com",
+    "date": "2026-10-01T09:56:37Z",
+    "timestamp": 1790848597,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "'Torturing' LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49919504",
+    "source": "404media.co",
+    "date": "2026-10-01T09:16:25Z",
+    "timestamp": 1790846185,
+    "category": "Physical AI"
   },
   {
     "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
