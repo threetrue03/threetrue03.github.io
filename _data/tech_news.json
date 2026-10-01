@@ -1,30 +1,129 @@
 [
   {
-    "title": "Distillation Defenses Easily Break After Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2609.35699",
-    "discussion_url": "https://news.ycombinator.com/item?id=49915039",
-    "source": "arxiv.org",
-    "date": "2026-09-30T21:58:38Z",
-    "timestamp": 1790805518,
+    "title": "Language models will hide 'bad news' in reports by default",
+    "url": "https://www.unite.ai/language-models-will-hide-bad-news-in-reports-by-default/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49918117",
+    "source": "unite.ai",
+    "date": "2026-10-01T05:40:23Z",
+    "timestamp": 1790833223,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Certify you wrote it and not AI",
-    "url": "https://iwrote.co",
-    "discussion_url": "https://news.ycombinator.com/item?id=49914770",
-    "source": "iwrote.co",
-    "date": "2026-09-30T21:33:05Z",
-    "timestamp": 1790803985,
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "url": "https://ai-news-site-cyan.vercel.app/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i",
+    "discussion_url": "https://news.ycombinator.com/item?id=49917643",
+    "source": "ai-news-site-cyan.vercel.app",
+    "date": "2026-10-01T04:11:45Z",
+    "timestamp": 1790827905,
     "category": "Machine Learning"
   },
   {
-    "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
-    "url": "https://github.com/Niko1221/Strata",
-    "discussion_url": "https://news.ycombinator.com/item?id=49914465",
+    "title": "Thoughts on AI",
+    "url": "https://medium.com/@dhillonravi1983/thoughts-on-ai-1e1400f9fe4f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49917634",
+    "source": "medium.com",
+    "date": "2026-10-01T04:09:57Z",
+    "timestamp": 1790827797,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: If AI took your job tomorrow, what is your plan?",
+    "url": "https://news.ycombinator.com/item?id=49917455",
+    "discussion_url": "https://news.ycombinator.com/item?id=49917455",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-01T03:39:12Z",
+    "timestamp": 1790825952,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stanislaw Lem quote related to LLMs",
+    "url": "https://news.ycombinator.com/item?id=49917321",
+    "discussion_url": "https://news.ycombinator.com/item?id=49917321",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-01T03:18:07Z",
+    "timestamp": 1790824687,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and TCS: The Next Six Months Working Group Report",
+    "url": "https://simons.berkeley.edu/AITCSreport?inline=",
+    "discussion_url": "https://news.ycombinator.com/item?id=49917111",
+    "source": "simons.berkeley.edu",
+    "date": "2026-10-01T02:47:26Z",
+    "timestamp": 1790822846,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "8 Questions about Minds and AI",
+    "url": "https://www.echohive.ai/eight-questions-about-minds-and-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916892",
+    "source": "echohive.ai",
+    "date": "2026-10-01T02:16:30Z",
+    "timestamp": 1790820990,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Aw1-breaker: Sub-0.02ms AST circuit breaker for Python AI agent tools",
+    "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916877",
     "source": "github.com",
-    "date": "2026-09-30T21:06:44Z",
-    "timestamp": 1790802404,
+    "date": "2026-10-01T02:14:20Z",
+    "timestamp": 1790820860,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Google's AI Push into Schools: 'It Slowed My Thinking Down'",
+    "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916867",
+    "source": "wsj.com",
+    "date": "2026-10-01T02:12:51Z",
+    "timestamp": 1790820771,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Physical Stack Behind AI",
+    "url": "https://intelligence.mts.now/compute",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916739",
+    "source": "intelligence.mts.now",
+    "date": "2026-10-01T01:53:13Z",
+    "timestamp": 1790819593,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can AI self-improvement overcome diminishing returns?",
+    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916662",
+    "source": "rameznaam.com",
+    "date": "2026-10-01T01:40:01Z",
+    "timestamp": 1790818801,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Inside the Biggest Feud in Artificial Intelligence: Dario Amodei and Sam Altman",
+    "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916543",
+    "source": "theatlantic.com",
+    "date": "2026-10-01T01:21:57Z",
+    "timestamp": 1790817717,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "If Robots Keep Getting Better, Will Humans Still Have an Edge?",
+    "url": "https://pindexis.github.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916428",
+    "source": "pindexis.github.io",
+    "date": "2026-10-01T01:00:34Z",
+    "timestamp": 1790816434,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49916388",
+    "source": "404media.co",
+    "date": "2026-10-01T00:54:40Z",
+    "timestamp": 1790816080,
+    "category": "Physical AI"
   },
   {
     "title": "Agentic GPU Programming for MLSys",
@@ -34,96 +133,6 @@
     "date": "2026-09-30T20:54:19Z",
     "timestamp": 1790801659,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Vulnerability disclosures double to 10k per month as AI fuels exploitation",
-    "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49914052",
-    "source": "therecord.media",
-    "date": "2026-09-30T20:38:07Z",
-    "timestamp": 1790800687,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Factory AI vs. Cognition (Devin) board tussle",
-    "url": "https://news.ycombinator.com/item?id=49913868",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913868",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-30T20:24:32Z",
-    "timestamp": 1790799872,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "America.gov AI Easter Egg? Type \"play minecraft\"",
-    "url": "https://www.facebook.com/AnthonyDavidAdams/posts/breaking-head-over-to-america-gov-and-type-play-minecraft-in-the-ai-chat-bot-and/10122353973499797/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913780",
-    "source": "facebook.com",
-    "date": "2026-09-30T20:18:35Z",
-    "timestamp": 1790799515,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Practical Guide to Making Yourself Obsolete Through AI",
-    "url": "https://ana15.substack.com/p/a-practical-guide-to-making-yourself",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913642",
-    "source": "ana15.substack.com",
-    "date": "2026-09-30T20:09:01Z",
-    "timestamp": 1790798941,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Domainpuff.com – Find memorable domain names within your budget",
-    "url": "https://domainpuff.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913466",
-    "source": "domainpuff.com",
-    "date": "2026-09-30T19:55:26Z",
-    "timestamp": 1790798126,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "CS240 AI Cheating Retrospective",
-    "url": "https://turkeyland.net/thoughts/ai.php",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913458",
-    "source": "turkeyland.net",
-    "date": "2026-09-30T19:54:29Z",
-    "timestamp": 1790798069,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Coop: A small language model pretrained by volunteers",
-    "url": "https://github.com/commonsense-ai/coop",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913428",
-    "source": "github.com",
-    "date": "2026-09-30T19:51:50Z",
-    "timestamp": 1790797910,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Factory AI vs. Cognition (Devin)",
-    "url": "https://twitter.com/ScottWu46/status/2105360290993115469",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913382",
-    "source": "twitter.com",
-    "date": "2026-09-30T19:47:54Z",
-    "timestamp": 1790797674,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is Trump's Push to Rename AI to Super Intelligence Part of a Bigger Conspiracy?",
-    "url": "https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913341",
-    "source": "gizmodo.com",
-    "date": "2026-09-30T19:43:34Z",
-    "timestamp": 1790797414,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Government AI Chatbot Reprogrammed to Stop Fact-Checking President",
-    "url": "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
-    "discussion_url": "https://news.ycombinator.com/item?id=49913312",
-    "source": "newrepublic.com",
-    "date": "2026-09-30T19:40:09Z",
-    "timestamp": 1790797209,
-    "category": "Machine Learning"
   },
   {
     "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
