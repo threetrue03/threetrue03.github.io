@@ -1,129 +1,138 @@
 [
   {
-    "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-    "url": "https://neow.in/NGxhb3d6",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927693",
-    "source": "neow.in",
-    "date": "2026-10-01T22:15:57Z",
-    "timestamp": 1790892957,
+    "title": "LLMario",
+    "url": "https://www.llmario.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929967",
+    "source": "llmario.com",
+    "date": "2026-10-02T04:55:41Z",
+    "timestamp": 1790916941,
     "category": "Machine Learning"
   },
   {
-    "title": "Aweb – Communication for AI Agents",
-    "url": "https://aweb.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927587",
-    "source": "aweb.ai",
-    "date": "2026-10-01T22:02:31Z",
-    "timestamp": 1790892151,
+    "title": "Can AI Run in Space? Google Is About to Find Out",
+    "url": "https://www.wsj.com/tech/can-ai-run-in-space-google-is-about-to-find-out-59c4e062",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929929",
+    "source": "wsj.com",
+    "date": "2026-10-02T04:46:53Z",
+    "timestamp": 1790916413,
     "category": "Machine Learning"
   },
   {
-    "title": "It's Not AI Slop, You Are Just Biased",
-    "url": "https://www.aidriven.dev/p/its-not-ai-slop-you-are-just-biased",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927570",
-    "source": "aidriven.dev",
-    "date": "2026-10-01T22:00:32Z",
-    "timestamp": 1790892032,
+    "title": "'President of the Unites States': White House's AI accord includes spellingerror",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929486",
+    "source": "theguardian.com",
+    "date": "2026-10-02T03:10:57Z",
+    "timestamp": 1790910657,
     "category": "Machine Learning"
   },
   {
-    "title": "Two years ago, Meta killed CrowdTangle. Can a new AI tool fill the void?",
-    "url": "https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927527",
-    "source": "niemanlab.org",
-    "date": "2026-10-01T21:55:42Z",
-    "timestamp": 1790891742,
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929465",
+    "source": "bbc.com",
+    "date": "2026-10-02T03:06:23Z",
+    "timestamp": 1790910383,
     "category": "Machine Learning"
   },
   {
-    "title": "Don't Be Fooled by this Summer of AI Hype",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927331",
-    "source": "technologyreview.com",
-    "date": "2026-10-01T21:34:19Z",
-    "timestamp": 1790890459,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
-    "url": "https://arxiv.org/abs/2609.38149",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927114",
-    "source": "arxiv.org",
-    "date": "2026-10-01T21:08:48Z",
-    "timestamp": 1790888928,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reducing the cognitive load of AI changes",
-    "url": "https://amoffat.github.io/blog/cognitive-load.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49927109",
-    "source": "amoffat.github.io",
-    "date": "2026-10-01T21:08:26Z",
-    "timestamp": 1790888906,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI as Normal Technology",
-    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
-    "discussion_url": "https://news.ycombinator.com/item?id=49926986",
-    "source": "knightcolumbia.org",
-    "date": "2026-10-01T20:55:31Z",
-    "timestamp": 1790888131,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is not \"just a tool\"",
-    "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49926745",
-    "source": "brettcodes.com",
-    "date": "2026-10-01T20:34:11Z",
-    "timestamp": 1790886851,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Premortem – AI agents that red-team your startup idea",
-    "url": "https://premortem.site",
-    "discussion_url": "https://news.ycombinator.com/item?id=49926691",
-    "source": "premortem.site",
-    "date": "2026-10-01T20:30:02Z",
-    "timestamp": 1790886602,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
-    "url": "https://github.com/LiterateDrivenDevelopment/kcc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49926294",
-    "source": "github.com",
-    "date": "2026-10-01T19:53:34Z",
-    "timestamp": 1790884414,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI fabrication suspected of writing articles in Canadian publications",
-    "url": "https://www.theglobeandmail.com/world/article-ai-suspected-of-writing-dozens-of-articles-in-canadian-publications/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49926161",
-    "source": "theglobeandmail.com",
-    "date": "2026-10-01T19:40:29Z",
-    "timestamp": 1790883629,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SNL \"Old Glory Robot Insurance\" (1995) [video]",
-    "url": "https://www.youtube.com/watch?v=g4Gh_IcK8UM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49925112",
+    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929391",
     "source": "youtube.com",
-    "date": "2026-10-01T18:13:56Z",
-    "timestamp": 1790878436,
+    "date": "2026-10-02T02:51:27Z",
+    "timestamp": 1790909487,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Astra as a Robotics World Model",
+    "url": "https://abstract.inc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929370",
+    "source": "abstract.inc",
+    "date": "2026-10-02T02:46:33Z",
+    "timestamp": 1790909193,
     "category": "Physical AI"
   },
   {
-    "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
-    "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49924837",
-    "source": "servethehome.com",
-    "date": "2026-10-01T17:50:27Z",
-    "timestamp": 1790877027,
+    "title": "The AI industry is a complete mess [video]",
+    "url": "https://www.youtube.com/watch?v=e2zjpCqTmyo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929220",
+    "source": "youtube.com",
+    "date": "2026-10-02T02:13:23Z",
+    "timestamp": 1790907203,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "At Work, AI Is Mandatory. After Work, It's Forbidden",
+    "url": "https://medium.com/@yalovoy/at-work-ai-is-mandatory-after-work-its-forbidden-d12bbd78851c",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929204",
+    "source": "medium.com",
+    "date": "2026-10-02T02:10:53Z",
+    "timestamp": 1790907053,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Best-of-Agent-Harnesses – Ranked list of 167 AI agent harnesses, rescored weekly",
+    "url": "https://github.com/ryanalberts/best-of-agent-harnesses",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929121",
+    "source": "github.com",
+    "date": "2026-10-02T01:57:56Z",
+    "timestamp": 1790906276,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49929041",
+    "source": "404media.co",
+    "date": "2026-10-02T01:42:55Z",
+    "timestamp": 1790905375,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI decompiling and combining Games: The Skate 3 in MW2 Mod is Unbelievable [video]",
+    "url": "https://www.youtube.com/watch?v=I6BkcPdKQ8U",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928948",
+    "source": "youtube.com",
+    "date": "2026-10-02T01:26:43Z",
+    "timestamp": 1790904403,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Forget 'superintelligence': error-prone AI nearly sparked world war three",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928943",
+    "source": "theguardian.com",
+    "date": "2026-10-02T01:26:06Z",
+    "timestamp": 1790904366,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Our AI Midwife",
+    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928904",
+    "source": "astralcodexten.com",
+    "date": "2026-10-02T01:20:32Z",
+    "timestamp": 1790904032,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "KernelBench: Can LLMs Write GPU Kernels? – Benchmark and Toolkit, Torch –> CUDA",
+    "url": "https://github.com/ScalingIntelligence/KernelBench",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928873",
+    "source": "github.com",
+    "date": "2026-10-02T01:13:38Z",
+    "timestamp": 1790903618,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Superhuman AI for Stratego",
+    "url": "https://arxiv.org/abs/2511.07312",
+    "discussion_url": "https://news.ycombinator.com/item?id=49928565",
+    "source": "arxiv.org",
+    "date": "2026-10-02T00:27:51Z",
+    "timestamp": 1790900871,
+    "category": "Machine Learning"
   },
   {
     "title": "The GPU Black Market That Washington Can't Shut Down",
@@ -169,15 +178,6 @@
     "date": "2026-09-29T10:05:56Z",
     "timestamp": 1790676356,
     "category": "Physical AI"
-  },
-  {
-    "title": "Testing WebGPU data layouts with Facet",
-    "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49883913",
-    "source": "mattkeeter.com",
-    "date": "2026-09-28T20:28:08Z",
-    "timestamp": 1790627288,
-    "category": "Computer Architecture"
   },
   {
     "title": "Getting out of the way: my robotics crash course",
