@@ -1,12 +1,174 @@
 [
   {
-    "title": "Who's Ahead in the Global AI Talent Race?",
-    "url": "https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race",
-    "discussion_url": "https://news.ycombinator.com/item?id=49932666",
-    "source": "carnegieendowment.org",
-    "date": "2026-10-02T12:20:03Z",
-    "timestamp": 1790943603,
+    "title": "Decide where your AI workload should run (local/edge/cloud)",
+    "url": "https://github.com/Keerthana0309/ai-workload-placement",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938724",
+    "source": "github.com",
+    "date": "2026-10-02T21:19:18Z",
+    "timestamp": 1790975958,
     "category": "Machine Learning"
+  },
+  {
+    "title": "The Sleuths Who Expose When AI Goes Rogue",
+    "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938646",
+    "source": "wsj.com",
+    "date": "2026-10-02T21:11:18Z",
+    "timestamp": 1790975478,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pope Leo XIV on AI and Art",
+    "url": "https://twitter.com/Pontifex/status/2105983638147891490",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938581",
+    "source": "twitter.com",
+    "date": "2026-10-02T21:02:59Z",
+    "timestamp": 1790974979,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU-Initiated Communication: Dissecting Down to the Bone",
+    "url": "https://arxiv.org/abs/2610.01380",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938574",
+    "source": "arxiv.org",
+    "date": "2026-10-02T21:01:46Z",
+    "timestamp": 1790974906,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Used CPU might come with someone else's Valorant ban",
+    "url": "https://www.pcworld.com/article/3250222/your-used-cpu-might-come-with-someone-elses-valorant-ban.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938567",
+    "source": "pcworld.com",
+    "date": "2026-10-02T21:01:18Z",
+    "timestamp": 1790974878,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938326",
+    "source": "royapakzad.substack.com",
+    "date": "2026-10-02T20:39:05Z",
+    "timestamp": 1790973545,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938271",
+    "source": "theverge.com",
+    "date": "2026-10-02T20:33:32Z",
+    "timestamp": 1790973212,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Human Baselines for Benchmarks: AI Now Outperforms Junior Accountants",
+    "url": "https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938232",
+    "source": "mercor.com",
+    "date": "2026-10-02T20:30:22Z",
+    "timestamp": 1790973022,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Warning for Frontier AI Model Governance",
+    "url": "https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938206",
+    "source": "lawfaremedia.org",
+    "date": "2026-10-02T20:27:49Z",
+    "timestamp": 1790972869,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A2A CLI: A tool to discover, message, and manage remote AI agents",
+    "url": "https://github.com/a2aproject/a2a-cli",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938190",
+    "source": "github.com",
+    "date": "2026-10-02T20:26:29Z",
+    "timestamp": 1790972789,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ASD-STE100: What It Is and What It Has to Do with LLMs",
+    "url": "https://kgolubic.com/posts/asd-ste100-and-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49938070",
+    "source": "kgolubic.com",
+    "date": "2026-10-02T20:15:22Z",
+    "timestamp": 1790972122,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenStax-LLM: tools for OpenStax LLM access",
+    "url": "https://github.com/michaelnavazhylau/openstax-llm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937955",
+    "source": "github.com",
+    "date": "2026-10-02T20:03:08Z",
+    "timestamp": 1790971388,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google's science AI ranks #1 in CDC evaluation",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937919",
+    "source": "blog.google",
+    "date": "2026-10-02T20:00:31Z",
+    "timestamp": 1790971231,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937916",
+    "source": "github.com",
+    "date": "2026-10-02T20:00:15Z",
+    "timestamp": 1790971215,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Enki – Write GPU compute kernels in pure stable Rust",
+    "url": "https://github.com/enkiruntime/enki",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937352",
+    "source": "github.com",
+    "date": "2026-10-02T19:15:01Z",
+    "timestamp": 1790968501,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What if we stopped using GPUs? [video]",
+    "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49936671",
+    "source": "youtube.com",
+    "date": "2026-10-02T18:09:38Z",
+    "timestamp": 1790964578,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Rai: CPU-only LLM inference engine in pure Rust",
+    "url": "https://github.com/Classevelabs/rai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49936094",
+    "source": "github.com",
+    "date": "2026-10-02T17:23:12Z",
+    "timestamp": 1790961792,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "OpenAI's Astra model is shockingly good at robotics",
+    "url": "https://www.understandingrobots.org/p/openais-astra-model-is-shockingly",
+    "discussion_url": "https://news.ycombinator.com/item?id=49935632",
+    "source": "understandingrobots.org",
+    "date": "2026-10-02T16:44:06Z",
+    "timestamp": 1790959446,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Robot Hands for Modern AI and Real Work",
+    "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49933288",
+    "source": "bostondynamics.com",
+    "date": "2026-10-02T13:24:24Z",
+    "timestamp": 1790947464,
+    "category": "Physical AI"
   },
   {
     "title": "Redditor buys used CPU, turns out it was banned on Valorant and they are SoL",
@@ -18,165 +180,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "They're Known as Swarm Chasers–and They Spring into Action When AI Goes Rogue",
-    "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-    "discussion_url": "https://news.ycombinator.com/item?id=49932295",
-    "source": "wsj.com",
-    "date": "2026-10-02T11:29:16Z",
-    "timestamp": 1790940556,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Financing the AI Buildout",
-    "url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49932274",
-    "source": "brookings.edu",
-    "date": "2026-10-02T11:25:33Z",
-    "timestamp": 1790940333,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-    "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
-    "discussion_url": "https://news.ycombinator.com/item?id=49932246",
-    "source": "wsj.com",
-    "date": "2026-10-02T11:21:35Z",
-    "timestamp": 1790940095,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Our space game has a built-in RISC-V emulator that runs Linux",
+    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
     "url": "https://againstallodds.games/",
     "discussion_url": "https://news.ycombinator.com/item?id=49931993",
     "source": "againstallodds.games",
     "date": "2026-10-02T10:40:31Z",
     "timestamp": 1790937631,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Used CPU leads to game ban",
-    "url": "https://www.heise.de/en/news/Used-processor-leads-to-game-ban-11471562.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931985",
-    "source": "heise.de",
-    "date": "2026-10-02T10:38:54Z",
-    "timestamp": 1790937534,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: AilaFlow – A Self-Hosted AI Workspace for Teams",
-    "url": "https://ailaflow.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931924",
-    "source": "ailaflow.com",
-    "date": "2026-10-02T10:30:17Z",
-    "timestamp": 1790937017,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can good design stop content creators from having sex in robotaxis?",
-    "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931826",
-    "source": "arstechnica.com",
-    "date": "2026-10-02T10:15:33Z",
-    "timestamp": 1790936133,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Accelerate Frontier Model Inference",
-    "url": "https://www.fractile.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931770",
-    "source": "fractile.ai",
-    "date": "2026-10-02T10:06:32Z",
-    "timestamp": 1790935592,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Using AI to chart a course for our post-quantum migration",
-    "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931628",
-    "source": "blog.cloudflare.com",
-    "date": "2026-10-02T09:40:53Z",
-    "timestamp": 1790934053,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "VCs are funding a concert business as a hedge against AI",
-    "url": "https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931529",
-    "source": "businessinsider.com",
-    "date": "2026-10-02T09:23:29Z",
-    "timestamp": 1790933009,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-    "url": "https://dagroup-pku.github.io/PyRUA-Lean/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931511",
-    "source": "dagroup-pku.github.io",
-    "date": "2026-10-02T09:20:50Z",
-    "timestamp": 1790932850,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Ben Affleck on AI and Hollywood Economics [video]",
-    "url": "https://www.youtube.com/watch?v=vpV2AWxjIUo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931309",
-    "source": "youtube.com",
-    "date": "2026-10-02T08:51:36Z",
-    "timestamp": 1790931096,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump renaming AI to SI is making his wife's home country a little richer",
-    "url": "https://www.neowin.net/news/trump-renaming-ai-to-super-intelligence-is-making-his-wifes-home-country-a-little-richer/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931240",
-    "source": "neowin.net",
-    "date": "2026-10-02T08:40:39Z",
-    "timestamp": 1790930439,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-    "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49930872",
-    "source": "lenfestinstitute.org",
-    "date": "2026-10-02T07:40:15Z",
-    "timestamp": 1790926815,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is the new React for recruiters",
-    "url": "https://lucaskostka.com/posts/ai-is-the-new-react",
-    "discussion_url": "https://news.ycombinator.com/item?id=49930817",
-    "source": "lucaskostka.com",
-    "date": "2026-10-02T07:33:26Z",
-    "timestamp": 1790926406,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How Coding Agents Draw Their Input Box",
-    "url": "https://nohzafk.github.io/posts/2026-09-28-how-coding-agents-draw-the-input-box/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49930017",
-    "source": "nohzafk.github.io",
-    "date": "2026-10-02T05:07:16Z",
-    "timestamp": 1790917636,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "KernelBench: Can LLMs Write GPU Kernels? – Benchmark and Toolkit, Torch –> CUDA",
-    "url": "https://github.com/ScalingIntelligence/KernelBench",
-    "discussion_url": "https://news.ycombinator.com/item?id=49928873",
-    "source": "github.com",
-    "date": "2026-10-02T01:13:38Z",
-    "timestamp": 1790903618,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The GPU Black Market That Washington Can't Shut Down",
-    "url": "https://www.amcompute.com/blog/gpu-black-market-washington-cant-shut-down",
-    "discussion_url": "https://news.ycombinator.com/item?id=49924543",
-    "source": "amcompute.com",
-    "date": "2026-10-01T17:27:48Z",
-    "timestamp": 1790875668,
     "category": "Computer Architecture"
   },
   {
@@ -186,33 +195,6 @@
     "source": "news.synopsys.com",
     "date": "2026-10-01T10:21:36Z",
     "timestamp": 1790850096,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49908962",
-    "source": "alphapixeldev.com",
-    "date": "2026-09-30T13:50:50Z",
-    "timestamp": 1790776250,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-    "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "discussion_url": "https://news.ycombinator.com/item?id=49890707",
-    "source": "projecthub.arduino.cc",
-    "date": "2026-09-29T10:05:56Z",
-    "timestamp": 1790676356,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Testing WebGPU data layouts with Facet",
-    "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49883913",
-    "source": "mattkeeter.com",
-    "date": "2026-09-28T20:28:08Z",
-    "timestamp": 1790627288,
     "category": "Computer Architecture"
   }
 ]
