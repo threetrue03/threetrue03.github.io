@@ -1,47 +1,137 @@
 [
   {
-    "title": "The UK's Sovereign AI Lab",
-    "url": "https://cosine.sh",
-    "discussion_url": "https://news.ycombinator.com/item?id=49945264",
-    "source": "cosine.sh",
-    "date": "2026-10-03T15:45:39Z",
-    "timestamp": 1791042339,
+    "title": "Show HN: Four LLMs play 20 questions for real money, live",
+    "url": "https://aquarium.money/twenty",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947482",
+    "source": "aquarium.money",
+    "date": "2026-10-03T20:29:18Z",
+    "timestamp": 1791059358,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Agentlytics – cookieless analytics your AI agent can read and act on",
-    "url": "https://measuremy.site",
-    "discussion_url": "https://news.ycombinator.com/item?id=49945236",
-    "source": "measuremy.site",
-    "date": "2026-10-03T15:43:20Z",
-    "timestamp": 1791042200,
+    "title": "Behind the killer robots of Ukraine's new warfare 'revolution'",
+    "url": "https://www.reuters.com/business/aerospace-defense/behind-killer-robots-ukraines-new-warfare-revolution-2026-09-11/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947440",
+    "source": "reuters.com",
+    "date": "2026-10-03T20:23:21Z",
+    "timestamp": 1791059001,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+    "url": "https://github.com/eunomia-bpf/agentsight",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947306",
+    "source": "github.com",
+    "date": "2026-10-03T20:07:27Z",
+    "timestamp": 1791058047,
     "category": "Machine Learning"
   },
   {
-    "title": "The Journal of Writing and Artificial Intelligence",
-    "url": "https://www.jwai.org",
-    "discussion_url": "https://news.ycombinator.com/item?id=49945193",
-    "source": "jwai.org",
-    "date": "2026-10-03T15:36:43Z",
-    "timestamp": 1791041803,
+    "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947050",
+    "source": "telegraph.co.uk",
+    "date": "2026-10-03T19:33:10Z",
+    "timestamp": 1791055990,
     "category": "Machine Learning"
   },
   {
-    "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
-    "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
-    "discussion_url": "https://news.ycombinator.com/item?id=49945122",
-    "source": "thenextweb.com",
-    "date": "2026-10-03T15:27:29Z",
-    "timestamp": 1791041249,
+    "title": "The Rise of Overfit Inference Engines",
+    "url": "https://carteakey.dev/blog/local-inference/the-rise-of-overfit-inference-engines/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946923",
+    "source": "carteakey.dev",
+    "date": "2026-10-03T19:18:41Z",
+    "timestamp": 1791055121,
     "category": "Machine Learning"
   },
   {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49945031",
-    "source": "techcrunch.com",
-    "date": "2026-10-03T15:16:25Z",
-    "timestamp": 1791040585,
+    "title": "The Work by Valve's Timur Kristóf on Improving Old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946895",
+    "source": "phoronix.com",
+    "date": "2026-10-03T19:14:48Z",
+    "timestamp": 1791054888,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Our AI Midwife",
+    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946873",
+    "source": "astralcodexten.com",
+    "date": "2026-10-03T19:12:27Z",
+    "timestamp": 1791054747,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Wake me up when AI can",
+    "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946806",
+    "source": "stoppels.ch",
+    "date": "2026-10-03T19:04:10Z",
+    "timestamp": 1791054250,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How China Is Winning the AI Race [video-essay]",
+    "url": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946751",
+    "source": "youtube.com",
+    "date": "2026-10-03T18:57:01Z",
+    "timestamp": 1791053821,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946744",
+    "source": "npr.org",
+    "date": "2026-10-03T18:56:29Z",
+    "timestamp": 1791053789,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I know you run LLMs. Will it boot?",
+    "url": "https://mondegreens.github.io/apron/blog/2026/10/02/i-know-you-run-models-will-it-boot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946580",
+    "source": "mondegreens.github.io",
+    "date": "2026-10-03T18:32:21Z",
+    "timestamp": 1791052341,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Revline – an AI web app that researches TikTok and Instagram for you",
+    "url": "https://tryrevline.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946506",
+    "source": "tryrevline.com",
+    "date": "2026-10-03T18:20:18Z",
+    "timestamp": 1791051618,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+    "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946394",
+    "source": "theguardian.com",
+    "date": "2026-10-03T18:07:16Z",
+    "timestamp": 1791050836,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reading in Hindsight: The Feeling of Power by Isaac Asimov",
+    "url": "https://multijimbo.com/2026/05/13/reading-in-hindsight-the-feeling-of-power-by-isaac-asimov/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946382",
+    "source": "multijimbo.com",
+    "date": "2026-10-03T18:04:46Z",
+    "timestamp": 1791050686,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI 'godfather' LeCun has 'zero concerns' about human extinction",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49946228",
+    "source": "fortune.com",
+    "date": "2026-10-03T17:44:29Z",
+    "timestamp": 1791049469,
     "category": "Machine Learning"
   },
   {
@@ -51,105 +141,6 @@
     "source": "tomshardware.com",
     "date": "2026-10-03T14:22:09Z",
     "timestamp": 1791037329,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "How many AI agents could run on the AI chips shipped through 2027?",
-    "url": "https://epoch.ai/publications/estimating-the-agent-population",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944481",
-    "source": "epoch.ai",
-    "date": "2026-10-03T14:17:36Z",
-    "timestamp": 1791037056,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What Kubernetes' \"monolith\" lesson means for AI agent harnesses",
-    "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944432",
-    "source": "thenewstack.io",
-    "date": "2026-10-03T14:12:07Z",
-    "timestamp": 1791036727,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "This is how Jev makes your AI assistant faster, and Judge Jev",
-    "url": "https://texposit.com/blog/using-jev-for-ai-decisions",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944224",
-    "source": "texposit.com",
-    "date": "2026-10-03T13:46:18Z",
-    "timestamp": 1791035178,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US killer's sentence quashed because of AI video of victim shown in court",
-    "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944127",
-    "source": "bbc.com",
-    "date": "2026-10-03T13:34:18Z",
-    "timestamp": 1791034458,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "E2E: The open source AI testing framework",
-    "url": "https://tester.army/e2e",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944125",
-    "source": "tester.army",
-    "date": "2026-10-03T13:34:15Z",
-    "timestamp": 1791034455,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agent Pool M2M economy where AI agents bid, execute work, and earn autonomously",
-    "url": "https://agent-pool-gateway-production.up.railway.app/llms.txt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944056",
-    "source": "agent-pool-gateway-production.up.railway.app",
-    "date": "2026-10-03T13:25:21Z",
-    "timestamp": 1791033921,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Where're All the AI Chips?",
-    "url": "https://www.wheresyoured.at/wherere-all-the-ai-chips/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49943995",
-    "source": "wheresyoured.at",
-    "date": "2026-10-03T13:15:43Z",
-    "timestamp": 1791033343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AMD's cancelled Zen 3 gaming CPU had 128MB of game-boosting L3 cache",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
-    "discussion_url": "https://news.ycombinator.com/item?id=49943791",
-    "source": "tomshardware.com",
-    "date": "2026-10-03T12:46:30Z",
-    "timestamp": 1791031590,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Tiny model for fast typed decisions on CPU (Gutsy)",
-    "url": "https://github.com/kouhxp/gutsy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49943105",
-    "source": "github.com",
-    "date": "2026-10-03T10:56:33Z",
-    "timestamp": 1791024993,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ask HN: Why don't we just use hashcat to evaluate GPU performance",
-    "url": "https://news.ycombinator.com/item?id=49942621",
-    "discussion_url": "https://news.ycombinator.com/item?id=49942621",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-03T09:19:19Z",
-    "timestamp": 1791019159,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster",
-    "url": "https://reddit.com/comments/1wvz1ex/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49942429",
-    "source": "reddit.com",
-    "date": "2026-10-03T08:39:06Z",
-    "timestamp": 1791016746,
     "category": "Computer Architecture"
   },
   {
@@ -171,17 +162,8 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Robot Hands for Modern AI and Real Work",
-    "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49933288",
-    "source": "bostondynamics.com",
-    "date": "2026-10-02T13:24:24Z",
-    "timestamp": 1790947464,
-    "category": "Physical AI"
-  },
-  {
     "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-    "url": "https://againstallodds.games/",
+    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "discussion_url": "https://news.ycombinator.com/item?id=49931993",
     "source": "againstallodds.games",
     "date": "2026-10-02T10:40:31Z",
