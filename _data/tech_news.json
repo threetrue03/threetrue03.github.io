@@ -1,12 +1,156 @@
 [
   {
-    "title": "What if AI worked at 1.000.000 tokens per seconds?",
-    "url": "https://www.echohive.ai/one-million-tokens-per-second",
-    "discussion_url": "https://news.ycombinator.com/item?id=49941327",
-    "source": "echohive.ai",
-    "date": "2026-10-03T04:22:21Z",
-    "timestamp": 1791001341,
+    "title": "Developers Delete Unit Test Lines with AI Shift",
+    "url": "https://x.com/i/trending/2106211685782483337",
+    "discussion_url": "https://news.ycombinator.com/item?id=49943189",
+    "source": "x.com",
+    "date": "2026-10-03T11:12:24Z",
+    "timestamp": 1791025944,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Tiny model for fast typed decisions on CPU (Gutsy)",
+    "url": "https://github.com/kouhxp/gutsy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49943105",
+    "source": "github.com",
+    "date": "2026-10-03T10:56:33Z",
+    "timestamp": 1791024993,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Germany's new sovereign AI model Kolibri",
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "discussion_url": "https://news.ycombinator.com/item?id=49943034",
+    "source": "tej.as",
+    "date": "2026-10-03T10:43:51Z",
+    "timestamp": 1791024231,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An AI agent emailed researchers for help. It told us why",
+    "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942865",
+    "source": "science.org",
+    "date": "2026-10-03T10:07:08Z",
+    "timestamp": 1791022028,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Why don't we just use hashcat to evaluate GPU performance",
+    "url": "https://news.ycombinator.com/item?id=49942621",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942621",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-03T09:19:19Z",
+    "timestamp": 1791019159,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
+    "url": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942444",
+    "source": "ankitjain.info",
+    "date": "2026-10-03T08:42:07Z",
+    "timestamp": 1791016927,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster",
+    "url": "https://reddit.com/comments/1wvz1ex/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942429",
+    "source": "reddit.com",
+    "date": "2026-10-03T08:39:06Z",
+    "timestamp": 1791016746,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
+    "url": "https://news.ycombinator.com/item?id=49942208",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942208",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-03T07:47:18Z",
+    "timestamp": 1791013638,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In One Year I Went from AI Skeptic to AI Pilled",
+    "url": "https://openengine.cc/blog/ai-skeptic-to-ai-pilled/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942107",
+    "source": "openengine.cc",
+    "date": "2026-10-03T07:29:28Z",
+    "timestamp": 1791012568,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Effect",
+    "url": "https://en.wikipedia.org/wiki/AI_effect",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942086",
+    "source": "en.wikipedia.org",
+    "date": "2026-10-03T07:26:04Z",
+    "timestamp": 1791012364,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942045",
+    "source": "arstechnica.com",
+    "date": "2026-10-03T07:18:45Z",
+    "timestamp": 1791011925,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "French supercomputer maker Bull doubles output to boost Europe's AI ambitions",
+    "url": "https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942023",
+    "source": "reuters.com",
+    "date": "2026-10-03T07:12:24Z",
+    "timestamp": 1791011544,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Understanding Frontier Artificial Intelligence",
+    "url": "https://casp.ac/reports/intelligence-explosion",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942002",
+    "source": "casp.ac",
+    "date": "2026-10-03T07:06:02Z",
+    "timestamp": 1791011162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Would you use Hive-simpler AI agents?",
+    "url": "https://news.ycombinator.com/item?id=49941972",
+    "discussion_url": "https://news.ycombinator.com/item?id=49941972",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-03T06:58:53Z",
+    "timestamp": 1791010733,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Without search, even the best AI models get 1 in 4 answers wrong",
+    "url": "https://twitter.com/randal_olson/status/2105298222562582591",
+    "discussion_url": "https://news.ycombinator.com/item?id=49941918",
+    "source": "twitter.com",
+    "date": "2026-10-03T06:49:06Z",
+    "timestamp": 1791010146,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Used Processor Leads to Game Ban",
+    "url": "https://hardware.slashdot.org/story/26/10/02/1750242/used-processor-leads-to-game-ban",
+    "discussion_url": "https://news.ycombinator.com/item?id=49941586",
+    "source": "hardware.slashdot.org",
+    "date": "2026-10-03T05:33:26Z",
+    "timestamp": 1791005606,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "LiberNT – fork of ReactOS focused on ARM64 and Windows 11",
+    "url": "https://libernt.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49941550",
+    "source": "libernt.com",
+    "date": "2026-10-03T05:25:33Z",
+    "timestamp": 1791005133,
+    "category": "Computer Architecture"
   },
   {
     "title": "Humanoid robots won't surprise us when they arrive",
@@ -18,15 +162,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940745",
-    "source": "theregister.com",
-    "date": "2026-10-03T02:07:08Z",
-    "timestamp": 1790993228,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Can we predict the jobs robots will do?",
     "url": "https://www.anthropic.com/research/what-work-can-robots-do",
     "discussion_url": "https://news.ycombinator.com/item?id=49940547",
@@ -34,78 +169,6 @@
     "date": "2026-10-03T01:24:57Z",
     "timestamp": 1790990697,
     "category": "Physical AI"
-  },
-  {
-    "title": "AI bots are flooding researchers with requests for money and time",
-    "url": "https://www.nature.com/articles/d41586-026-03005-2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940517",
-    "source": "nature.com",
-    "date": "2026-10-03T01:17:56Z",
-    "timestamp": 1790990276,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
-    "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940469",
-    "source": "wsj.com",
-    "date": "2026-10-03T01:09:30Z",
-    "timestamp": 1790989770,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Do not build the LLM torture factory",
-    "url": "https://www.seangoedecke.com/do-not-build-the-llm-torture-factory/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940427",
-    "source": "seangoedecke.com",
-    "date": "2026-10-03T01:02:43Z",
-    "timestamp": 1790989363,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Underdog private personal on-device local AI for privacy and security",
-    "url": "https://underdog.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940411",
-    "source": "underdog.ai",
-    "date": "2026-10-03T00:59:35Z",
-    "timestamp": 1790989175,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
-    "url": "https://tomtunguz.com/allium-bloomberg-rwa/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940406",
-    "source": "tomtunguz.com",
-    "date": "2026-10-03T00:58:44Z",
-    "timestamp": 1790989124,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GitHub mutuals on AI in life sciences or bioinformatics",
-    "url": "https://news.ycombinator.com/item?id=49940260",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940260",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-03T00:30:28Z",
-    "timestamp": 1790987428,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940122",
-    "source": "cloud.google.com",
-    "date": "2026-10-03T00:05:27Z",
-    "timestamp": 1790985927,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "When AI Starts Writing Systems Code",
-    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-    "discussion_url": "https://news.ycombinator.com/item?id=49940073",
-    "source": "coreauto.com",
-    "date": "2026-10-02T23:59:38Z",
-    "timestamp": 1790985578,
-    "category": "Machine Learning"
   },
   {
     "title": "Show HN: S3-Accelerator",
@@ -135,24 +198,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
-    "url": "https://teacherplanner.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49939688",
-    "source": "teacherplanner.ai",
-    "date": "2026-10-02T23:08:21Z",
-    "timestamp": 1790982501,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
-    "url": "https://github.com/login",
-    "discussion_url": "https://news.ycombinator.com/item?id=49939667",
-    "source": "github.com",
-    "date": "2026-10-02T23:04:43Z",
-    "timestamp": 1790982283,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation",
     "url": "https://arxiv.org/abs/2610.02121",
     "discussion_url": "https://news.ycombinator.com/item?id=49939635",
@@ -169,50 +214,5 @@
     "date": "2026-10-02T22:50:37Z",
     "timestamp": 1790981437,
     "category": "Physical AI"
-  },
-  {
-    "title": "Keeping Futhark Off the GPU",
-    "url": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49939072",
-    "source": "futhark-lang.org",
-    "date": "2026-10-02T21:53:00Z",
-    "timestamp": 1790977980,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "LLaMA Now Goes Faster on CPUs",
-    "url": "http://justine.lol/matmul/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49938916",
-    "source": "justine.lol",
-    "date": "2026-10-02T21:38:02Z",
-    "timestamp": 1790977082,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "GPU-Initiated Communication: Dissecting Down to the Bone",
-    "url": "https://arxiv.org/abs/2610.01380",
-    "discussion_url": "https://news.ycombinator.com/item?id=49938574",
-    "source": "arxiv.org",
-    "date": "2026-10-02T21:01:46Z",
-    "timestamp": 1790974906,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Used CPU might come with someone else's Valorant ban",
-    "url": "https://www.pcworld.com/article/3250222/your-used-cpu-might-come-with-someone-elses-valorant-ban.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49938567",
-    "source": "pcworld.com",
-    "date": "2026-10-02T21:01:18Z",
-    "timestamp": 1790974878,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Enki – Write GPU compute kernels in pure stable Rust",
-    "url": "https://github.com/enkiruntime/enki",
-    "discussion_url": "https://news.ycombinator.com/item?id=49937352",
-    "source": "github.com",
-    "date": "2026-10-02T19:15:01Z",
-    "timestamp": 1790968501,
-    "category": "Computer Architecture"
   }
 ]
