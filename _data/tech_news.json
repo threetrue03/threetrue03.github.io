@@ -1,11 +1,128 @@
 [
   {
-    "title": "Show HN: Four LLMs play 20 questions for real money, live",
-    "url": "https://aquarium.money/twenty",
-    "discussion_url": "https://news.ycombinator.com/item?id=49947482",
-    "source": "aquarium.money",
-    "date": "2026-10-03T20:29:18Z",
-    "timestamp": 1791059358,
+    "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+    "url": "https://arxiv.org/abs/2608.08253",
+    "discussion_url": "https://news.ycombinator.com/item?id=49950478",
+    "source": "arxiv.org",
+    "date": "2026-10-04T03:57:16Z",
+    "timestamp": 1791086236,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI can clone your indie game, but not its soul",
+    "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+    "discussion_url": "https://news.ycombinator.com/item?id=49950288",
+    "source": "twitter.com",
+    "date": "2026-10-04T03:18:55Z",
+    "timestamp": 1791083935,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Musk explains why Tesla Robotaxi isn't running at night, and Lidar is the answer",
+    "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49950226",
+    "source": "electrek.co",
+    "date": "2026-10-04T03:06:26Z",
+    "timestamp": 1791083186,
+    "category": "Physical AI"
+  },
+  {
+    "title": "How the bad science of AI doomerism is good for big business",
+    "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49950108",
+    "source": "thebulletin.org",
+    "date": "2026-10-04T02:43:55Z",
+    "timestamp": 1791081835,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Single cortical neurons as deep artificial neural networks",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0896627321005018",
+    "discussion_url": "https://news.ycombinator.com/item?id=49949933",
+    "source": "sciencedirect.com",
+    "date": "2026-10-04T02:11:25Z",
+    "timestamp": 1791079885,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What if we created a local AI tool to measure your security?",
+    "url": "https://github.com/just-not-google/BiNeuron",
+    "discussion_url": "https://news.ycombinator.com/item?id=49949804",
+    "source": "github.com",
+    "date": "2026-10-04T01:51:17Z",
+    "timestamp": 1791078677,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49949681",
+    "source": "bbc.com",
+    "date": "2026-10-04T01:27:11Z",
+    "timestamp": 1791077231,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
+    "url": "https://viralwiz.co",
+    "discussion_url": "https://news.ycombinator.com/item?id=49949190",
+    "source": "viralwiz.co",
+    "date": "2026-10-04T00:13:07Z",
+    "timestamp": 1791072787,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New AI Research Has Me Asking: Am I Being Mean to AI?",
+    "url": "https://felipe.ai/notes/am-i-being-mean-to-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49949009",
+    "source": "felipe.ai",
+    "date": "2026-10-03T23:52:02Z",
+    "timestamp": 1791071522,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI will not make mathematicians obsolete",
+    "url": "https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948788",
+    "source": "inference-review.com",
+    "date": "2026-10-03T23:24:56Z",
+    "timestamp": 1791069896,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI share of US market cap",
+    "url": "https://theinference.org/indexes/ai-share?range=max",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948754",
+    "source": "theinference.org",
+    "date": "2026-10-03T23:19:42Z",
+    "timestamp": 1791069582,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
+    "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948697",
+    "source": "wsj.com",
+    "date": "2026-10-03T23:11:03Z",
+    "timestamp": 1791069063,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Gutsy: Tiny model for typed decisions on CPU (Jev style)",
+    "url": "https://github.com/kouhxp/gutsy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948586",
+    "source": "github.com",
+    "date": "2026-10-03T22:57:40Z",
+    "timestamp": 1791068260,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Can AI read pain in your cat's face?",
+    "url": "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face",
+    "discussion_url": "https://news.ycombinator.com/item?id=49948518",
+    "source": "tailstory-app.com",
+    "date": "2026-10-03T22:46:51Z",
+    "timestamp": 1791067611,
     "category": "Machine Learning"
   },
   {
@@ -18,34 +135,16 @@
     "category": "Physical AI"
   },
   {
-    "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
-    "url": "https://github.com/eunomia-bpf/agentsight",
-    "discussion_url": "https://news.ycombinator.com/item?id=49947306",
+    "title": "Show HN: Local pretrained classifiers, GPU not needed",
+    "url": "https://github.com/nicobrenner/jeffy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49947404",
     "source": "github.com",
-    "date": "2026-10-03T20:07:27Z",
-    "timestamp": 1791058047,
-    "category": "Machine Learning"
+    "date": "2026-10-03T20:19:09Z",
+    "timestamp": 1791058749,
+    "category": "Computer Architecture"
   },
   {
-    "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49947050",
-    "source": "telegraph.co.uk",
-    "date": "2026-10-03T19:33:10Z",
-    "timestamp": 1791055990,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Rise of Overfit Inference Engines",
-    "url": "https://carteakey.dev/blog/local-inference/the-rise-of-overfit-inference-engines/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946923",
-    "source": "carteakey.dev",
-    "date": "2026-10-03T19:18:41Z",
-    "timestamp": 1791055121,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Work by Valve's Timur Kristóf on Improving Old AMD GPUs on Linux",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
     "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
     "discussion_url": "https://news.ycombinator.com/item?id=49946895",
     "source": "phoronix.com",
@@ -54,93 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Our AI Midwife",
-    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946873",
-    "source": "astralcodexten.com",
-    "date": "2026-10-03T19:12:27Z",
-    "timestamp": 1791054747,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Wake me up when AI can",
-    "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946806",
-    "source": "stoppels.ch",
-    "date": "2026-10-03T19:04:10Z",
-    "timestamp": 1791054250,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How China Is Winning the AI Race [video-essay]",
-    "url": "https://www.youtube.com/watch?v=QdznbGzRWSw",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946751",
-    "source": "youtube.com",
-    "date": "2026-10-03T18:57:01Z",
-    "timestamp": 1791053821,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946744",
-    "source": "npr.org",
-    "date": "2026-10-03T18:56:29Z",
-    "timestamp": 1791053789,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I know you run LLMs. Will it boot?",
-    "url": "https://mondegreens.github.io/apron/blog/2026/10/02/i-know-you-run-models-will-it-boot/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946580",
-    "source": "mondegreens.github.io",
-    "date": "2026-10-03T18:32:21Z",
-    "timestamp": 1791052341,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Revline – an AI web app that researches TikTok and Instagram for you",
-    "url": "https://tryrevline.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946506",
-    "source": "tryrevline.com",
-    "date": "2026-10-03T18:20:18Z",
-    "timestamp": 1791051618,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
-    "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946394",
-    "source": "theguardian.com",
-    "date": "2026-10-03T18:07:16Z",
-    "timestamp": 1791050836,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reading in Hindsight: The Feeling of Power by Isaac Asimov",
-    "url": "https://multijimbo.com/2026/05/13/reading-in-hindsight-the-feeling-of-power-by-isaac-asimov/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946382",
-    "source": "multijimbo.com",
-    "date": "2026-10-03T18:04:46Z",
-    "timestamp": 1791050686,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI 'godfather' LeCun has 'zero concerns' about human extinction",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946228",
-    "source": "fortune.com",
-    "date": "2026-10-03T17:44:29Z",
-    "timestamp": 1791049469,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date",
-    "discussion_url": "https://news.ycombinator.com/item?id=49944525",
-    "source": "tomshardware.com",
-    "date": "2026-10-03T14:22:09Z",
-    "timestamp": 1791037329,
+    "title": "I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster",
+    "url": "https://reddit.com/comments/1wvz1ex/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49942429",
+    "source": "reddit.com",
+    "date": "2026-10-03T08:39:06Z",
+    "timestamp": 1791016746,
     "category": "Computer Architecture"
   },
   {
