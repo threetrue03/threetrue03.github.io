@@ -1,20 +1,128 @@
 [
   {
-    "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
-    "url": "https://arxiv.org/abs/2608.08253",
-    "discussion_url": "https://news.ycombinator.com/item?id=49950478",
-    "source": "arxiv.org",
-    "date": "2026-10-04T03:57:16Z",
-    "timestamp": 1791086236,
+    "title": "The Mythology of Conscious AI",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952991",
+    "source": "noemamag.com",
+    "date": "2026-10-04T11:38:46Z",
+    "timestamp": 1791113926,
     "category": "Machine Learning"
   },
   {
-    "title": "AI can clone your indie game, but not its soul",
-    "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-    "discussion_url": "https://news.ycombinator.com/item?id=49950288",
-    "source": "twitter.com",
-    "date": "2026-10-04T03:18:55Z",
-    "timestamp": 1791083935,
+    "title": "Show HN: Gutsy, Tiny model for typed decisions on CPU (Jev style)",
+    "url": "https://github.com/kouhxp/gutsy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952885",
+    "source": "github.com",
+    "date": "2026-10-04T11:18:50Z",
+    "timestamp": 1791112730,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
+    "url": "https://github.com/DanielKim03/mentaagent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952810",
+    "source": "github.com",
+    "date": "2026-10-04T11:06:39Z",
+    "timestamp": 1791111999,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "[No] Use for Humans in the Age of AI",
+    "url": "https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952728",
+    "source": "blog.hackflow.ru",
+    "date": "2026-10-04T10:53:01Z",
+    "timestamp": 1791111181,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "EU Enforcement AI Act",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952181",
+    "source": "digital-strategy.ec.europa.eu",
+    "date": "2026-10-04T09:36:32Z",
+    "timestamp": 1791106592,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "url": "https://github.com/allenv0/SCM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49952111",
+    "source": "github.com",
+    "date": "2026-10-04T09:24:52Z",
+    "timestamp": 1791105892,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI as Normal Technology (2025)",
+    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951916",
+    "source": "knightcolumbia.org",
+    "date": "2026-10-04T08:44:48Z",
+    "timestamp": 1791103488,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+    "url": "https://github.com/chetto1983/Aura",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951895",
+    "source": "github.com",
+    "date": "2026-10-04T08:42:20Z",
+    "timestamp": 1791103340,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to scale intent, quality, and artistry with AI [video]",
+    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951891",
+    "source": "youtube.com",
+    "date": "2026-10-04T08:41:58Z",
+    "timestamp": 1791103318,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Impact of AI Search Summaries on Website Traffic",
+    "url": "https://arxiv.org/abs/2602.18455",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951888",
+    "source": "arxiv.org",
+    "date": "2026-10-04T08:40:59Z",
+    "timestamp": 1791103259,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951684",
+    "source": "404media.co",
+    "date": "2026-10-04T08:02:33Z",
+    "timestamp": 1791100953,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Solvi 1.0 – an LLM proposes, checks decide, every decision replays",
+    "url": "https://github.com/solvi-ai/solvi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951625",
+    "source": "github.com",
+    "date": "2026-10-04T07:50:57Z",
+    "timestamp": 1791100257,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An LLM Beat NetHack",
+    "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951137",
+    "source": "kenforthewin.github.io",
+    "date": "2026-10-04T06:10:43Z",
+    "timestamp": 1791094243,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "MBTI for AI coding agents, complete with a self-awareness score",
+    "url": "https://github.com/joonfjp/16agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49951064",
+    "source": "github.com",
+    "date": "2026-10-04T05:52:05Z",
+    "timestamp": 1791093125,
     "category": "Machine Learning"
   },
   {
@@ -25,123 +133,6 @@
     "date": "2026-10-04T03:06:26Z",
     "timestamp": 1791083186,
     "category": "Physical AI"
-  },
-  {
-    "title": "How the bad science of AI doomerism is good for big business",
-    "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49950108",
-    "source": "thebulletin.org",
-    "date": "2026-10-04T02:43:55Z",
-    "timestamp": 1791081835,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Single cortical neurons as deep artificial neural networks",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0896627321005018",
-    "discussion_url": "https://news.ycombinator.com/item?id=49949933",
-    "source": "sciencedirect.com",
-    "date": "2026-10-04T02:11:25Z",
-    "timestamp": 1791079885,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What if we created a local AI tool to measure your security?",
-    "url": "https://github.com/just-not-google/BiNeuron",
-    "discussion_url": "https://news.ycombinator.com/item?id=49949804",
-    "source": "github.com",
-    "date": "2026-10-04T01:51:17Z",
-    "timestamp": 1791078677,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49949681",
-    "source": "bbc.com",
-    "date": "2026-10-04T01:27:11Z",
-    "timestamp": 1791077231,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
-    "url": "https://viralwiz.co",
-    "discussion_url": "https://news.ycombinator.com/item?id=49949190",
-    "source": "viralwiz.co",
-    "date": "2026-10-04T00:13:07Z",
-    "timestamp": 1791072787,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New AI Research Has Me Asking: Am I Being Mean to AI?",
-    "url": "https://felipe.ai/notes/am-i-being-mean-to-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49949009",
-    "source": "felipe.ai",
-    "date": "2026-10-03T23:52:02Z",
-    "timestamp": 1791071522,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI will not make mathematicians obsolete",
-    "url": "https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete",
-    "discussion_url": "https://news.ycombinator.com/item?id=49948788",
-    "source": "inference-review.com",
-    "date": "2026-10-03T23:24:56Z",
-    "timestamp": 1791069896,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI share of US market cap",
-    "url": "https://theinference.org/indexes/ai-share?range=max",
-    "discussion_url": "https://news.ycombinator.com/item?id=49948754",
-    "source": "theinference.org",
-    "date": "2026-10-03T23:19:42Z",
-    "timestamp": 1791069582,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
-    "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
-    "discussion_url": "https://news.ycombinator.com/item?id=49948697",
-    "source": "wsj.com",
-    "date": "2026-10-03T23:11:03Z",
-    "timestamp": 1791069063,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gutsy: Tiny model for typed decisions on CPU (Jev style)",
-    "url": "https://github.com/kouhxp/gutsy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49948586",
-    "source": "github.com",
-    "date": "2026-10-03T22:57:40Z",
-    "timestamp": 1791068260,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Can AI read pain in your cat's face?",
-    "url": "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face",
-    "discussion_url": "https://news.ycombinator.com/item?id=49948518",
-    "source": "tailstory-app.com",
-    "date": "2026-10-03T22:46:51Z",
-    "timestamp": 1791067611,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Behind the killer robots of Ukraine's new warfare 'revolution'",
-    "url": "https://www.reuters.com/business/aerospace-defense/behind-killer-robots-ukraines-new-warfare-revolution-2026-09-11/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49947440",
-    "source": "reuters.com",
-    "date": "2026-10-03T20:23:21Z",
-    "timestamp": 1791059001,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Local pretrained classifiers, GPU not needed",
-    "url": "https://github.com/nicobrenner/jeffy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49947404",
-    "source": "github.com",
-    "date": "2026-10-03T20:19:09Z",
-    "timestamp": 1791058749,
-    "category": "Computer Architecture"
   },
   {
     "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
@@ -168,6 +159,15 @@
     "source": "youtube.com",
     "date": "2026-10-02T18:09:38Z",
     "timestamp": 1790964578,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "gpuvis: GPU Trace Visualizer",
+    "url": "https://github.com/mikesart/gpuvis",
+    "discussion_url": "https://news.ycombinator.com/item?id=49935097",
+    "source": "github.com",
+    "date": "2026-10-02T16:04:48Z",
+    "timestamp": 1790957088,
     "category": "Computer Architecture"
   },
   {
