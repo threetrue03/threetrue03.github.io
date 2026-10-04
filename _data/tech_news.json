@@ -1,138 +1,147 @@
 [
   {
-    "title": "The Mythology of Conscious AI",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952991",
-    "source": "noemamag.com",
-    "date": "2026-10-04T11:38:46Z",
-    "timestamp": 1791113926,
+    "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
+    "url": "https://news.ycombinator.com/item?id=49957917",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957917",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-04T21:10:56Z",
+    "timestamp": 1791148256,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Gutsy, Tiny model for typed decisions on CPU (Jev style)",
-    "url": "https://github.com/kouhxp/gutsy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952885",
+    "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
+    "url": "https://github.com/bluebear-io/baloo-bear",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957815",
     "source": "github.com",
-    "date": "2026-10-04T11:18:50Z",
-    "timestamp": 1791112730,
+    "date": "2026-10-04T21:01:45Z",
+    "timestamp": 1791147705,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
+    "url": "https://recly.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957724",
+    "source": "recly.dev",
+    "date": "2026-10-04T20:52:38Z",
+    "timestamp": 1791147158,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Full-fabric VHDL LLM inference engine. Runs Qwen3.5-class transformer inference",
+    "url": "https://github.com/Nero7991/llm.vhdl",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957671",
+    "source": "github.com",
+    "date": "2026-10-04T20:48:43Z",
+    "timestamp": 1791146923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957570",
+    "source": "tomshardware.com",
+    "date": "2026-10-04T20:38:10Z",
+    "timestamp": 1791146290,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is making ambition feel pointless [video]",
+    "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957486",
+    "source": "youtube.com",
+    "date": "2026-10-04T20:28:17Z",
+    "timestamp": 1791145697,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
+    "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957418",
+    "source": "searchenginejournal.com",
+    "date": "2026-10-04T20:19:38Z",
+    "timestamp": 1791145178,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Illusion of AI Productivity: Go Frame the House",
+    "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957318",
+    "source": "medium.com",
+    "date": "2026-10-04T20:06:28Z",
+    "timestamp": 1791144388,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957117",
+    "source": "youtube.com",
+    "date": "2026-10-04T19:42:25Z",
+    "timestamp": 1791142945,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
+    "url": "https://www.finebytes.com/mfr/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49957017",
+    "source": "finebytes.com",
+    "date": "2026-10-04T19:29:28Z",
+    "timestamp": 1791142168,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Ranking the most AI agent friendly tools",
+    "url": "https://www.anchorterminal.com/tools/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49956865",
+    "source": "anchorterminal.com",
+    "date": "2026-10-04T19:09:49Z",
+    "timestamp": 1791140989,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Explainer videos and product demos made by your AI agent. Free and open source",
+    "url": "https://github.com/vincentsch/explainroo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49956470",
+    "source": "github.com",
+    "date": "2026-10-04T18:24:39Z",
+    "timestamp": 1791138279,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Micro Center requires photo ID and signed no-export pledge to buy gaming GPU",
+    "url": "https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us",
+    "discussion_url": "https://news.ycombinator.com/item?id=49956396",
+    "source": "tomshardware.com",
+    "date": "2026-10-04T18:16:42Z",
+    "timestamp": 1791137802,
     "category": "Computer Architecture"
   },
   {
-    "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
-    "url": "https://github.com/DanielKim03/mentaagent",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952810",
-    "source": "github.com",
-    "date": "2026-10-04T11:06:39Z",
-    "timestamp": 1791111999,
-    "category": "Machine Learning"
+    "title": "Gallery of Processor Cache Effects",
+    "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49956219",
+    "source": "igoro.com",
+    "date": "2026-10-04T17:58:51Z",
+    "timestamp": 1791136731,
+    "category": "Computer Architecture"
   },
   {
-    "title": "[No] Use for Humans in the Age of AI",
-    "url": "https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952728",
-    "source": "blog.hackflow.ru",
-    "date": "2026-10-04T10:53:01Z",
-    "timestamp": 1791111181,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EU Enforcement AI Act",
-    "url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952181",
-    "source": "digital-strategy.ec.europa.eu",
-    "date": "2026-10-04T09:36:32Z",
-    "timestamp": 1791106592,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "url": "https://github.com/allenv0/SCM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49952111",
-    "source": "github.com",
-    "date": "2026-10-04T09:24:52Z",
-    "timestamp": 1791105892,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI as Normal Technology (2025)",
-    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951916",
-    "source": "knightcolumbia.org",
-    "date": "2026-10-04T08:44:48Z",
-    "timestamp": 1791103488,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
-    "url": "https://github.com/chetto1983/Aura",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951895",
-    "source": "github.com",
-    "date": "2026-10-04T08:42:20Z",
-    "timestamp": 1791103340,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to scale intent, quality, and artistry with AI [video]",
-    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951891",
-    "source": "youtube.com",
-    "date": "2026-10-04T08:41:58Z",
-    "timestamp": 1791103318,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Impact of AI Search Summaries on Website Traffic",
-    "url": "https://arxiv.org/abs/2602.18455",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951888",
-    "source": "arxiv.org",
-    "date": "2026-10-04T08:40:59Z",
-    "timestamp": 1791103259,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951684",
-    "source": "404media.co",
-    "date": "2026-10-04T08:02:33Z",
-    "timestamp": 1791100953,
+    "title": "Understanding the AI That Drives Robots",
+    "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+    "discussion_url": "https://news.ycombinator.com/item?id=49955555",
+    "source": "construction-physics.com",
+    "date": "2026-10-04T16:50:55Z",
+    "timestamp": 1791132655,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: Solvi 1.0 – an LLM proposes, checks decide, every decision replays",
-    "url": "https://github.com/solvi-ai/solvi",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951625",
-    "source": "github.com",
-    "date": "2026-10-04T07:50:57Z",
-    "timestamp": 1791100257,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An LLM Beat NetHack",
-    "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951137",
-    "source": "kenforthewin.github.io",
-    "date": "2026-10-04T06:10:43Z",
-    "timestamp": 1791094243,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "MBTI for AI coding agents, complete with a self-awareness score",
-    "url": "https://github.com/joonfjp/16agents",
-    "discussion_url": "https://news.ycombinator.com/item?id=49951064",
-    "source": "github.com",
-    "date": "2026-10-04T05:52:05Z",
-    "timestamp": 1791093125,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Musk explains why Tesla Robotaxi isn't running at night, and Lidar is the answer",
-    "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49950226",
-    "source": "electrek.co",
-    "date": "2026-10-04T03:06:26Z",
-    "timestamp": 1791083186,
-    "category": "Physical AI"
+    "title": "PgBackRest Compression: How Much CPU Is a Smaller Backup Worth?",
+    "url": "https://www.percona.com/blog/pgbackrest-compression-how-much-cpu-is-a-smaller-backup-worth/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49954274",
+    "source": "percona.com",
+    "date": "2026-10-04T14:32:45Z",
+    "timestamp": 1791124365,
+    "category": "Computer Architecture"
   },
   {
     "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
@@ -150,15 +159,6 @@
     "source": "reddit.com",
     "date": "2026-10-03T08:39:06Z",
     "timestamp": 1791016746,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "What if we stopped using GPUs? [video]",
-    "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49936671",
-    "source": "youtube.com",
-    "date": "2026-10-02T18:09:38Z",
-    "timestamp": 1790964578,
     "category": "Computer Architecture"
   },
   {
@@ -186,15 +186,6 @@
     "source": "againstallodds.games",
     "date": "2026-10-02T10:40:31Z",
     "timestamp": 1790937631,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
-    "source": "news.synopsys.com",
-    "date": "2026-10-01T10:21:36Z",
-    "timestamp": 1790850096,
     "category": "Computer Architecture"
   }
 ]
