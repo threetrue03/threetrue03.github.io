@@ -1,146 +1,128 @@
 [
   {
-    "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-    "url": "https://news.ycombinator.com/item?id=49957917",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957917",
+    "title": "Altman: `World should accept some bad things happening' for the benefits of AI",
+    "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960944",
+    "source": "politico.com",
+    "date": "2026-10-05T05:17:27Z",
+    "timestamp": 1791177447,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Wikipedia: AI or Not Quiz",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:AI_or_not_quiz",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960771",
+    "source": "en.wikipedia.org",
+    "date": "2026-10-05T04:45:11Z",
+    "timestamp": 1791175511,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI industry is booming. Women are getting left behind",
+    "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960725",
+    "source": "theguardian.com",
+    "date": "2026-10-05T04:36:50Z",
+    "timestamp": 1791175010,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Safety community is unfortunately doing more harm than good",
+    "url": "https://twitter.com/knowerofmarkets/status/2105330652732125602",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960418",
+    "source": "twitter.com",
+    "date": "2026-10-05T03:35:54Z",
+    "timestamp": 1791171354,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Calling AI 'other intelligence' better describes the advent of a new lifeform",
+    "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960347",
+    "source": "abc.net.au",
+    "date": "2026-10-05T03:23:12Z",
+    "timestamp": 1791170592,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Could a Large Language Model Be Conscious? – David J. Chalmers (2024)",
+    "url": "https://arxiv.org/abs/2303.07103",
+    "discussion_url": "https://news.ycombinator.com/item?id=49960265",
+    "source": "arxiv.org",
+    "date": "2026-10-05T03:06:56Z",
+    "timestamp": 1791169616,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "My New Course at UT Austin: AI Alignment Theory",
+    "url": "https://scottaaronson.blog/?p=10125",
+    "discussion_url": "https://news.ycombinator.com/item?id=49959916",
+    "source": "scottaaronson.blog",
+    "date": "2026-10-05T02:04:11Z",
+    "timestamp": 1791165851,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Who is cleaning up all the garbage LLMs generate?",
+    "url": "https://news.ycombinator.com/item?id=49959703",
+    "discussion_url": "https://news.ycombinator.com/item?id=49959703",
     "source": "news.ycombinator.com",
-    "date": "2026-10-04T21:10:56Z",
-    "timestamp": 1791148256,
+    "date": "2026-10-05T01:22:29Z",
+    "timestamp": 1791163349,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-    "url": "https://github.com/bluebear-io/baloo-bear",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957815",
-    "source": "github.com",
-    "date": "2026-10-04T21:01:45Z",
-    "timestamp": 1791147705,
+    "title": "Adversarial Artificial Intelligence",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4734-2.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49959571",
+    "source": "rand.org",
+    "date": "2026-10-05T00:55:21Z",
+    "timestamp": 1791161721,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-    "url": "https://recly.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957724",
-    "source": "recly.dev",
-    "date": "2026-10-04T20:52:38Z",
-    "timestamp": 1791147158,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Full-fabric VHDL LLM inference engine. Runs Qwen3.5-class transformer inference",
-    "url": "https://github.com/Nero7991/llm.vhdl",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957671",
-    "source": "github.com",
-    "date": "2026-10-04T20:48:43Z",
-    "timestamp": 1791146923,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957570",
-    "source": "tomshardware.com",
-    "date": "2026-10-04T20:38:10Z",
-    "timestamp": 1791146290,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is making ambition feel pointless [video]",
-    "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957486",
-    "source": "youtube.com",
-    "date": "2026-10-04T20:28:17Z",
-    "timestamp": 1791145697,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-    "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957418",
-    "source": "searchenginejournal.com",
-    "date": "2026-10-04T20:19:38Z",
-    "timestamp": 1791145178,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Illusion of AI Productivity: Go Frame the House",
-    "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957318",
-    "source": "medium.com",
-    "date": "2026-10-04T20:06:28Z",
-    "timestamp": 1791144388,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Homa: The end of TCP for AI clusters [video]",
-    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957117",
-    "source": "youtube.com",
-    "date": "2026-10-04T19:42:25Z",
-    "timestamp": 1791142945,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-    "url": "https://www.finebytes.com/mfr/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49957017",
-    "source": "finebytes.com",
-    "date": "2026-10-04T19:29:28Z",
-    "timestamp": 1791142168,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Ranking the most AI agent friendly tools",
-    "url": "https://www.anchorterminal.com/tools/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49956865",
-    "source": "anchorterminal.com",
-    "date": "2026-10-04T19:09:49Z",
-    "timestamp": 1791140989,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Explainer videos and product demos made by your AI agent. Free and open source",
-    "url": "https://github.com/vincentsch/explainroo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49956470",
-    "source": "github.com",
-    "date": "2026-10-04T18:24:39Z",
-    "timestamp": 1791138279,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Micro Center requires photo ID and signed no-export pledge to buy gaming GPU",
-    "url": "https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49956396",
-    "source": "tomshardware.com",
-    "date": "2026-10-04T18:16:42Z",
-    "timestamp": 1791137802,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Gallery of Processor Cache Effects",
-    "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49956219",
-    "source": "igoro.com",
-    "date": "2026-10-04T17:58:51Z",
-    "timestamp": 1791136731,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Understanding the AI That Drives Robots",
-    "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
-    "discussion_url": "https://news.ycombinator.com/item?id=49955555",
-    "source": "construction-physics.com",
-    "date": "2026-10-04T16:50:55Z",
-    "timestamp": 1791132655,
+    "title": "Musk explains why Tesla Robotaxi is not running at night, & Lidar is the answer",
+    "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49959518",
+    "source": "electrek.co",
+    "date": "2026-10-05T00:42:45Z",
+    "timestamp": 1791160965,
     "category": "Physical AI"
   },
   {
-    "title": "PgBackRest Compression: How Much CPU Is a Smaller Backup Worth?",
-    "url": "https://www.percona.com/blog/pgbackrest-compression-how-much-cpu-is-a-smaller-backup-worth/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49954274",
-    "source": "percona.com",
-    "date": "2026-10-04T14:32:45Z",
-    "timestamp": 1791124365,
+    "title": "Military AI and autonomous systems: views in The Strategist",
+    "url": "https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49959499",
+    "source": "aspistrategist.org.au",
+    "date": "2026-10-05T00:38:47Z",
+    "timestamp": 1791160727,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Our AI Agents Should Pay the People Who Help Them",
+    "url": "https://danielmiessler.com/blog/agents-should-pay-creators",
+    "discussion_url": "https://news.ycombinator.com/item?id=49958668",
+    "source": "danielmiessler.com",
+    "date": "2026-10-04T22:38:32Z",
+    "timestamp": 1791153512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Muse AI on Xteink X3 E-reader",
+    "url": "https://charoori.com/blog/muse-on-xteink-x3/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49958418",
+    "source": "charoori.com",
+    "date": "2026-10-04T22:10:15Z",
+    "timestamp": 1791151815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Skyfall – open-source WebGPU aircombat game that runs in your browser",
+    "url": "https://github.com/a7ul/skyfall",
+    "discussion_url": "https://news.ycombinator.com/item?id=49958153",
+    "source": "github.com",
+    "date": "2026-10-04T21:37:04Z",
+    "timestamp": 1791149824,
     "category": "Computer Architecture"
   },
   {
