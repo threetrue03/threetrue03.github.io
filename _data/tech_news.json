@@ -1,165 +1,147 @@
 [
   {
-    "title": "Ask HN: Which Distro with Nividia GPU?",
-    "url": "https://news.ycombinator.com/item?id=49965287",
-    "discussion_url": "https://news.ycombinator.com/item?id=49965287",
+    "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
+    "url": "https://github.com/mas-bandwidth/nova-sprint",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971987",
+    "source": "github.com",
+    "date": "2026-10-05T23:03:46Z",
+    "timestamp": 1791241426,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mr Robot fsociety pumpkin cutting template [pdf]",
+    "url": "https://decider.com/wp-content/uploads/2015/10/print-fsociety.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971872",
+    "source": "decider.com",
+    "date": "2026-10-05T22:49:33Z",
+    "timestamp": 1791240573,
+    "category": "Physical AI"
+  },
+  {
+    "title": "I'm building a personal AI computer startup in Mumbai",
+    "url": "https://x.com/gfaang97609",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971850",
+    "source": "x.com",
+    "date": "2026-10-05T22:47:22Z",
+    "timestamp": 1791240442,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Give Your AI Agent a Domain-Specific Language",
+    "url": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971515",
+    "source": "modeloptic.com",
+    "date": "2026-10-05T22:05:15Z",
+    "timestamp": 1791237915,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+    "url": "https://news.ycombinator.com/item?id=49971503",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971503",
     "source": "news.ycombinator.com",
-    "date": "2026-10-05T14:22:41Z",
-    "timestamp": 1791210161,
+    "date": "2026-10-05T22:04:23Z",
+    "timestamp": 1791237863,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Top Consumer AI Apps",
+    "url": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49971117",
+    "source": "a16z.news",
+    "date": "2026-10-05T21:33:12Z",
+    "timestamp": 1791235992,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970871",
+    "source": "qlabs.sh",
+    "date": "2026-10-05T21:15:07Z",
+    "timestamp": 1791234907,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Testing AI on Real-World Tasks",
+    "url": "https://www.vals.ai/home",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970806",
+    "source": "vals.ai",
+    "date": "2026-10-05T21:10:49Z",
+    "timestamp": 1791234649,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970667",
+    "source": "vals.ai",
+    "date": "2026-10-05T21:00:21Z",
+    "timestamp": 1791234021,
     "category": "Computer Architecture"
   },
   {
-    "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-    "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49965042",
-    "source": "youtube.com",
-    "date": "2026-10-05T14:02:38Z",
-    "timestamp": 1791208958,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI the End of Math as We Know It?",
-    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49965039",
-    "source": "quantamagazine.org",
-    "date": "2026-10-05T14:02:07Z",
-    "timestamp": 1791208927,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How we built a browser agent with Jev instead of an LLM",
-    "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
-    "discussion_url": "https://news.ycombinator.com/item?id=49965022",
-    "source": "ironbee.ai",
-    "date": "2026-10-05T14:00:53Z",
-    "timestamp": 1791208853,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claude Frontier Academy. Why is Anthropic looking to train 10k AI engineers?",
-    "url": "https://economictimes.indiatimes.com/news/international/us/what-is-claude-frontier-academy-and-why-is-anthropic-looking-to-train-10000-ai-engineers/articleshow/134645266.cms?from=mdr",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964981",
-    "source": "economictimes.indiatimes.com",
-    "date": "2026-10-05T13:56:49Z",
-    "timestamp": 1791208609,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-    "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964537",
-    "source": "wsj.com",
-    "date": "2026-10-05T13:22:31Z",
-    "timestamp": 1791206551,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Parakeetogo, a portable ASR binary faster than Photon/torch for CPU",
-    "url": "https://github.com/RobViren/parakeetogo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964341",
-    "source": "github.com",
-    "date": "2026-10-05T13:06:06Z",
-    "timestamp": 1791205566,
+    "title": "European Processor Initiative Concluded",
+    "url": "https://www.european-processor-initiative.eu/press-release-european-processor-initiative-successfully-concluded/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970317",
+    "source": "european-processor-initiative.eu",
+    "date": "2026-10-05T20:35:57Z",
+    "timestamp": 1791232557,
     "category": "Computer Architecture"
   },
   {
-    "title": "F.02 Robot Decommission",
-    "url": "https://www.figure.ai/news/f-02-decommission?shem=aimgspe%2C",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964322",
-    "source": "figure.ai",
-    "date": "2026-10-05T13:04:42Z",
-    "timestamp": 1791205482,
-    "category": "Physical AI"
-  },
-  {
-    "title": "How to keep learning in the age of LLMs",
-    "url": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964290",
-    "source": "ogzhanolguncu.com",
-    "date": "2026-10-05T13:01:00Z",
-    "timestamp": 1791205260,
+    "title": "Free AI Construction Estimating in the Web",
+    "url": "https://www.supadocs.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970275",
+    "source": "supadocs.app",
+    "date": "2026-10-05T20:32:19Z",
+    "timestamp": 1791232339,
     "category": "Machine Learning"
   },
   {
-    "title": "OctLLM – Octrees as an Explicit 3D Language",
-    "url": "https://plurato.github.io/OctLLM-page/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964216",
-    "source": "plurato.github.io",
-    "date": "2026-10-05T12:53:31Z",
-    "timestamp": 1791204811,
+    "title": "Give your LLM more DSLs",
+    "url": "https://yasyf.com/writing/give-your-llm-more-dsls/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970182",
+    "source": "yasyf.com",
+    "date": "2026-10-05T20:24:58Z",
+    "timestamp": 1791231898,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Abliterated LLM provider for cyber tasks",
-    "url": "https://refuseless.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49964046",
-    "source": "refuseless.com",
-    "date": "2026-10-05T12:36:08Z",
-    "timestamp": 1791203768,
+    "title": "Ask HN: Feedback regarding my AI setup",
+    "url": "https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49970144",
+    "source": "claude.ai",
+    "date": "2026-10-05T20:22:38Z",
+    "timestamp": 1791231758,
     "category": "Machine Learning"
   },
   {
-    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-    "url": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963993",
-    "source": "machinelearningmastery.com",
-    "date": "2026-10-05T12:30:48Z",
-    "timestamp": 1791203448,
+    "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+    "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+    "discussion_url": "https://news.ycombinator.com/item?id=49969988",
+    "source": "apps.apple.com",
+    "date": "2026-10-05T20:11:08Z",
+    "timestamp": 1791231068,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic wants your thoughts on AI",
-    "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963895",
-    "source": "anthropic.com",
-    "date": "2026-10-05T12:21:02Z",
-    "timestamp": 1791202862,
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49969929",
+    "source": "bbc.co.uk",
+    "date": "2026-10-05T20:07:10Z",
+    "timestamp": 1791230830,
     "category": "Machine Learning"
   },
   {
-    "title": "My New Course at UT Austin: AI Alignment Theory",
-    "url": "https://scottaaronson.blog/?p=10125",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963751",
-    "source": "scottaaronson.blog",
-    "date": "2026-10-05T12:06:25Z",
-    "timestamp": 1791201985,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Self-host your own AI text detector on CPU to filter out slop",
-    "url": "https://github.com/pablocaeg/sloptotal",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963747",
-    "source": "github.com",
-    "date": "2026-10-05T12:06:10Z",
-    "timestamp": 1791201970,
+    "title": "Astral GPU Indexes",
+    "url": "https://wheels.astral.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49968780",
+    "source": "wheels.astral.sh",
+    "date": "2026-10-05T18:44:11Z",
+    "timestamp": 1791225851,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Hindsight – An open-source memory system for AI agents",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963587",
-    "source": "github.com",
-    "date": "2026-10-05T11:42:24Z",
-    "timestamp": 1791200544,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-    "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963366",
-    "source": "techfundingnews.com",
-    "date": "2026-10-05T11:13:51Z",
-    "timestamp": 1791198831,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI agents are rewriting the economics of computing",
-    "url": "https://ig.ft.com/ai-tokens/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49963273",
-    "source": "ig.ft.com",
-    "date": "2026-10-05T11:00:43Z",
-    "timestamp": 1791198043,
-    "category": "Machine Learning"
   },
   {
     "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
@@ -168,24 +150,6 @@
     "source": "phoronix.com",
     "date": "2026-10-03T19:14:48Z",
     "timestamp": 1791054888,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "gpuvis: GPU Trace Visualizer",
-    "url": "https://github.com/mikesart/gpuvis",
-    "discussion_url": "https://news.ycombinator.com/item?id=49935097",
-    "source": "github.com",
-    "date": "2026-10-02T16:04:48Z",
-    "timestamp": 1790957088,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49931993",
-    "source": "againstallodds.games",
-    "date": "2026-10-02T10:40:31Z",
-    "timestamp": 1790937631,
     "category": "Computer Architecture"
   }
 ]
