@@ -1,11 +1,110 @@
 [
   {
-    "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
-    "url": "https://github.com/mas-bandwidth/nova-sprint",
-    "discussion_url": "https://news.ycombinator.com/item?id=49971987",
+    "title": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
+    "url": "https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49974784",
     "source": "github.com",
-    "date": "2026-10-05T23:03:46Z",
-    "timestamp": 1791241426,
+    "date": "2026-10-06T06:03:48Z",
+    "timestamp": 1791266628,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?",
+    "url": "https://news.ycombinator.com/item?id=49974436",
+    "discussion_url": "https://news.ycombinator.com/item?id=49974436",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-06T05:10:19Z",
+    "timestamp": 1791263419,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI boom is making the cheapest smartphones disappear",
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49974238",
+    "source": "restofworld.org",
+    "date": "2026-10-06T04:37:17Z",
+    "timestamp": 1791261437,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs may have immensely helped my RSI",
+    "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973644",
+    "source": "vaughanhilts.me",
+    "date": "2026-10-06T03:01:04Z",
+    "timestamp": 1791255664,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Language Models That Play Chess (2700 Elo) and Explain Their Moves",
+    "url": "https://arxiv.org/abs/2610.03695",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973403",
+    "source": "arxiv.org",
+    "date": "2026-10-06T02:18:39Z",
+    "timestamp": 1791253119,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What do you think about AI generated slides for conferences?",
+    "url": "https://news.ycombinator.com/item?id=49973382",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973382",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-06T02:16:24Z",
+    "timestamp": 1791252984,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+    "url": "https://github.com/moching-ai-dev/moching",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973289",
+    "source": "github.com",
+    "date": "2026-10-06T02:00:24Z",
+    "timestamp": 1791252024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python",
+    "url": "https://github.com/tradertanmay/ai-agents-zero-to-hero",
+    "discussion_url": "https://news.ycombinator.com/item?id=49973196",
+    "source": "github.com",
+    "date": "2026-10-06T01:49:42Z",
+    "timestamp": 1791251382,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How are AI budgets changing in your company?",
+    "url": "https://news.ycombinator.com/item?id=49972842",
+    "discussion_url": "https://news.ycombinator.com/item?id=49972842",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-06T00:57:16Z",
+    "timestamp": 1791248236,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Schema-guard, stop AI agents from inventing column names in SQL",
+    "url": "https://github.com/idk-arsh/schema-guard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49972760",
+    "source": "github.com",
+    "date": "2026-10-06T00:46:04Z",
+    "timestamp": 1791247564,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fireship: PewDiePie is setting AI free and OpenAI is furious [video]",
+    "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49972675",
+    "source": "youtube.com",
+    "date": "2026-10-06T00:34:27Z",
+    "timestamp": 1791246867,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Buildout Has Turned into a Doom Loop",
+    "url": "https://bird.makeup/users/gnoble79/statuses/2107068301004210338",
+    "discussion_url": "https://news.ycombinator.com/item?id=49972480",
+    "source": "bird.makeup",
+    "date": "2026-10-06T00:09:11Z",
+    "timestamp": 1791245351,
     "category": "Machine Learning"
   },
   {
@@ -18,129 +117,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "I'm building a personal AI computer startup in Mumbai",
-    "url": "https://x.com/gfaang97609",
-    "discussion_url": "https://news.ycombinator.com/item?id=49971850",
-    "source": "x.com",
-    "date": "2026-10-05T22:47:22Z",
-    "timestamp": 1791240442,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Give Your AI Agent a Domain-Specific Language",
-    "url": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
-    "discussion_url": "https://news.ycombinator.com/item?id=49971515",
-    "source": "modeloptic.com",
-    "date": "2026-10-05T22:05:15Z",
-    "timestamp": 1791237915,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: The mainbrella effect – AI code / Agent machines",
-    "url": "https://news.ycombinator.com/item?id=49971503",
-    "discussion_url": "https://news.ycombinator.com/item?id=49971503",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-05T22:04:23Z",
-    "timestamp": 1791237863,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Top Consumer AI Apps",
-    "url": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
-    "discussion_url": "https://news.ycombinator.com/item?id=49971117",
-    "source": "a16z.news",
-    "date": "2026-10-05T21:33:12Z",
-    "timestamp": 1791235992,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "url": "https://qlabs.sh/research/dust",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970871",
-    "source": "qlabs.sh",
-    "date": "2026-10-05T21:15:07Z",
-    "timestamp": 1791234907,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Testing AI on Real-World Tasks",
-    "url": "https://www.vals.ai/home",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970806",
-    "source": "vals.ai",
-    "date": "2026-10-05T21:10:49Z",
-    "timestamp": 1791234649,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
     "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "discussion_url": "https://news.ycombinator.com/item?id=49970667",
     "source": "vals.ai",
     "date": "2026-10-05T21:00:21Z",
     "timestamp": 1791234021,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "European Processor Initiative Concluded",
-    "url": "https://www.european-processor-initiative.eu/press-release-european-processor-initiative-successfully-concluded/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970317",
-    "source": "european-processor-initiative.eu",
-    "date": "2026-10-05T20:35:57Z",
-    "timestamp": 1791232557,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Free AI Construction Estimating in the Web",
-    "url": "https://www.supadocs.app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970275",
-    "source": "supadocs.app",
-    "date": "2026-10-05T20:32:19Z",
-    "timestamp": 1791232339,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Give your LLM more DSLs",
-    "url": "https://yasyf.com/writing/give-your-llm-more-dsls/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970182",
-    "source": "yasyf.com",
-    "date": "2026-10-05T20:24:58Z",
-    "timestamp": 1791231898,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Feedback regarding my AI setup",
-    "url": "https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe",
-    "discussion_url": "https://news.ycombinator.com/item?id=49970144",
-    "source": "claude.ai",
-    "date": "2026-10-05T20:22:38Z",
-    "timestamp": 1791231758,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
-    "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-    "discussion_url": "https://news.ycombinator.com/item?id=49969988",
-    "source": "apps.apple.com",
-    "date": "2026-10-05T20:11:08Z",
-    "timestamp": 1791231068,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-    "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49969929",
-    "source": "bbc.co.uk",
-    "date": "2026-10-05T20:07:10Z",
-    "timestamp": 1791230830,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Astral GPU Indexes",
-    "url": "https://wheels.astral.sh/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49968780",
-    "source": "wheels.astral.sh",
-    "date": "2026-10-05T18:44:11Z",
-    "timestamp": 1791225851,
     "category": "Computer Architecture"
   },
   {
