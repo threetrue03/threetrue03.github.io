@@ -1,5 +1,131 @@
 [
   {
+    "title": "Opus 5.5 is the first model whose design doesn't look like AI slop",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991903",
+    "source": "quesma.com",
+    "date": "2026-10-07T12:36:06Z",
+    "timestamp": 1791376566,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
+    "url": "https://leaks.md/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991893",
+    "source": "leaks.md",
+    "date": "2026-10-07T12:35:08Z",
+    "timestamp": 1791376508,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cosmic shuts the door on AI code as GNOME debates letting bug reports in",
+    "url": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991614",
+    "source": "theregister.com",
+    "date": "2026-10-07T12:07:09Z",
+    "timestamp": 1791374829,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991580",
+    "source": "fiveminutesforward.com",
+    "date": "2026-10-07T12:04:36Z",
+    "timestamp": 1791374676,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: CloudGrip – Open-source AI proxy to cap LLM API budgets",
+    "url": "https://github.com/Aliyunazeer/cloudgrip-backend",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991569",
+    "source": "github.com",
+    "date": "2026-10-07T12:03:53Z",
+    "timestamp": 1791374633,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"Good\" AI",
+    "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991513",
+    "source": "thoughts.wyounas.com",
+    "date": "2026-10-07T11:57:53Z",
+    "timestamp": 1791374273,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Sharing my tale: why LLM chat bots are absolute security nightmares",
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1wys30p/sharing_my_tale_why_llm_chat_bots_are_absolute/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991364",
+    "source": "reddit.com",
+    "date": "2026-10-07T11:41:59Z",
+    "timestamp": 1791373319,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code",
+    "url": "https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991249",
+    "source": "techstrong.it",
+    "date": "2026-10-07T11:28:38Z",
+    "timestamp": 1791372518,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+    "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991218",
+    "source": "medium.com",
+    "date": "2026-10-07T11:23:55Z",
+    "timestamp": 1791372235,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Musician sent to prison for $10M streaming fraud using AI bots",
+    "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991123",
+    "source": "bleepingcomputer.com",
+    "date": "2026-10-07T11:13:16Z",
+    "timestamp": 1791371596,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI agent posted personal bank balances into company Slack",
+    "url": "https://twitter.com/ShaneMac/status/2107486740491669879",
+    "discussion_url": "https://news.ycombinator.com/item?id=49991006",
+    "source": "twitter.com",
+    "date": "2026-10-07T10:59:17Z",
+    "timestamp": 1791370757,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rex – Superlogical's AI multiplexer, now in beta",
+    "url": "https://www.superlogical.com/updates/public-testing-beginning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49990946",
+    "source": "superlogical.com",
+    "date": "2026-10-07T10:51:22Z",
+    "timestamp": 1791370282,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Tiny model for fast typed decisions on CPU (Gutsy)",
+    "url": "https://github.com/kouhxp/gutsy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49990519",
+    "source": "github.com",
+    "date": "2026-10-07T09:58:49Z",
+    "timestamp": 1791367129,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Tesla is browbeating the EU to approve its 'Full Self-Driving'. It's working",
+    "url": "https://www.reuters.com/investigations/tesla-is-browbeating-eu-approve-its-full-self-driving-tech-pressure-is-working-2026-10-07/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49990200",
+    "source": "reuters.com",
+    "date": "2026-10-07T09:14:26Z",
+    "timestamp": 1791364466,
+    "category": "Physical AI"
+  },
+  {
     "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
     "url": "https://github.com/shader-effects-inc/shaders",
     "discussion_url": "https://news.ycombinator.com/item?id=49988709",
@@ -16,123 +142,6 @@
     "date": "2026-10-07T05:15:44Z",
     "timestamp": 1791350144,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Toketer – See what every AI prompt costs you, live in your editor",
-    "url": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49988390",
-    "source": "marketplace.visualstudio.com",
-    "date": "2026-10-07T04:56:17Z",
-    "timestamp": 1791348977,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: KORA Doctor – find LLM calls your agent may not have needed",
-    "url": "https://github.com/Krako-Labs/kora-doctor",
-    "discussion_url": "https://news.ycombinator.com/item?id=49988380",
-    "source": "github.com",
-    "date": "2026-10-07T04:55:28Z",
-    "timestamp": 1791348928,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "url": "https://github.com/nano-muse/nanoMuse",
-    "discussion_url": "https://news.ycombinator.com/item?id=49987765",
-    "source": "github.com",
-    "date": "2026-10-07T03:30:44Z",
-    "timestamp": 1791343844,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+",
-    "url": "https://easiest.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49987761",
-    "source": "easiest.ai",
-    "date": "2026-10-07T03:29:45Z",
-    "timestamp": 1791343785,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Contamos – a shared multi-currency ledger your AI assistant can read and write",
-    "url": "https://contamos.xyz/en",
-    "discussion_url": "https://news.ycombinator.com/item?id=49987125",
-    "source": "contamos.xyz",
-    "date": "2026-10-07T02:06:52Z",
-    "timestamp": 1791338812,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Llama.cpp and WebGPU = Client-side LLMs [video]",
-    "url": "https://www.youtube.com/watch?v=TvVhzroY72E",
-    "discussion_url": "https://news.ycombinator.com/item?id=49986535",
-    "source": "youtube.com",
-    "date": "2026-10-07T01:02:13Z",
-    "timestamp": 1791334933,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Hardest Part of Using AI",
-    "url": "https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49986389",
-    "source": "makonea.com",
-    "date": "2026-10-07T00:45:08Z",
-    "timestamp": 1791333908,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Researchers Backdoor Open AI Model to Steal Credentials in Coding Agents",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-    "discussion_url": "https://news.ycombinator.com/item?id=49986345",
-    "source": "projectdiscovery.io",
-    "date": "2026-10-07T00:40:13Z",
-    "timestamp": 1791333613,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49985861",
-    "source": "reuters.com",
-    "date": "2026-10-06T23:50:33Z",
-    "timestamp": 1791330633,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Where do we draw the line on AI in court filings?",
-    "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
-    "discussion_url": "https://news.ycombinator.com/item?id=49985587",
-    "source": "lexifina.com",
-    "date": "2026-10-06T23:21:07Z",
-    "timestamp": 1791328867,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
-    "url": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
-    "discussion_url": "https://news.ycombinator.com/item?id=49985287",
-    "source": "capitalandmain.com",
-    "date": "2026-10-06T22:51:01Z",
-    "timestamp": 1791327061,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An Open Letter to Steven Pinker on AI",
-    "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
-    "discussion_url": "https://news.ycombinator.com/item?id=49984947",
-    "source": "astralcodexten.com",
-    "date": "2026-10-06T22:19:38Z",
-    "timestamp": 1791325178,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49984923",
-    "source": "openai.com",
-    "date": "2026-10-06T22:17:21Z",
-    "timestamp": 1791325041,
-    "category": "Machine Learning"
   },
   {
     "title": "OpenTPU – An open-source AI accelerator, developed by AI",
@@ -162,12 +171,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-    "discussion_url": "https://news.ycombinator.com/item?id=49946895",
-    "source": "phoronix.com",
-    "date": "2026-10-03T19:14:48Z",
-    "timestamp": 1791054888,
+    "title": "Gallery of Processor Cache Effects (2010)",
+    "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49956219",
+    "source": "igoro.com",
+    "date": "2026-10-04T17:58:51Z",
+    "timestamp": 1791136731,
     "category": "Computer Architecture"
   }
 ]
