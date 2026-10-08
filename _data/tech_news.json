@@ -1,138 +1,129 @@
 [
   {
-    "title": "AI to Fight World Hunger",
-    "url": "https://features.csis.org/ai-to-fight-world-hunger/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49999649",
-    "source": "features.csis.org",
-    "date": "2026-10-07T22:30:53Z",
-    "timestamp": 1791412253,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998880",
-    "source": "arstechnica.com",
-    "date": "2026-10-07T21:14:43Z",
-    "timestamp": 1791407683,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: SheetRelay – Google Sheets as a back end for web pages and AI agents",
-    "url": "https://sheetrelay.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998816",
-    "source": "sheetrelay.com",
-    "date": "2026-10-07T21:07:54Z",
-    "timestamp": 1791407274,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies say rivals are distilling their models and why it's so hard to stop",
-    "url": "https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998681",
-    "source": "scientificamerican.com",
-    "date": "2026-10-07T20:55:19Z",
-    "timestamp": 1791406519,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google AI Edge Foresight – offline, private meeting transcripts",
-    "url": "https://developers.google.com/edge/foresight",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998314",
-    "source": "developers.google.com",
-    "date": "2026-10-07T20:24:46Z",
-    "timestamp": 1791404686,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to turn your AI into a world-class designer",
-    "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998232",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-07T20:17:58Z",
-    "timestamp": 1791404278,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A New AI Agent Oriented Programming Language",
-    "url": "https://github.com/itsmedit/grenat",
-    "discussion_url": "https://news.ycombinator.com/item?id=49998136",
-    "source": "github.com",
-    "date": "2026-10-07T20:09:43Z",
-    "timestamp": 1791403783,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-    "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49997807",
-    "source": "devblogs.microsoft.com",
-    "date": "2026-10-07T19:40:34Z",
-    "timestamp": 1791402034,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claim Act drafted for AI libability discussion [pdf]",
-    "url": "https://trahan.house.gov/uploadedfiles/claim_act_final.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49997707",
-    "source": "trahan.house.gov",
-    "date": "2026-10-07T19:32:58Z",
-    "timestamp": 1791401578,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI has to replace the workers who were never born",
-    "url": "https://toex.substack.com/p/ai-workers-never-born",
-    "discussion_url": "https://news.ycombinator.com/item?id=49997514",
-    "source": "toex.substack.com",
-    "date": "2026-10-07T19:18:06Z",
-    "timestamp": 1791400686,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "McDonald's sued over AI tool that recommends prices to US franchisees",
-    "url": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
-    "discussion_url": "https://news.ycombinator.com/item?id=49997379",
-    "source": "apnews.com",
-    "date": "2026-10-07T19:07:17Z",
-    "timestamp": 1791400037,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49997161",
-    "source": "rswebsols.com",
-    "date": "2026-10-07T18:49:40Z",
-    "timestamp": 1791398980,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tesla is browbeating the EU to approve its 'Full Self-Driving' tech",
-    "url": "https://www.reuters.com/investigations/tesla-is-browbeating-eu-approve-its-full-self-driving-tech-pressure-is-working-2026-10-07/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49996917",
-    "source": "reuters.com",
-    "date": "2026-10-07T18:31:51Z",
-    "timestamp": 1791397911,
+    "title": "The Startup That Wants to Build 'Microrobots' with A.I",
+    "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50002256",
+    "source": "nytimes.com",
+    "date": "2026-10-08T06:01:55Z",
+    "timestamp": 1791439315,
     "category": "Physical AI"
   },
   {
-    "title": "GTA V in a browser tab: Rockstar's own engine, recompiled to wasm64 and WebGPU",
-    "url": "https://ai.thesatyajit.com/articles/gta5-in-the-browser",
-    "discussion_url": "https://news.ycombinator.com/item?id=49996609",
-    "source": "ai.thesatyajit.com",
-    "date": "2026-10-07T18:12:20Z",
-    "timestamp": 1791396740,
-    "category": "Computer Architecture"
+    "title": "Researcher Gets $300 from OpenAI for Major AI Security Flaw",
+    "url": "https://x.com/i/trending/2107776361859293195",
+    "discussion_url": "https://news.ycombinator.com/item?id=50002248",
+    "source": "x.com",
+    "date": "2026-10-08T06:01:05Z",
+    "timestamp": 1791439265,
+    "category": "Machine Learning"
   },
   {
-    "title": "Driving an Nvidia GPU from a Hobby Rust Kernel: GSP-RM to Vulkan",
-    "url": "https://github.com/oriaj-nocrala/rust_so_kernel/blob/master/docs/blog/gsp-to-vulkan.md",
-    "discussion_url": "https://news.ycombinator.com/item?id=49996014",
+    "title": "Microsoft Execution Containers: Policy-driven containment for AI agents",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50002144",
+    "source": "blogs.windows.com",
+    "date": "2026-10-08T05:44:18Z",
+    "timestamp": 1791438258,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
+    "url": "https://github.com/dkremsa/claude-pacer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001750",
     "source": "github.com",
-    "date": "2026-10-07T17:31:00Z",
-    "timestamp": 1791394260,
-    "category": "Computer Architecture"
+    "date": "2026-10-08T04:10:33Z",
+    "timestamp": 1791432633,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Categorical Analysis of LLMs and the Symbol Grounding Problem (2025)",
+    "url": "https://arxiv.org/abs/2512.09117",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001515",
+    "source": "arxiv.org",
+    "date": "2026-10-08T03:09:19Z",
+    "timestamp": 1791428959,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can we prove LLMs are not conscious?",
+    "url": "https://machines.tivra.com/human",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001511",
+    "source": "machines.tivra.com",
+    "date": "2026-10-08T03:08:21Z",
+    "timestamp": 1791428901,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Pascal's Wager",
+    "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001332",
+    "source": "ploum.net",
+    "date": "2026-10-08T02:37:18Z",
+    "timestamp": 1791427038,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Retrofitting language models to operate over bytes",
+    "url": "https://www.nature.com/articles/s41586-026-11111-4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001234",
+    "source": "nature.com",
+    "date": "2026-10-08T02:15:16Z",
+    "timestamp": 1791425716,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Runtime – Your AI Agents Have a Home",
+    "url": "https://withruntime.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001168",
+    "source": "withruntime.com",
+    "date": "2026-10-08T02:04:06Z",
+    "timestamp": 1791425046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Building alone, faster: a panel on what AI is doing to the product trio",
+    "url": "https://jennywanger.com/articles/building-alone-faster/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001052",
+    "source": "jennywanger.com",
+    "date": "2026-10-08T01:44:29Z",
+    "timestamp": 1791423869,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Exodus AI – Affordable face swapping tool for creators",
+    "url": "https://tally.so/r/44gGAB",
+    "discussion_url": "https://news.ycombinator.com/item?id=50001030",
+    "source": "tally.so",
+    "date": "2026-10-08T01:40:57Z",
+    "timestamp": 1791423657,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Long Until AI Hacks Everything?",
+    "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50000818",
+    "source": "theatlantic.com",
+    "date": "2026-10-08T01:07:09Z",
+    "timestamp": 1791421629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
+    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50000753",
+    "source": "petapixel.com",
+    "date": "2026-10-08T00:56:21Z",
+    "timestamp": 1791420981,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An open vision-language model for diverse medical applications",
+    "url": "https://www.nature.com/articles/s41591-026-04626-w",
+    "discussion_url": "https://news.ycombinator.com/item?id=50000106",
+    "source": "nature.com",
+    "date": "2026-10-07T23:22:26Z",
+    "timestamp": 1791415346,
+    "category": "Computer Vision"
   },
   {
     "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
@@ -141,6 +132,15 @@
     "source": "github.com",
     "date": "2026-10-07T05:38:35Z",
     "timestamp": 1791351515,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "How many GPUs is 1M/B/T tokens?",
+    "url": "https://cedana.com/resources/tokens-to-gpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49982096",
+    "source": "cedana.com",
+    "date": "2026-10-06T18:17:40Z",
+    "timestamp": 1791310660,
     "category": "Computer Architecture"
   },
   {
