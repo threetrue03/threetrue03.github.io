@@ -1,138 +1,156 @@
 [
   {
-    "title": "Anthropic bans users from being 'cruel' to its AI systems",
-    "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019860",
-    "source": "bbc.com",
-    "date": "2026-10-09T13:00:21Z",
-    "timestamp": 1791550821,
+    "title": "Can AI automate AI R&D yet?",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "discussion_url": "https://news.ycombinator.com/item?id=50027257",
+    "source": "epoch.ai",
+    "date": "2026-10-09T22:14:40Z",
+    "timestamp": 1791584080,
     "category": "Machine Learning"
   },
   {
-    "title": "The $3T AI Debt Hiding in the Lease Footnote",
-    "url": "https://www.ainvest.com/news/3-trillion-ai-debt-hiding-lease-footnote-2610/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019703",
-    "source": "ainvest.com",
-    "date": "2026-10-09T12:45:57Z",
-    "timestamp": 1791549957,
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50027118",
+    "source": "nbcphiladelphia.com",
+    "date": "2026-10-09T22:00:35Z",
+    "timestamp": 1791583235,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Narwhal – LLM serving that moves GPUs between prefill/decode in seconds",
-    "url": "https://github.com/athrael-soju/Narwhal",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019698",
-    "source": "github.com",
-    "date": "2026-10-09T12:45:01Z",
-    "timestamp": 1791549901,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'",
-    "url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019684",
-    "source": "politico.com",
-    "date": "2026-10-09T12:42:51Z",
-    "timestamp": 1791549771,
+    "title": "Teams too busy doing their job to experiment with AI are going to be replaced",
+    "url": "https://ghuntley.com/replaced/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026906",
+    "source": "ghuntley.com",
+    "date": "2026-10-09T21:39:39Z",
+    "timestamp": 1791581979,
     "category": "Machine Learning"
   },
   {
-    "title": "How AI Is Upending the World of Mathematics",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019332",
-    "source": "bloomberg.com",
-    "date": "2026-10-09T12:07:08Z",
-    "timestamp": 1791547628,
+    "title": "Tesla drops 'Full Self-Driving' name in Europe after Germany pushback",
+    "url": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026681",
+    "source": "electrek.co",
+    "date": "2026-10-09T21:19:30Z",
+    "timestamp": 1791580770,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Autonomous AI Lamp",
+    "url": "https://www.autonomous.ai/lamp",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026596",
+    "source": "autonomous.ai",
+    "date": "2026-10-09T21:10:37Z",
+    "timestamp": 1791580237,
     "category": "Machine Learning"
   },
   {
-    "title": "Have your AI assistant book hotels",
-    "url": "https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019318",
-    "source": "reddit.com",
-    "date": "2026-10-09T12:05:32Z",
-    "timestamp": 1791547532,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI leaders game out public revolt scenarios after catastrophic events",
+    "title": "AI companies plot \"the day after\"",
     "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-    "discussion_url": "https://news.ycombinator.com/item?id=50019306",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026477",
     "source": "axios.com",
-    "date": "2026-10-09T12:03:45Z",
-    "timestamp": 1791547425,
+    "date": "2026-10-09T20:58:04Z",
+    "timestamp": 1791579484,
     "category": "Machine Learning"
   },
   {
-    "title": "A US charity plans to use AI to monitor its Gaza schools",
-    "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018904",
-    "source": "apnews.com",
-    "date": "2026-10-09T11:17:14Z",
-    "timestamp": 1791544634,
+    "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
+    "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026463",
+    "source": "technode.com",
+    "date": "2026-10-09T20:55:42Z",
+    "timestamp": 1791579342,
     "category": "Machine Learning"
   },
   {
-    "title": "I Use AI to Learn Things [video]",
-    "url": "https://www.youtube.com/watch?v=kzcI5F4tGiU",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018824",
-    "source": "youtube.com",
-    "date": "2026-10-09T11:04:26Z",
-    "timestamp": 1791543866,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018817",
-    "source": "github.com",
-    "date": "2026-10-09T11:03:48Z",
-    "timestamp": 1791543828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Client-side image cropping for any file input, without coding",
-    "url": "https://cropguide.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018802",
-    "source": "cropguide.io",
-    "date": "2026-10-09T11:01:56Z",
-    "timestamp": 1791543716,
+    "title": "A hand-crafted, CPU-only agent clears all 25 public ARC-AGI-3 games",
+    "url": "https://zenodo.org/records/23269727",
+    "discussion_url": "https://news.ycombinator.com/item?id=50026204",
+    "source": "zenodo.org",
+    "date": "2026-10-09T20:30:12Z",
+    "timestamp": 1791577812,
     "category": "Computer Architecture"
   },
   {
-    "title": "Pure ARM64 assembly implementation of the ED homophonic codebook cipher",
-    "url": "https://gitlab.com/here_forawhile/edasm",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018783",
-    "source": "gitlab.com",
-    "date": "2026-10-09T10:59:54Z",
-    "timestamp": 1791543594,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Assistants Transform Nuclear Power Plant Work",
-    "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018761",
-    "source": "spectrum.ieee.org",
-    "date": "2026-10-09T10:58:04Z",
-    "timestamp": 1791543484,
+    "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has",
+    "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025967",
+    "source": "science.org",
+    "date": "2026-10-09T20:07:09Z",
+    "timestamp": 1791576429,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Spectra – A drop-in optimizer that cuts LLM training VRAM by 50%",
-    "url": "https://github.com/SpectraSI/SpectraAdamw",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018712",
+    "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+    "url": "https://codeberg.org/ethical-foss/open-slopware",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025767",
+    "source": "codeberg.org",
+    "date": "2026-10-09T19:50:16Z",
+    "timestamp": 1791575416,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to the police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025713",
+    "source": "techcrunch.com",
+    "date": "2026-10-09T19:44:59Z",
+    "timestamp": 1791575099,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Danger May Be AI as Dumb as Us",
+    "url": "https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025493",
+    "source": "foreignpolicy.com",
+    "date": "2026-10-09T19:26:19Z",
+    "timestamp": 1791573979,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Small Local AI Models – Can you prove them to be useful at all?",
+    "url": "https://open-ryze.web.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025215",
+    "source": "open-ryze.web.app",
+    "date": "2026-10-09T19:03:57Z",
+    "timestamp": 1791572637,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "McDonald's AI pricing lands the fast-food giant in court",
+    "url": "https://neow.in/NzlrdjU5",
+    "discussion_url": "https://news.ycombinator.com/item?id=50025174",
+    "source": "neow.in",
+    "date": "2026-10-09T19:00:03Z",
+    "timestamp": 1791572403,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"I'm programmed to get money every day like a robot\"",
+    "url": "https://bellrun.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50023510",
+    "source": "bellrun.com",
+    "date": "2026-10-09T17:06:08Z",
+    "timestamp": 1791565568,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+    "url": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926",
+    "discussion_url": "https://news.ycombinator.com/item?id=50023065",
+    "source": "qz.com",
+    "date": "2026-10-09T16:38:20Z",
+    "timestamp": 1791563900,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: CPU First Decision Model",
+    "url": "https://github.com/kouhxp/gutsy",
+    "discussion_url": "https://news.ycombinator.com/item?id=50023015",
     "source": "github.com",
-    "date": "2026-10-09T10:51:42Z",
-    "timestamp": 1791543102,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
-    "url": "https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom",
-    "discussion_url": "https://news.ycombinator.com/item?id=50018602",
-    "source": "france24.com",
-    "date": "2026-10-09T10:38:00Z",
-    "timestamp": 1791542280,
-    "category": "Machine Learning"
+    "date": "2026-10-09T16:35:12Z",
+    "timestamp": 1791563712,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
@@ -142,5 +160,14 @@
     "date": "2026-10-07T05:15:44Z",
     "timestamp": 1791350144,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Training Text-to-Image Models Without a VAE",
+    "url": "https://www.linum.ai/field-notes/pyramid-jit",
+    "discussion_url": "https://news.ycombinator.com/item?id=49983582",
+    "source": "linum.ai",
+    "date": "2026-10-06T20:24:52Z",
+    "timestamp": 1791318292,
+    "category": "Computer Vision"
   }
 ]
