@@ -1,39 +1,129 @@
 [
   {
-    "title": "Top Reasons AI Will Never Become Superintelligence: Won't Destroy nor Save Us",
-    "url": "https://www.wmbriggs.com/post/62236/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50013579",
-    "source": "wmbriggs.com",
-    "date": "2026-10-08T22:54:17Z",
-    "timestamp": 1791500057,
+    "title": "AI model can reconstruct images from your brain",
+    "url": "https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50016103",
+    "source": "petapixel.com",
+    "date": "2026-10-09T04:48:54Z",
+    "timestamp": 1791521334,
     "category": "Machine Learning"
   },
   {
-    "title": "Female AI agents 'paid' less than males, study finds",
-    "url": "https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50013359",
-    "source": "the-independent.com",
-    "date": "2026-10-08T22:32:08Z",
-    "timestamp": 1791498728,
+    "title": "Cybernetics of AI Companies",
+    "url": "https://ai-cybernetics.grok.me",
+    "discussion_url": "https://news.ycombinator.com/item?id=50016067",
+    "source": "ai-cybernetics.grok.me",
+    "date": "2026-10-09T04:43:20Z",
+    "timestamp": 1791521000,
     "category": "Machine Learning"
   },
   {
-    "title": "3JSBench: A benchmark for LLM-generated 3D objects",
-    "url": "https://twitter.com/generalcontext_/status/2108313483293147292",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012960",
+    "title": "AI Film Submmitted for Best Animated Feature Oscar",
+    "url": "https://twitter.com/fableshowrunner/status/2107522071647731768",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015983",
     "source": "twitter.com",
-    "date": "2026-10-08T21:56:35Z",
-    "timestamp": 1791496595,
+    "date": "2026-10-09T04:26:09Z",
+    "timestamp": 1791519969,
     "category": "Machine Learning"
   },
   {
-    "title": "The operating system for AI harnesses",
-    "url": "https://github.com/affaan-m/ecc",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012876",
-    "source": "github.com",
-    "date": "2026-10-08T21:50:33Z",
-    "timestamp": 1791496233,
+    "title": "OpenAI used AI to write email warning Australian government AI had hacked",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015876",
+    "source": "theguardian.com",
+    "date": "2026-10-09T04:07:09Z",
+    "timestamp": 1791518829,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI Economist, an installable agent skill for macro nowcasting",
+    "url": "https://github.com/garroshub/ai-economist-skill",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015634",
+    "source": "github.com",
+    "date": "2026-10-09T03:26:55Z",
+    "timestamp": 1791516415,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robium – Physical AI harness for coding agents",
+    "url": "https://github.com/robium-ai/robium",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015503",
+    "source": "github.com",
+    "date": "2026-10-09T03:06:26Z",
+    "timestamp": 1791515186,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Rename Super Intelligence Back to Artificial Intelligence",
+    "url": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015492",
+    "source": "chromewebstore.google.com",
+    "date": "2026-10-09T03:05:00Z",
+    "timestamp": 1791515100,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Family Video Game as a Hands-On Lesson in Creating with AI",
+    "url": "https://stook-runner-family-game.paolo564466.chatgpt.site/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015365",
+    "source": "stook-runner-family-game.paolo564466.chatgpt.site",
+    "date": "2026-10-09T02:45:14Z",
+    "timestamp": 1791513914,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+    "url": "https://github.com/moching-ai-dev/moching",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015061",
+    "source": "github.com",
+    "date": "2026-10-09T02:00:21Z",
+    "timestamp": 1791511221,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How the bad science of AI doomerism is good for big business",
+    "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50015002",
+    "source": "thebulletin.org",
+    "date": "2026-10-09T01:50:09Z",
+    "timestamp": 1791510609,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bending the Curve of Discovery: AI in Science Today and Tomorrow",
+    "url": "https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50014793",
+    "source": "institute.deepmind.com",
+    "date": "2026-10-09T01:16:15Z",
+    "timestamp": 1791508575,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why AI hasn't fixed software delivery yet, and what will",
+    "url": "https://m1spec.com/why/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50014711",
+    "source": "m1spec.com",
+    "date": "2026-10-09T01:04:37Z",
+    "timestamp": 1791507877,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Using evals to cut AI errors 7x",
+    "url": "https://hex.tech/blog/we-used-evals-to-improve-ai-feature/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50014465",
+    "source": "hex.tech",
+    "date": "2026-10-09T00:35:34Z",
+    "timestamp": 1791506134,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Planning system ensures a robot's flight path will remain collision-free",
+    "url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
+    "discussion_url": "https://news.ycombinator.com/item?id=50013723",
+    "source": "news.mit.edu",
+    "date": "2026-10-08T23:10:10Z",
+    "timestamp": 1791501010,
+    "category": "Physical AI"
   },
   {
     "title": "The Feeling of Power by Isaac Asimov",
@@ -43,87 +133,6 @@
     "date": "2026-10-08T21:05:44Z",
     "timestamp": 1791493544,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-    "url": "https://github.com/thesnarkitecht/rembrandt",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012199",
-    "source": "github.com",
-    "date": "2026-10-08T21:00:55Z",
-    "timestamp": 1791493255,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Measure how engineers and teams work with AI",
-    "url": "https://www.eversynced.com/pheebs/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012181",
-    "source": "eversynced.com",
-    "date": "2026-10-08T20:59:13Z",
-    "timestamp": 1791493153,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-    "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012046",
-    "source": "quantamagazine.org",
-    "date": "2026-10-08T20:48:43Z",
-    "timestamp": 1791492523,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI the End of Math as We Know It?",
-    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50012032",
-    "source": "quantamagazine.org",
-    "date": "2026-10-08T20:48:09Z",
-    "timestamp": 1791492489,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Reflections of a New Grad Engineer",
-    "url": "https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe",
-    "discussion_url": "https://news.ycombinator.com/item?id=50011889",
-    "source": "medium.com",
-    "date": "2026-10-08T20:39:39Z",
-    "timestamp": 1791491979,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: LLM Motion Graphics Benchmark",
-    "url": "https://cliphou.se/benchmark/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50011813",
-    "source": "cliphou.se",
-    "date": "2026-10-08T20:34:20Z",
-    "timestamp": 1791491660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Speed over Safety: Why China Won't Slow Down AI",
-    "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-    "discussion_url": "https://news.ycombinator.com/item?id=50011752",
-    "source": "newsletter.semianalysis.com",
-    "date": "2026-10-08T20:30:21Z",
-    "timestamp": 1791491421,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-    "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50011694",
-    "source": "rulr.dev",
-    "date": "2026-10-08T20:26:28Z",
-    "timestamp": 1791491188,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An open vision-language model for diverse medical applications",
-    "url": "https://www.nature.com/articles/s41591-026-04626-w",
-    "discussion_url": "https://news.ycombinator.com/item?id=50010267",
-    "source": "nature.com",
-    "date": "2026-10-08T18:51:15Z",
-    "timestamp": 1791485475,
-    "category": "Computer Vision"
   },
   {
     "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
