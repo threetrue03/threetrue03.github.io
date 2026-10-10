@@ -1,111 +1,120 @@
 [
   {
-    "title": "If AI keeps evolving,would you worry about your next generation's survival",
-    "url": "https://news.ycombinator.com/item?id=50029896",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029896",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-10T05:33:21Z",
-    "timestamp": 1791610401,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "If AI is conscient, then we are making slaves",
-    "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029681",
-    "source": "groundlevel-ai.com",
-    "date": "2026-10-10T04:51:26Z",
-    "timestamp": 1791607886,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Zombie AI Video Generator – a zombie love story from two photos",
-    "url": "https://zombieaivideo.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029633",
-    "source": "zombieaivideo.org",
-    "date": "2026-10-10T04:41:08Z",
-    "timestamp": 1791607268,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
-    "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029608",
-    "source": "wsj.com",
-    "date": "2026-10-10T04:37:18Z",
-    "timestamp": 1791607038,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
-    "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029518",
-    "source": "huggingface.co",
-    "date": "2026-10-10T04:18:45Z",
-    "timestamp": 1791605925,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
-    "url": "https://arxiv.org/abs/2610.11932",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029465",
-    "source": "arxiv.org",
-    "date": "2026-10-10T04:07:09Z",
-    "timestamp": 1791605229,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
-    "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029287",
-    "source": "wsj.com",
-    "date": "2026-10-10T03:32:38Z",
-    "timestamp": 1791603158,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI disqualification yields new Nikon Small World in Motion winner",
-    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50029285",
-    "source": "arstechnica.com",
-    "date": "2026-10-10T03:32:27Z",
-    "timestamp": 1791603147,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
-    "url": "https://github.com/FranciscoGrandon/antigravity-excel-engine",
-    "discussion_url": "https://news.ycombinator.com/item?id=50028857",
+    "title": "Ariodb – a proxy that checks and can undo what AI agents do to your DB",
+    "url": "https://github.com/roozjalali/ariodb",
+    "discussion_url": "https://news.ycombinator.com/item?id=50032125",
     "source": "github.com",
-    "date": "2026-10-10T02:13:48Z",
-    "timestamp": 1791598428,
+    "date": "2026-10-10T12:11:06Z",
+    "timestamp": 1791634266,
     "category": "Machine Learning"
   },
   {
-    "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
-    "url": "https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50028796",
-    "source": "motherjones.com",
-    "date": "2026-10-10T02:04:58Z",
-    "timestamp": 1791597898,
+    "title": "LLMs Aren't Inevitable",
+    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+    "discussion_url": "https://news.ycombinator.com/item?id=50032064",
+    "source": "deadsimpletech.com",
+    "date": "2026-10-10T12:04:04Z",
+    "timestamp": 1791633844,
     "category": "Machine Learning"
   },
   {
-    "title": "Language models play chess, everything is recorded",
-    "url": "https://chessmark.merope.dev",
-    "discussion_url": "https://news.ycombinator.com/item?id=50028795",
-    "source": "chessmark.merope.dev",
-    "date": "2026-10-10T02:04:58Z",
-    "timestamp": 1791597898,
+    "title": "Effect of research paper mills enough to start affecting LLM query results",
+    "url": "https://news.err.ee/1610155906/effect-of-research-paper-mills-enough-to-start-affecting-llm-query-results",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031664",
+    "source": "news.err.ee",
+    "date": "2026-10-10T10:59:09Z",
+    "timestamp": 1791629949,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
-    "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
-    "discussion_url": "https://news.ycombinator.com/item?id=50028625",
-    "source": "wsj.com",
-    "date": "2026-10-10T01:33:51Z",
-    "timestamp": 1791596031,
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031614",
+    "source": "github.com",
+    "date": "2026-10-10T10:52:09Z",
+    "timestamp": 1791629529,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Does YC use AI agents to review your pitch?",
+    "url": "https://news.ycombinator.com/item?id=50031461",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031461",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-10T10:27:04Z",
+    "timestamp": 1791628024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031438",
+    "source": "bbc.co.uk",
+    "date": "2026-10-10T10:23:44Z",
+    "timestamp": 1791627824,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+    "url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031294",
+    "source": "news.berkeley.edu",
+    "date": "2026-10-10T09:56:52Z",
+    "timestamp": 1791626212,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+    "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031156",
+    "source": "warren.senate.gov",
+    "date": "2026-10-10T09:30:03Z",
+    "timestamp": 1791624603,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lumentum sold out of AI server parts till 2029",
+    "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50031102",
+    "source": "japantimes.co.jp",
+    "date": "2026-10-10T09:18:02Z",
+    "timestamp": 1791623882,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
+    "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50030912",
+    "source": "time.com",
+    "date": "2026-10-10T08:35:13Z",
+    "timestamp": 1791621313,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+    "url": "https://opencomponents.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50030849",
+    "source": "opencomponents.dev",
+    "date": "2026-10-10T08:24:05Z",
+    "timestamp": 1791620645,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic can't reliably control its AI agents, cuts internet access",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50030778",
+    "source": "techcrunch.com",
+    "date": "2026-10-10T08:07:20Z",
+    "timestamp": 1791619640,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ubuntu now has official desktop images for RISC-V",
+    "url": "https://www.omgubuntu.co.uk/2026/10/ubuntu-desktop-riscv-iso",
+    "discussion_url": "https://news.ycombinator.com/item?id=50029951",
+    "source": "omgubuntu.co.uk",
+    "date": "2026-10-10T05:42:18Z",
+    "timestamp": 1791610938,
+    "category": "Computer Architecture"
   },
   {
     "title": "GPGPU-SIM – Cycle-Level Simulator for Nvidia GPUs with CUDA or OpenCL Workloads",
@@ -114,24 +123,6 @@
     "source": "github.com",
     "date": "2026-10-09T22:27:23Z",
     "timestamp": 1791584843,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tesla drops 'Full Self-Driving' name in Europe after Germany pushback",
-    "url": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50026681",
-    "source": "electrek.co",
-    "date": "2026-10-09T21:19:30Z",
-    "timestamp": 1791580770,
-    "category": "Physical AI"
-  },
-  {
-    "title": "A hand-crafted, CPU-only agent clears all 25 public ARC-AGI-3 games",
-    "url": "https://zenodo.org/records/23269727",
-    "discussion_url": "https://news.ycombinator.com/item?id=50026204",
-    "source": "zenodo.org",
-    "date": "2026-10-09T20:30:12Z",
-    "timestamp": 1791577812,
     "category": "Computer Architecture"
   },
   {
