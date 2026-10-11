@@ -1,21 +1,129 @@
 [
   {
-    "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
-    "url": "https://github.com/corbenicai/galahad",
-    "discussion_url": "https://news.ycombinator.com/item?id=50037428",
-    "source": "github.com",
-    "date": "2026-10-10T21:36:50Z",
-    "timestamp": 1791668210,
+    "title": "Every lawsuit against an AI company",
+    "url": "https://ailawsuittracker.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50040065",
+    "source": "ailawsuittracker.com",
+    "date": "2026-10-11T05:26:22Z",
+    "timestamp": 1791696382,
     "category": "Machine Learning"
   },
   {
-    "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
-    "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50037145",
-    "source": "claude.ai",
-    "date": "2026-10-10T21:02:24Z",
-    "timestamp": 1791666144,
+    "title": "Europe confident its rules can thwart rogue AI",
+    "url": "https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039678",
+    "source": "rnz.co.nz",
+    "date": "2026-10-11T03:57:03Z",
+    "timestamp": 1791691023,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+    "url": "https://github.com/vscarpenter/gsd-task-manager",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039633",
+    "source": "github.com",
+    "date": "2026-10-11T03:42:56Z",
+    "timestamp": 1791690176,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI agents in a stand-up call",
+    "url": "https://atoll92.github.io/agent-standup/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039630",
+    "source": "atoll92.github.io",
+    "date": "2026-10-11T03:42:47Z",
+    "timestamp": 1791690167,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039627",
+    "source": "theverge.com",
+    "date": "2026-10-11T03:41:53Z",
+    "timestamp": 1791690113,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will Spiritual Robots Replace Humanity by 2100? (2000)",
+    "url": "https://www.youtube.com/playlist?list=PLvW5zob1PPbbFUZK_LdzU8iJBSFb2Zhyb",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039614",
+    "source": "youtube.com",
+    "date": "2026-10-11T03:38:11Z",
+    "timestamp": 1791689891,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Ask HN: Best Local LLM Box ?",
+    "url": "https://news.ycombinator.com/item?id=50039529",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039529",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-11T03:19:32Z",
+    "timestamp": 1791688772,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A new AI model that renders generative visuals of what you see",
+    "url": "https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039367",
+    "source": "weizmann.ac.il",
+    "date": "2026-10-11T02:49:23Z",
+    "timestamp": 1791686963,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039318",
+    "source": "bbc.com",
+    "date": "2026-10-11T02:41:19Z",
+    "timestamp": 1791686479,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039092",
+    "source": "momo5502.com",
+    "date": "2026-10-11T02:02:38Z",
+    "timestamp": 1791684158,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+    "url": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039051",
+    "source": "github.com",
+    "date": "2026-10-11T01:52:38Z",
+    "timestamp": 1791683558,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
+    "url": "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50039003",
+    "source": "servethehome.com",
+    "date": "2026-10-11T01:43:22Z",
+    "timestamp": 1791683002,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
+    "url": "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the",
+    "discussion_url": "https://news.ycombinator.com/item?id=50038743",
+    "source": "read.aindeev.com",
+    "date": "2026-10-11T01:03:41Z",
+    "timestamp": 1791680621,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
+    "url": "https://github.com/academa-labs/manimgx",
+    "discussion_url": "https://news.ycombinator.com/item?id=50037852",
+    "source": "github.com",
+    "date": "2026-10-10T22:33:30Z",
+    "timestamp": 1791671610,
+    "category": "Computer Architecture"
   },
   {
     "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of data center GPUs",
@@ -36,58 +144,13 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
-    "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036718",
-    "source": "phpscientist.com",
-    "date": "2026-10-10T20:17:41Z",
-    "timestamp": 1791663461,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI conscious? Anthropic says 'maybe'",
-    "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036695",
-    "source": "machinesociety.ai",
-    "date": "2026-10-10T20:15:48Z",
-    "timestamp": 1791663348,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Your AI Said \"Done.\" Make It Prove It.",
-    "url": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036466",
-    "source": "viaknox.com",
-    "date": "2026-10-10T19:47:10Z",
-    "timestamp": 1791661630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What's your plan if AI takes your job?",
-    "url": "https://news.ycombinator.com/item?id=50036432",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036432",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-10T19:43:28Z",
-    "timestamp": 1791661408,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I don't trust Lean code from AI",
-    "url": "https://karagila.org/2026/lean/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036397",
-    "source": "karagila.org",
-    "date": "2026-10-10T19:40:16Z",
-    "timestamp": 1791661216,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-    "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036390",
-    "source": "variety.com",
-    "date": "2026-10-10T19:39:10Z",
-    "timestamp": 1791661150,
-    "category": "Machine Learning"
+    "title": "OpenAI's Astra model is shockingly good at robotics",
+    "url": "https://www.understandingrobots.org/p/openais-astra-model-is-shockingly",
+    "discussion_url": "https://news.ycombinator.com/item?id=50036740",
+    "source": "understandingrobots.org",
+    "date": "2026-10-10T20:21:02Z",
+    "timestamp": 1791663662,
+    "category": "Physical AI"
   },
   {
     "title": "CAVEWOMAN: How LLMs Behave Under Linguistic Input and Output Compression",
@@ -97,42 +160,6 @@
     "date": "2026-10-10T19:31:57Z",
     "timestamp": 1791660717,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "AI and Bottlenecks in Software Production [pdf]",
-    "url": "https://fion.ac/jellyfish.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036294",
-    "source": "fion.ac",
-    "date": "2026-10-10T19:28:58Z",
-    "timestamp": 1791660538,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI Killing the Value of Human Writing?",
-    "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036289",
-    "source": "transitions.substack.com",
-    "date": "2026-10-10T19:28:46Z",
-    "timestamp": 1791660526,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
-    "url": "https://news.ycombinator.com/item?id=50036146",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036146",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-10T19:14:41Z",
-    "timestamp": 1791659681,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-    "url": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50036049",
-    "source": "nytimes.com",
-    "date": "2026-10-10T19:05:29Z",
-    "timestamp": 1791659129,
-    "category": "Machine Learning"
   },
   {
     "title": "Training Text-to-Image Models Without a VAE",
