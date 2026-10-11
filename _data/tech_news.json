@@ -1,48 +1,129 @@
 [
   {
-    "title": "AI Engineering Maturity Model: 5 Stages for Teams",
-    "url": "https://www.augmentcode.com/guides/ai-engineering-maturity-model",
-    "discussion_url": "https://news.ycombinator.com/item?id=50042292",
-    "source": "augmentcode.com",
-    "date": "2026-10-11T11:55:38Z",
-    "timestamp": 1791719738,
+    "title": "Botmail: A mailbox for every AI agent",
+    "url": "https://botmail.pro/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50048166",
+    "source": "botmail.pro",
+    "date": "2026-10-11T21:47:50Z",
+    "timestamp": 1791755270,
     "category": "Machine Learning"
   },
   {
-    "title": "AI is creating a 'human premium' for art created by people",
-    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50042107",
+    "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+    "url": "https://github.com/mirabilis-agent/lip-ledger",
+    "discussion_url": "https://news.ycombinator.com/item?id=50048136",
+    "source": "github.com",
+    "date": "2026-10-11T21:44:24Z",
+    "timestamp": 1791755064,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say",
+    "url": "https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047980",
+    "source": "healthdata.org",
+    "date": "2026-10-11T21:27:08Z",
+    "timestamp": 1791754028,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+    "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047557",
+    "source": "apnews.com",
+    "date": "2026-10-11T20:35:03Z",
+    "timestamp": 1791750903,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Distorted Intelligence at the AI Frontier",
+    "url": "https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047504",
+    "source": "project-syndicate.org",
+    "date": "2026-10-11T20:30:30Z",
+    "timestamp": 1791750630,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image",
+    "url": "https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047502",
+    "source": "medium.com",
+    "date": "2026-10-11T20:30:20Z",
+    "timestamp": 1791750620,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047422",
+    "source": "twitter.com",
+    "date": "2026-10-11T20:20:52Z",
+    "timestamp": 1791750052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How do swarms of AI agents work?",
+    "url": "https://news.ycombinator.com/item?id=50047180",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047180",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-11T19:57:45Z",
+    "timestamp": 1791748665,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+    "url": "https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047049",
+    "source": "yahoo.com",
+    "date": "2026-10-11T19:43:00Z",
+    "timestamp": 1791747780,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
+    "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+    "discussion_url": "https://news.ycombinator.com/item?id=50046896",
     "source": "bbc.com",
-    "date": "2026-10-11T11:34:28Z",
-    "timestamp": 1791718468,
+    "date": "2026-10-11T19:26:05Z",
+    "timestamp": 1791746765,
     "category": "Machine Learning"
   },
   {
-    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041873",
-    "source": "latimes.com",
-    "date": "2026-10-11T11:03:21Z",
-    "timestamp": 1791716601,
+    "title": "Developer of AI driving instructor is spending $1k/month to keep demo running",
+    "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50046482",
+    "source": "pcgamer.com",
+    "date": "2026-10-11T18:49:27Z",
+    "timestamp": 1791744567,
     "category": "Machine Learning"
   },
   {
-    "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041765",
-    "source": "vcresearch.berkeley.edu",
-    "date": "2026-10-11T10:47:21Z",
-    "timestamp": 1791715641,
+    "title": "Ario – auditing AI memory and self-claims as structure, not trust",
+    "url": "https://zenodo.org/records/23132717",
+    "discussion_url": "https://news.ycombinator.com/item?id=50045680",
+    "source": "zenodo.org",
+    "date": "2026-10-11T17:36:11Z",
+    "timestamp": 1791740171,
     "category": "Machine Learning"
   },
   {
-    "title": "Reverse-engineering the 8086 processor's address and data pins from die photos",
-    "url": "http://www.righto.com/2023/07/8086-pins.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041672",
-    "source": "righto.com",
-    "date": "2026-10-11T10:35:40Z",
-    "timestamp": 1791714940,
+    "title": "Electron-gpui: Run GPUI windows inside Electron apps",
+    "url": "https://github.com/biw/electron-gpui",
+    "discussion_url": "https://news.ycombinator.com/item?id=50045669",
+    "source": "github.com",
+    "date": "2026-10-11T17:34:56Z",
+    "timestamp": 1791740096,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Training My Humanoid Robot",
+    "url": "https://www.ramonov.com/blog/one-joint-unitree-r1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50045050",
+    "source": "ramonov.com",
+    "date": "2026-10-11T16:37:53Z",
+    "timestamp": 1791736673,
+    "category": "Physical AI"
   },
   {
     "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
@@ -54,111 +135,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Training LLMs to write tools generalized beyond self use",
-    "url": "https://tool-use-smith.github.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041626",
-    "source": "tool-use-smith.github.io",
-    "date": "2026-10-11T10:29:12Z",
-    "timestamp": 1791714552,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Running the unmodified Linux amdgpu driver on an iPad",
-    "url": "https://github.com/Geramy/LemonSeed-Studio",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041573",
-    "source": "github.com",
-    "date": "2026-10-11T10:18:18Z",
-    "timestamp": 1791713898,
+    "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+    "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+    "discussion_url": "https://news.ycombinator.com/item?id=50008566",
+    "source": "medium.com",
+    "date": "2026-10-08T17:08:05Z",
+    "timestamp": 1791479285,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "I build an open-source runtime security layer for AI agents – Let's break it",
-    "url": "https://github.com/Pryxor/pryxor",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041219",
-    "source": "github.com",
-    "date": "2026-10-11T09:14:07Z",
-    "timestamp": 1791710047,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
-    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041061",
-    "source": "petapixel.com",
-    "date": "2026-10-11T08:53:32Z",
-    "timestamp": 1791708812,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster",
-    "url": "https://www.nature.com/articles/d41586-026-03044-9",
-    "discussion_url": "https://news.ycombinator.com/item?id=50040906",
-    "source": "nature.com",
-    "date": "2026-10-11T08:33:43Z",
-    "timestamp": 1791707623,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic opens its most powerful AI models to more security teams",
-    "url": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50040865",
-    "source": "reuters.com",
-    "date": "2026-10-11T08:28:39Z",
-    "timestamp": 1791707319,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hello World, AI Doompop",
-    "url": "https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50040737",
-    "source": "radimentary.wordpress.com",
-    "date": "2026-10-11T08:13:02Z",
-    "timestamp": 1791706382,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
-    "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50040497",
-    "source": "finance.yahoo.com",
-    "date": "2026-10-11T07:19:43Z",
-    "timestamp": 1791703183,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lovable Style Builder via CF Inference GLM-5.3, Kimi K2.7 Code and GLM-5.3 Flash",
-    "url": "https://mainbrella.com/blog/lovable-style-builder-cloudflare-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50040374",
-    "source": "mainbrella.com",
-    "date": "2026-10-11T06:49:07Z",
-    "timestamp": 1791701347,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Will Spiritual Robots Replace Humanity by 2100? (2000)",
-    "url": "https://www.youtube.com/playlist?list=PLvW5zob1PPbbFUZK_LdzU8iJBSFb2Zhyb",
-    "discussion_url": "https://news.ycombinator.com/item?id=50039614",
-    "source": "youtube.com",
-    "date": "2026-10-11T03:38:11Z",
-    "timestamp": 1791689891,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
-    "url": "https://github.com/academa-labs/manimgx",
-    "discussion_url": "https://news.ycombinator.com/item?id=50037852",
-    "source": "github.com",
-    "date": "2026-10-10T22:33:30Z",
-    "timestamp": 1791671610,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Training Text-to-Image Models Without a VAE",
-    "url": "https://www.linum.ai/field-notes/pyramid-jit",
-    "discussion_url": "https://news.ycombinator.com/item?id=49983582",
-    "source": "linum.ai",
-    "date": "2026-10-06T20:24:52Z",
-    "timestamp": 1791318292,
-    "category": "Computer Vision"
   }
 ]
