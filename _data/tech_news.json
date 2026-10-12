@@ -1,128 +1,128 @@
 [
   {
-    "title": "Botmail: A mailbox for every AI agent",
-    "url": "https://botmail.pro/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50048166",
-    "source": "botmail.pro",
-    "date": "2026-10-11T21:47:50Z",
-    "timestamp": 1791755270,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An AI agent's $20 Kalshi account, with an exact reward model",
-    "url": "https://github.com/mirabilis-agent/lip-ledger",
-    "discussion_url": "https://news.ycombinator.com/item?id=50048136",
+    "title": "Show HN: Gen-system, parser facts about source code for local LLMs",
+    "url": "https://github.com/hpdkhoa/gen-system",
+    "discussion_url": "https://news.ycombinator.com/item?id=50051689",
     "source": "github.com",
-    "date": "2026-10-11T21:44:24Z",
-    "timestamp": 1791755064,
+    "date": "2026-10-12T05:25:49Z",
+    "timestamp": 1791782749,
     "category": "Machine Learning"
   },
   {
-    "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say",
-    "url": "https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047980",
-    "source": "healthdata.org",
-    "date": "2026-10-11T21:27:08Z",
-    "timestamp": 1791754028,
+    "title": "What's Dragging Down AI Efficiency? The 'Verification Tax.'",
+    "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50051672",
+    "source": "nytimes.com",
+    "date": "2026-10-12T05:22:46Z",
+    "timestamp": 1791782566,
     "category": "Machine Learning"
   },
   {
-    "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-    "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047557",
-    "source": "apnews.com",
-    "date": "2026-10-11T20:35:03Z",
-    "timestamp": 1791750903,
+    "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+    "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50051586",
+    "source": "quantamagazine.org",
+    "date": "2026-10-12T05:03:57Z",
+    "timestamp": 1791781437,
     "category": "Machine Learning"
   },
   {
-    "title": "Distorted Intelligence at the AI Frontier",
-    "url": "https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047504",
-    "source": "project-syndicate.org",
-    "date": "2026-10-11T20:30:30Z",
-    "timestamp": 1791750630,
+    "title": "As the military plans to speed up drones and AI use, Congress wants safeguards",
+    "url": "https://www.wunc.org/military/2026-10-05/drones-ai-warfare-congress-considers-safeguards",
+    "discussion_url": "https://news.ycombinator.com/item?id=50051250",
+    "source": "wunc.org",
+    "date": "2026-10-12T04:04:20Z",
+    "timestamp": 1791777860,
     "category": "Machine Learning"
   },
   {
-    "title": "The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image",
-    "url": "https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047502",
-    "source": "medium.com",
-    "date": "2026-10-11T20:30:20Z",
-    "timestamp": 1791750620,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047422",
-    "source": "twitter.com",
-    "date": "2026-10-11T20:20:52Z",
-    "timestamp": 1791750052,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How do swarms of AI agents work?",
-    "url": "https://news.ycombinator.com/item?id=50047180",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047180",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-11T19:57:45Z",
-    "timestamp": 1791748665,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-    "url": "https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50047049",
-    "source": "yahoo.com",
-    "date": "2026-10-11T19:43:00Z",
-    "timestamp": 1791747780,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
-    "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
-    "discussion_url": "https://news.ycombinator.com/item?id=50046896",
-    "source": "bbc.com",
-    "date": "2026-10-11T19:26:05Z",
-    "timestamp": 1791746765,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Developer of AI driving instructor is spending $1k/month to keep demo running",
-    "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50046482",
-    "source": "pcgamer.com",
-    "date": "2026-10-11T18:49:27Z",
-    "timestamp": 1791744567,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ario – auditing AI memory and self-claims as structure, not trust",
-    "url": "https://zenodo.org/records/23132717",
-    "discussion_url": "https://news.ycombinator.com/item?id=50045680",
-    "source": "zenodo.org",
-    "date": "2026-10-11T17:36:11Z",
-    "timestamp": 1791740171,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Electron-gpui: Run GPUI windows inside Electron apps",
-    "url": "https://github.com/biw/electron-gpui",
-    "discussion_url": "https://news.ycombinator.com/item?id=50045669",
+    "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+    "url": "https://github.com/qufei1993/skills-hub",
+    "discussion_url": "https://news.ycombinator.com/item?id=50050732",
     "source": "github.com",
-    "date": "2026-10-11T17:34:56Z",
-    "timestamp": 1791740096,
-    "category": "Computer Architecture"
+    "date": "2026-10-12T02:48:19Z",
+    "timestamp": 1791773299,
+    "category": "Machine Learning"
   },
   {
-    "title": "Training My Humanoid Robot",
-    "url": "https://www.ramonov.com/blog/one-joint-unitree-r1/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50045050",
-    "source": "ramonov.com",
-    "date": "2026-10-11T16:37:53Z",
-    "timestamp": 1791736673,
+    "title": "Website uses AI to generate northern Indigenous news 'correspondents'",
+    "url": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
+    "discussion_url": "https://news.ycombinator.com/item?id=50050673",
+    "source": "cbc.ca",
+    "date": "2026-10-12T02:39:07Z",
+    "timestamp": 1791772747,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50050540",
+    "source": "blogs.nvidia.com",
+    "date": "2026-10-12T02:20:35Z",
+    "timestamp": 1791771635,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A local AI recording summarizer developed by Google",
+    "url": "https://developers.google.com/edge/foresight",
+    "discussion_url": "https://news.ycombinator.com/item?id=50050494",
+    "source": "developers.google.com",
+    "date": "2026-10-12T02:15:21Z",
+    "timestamp": 1791771321,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50050448",
+    "source": "arstechnica.com",
+    "date": "2026-10-12T02:10:20Z",
+    "timestamp": 1791771020,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
+    "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50049997",
+    "source": "cnbc.com",
+    "date": "2026-10-12T01:04:07Z",
+    "timestamp": 1791767047,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Yes I Understand How LLMs Work",
+    "url": "https://kemendo.com/yes-i-understand-how-llms-work.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50049596",
+    "source": "kemendo.com",
+    "date": "2026-10-12T00:16:28Z",
+    "timestamp": 1791764188,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "url": "https://github.com/plimsollmark/plimsoll",
+    "discussion_url": "https://news.ycombinator.com/item?id=50049388",
+    "source": "github.com",
+    "date": "2026-10-11T23:47:59Z",
+    "timestamp": 1791762479,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CertusAI.dev, the living OS for physical AI",
+    "url": "https://certusai.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50048047",
+    "source": "certusai.dev",
+    "date": "2026-10-11T21:34:49Z",
+    "timestamp": 1791754489,
+    "category": "Physical AI"
+  },
+  {
+    "title": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+    "url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
+    "discussion_url": "https://news.ycombinator.com/item?id=50047963",
+    "source": "bloomberg.com",
+    "date": "2026-10-11T21:24:46Z",
+    "timestamp": 1791753886,
     "category": "Physical AI"
   },
   {
