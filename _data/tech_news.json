@@ -1,165 +1,138 @@
 [
   {
-    "title": "Mathematicians Just Proved How to Prevent AI Brain Rot [video]",
-    "url": "https://www.youtube.com/watch?v=VgXTPRWuWa4",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057748",
-    "source": "youtube.com",
-    "date": "2026-10-12T15:22:19Z",
-    "timestamp": 1791818539,
+    "title": "FrontierCode: Can AI models write code maintainers would merge?",
+    "url": "https://artificialanalysis.ai/articles/frontiercode",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064937",
+    "source": "artificialanalysis.ai",
+    "date": "2026-10-13T00:23:23Z",
+    "timestamp": 1791851003,
     "category": "Machine Learning"
   },
   {
-    "title": "Dexterity is the Frontier: Thoughts on IROS 2026",
-    "url": "https://itcanthink.substack.com/p/dexterity-is-the-frontier-thoughts",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057703",
-    "source": "itcanthink.substack.com",
-    "date": "2026-10-12T15:19:11Z",
-    "timestamp": 1791818351,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Veda Launches First Agentic Hobby OS with Built‑in AI Agent",
-    "url": "https://www.saasrise.com/news/veda-launches-first-agentic-hobby-os-with-builtin-ai-agent-349d0eeb-8c0a-4c44-8521-211a377551f2",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057678",
-    "source": "saasrise.com",
-    "date": "2026-10-12T15:17:12Z",
-    "timestamp": 1791818232,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why aren't AI companies being charged for hacking?",
-    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057278",
-    "source": "mortoray.com",
-    "date": "2026-10-12T14:52:37Z",
-    "timestamp": 1791816757,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Baa – a menu bar app that frees RAM your AI agents forgot about",
-    "url": "https://github.com/selviarora/baa",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057241",
+    "title": "Turn a frontier AI into a multi-agent systems architect",
+    "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064868",
     "source": "github.com",
-    "date": "2026-10-12T14:49:59Z",
-    "timestamp": 1791816599,
+    "date": "2026-10-13T00:14:03Z",
+    "timestamp": 1791850443,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
-    "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50057211",
-    "source": "404media.co",
-    "date": "2026-10-12T14:47:23Z",
-    "timestamp": 1791816443,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Additional recent pieces on math and AI",
-    "url": "https://terrytao.wordpress.com/2026/10/12/additional-recent-pieces-on-math-and-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50056851",
-    "source": "terrytao.wordpress.com",
-    "date": "2026-10-12T14:20:40Z",
-    "timestamp": 1791814840,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Vigil – Open-source AI pentesting and code audits",
-    "url": "https://github.com/VigilOSS/Vigil",
-    "discussion_url": "https://news.ycombinator.com/item?id=50056765",
-    "source": "github.com",
-    "date": "2026-10-12T14:13:23Z",
-    "timestamp": 1791814403,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
-    "discussion_url": "https://news.ycombinator.com/item?id=50056688",
-    "source": "tomshardware.com",
-    "date": "2026-10-12T14:07:08Z",
-    "timestamp": 1791814028,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Understanding the AI That Drives Robots",
-    "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
-    "discussion_url": "https://news.ycombinator.com/item?id=50056329",
-    "source": "construction-physics.com",
-    "date": "2026-10-12T13:40:03Z",
-    "timestamp": 1791812403,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Remove AI Metadata Offline in Browser",
-    "url": "https://freeaiwiper.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50056263",
-    "source": "freeaiwiper.com",
-    "date": "2026-10-12T13:35:05Z",
-    "timestamp": 1791812105,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Almost Solved Reverse Engineering [video]",
-    "url": "https://www.youtube.com/watch?v=WqrluJHVyzo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50055885",
-    "source": "youtube.com",
-    "date": "2026-10-12T13:06:14Z",
-    "timestamp": 1791810374,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hug this cuddly toy, and hear the piercing scream of real AI data centers",
-    "url": "https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50055822",
-    "source": "designboom.com",
-    "date": "2026-10-12T13:00:06Z",
-    "timestamp": 1791810006,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Is voice becoming your main input? What happens to open-plan offices?",
-    "url": "https://news.ycombinator.com/item?id=50055699",
-    "discussion_url": "https://news.ycombinator.com/item?id=50055699",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-12T12:50:03Z",
-    "timestamp": 1791809403,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-    "discussion_url": "https://news.ycombinator.com/item?id=50055654",
+    "title": "What it felt like when I was interviewed by an AI assistant",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064758",
     "source": "theguardian.com",
-    "date": "2026-10-12T12:46:52Z",
-    "timestamp": 1791809212,
+    "date": "2026-10-13T00:00:25Z",
+    "timestamp": 1791849625,
     "category": "Machine Learning"
   },
   {
-    "title": "Data Center Excess Solar Powers Modular GPU Pods",
-    "url": "https://spectrum.ieee.org/data-center-excess-solar",
-    "discussion_url": "https://news.ycombinator.com/item?id=50055416",
-    "source": "spectrum.ieee.org",
-    "date": "2026-10-12T12:27:31Z",
-    "timestamp": 1791808051,
+    "title": "CS2680 Modern AI Systems: Agents and System Optimizations",
+    "url": "https://cs2680.seas.harvard.edu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064532",
+    "source": "cs2680.seas.harvard.edu",
+    "date": "2026-10-12T23:33:24Z",
+    "timestamp": 1791848004,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A shared, verifiable fix database that AI agents read and write themselves",
+    "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064444",
+    "source": "cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev",
+    "date": "2026-10-12T23:22:00Z",
+    "timestamp": 1791847320,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+    "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064274",
+    "source": "globalnews.ca",
+    "date": "2026-10-12T23:02:24Z",
+    "timestamp": 1791846144,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why AI doesn't make companies more productive",
+    "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064191",
+    "source": "computerworld.com",
+    "date": "2026-10-12T22:51:46Z",
+    "timestamp": 1791845506,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Veda: First AI Agentic Hobby OS",
+    "url": "https://github.com/vahmoh25/Veda/blob/main/README.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064184",
+    "source": "github.com",
+    "date": "2026-10-12T22:51:19Z",
+    "timestamp": 1791845479,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenKylin: The AI Agent Linux Desktop",
+    "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50064100",
+    "source": "techstrong.ai",
+    "date": "2026-10-12T22:42:42Z",
+    "timestamp": 1791844962,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "discussion_url": "https://news.ycombinator.com/item?id=50063717",
+    "source": "github.com",
+    "date": "2026-10-12T22:05:43Z",
+    "timestamp": 1791842743,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+    "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50063707",
+    "source": "wolfstreet.com",
+    "date": "2026-10-12T22:05:07Z",
+    "timestamp": 1791842707,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf]",
+    "url": "https://fion.ac/jellyfish.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50063665",
+    "source": "fion.ac",
+    "date": "2026-10-12T22:01:20Z",
+    "timestamp": 1791842480,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50063365",
+    "source": "intel.com",
+    "date": "2026-10-12T21:35:35Z",
+    "timestamp": 1791840935,
     "category": "Computer Architecture"
   },
   {
-    "title": "RISC-V Bulk Normalization Algorithm",
-    "url": "https://fprox.substack.com/p/risc-v-bulk-normalization-algorithm",
-    "discussion_url": "https://news.ycombinator.com/item?id=50054883",
-    "source": "fprox.substack.com",
-    "date": "2026-10-12T11:38:09Z",
-    "timestamp": 1791805089,
+    "title": "Kamino: GPU-Based Simulation of Rigid Multi-Body Physics with Kinematic Loops [video]",
+    "url": "https://www.youtube.com/watch?v=_eYarcC8D9Y",
+    "discussion_url": "https://news.ycombinator.com/item?id=50061298",
+    "source": "youtube.com",
+    "date": "2026-10-12T19:09:32Z",
+    "timestamp": 1791832172,
     "category": "Computer Architecture"
   },
   {
-    "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
-    "url": "https://www.hetzner.com/_ray/pow",
-    "discussion_url": "https://news.ycombinator.com/item?id=50053738",
-    "source": "hetzner.com",
-    "date": "2026-10-12T09:35:07Z",
-    "timestamp": 1791797707,
-    "category": "Computer Architecture"
+    "title": "Quattro ZBD – 4-legged, 12 DOF quadruped robot dog running on an ESP32",
+    "url": "https://github.com/serdarselimys/QuattroZBD-ESP32Scripts",
+    "discussion_url": "https://news.ycombinator.com/item?id=50060878",
+    "source": "github.com",
+    "date": "2026-10-12T18:42:28Z",
+    "timestamp": 1791830548,
+    "category": "Physical AI"
   },
   {
     "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
