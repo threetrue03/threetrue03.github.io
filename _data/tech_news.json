@@ -1,138 +1,192 @@
 [
   {
-    "title": "Is ChatGPT a 'product' or a 'service'? Lawsuits test a theory of AI liability",
-    "url": "https://www.reuters.com/legal/litigation/is-chatgpt-product-or-service-wave-lawsuits-tests-theory-ai-liability-2026-10-07/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50071696",
-    "source": "reuters.com",
-    "date": "2026-10-13T13:46:10Z",
-    "timestamp": 1791899170,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sovereign AI starts with open infrastructure",
-    "url": "https://tailscale.com/blog/sovereign-ai-patricia-prewitt",
-    "discussion_url": "https://news.ycombinator.com/item?id=50071458",
-    "source": "tailscale.com",
-    "date": "2026-10-13T13:31:08Z",
-    "timestamp": 1791898268,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50071310",
-    "source": "apple.com",
-    "date": "2026-10-13T13:21:35Z",
-    "timestamp": 1791897695,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Forcefield: Ultra-fast, lightweight, local-first AI Agent Harness",
-    "url": "https://github.com/fabledruns/forcefield",
-    "discussion_url": "https://news.ycombinator.com/item?id=50071230",
+    "title": "Show HN: Enki LLM A pure rust (even kernels) with live GPU/CPU brain migration",
+    "url": "https://github.com/enkiruntime/enki_llm",
+    "discussion_url": "https://news.ycombinator.com/item?id=50079754",
     "source": "github.com",
-    "date": "2026-10-13T13:16:19Z",
-    "timestamp": 1791897379,
+    "date": "2026-10-13T22:23:07Z",
+    "timestamp": 1791930187,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Musk now working on the \"Distributed Inference Cloud\"",
+    "url": "https://twitter.com/SawyerMerritt/status/2110118022988058637",
+    "discussion_url": "https://news.ycombinator.com/item?id=50079502",
+    "source": "twitter.com",
+    "date": "2026-10-13T22:00:46Z",
+    "timestamp": 1791928846,
     "category": "Machine Learning"
   },
   {
-    "title": "Tiny robots speed medicine through body to the heart",
-    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50071117",
-    "source": "hub.jhu.edu",
-    "date": "2026-10-13T13:08:41Z",
-    "timestamp": 1791896921,
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+    "url": "https://www.pi.website/blog/api-beta",
+    "discussion_url": "https://news.ycombinator.com/item?id=50079437",
+    "source": "pi.website",
+    "date": "2026-10-13T21:55:25Z",
+    "timestamp": 1791928525,
     "category": "Physical AI"
   },
   {
-    "title": "AI godfather Geoffrey Hinton: Trump is 'corrupt, senile felon' who knows",
-    "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070971",
-    "source": "theguardian.com",
-    "date": "2026-10-13T12:58:16Z",
-    "timestamp": 1791896296,
+    "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
+    "url": "https://doi.org/10.26153/tsw/64881",
+    "discussion_url": "https://news.ycombinator.com/item?id=50079000",
+    "source": "doi.org",
+    "date": "2026-10-13T21:24:52Z",
+    "timestamp": 1791926692,
     "category": "Machine Learning"
   },
   {
-    "title": "AI godfather Geoffrey Hinton: Trump is 'corrupt, senile felon' who knows nothing",
-    "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-techhttps://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070919",
-    "source": "theguardian.com",
-    "date": "2026-10-13T12:54:37Z",
-    "timestamp": 1791896077,
+    "title": "I Started Moving Inference In-House",
+    "url": "https://nicholasreese.com/why-i-started-moving-inference-in-house/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50078003",
+    "source": "nicholasreese.com",
+    "date": "2026-10-13T20:15:37Z",
+    "timestamp": 1791922537,
     "category": "Machine Learning"
   },
   {
-    "title": "China is building AI data centers at speed as the US wrestles with the costs",
-    "url": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070872",
-    "source": "mezha.net",
-    "date": "2026-10-13T12:50:04Z",
-    "timestamp": 1791895804,
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "url": "https://parsimony.lasu.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077619",
+    "source": "parsimony.lasu.dev",
+    "date": "2026-10-13T19:50:31Z",
+    "timestamp": 1791921031,
     "category": "Machine Learning"
   },
   {
-    "title": "Tesla Renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
-    "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070846",
-    "source": "techcrunch.com",
-    "date": "2026-10-13T12:48:27Z",
-    "timestamp": 1791895707,
+    "title": "Show HN: Tern – Native macOS SSH Client in Rust/GPUI (76 MB vs. Tabby's 580 MB)",
+    "url": "https://github.com/your-moon/tern",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077412",
+    "source": "github.com",
+    "date": "2026-10-13T19:37:24Z",
+    "timestamp": 1791920244,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The UAE embraces AI for kindergartners",
+    "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077344",
+    "source": "restofworld.org",
+    "date": "2026-10-13T19:33:21Z",
+    "timestamp": 1791920001,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: BitRun – Run 1-bit LLMs on CPU at 98T/s without compiling",
+    "url": "https://github.com/IshekKhal/bitrun",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077267",
+    "source": "github.com",
+    "date": "2026-10-13T19:28:01Z",
+    "timestamp": 1791919681,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal",
+    "url": "https://corextrader.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077221",
+    "source": "corextrader.com",
+    "date": "2026-10-13T19:25:08Z",
+    "timestamp": 1791919508,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Dividend: Economy of the Near Future",
+    "url": "https://robotpaidmoose.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077204",
+    "source": "robotpaidmoose.com",
+    "date": "2026-10-13T19:24:09Z",
+    "timestamp": 1791919449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+    "url": "https://www.datalab.to/blog/indra-ocr",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077166",
+    "source": "datalab.to",
+    "date": "2026-10-13T19:21:25Z",
+    "timestamp": 1791919285,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Nvidia's first GPU: GeForce 256",
+    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077067",
+    "source": "dfarq.homeip.net",
+    "date": "2026-10-13T19:15:14Z",
+    "timestamp": 1791918914,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Ask HN: In the new AI world, what's the best way to review code?",
+    "url": "https://news.ycombinator.com/item?id=50076985",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076985",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-13T19:09:15Z",
+    "timestamp": 1791918555,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Sakana AI – Building Frontier AI in Japan",
+    "url": "https://sakana.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076712",
+    "source": "sakana.ai",
+    "date": "2026-10-13T18:51:28Z",
+    "timestamp": 1791917488,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI distrust is GitHub's opportunity",
+    "url": "https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076691",
+    "source": "infoworld.com",
+    "date": "2026-10-13T18:50:25Z",
+    "timestamp": 1791917425,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tools make LLMs less likely to refuse requests",
+    "url": "https://arxiv.org/abs/2610.03938",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076687",
+    "source": "arxiv.org",
+    "date": "2026-10-13T18:49:56Z",
+    "timestamp": 1791917396,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+    "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076605",
+    "source": "youtube.com",
+    "date": "2026-10-13T18:44:30Z",
+    "timestamp": 1791917070,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Give Your Agents GPUs",
+    "url": "https://supercomputer.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=50076343",
+    "source": "supercomputer.sh",
+    "date": "2026-10-13T18:29:10Z",
+    "timestamp": 1791916150,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50074869",
+    "source": "developers.googleblog.com",
+    "date": "2026-10-13T16:55:47Z",
+    "timestamp": 1791910547,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: MemorySync – Memory for AI Agents",
-    "url": "https://memorysync.io/try",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070688",
-    "source": "memorysync.io",
-    "date": "2026-10-13T12:35:42Z",
-    "timestamp": 1791894942,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
     "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
     "discussion_url": "https://news.ycombinator.com/item?id=50070593",
     "source": "machinelearning.apple.com",
     "date": "2026-10-13T12:26:36Z",
     "timestamp": 1791894396,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Why AI companies are paying a premium to go off the grid and what this costs us",
-    "url": "https://energyathaas.wordpress.com/2026/10/05/buying-time-burning-gas/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070546",
-    "source": "energyathaas.wordpress.com",
-    "date": "2026-10-13T12:22:56Z",
-    "timestamp": 1791894176,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agent Conversion – Can AI agents use your website?",
-    "url": "https://agent-conversion-coral.vercel.app/en/research/d001",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070440",
-    "source": "agent-conversion-coral.vercel.app",
-    "date": "2026-10-13T12:13:24Z",
-    "timestamp": 1791893604,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jev handed our LLM the wrong page a tenth as often as our embeddings",
-    "url": "https://sayora.ai/many-hands/jev-vs-embeddings/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070393",
-    "source": "sayora.ai",
-    "date": "2026-10-13T12:08:53Z",
-    "timestamp": 1791893333,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Exposing why every AI launch goes viral on X [video]",
-    "url": "https://www.youtube.com/watch?v=xNgQtzEl4lY",
-    "discussion_url": "https://news.ycombinator.com/item?id=50070383",
-    "source": "youtube.com",
-    "date": "2026-10-13T12:07:56Z",
-    "timestamp": 1791893276,
-    "category": "Machine Learning"
   },
   {
     "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
@@ -150,15 +204,6 @@
     "source": "github.com",
     "date": "2026-10-11T10:18:18Z",
     "timestamp": 1791713898,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-    "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
-    "discussion_url": "https://news.ycombinator.com/item?id=50008566",
-    "source": "medium.com",
-    "date": "2026-10-08T17:08:05Z",
-    "timestamp": 1791479285,
     "category": "Computer Architecture"
   }
 ]
