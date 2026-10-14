@@ -1,5 +1,140 @@
 [
   {
+    "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+    "url": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50095544",
+    "source": "japantimes.co.jp",
+    "date": "2026-10-14T21:24:41Z",
+    "timestamp": 1792013081,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
+    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+    "discussion_url": "https://news.ycombinator.com/item?id=50095508",
+    "source": "devanshranjan.medium.com",
+    "date": "2026-10-14T21:22:00Z",
+    "timestamp": 1792012920,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tell HN: Don't mass spam employers with LLM generated emails",
+    "url": "https://news.ycombinator.com/item?id=50095323",
+    "discussion_url": "https://news.ycombinator.com/item?id=50095323",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-14T21:09:24Z",
+    "timestamp": 1792012164,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Man sentenced to 18 months for AI music scam",
+    "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+    "discussion_url": "https://news.ycombinator.com/item?id=50095314",
+    "source": "justice.gov",
+    "date": "2026-10-14T21:08:55Z",
+    "timestamp": 1792012135,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI labor apocalypse is on hold (for now)",
+    "url": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094575",
+    "source": "english.elpais.com",
+    "date": "2026-10-14T20:23:12Z",
+    "timestamp": 1792009392,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
+    "url": "https://www.youtube.com/shorts/g2mN4-uiW58",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094437",
+    "source": "youtube.com",
+    "date": "2026-10-14T20:14:35Z",
+    "timestamp": 1792008875,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
+    "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094355",
+    "source": "epoch.ai",
+    "date": "2026-10-14T20:09:29Z",
+    "timestamp": 1792008569,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Digital Signatures Using Machine Learning-Based Encoding",
+    "url": "https://lyfe.ninja/news/rethinking-digital-signatures/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094225",
+    "source": "lyfe.ninja",
+    "date": "2026-10-14T20:01:58Z",
+    "timestamp": 1792008118,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We should reject AI in academia",
+    "url": "https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094095",
+    "source": "aeporreca.org",
+    "date": "2026-10-14T19:54:43Z",
+    "timestamp": 1792007683,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Checkobot – Detect Deepfakes and AI Images",
+    "url": "https://checkobot.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50094049",
+    "source": "checkobot.ai",
+    "date": "2026-10-14T19:52:36Z",
+    "timestamp": 1792007556,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reliable GPU Compute for Large Training and Inference Jobs",
+    "url": "https://netflixtechblog.medium.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a",
+    "discussion_url": "https://news.ycombinator.com/item?id=50093833",
+    "source": "netflixtechblog.medium.com",
+    "date": "2026-10-14T19:39:30Z",
+    "timestamp": 1792006770,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI agents overstate their results and remain far from autonomous",
+    "url": "https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-",
+    "discussion_url": "https://news.ycombinator.com/item?id=50093787",
+    "source": "renascence.io",
+    "date": "2026-10-14T19:37:54Z",
+    "timestamp": 1792006674,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI safety money floods into politics",
+    "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+    "discussion_url": "https://news.ycombinator.com/item?id=50093725",
+    "source": "axios.com",
+    "date": "2026-10-14T19:34:32Z",
+    "timestamp": 1792006472,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CPUville: A wire-wrap Z80 computer project",
+    "url": "http://cpuville.com/Projects/Z80-wire-wrap/Z80-wire-wrap-home.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50093042",
+    "source": "cpuville.com",
+    "date": "2026-10-14T18:55:36Z",
+    "timestamp": 1792004136,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Someone on Reddit is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+    "url": "https://www.reddit.com/r/LocalLLM/comments/1x4y61f/qwen_27b_at_20_toks_on_a_jailbroken_ps5s_gpu_i/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50091275",
+    "source": "reddit.com",
+    "date": "2026-10-14T17:20:09Z",
+    "timestamp": 1791998409,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Show HN: BitRun, 1-bit LLM runner on CPU (100T/s on Apple Silicon)",
     "url": "https://github.com/IshekKhal/bitrun",
     "discussion_url": "https://news.ycombinator.com/item?id=50090994",
@@ -9,51 +144,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Separating HBM from GPUs to Expand Memory Capacity; Optical Links May Be Key",
-    "url": "https://www.trendforce.com/news/2026/05/25/news-industry-reportedly-eyes-separating-hbm-from-gpus-to-expand-memory-capacity-optical-links-may-be-key/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090863",
-    "source": "trendforce.com",
-    "date": "2026-10-14T16:56:17Z",
-    "timestamp": 1791996977,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Why Entry-Level Tech Hiring Fell 65%: IRC Section 174 vs. AI Telemetry [video]",
-    "url": "https://www.youtube.com/watch?v=cve5KMawu9M",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090851",
-    "source": "youtube.com",
-    "date": "2026-10-14T16:55:44Z",
-    "timestamp": 1791996944,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Linus Torvalds's first LLM-assisted patch series",
-    "url": "https://lwn.net/Articles/1100449/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090842",
-    "source": "lwn.net",
-    "date": "2026-10-14T16:55:07Z",
-    "timestamp": 1791996907,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Has AI Tells",
-    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090799",
-    "source": "theconsensus.dev",
-    "date": "2026-10-14T16:52:42Z",
-    "timestamp": 1791996762,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic's Claude cruelty policy risks humanising AI",
-    "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090688",
-    "source": "unherd.com",
-    "date": "2026-10-14T16:46:35Z",
-    "timestamp": 1791996395,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
     "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
     "discussion_url": "https://news.ycombinator.com/item?id=50090662",
@@ -61,78 +151,6 @@
     "date": "2026-10-14T16:45:19Z",
     "timestamp": 1791996319,
     "category": "Physical AI"
-  },
-  {
-    "title": "Cutoff Bench: How outdated is the training data of major LLMs",
-    "url": "https://franciscocarloserra.github.io/cutoff-bench/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090642",
-    "source": "franciscocarloserra.github.io",
-    "date": "2026-10-14T16:43:44Z",
-    "timestamp": 1791996224,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Study: LinkedIn profiles are barely visible to search and AI",
-    "url": "https://humandex.ai/research/linkedin-visibility",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090625",
-    "source": "humandex.ai",
-    "date": "2026-10-14T16:42:50Z",
-    "timestamp": 1791996170,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
-    "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090484",
-    "source": "openstation.blog",
-    "date": "2026-10-14T16:34:53Z",
-    "timestamp": 1791995693,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inconsistencies in MCP support across LLMs",
-    "url": "https://www.polytomic.com/blog-posts/the-mcp-result-token-trap",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090133",
-    "source": "polytomic.com",
-    "date": "2026-10-14T16:19:01Z",
-    "timestamp": 1791994741,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Specialty Steel Squeeze Drives EU Transformer Shortage",
-    "url": "https://spectrum.ieee.org/transformer-shortage-europe-goes-steel",
-    "discussion_url": "https://news.ycombinator.com/item?id=50089759",
-    "source": "spectrum.ieee.org",
-    "date": "2026-10-14T16:00:20Z",
-    "timestamp": 1791993620,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mathematics and AI Oracles [pdf]",
-    "url": "https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50089674",
-    "source": "colala.berkeley.edu",
-    "date": "2026-10-14T15:55:43Z",
-    "timestamp": 1791993343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
-    "discussion_url": "https://news.ycombinator.com/item?id=50089421",
-    "source": "bloomberg.com",
-    "date": "2026-10-14T15:40:55Z",
-    "timestamp": 1791992455,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50089395",
-    "source": "404media.co",
-    "date": "2026-10-14T15:39:45Z",
-    "timestamp": 1791992385,
-    "category": "Machine Learning"
   },
   {
     "title": "Nvidia's first GPU: GeForce 256",
