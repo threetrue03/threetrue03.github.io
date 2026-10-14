@@ -1,5 +1,158 @@
 [
   {
+    "title": "To Keep Human Judgment, We Need AI Courts",
+    "url": "https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081785",
+    "source": "paxmachina.ai",
+    "date": "2026-10-14T02:48:05Z",
+    "timestamp": 1791946085,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Membrane – Structured persistent memory for local LLMs",
+    "url": "https://github.com/chedim/membrane",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081677",
+    "source": "github.com",
+    "date": "2026-10-14T02:33:50Z",
+    "timestamp": 1791945230,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
+    "url": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081573",
+    "source": "datacenterfrontier.com",
+    "date": "2026-10-14T02:19:16Z",
+    "timestamp": 1791944356,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Early results show 65% fewer input tokens overall",
+    "url": "https://github.com/cauebraz/squeeze/tree/main/bench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081507",
+    "source": "github.com",
+    "date": "2026-10-14T02:06:00Z",
+    "timestamp": 1791943560,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Why robots can't pick strawberries yet [video]",
+    "url": "https://www.youtube.com/watch?v=TumxO2glmPQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081463",
+    "source": "youtube.com",
+    "date": "2026-10-14T01:59:12Z",
+    "timestamp": 1791943152,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Nvidia Reportedly Ending the RTX 5090, Reserves GB202 for Workstation GPUs",
+    "url": "https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081435",
+    "source": "techpowerup.com",
+    "date": "2026-10-14T01:52:56Z",
+    "timestamp": 1791942776,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Scaling vs. Human Scaling",
+    "url": "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081419",
+    "source": "tobyord.com",
+    "date": "2026-10-14T01:50:17Z",
+    "timestamp": 1791942617,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What do you think will be hot in 2027 with on-device AI",
+    "url": "https://news.ycombinator.com/item?id=50081396",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081396",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-14T01:47:10Z",
+    "timestamp": 1791942430,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
+    "url": "https://ai-security-letter.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081380",
+    "source": "ai-security-letter.org",
+    "date": "2026-10-14T01:45:06Z",
+    "timestamp": 1791942306,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Can AI read your mind?",
+    "url": "https://jeffyclassify.com/blog/mind-reader/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081353",
+    "source": "jeffyclassify.com",
+    "date": "2026-10-14T01:40:51Z",
+    "timestamp": 1791942051,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+    "url": "https://aihub.remakelearning.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081297",
+    "source": "aihub.remakelearning.org",
+    "date": "2026-10-14T01:31:29Z",
+    "timestamp": 1791941489,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+    "url": "https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081221",
+    "source": "codemetal.ai",
+    "date": "2026-10-14T01:19:50Z",
+    "timestamp": 1791940790,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built a tool to track what AI leaders say and how their views change on video",
+    "url": "https://blumify.io/people",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081151",
+    "source": "blumify.io",
+    "date": "2026-10-14T01:09:13Z",
+    "timestamp": 1791940153,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Who Decided AI Gets to Have Feelings?",
+    "url": "https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings",
+    "discussion_url": "https://news.ycombinator.com/item?id=50081084",
+    "source": "middlelayer.substack.com",
+    "date": "2026-10-14T00:58:32Z",
+    "timestamp": 1791939512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robot seized by German police after allegedly groping teenage girl",
+    "url": "https://www.bbc.com/news/articles/ck9dzj40nzj5o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50080778",
+    "source": "bbc.com",
+    "date": "2026-10-14T00:14:47Z",
+    "timestamp": 1791936887,
+    "category": "Physical AI"
+  },
+  {
+    "title": "How well does AI predict humans?",
+    "url": "https://simulacrabench.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50080605",
+    "source": "simulacrabench.org",
+    "date": "2026-10-13T23:54:36Z",
+    "timestamp": 1791935676,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Botflix TV – 24/7 Robot TV. For robots",
+    "url": "https://botflix.tv/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50080184",
+    "source": "botflix.tv",
+    "date": "2026-10-13T23:03:35Z",
+    "timestamp": 1791932615,
+    "category": "Physical AI"
+  },
+  {
     "title": "Show HN: Enki LLM A pure rust (even kernels) with live GPU/CPU brain migration",
     "url": "https://github.com/enkiruntime/enki_llm",
     "discussion_url": "https://news.ycombinator.com/item?id=50079754",
@@ -7,15 +160,6 @@
     "date": "2026-10-13T22:23:07Z",
     "timestamp": 1791930187,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Musk now working on the \"Distributed Inference Cloud\"",
-    "url": "https://twitter.com/SawyerMerritt/status/2110118022988058637",
-    "discussion_url": "https://news.ycombinator.com/item?id=50079502",
-    "source": "twitter.com",
-    "date": "2026-10-13T22:00:46Z",
-    "timestamp": 1791928846,
-    "category": "Machine Learning"
   },
   {
     "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
@@ -27,33 +171,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
-    "url": "https://doi.org/10.26153/tsw/64881",
-    "discussion_url": "https://news.ycombinator.com/item?id=50079000",
-    "source": "doi.org",
-    "date": "2026-10-13T21:24:52Z",
-    "timestamp": 1791926692,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I Started Moving Inference In-House",
-    "url": "https://nicholasreese.com/why-i-started-moving-inference-in-house/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50078003",
-    "source": "nicholasreese.com",
-    "date": "2026-10-13T20:15:37Z",
-    "timestamp": 1791922537,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "url": "https://parsimony.lasu.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077619",
-    "source": "parsimony.lasu.dev",
-    "date": "2026-10-13T19:50:31Z",
-    "timestamp": 1791921031,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Show HN: Tern – Native macOS SSH Client in Rust/GPUI (76 MB vs. Tabby's 580 MB)",
     "url": "https://github.com/your-moon/tern",
     "discussion_url": "https://news.ycombinator.com/item?id=50077412",
@@ -63,111 +180,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "The UAE embraces AI for kindergartners",
-    "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077344",
-    "source": "restofworld.org",
-    "date": "2026-10-13T19:33:21Z",
-    "timestamp": 1791920001,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: BitRun – Run 1-bit LLMs on CPU at 98T/s without compiling",
-    "url": "https://github.com/IshekKhal/bitrun",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077267",
-    "source": "github.com",
-    "date": "2026-10-13T19:28:01Z",
-    "timestamp": 1791919681,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal",
-    "url": "https://corextrader.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077221",
-    "source": "corextrader.com",
-    "date": "2026-10-13T19:25:08Z",
-    "timestamp": 1791919508,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Dividend: Economy of the Near Future",
-    "url": "https://robotpaidmoose.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077204",
-    "source": "robotpaidmoose.com",
-    "date": "2026-10-13T19:24:09Z",
-    "timestamp": 1791919449,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
     "url": "https://www.datalab.to/blog/indra-ocr",
     "discussion_url": "https://news.ycombinator.com/item?id=50077166",
     "source": "datalab.to",
     "date": "2026-10-13T19:21:25Z",
     "timestamp": 1791919285,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia's first GPU: GeForce 256",
-    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50077067",
-    "source": "dfarq.homeip.net",
-    "date": "2026-10-13T19:15:14Z",
-    "timestamp": 1791918914,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ask HN: In the new AI world, what's the best way to review code?",
-    "url": "https://news.ycombinator.com/item?id=50076985",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076985",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-13T19:09:15Z",
-    "timestamp": 1791918555,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sakana AI – Building Frontier AI in Japan",
-    "url": "https://sakana.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076712",
-    "source": "sakana.ai",
-    "date": "2026-10-13T18:51:28Z",
-    "timestamp": 1791917488,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI distrust is GitHub's opportunity",
-    "url": "https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076691",
-    "source": "infoworld.com",
-    "date": "2026-10-13T18:50:25Z",
-    "timestamp": 1791917425,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tools make LLMs less likely to refuse requests",
-    "url": "https://arxiv.org/abs/2610.03938",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076687",
-    "source": "arxiv.org",
-    "date": "2026-10-13T18:49:56Z",
-    "timestamp": 1791917396,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI 3D Prints: Are Claude's Defaults Enough?",
-    "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076605",
-    "source": "youtube.com",
-    "date": "2026-10-13T18:44:30Z",
-    "timestamp": 1791917070,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Give Your Agents GPUs",
-    "url": "https://supercomputer.sh",
-    "discussion_url": "https://news.ycombinator.com/item?id=50076343",
-    "source": "supercomputer.sh",
-    "date": "2026-10-13T18:29:10Z",
-    "timestamp": 1791916150,
     "category": "Computer Architecture"
   },
   {
@@ -195,15 +213,6 @@
     "source": "intel.com",
     "date": "2026-10-12T21:35:35Z",
     "timestamp": 1791840935,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Running the unmodified Linux amdgpu driver on an iPad",
-    "url": "https://github.com/Geramy/LemonSeed-Studio",
-    "discussion_url": "https://news.ycombinator.com/item?id=50041573",
-    "source": "github.com",
-    "date": "2026-10-11T10:18:18Z",
-    "timestamp": 1791713898,
     "category": "Computer Architecture"
   }
 ]
