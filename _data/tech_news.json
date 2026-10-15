@@ -1,147 +1,129 @@
 [
   {
-    "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
-    "url": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50095544",
-    "source": "japantimes.co.jp",
-    "date": "2026-10-14T21:24:41Z",
-    "timestamp": 1792013081,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
-    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
-    "discussion_url": "https://news.ycombinator.com/item?id=50095508",
-    "source": "devanshranjan.medium.com",
-    "date": "2026-10-14T21:22:00Z",
-    "timestamp": 1792012920,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tell HN: Don't mass spam employers with LLM generated emails",
-    "url": "https://news.ycombinator.com/item?id=50095323",
-    "discussion_url": "https://news.ycombinator.com/item?id=50095323",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-14T21:09:24Z",
-    "timestamp": 1792012164,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Man sentenced to 18 months for AI music scam",
-    "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
-    "discussion_url": "https://news.ycombinator.com/item?id=50095314",
-    "source": "justice.gov",
-    "date": "2026-10-14T21:08:55Z",
-    "timestamp": 1792012135,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI labor apocalypse is on hold (for now)",
-    "url": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094575",
-    "source": "english.elpais.com",
-    "date": "2026-10-14T20:23:12Z",
-    "timestamp": 1792009392,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
-    "url": "https://www.youtube.com/shorts/g2mN4-uiW58",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094437",
-    "source": "youtube.com",
-    "date": "2026-10-14T20:14:35Z",
-    "timestamp": 1792008875,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
-    "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094355",
-    "source": "epoch.ai",
-    "date": "2026-10-14T20:09:29Z",
-    "timestamp": 1792008569,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Digital Signatures Using Machine Learning-Based Encoding",
-    "url": "https://lyfe.ninja/news/rethinking-digital-signatures/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094225",
-    "source": "lyfe.ninja",
-    "date": "2026-10-14T20:01:58Z",
-    "timestamp": 1792008118,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We should reject AI in academia",
-    "url": "https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094095",
-    "source": "aeporreca.org",
-    "date": "2026-10-14T19:54:43Z",
-    "timestamp": 1792007683,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Checkobot – Detect Deepfakes and AI Images",
-    "url": "https://checkobot.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50094049",
-    "source": "checkobot.ai",
-    "date": "2026-10-14T19:52:36Z",
-    "timestamp": 1792007556,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reliable GPU Compute for Large Training and Inference Jobs",
-    "url": "https://netflixtechblog.medium.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a",
-    "discussion_url": "https://news.ycombinator.com/item?id=50093833",
-    "source": "netflixtechblog.medium.com",
-    "date": "2026-10-14T19:39:30Z",
-    "timestamp": 1792006770,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI agents overstate their results and remain far from autonomous",
-    "url": "https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-",
-    "discussion_url": "https://news.ycombinator.com/item?id=50093787",
-    "source": "renascence.io",
-    "date": "2026-10-14T19:37:54Z",
-    "timestamp": 1792006674,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI safety money floods into politics",
-    "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
-    "discussion_url": "https://news.ycombinator.com/item?id=50093725",
-    "source": "axios.com",
-    "date": "2026-10-14T19:34:32Z",
-    "timestamp": 1792006472,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CPUville: A wire-wrap Z80 computer project",
-    "url": "http://cpuville.com/Projects/Z80-wire-wrap/Z80-wire-wrap-home.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50093042",
-    "source": "cpuville.com",
-    "date": "2026-10-14T18:55:36Z",
-    "timestamp": 1792004136,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Someone on Reddit is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
-    "url": "https://www.reddit.com/r/LocalLLM/comments/1x4y61f/qwen_27b_at_20_toks_on_a_jailbroken_ps5s_gpu_i/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50091275",
-    "source": "reddit.com",
-    "date": "2026-10-14T17:20:09Z",
-    "timestamp": 1791998409,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: BitRun, 1-bit LLM runner on CPU (100T/s on Apple Silicon)",
-    "url": "https://github.com/IshekKhal/bitrun",
-    "discussion_url": "https://news.ycombinator.com/item?id=50090994",
+    "title": "Show HN: How to Use LLMs",
+    "url": "https://github.com/canaanmckenzie/sidelong",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098989",
     "source": "github.com",
-    "date": "2026-10-14T17:05:07Z",
-    "timestamp": 1791997507,
-    "category": "Computer Architecture"
+    "date": "2026-10-15T04:01:52Z",
+    "timestamp": 1792036912,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
+    "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098937",
+    "source": "www1.folha.uol.com.br",
+    "date": "2026-10-15T03:54:09Z",
+    "timestamp": 1792036449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Asia chip stocks fall, AI funding worries",
+    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098423",
+    "source": "cnbc.com",
+    "date": "2026-10-15T02:29:41Z",
+    "timestamp": 1792031381,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Andrew Ng believes AI won't destroy humanity",
+    "url": "https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098422",
+    "source": "economist.com",
+    "date": "2026-10-15T02:29:36Z",
+    "timestamp": 1792031376,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is this the best inference for agents?",
+    "url": "https://runinfra.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098383",
+    "source": "runinfra.ai",
+    "date": "2026-10-15T02:23:59Z",
+    "timestamp": 1792031039,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098304",
+    "source": "bloomberg.com",
+    "date": "2026-10-15T02:10:51Z",
+    "timestamp": 1792030251,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "State attorneys general seize on AI as Washington stalls",
+    "url": "https://www.politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098211",
+    "source": "politico.com",
+    "date": "2026-10-15T01:57:51Z",
+    "timestamp": 1792029471,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Give (low vRAM) local sLLMs codebase-wide context with SQLite (attempt)",
+    "url": "https://github.com/govindgcoder/arcKode",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098198",
+    "source": "github.com",
+    "date": "2026-10-15T01:56:09Z",
+    "timestamp": 1792029369,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "For Walmart, Replacing Humans with Robots Is a Multibillion-Dollar Struggle",
+    "url": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098111",
+    "source": "wsj.com",
+    "date": "2026-10-15T01:45:59Z",
+    "timestamp": 1792028759,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+    "discussion_url": "https://news.ycombinator.com/item?id=50098080",
+    "source": "theregister.com",
+    "date": "2026-10-15T01:40:44Z",
+    "timestamp": 1792028444,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Safety Is Not a Corporate Plot",
+    "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+    "discussion_url": "https://news.ycombinator.com/item?id=50097957",
+    "source": "astralcodexten.com",
+    "date": "2026-10-15T01:22:03Z",
+    "timestamp": 1792027323,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+    "url": "https://capsem.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50097811",
+    "source": "capsem.org",
+    "date": "2026-10-15T00:58:26Z",
+    "timestamp": 1792025906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI boom is threatened by an epidemic of unreliable numbers",
+    "url": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50097530",
+    "source": "economist.com",
+    "date": "2026-10-15T00:23:03Z",
+    "timestamp": 1792023783,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Frontier models score under 2/100 controlling a simulated humanoid",
+    "url": "https://www.vals.ai/benchmarks/robo_bench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50096968",
+    "source": "vals.ai",
+    "date": "2026-10-14T23:20:51Z",
+    "timestamp": 1792020051,
+    "category": "Physical AI"
   },
   {
     "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
@@ -162,15 +144,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-    "url": "https://www.pi.website/blog/api-beta",
-    "discussion_url": "https://news.ycombinator.com/item?id=50079437",
-    "source": "pi.website",
-    "date": "2026-10-13T21:55:25Z",
-    "timestamp": 1791928525,
-    "category": "Physical AI"
-  },
-  {
     "title": "Gemini 4 Argon for Robotics",
     "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
     "discussion_url": "https://news.ycombinator.com/item?id=50074869",
@@ -186,15 +159,6 @@
     "source": "machinelearning.apple.com",
     "date": "2026-10-13T12:26:36Z",
     "timestamp": 1791894396,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50063365",
-    "source": "intel.com",
-    "date": "2026-10-12T21:35:35Z",
-    "timestamp": 1791840935,
     "category": "Computer Architecture"
   }
 ]
