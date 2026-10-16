@@ -1,146 +1,164 @@
 [
   {
-    "title": "AI Revolution vs. Computing Revolution",
-    "url": "https://news.ycombinator.com/item?id=50120075",
-    "discussion_url": "https://news.ycombinator.com/item?id=50120075",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-16T16:00:32Z",
-    "timestamp": 1792166432,
+    "title": "AI Vibe-Coding Just Hit the Video Game Industry Like an Avalanche",
+    "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+    "discussion_url": "https://news.ycombinator.com/item?id=50124458",
+    "source": "kotaku.com",
+    "date": "2026-10-16T20:49:01Z",
+    "timestamp": 1792183741,
     "category": "Machine Learning"
   },
   {
-    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119991",
-    "source": "theregister.com",
-    "date": "2026-10-16T15:55:40Z",
-    "timestamp": 1792166140,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to avoid AI brainrot – Miles Cranmer",
-    "url": "https://www.youtube.com/watch?v=uXC7OuCas2Q",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119957",
-    "source": "youtube.com",
-    "date": "2026-10-16T15:53:06Z",
-    "timestamp": 1792165986,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Imagine Every AI Agent on Earth Buying the Same Cheap Paper Towels",
-    "url": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119926",
-    "source": "theatlantic.com",
-    "date": "2026-10-16T15:51:03Z",
-    "timestamp": 1792165863,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "No More Heroes – Terence Tao Talks to Numberphile About AI",
-    "url": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119922",
-    "source": "youtube.com",
-    "date": "2026-10-16T15:50:40Z",
-    "timestamp": 1792165840,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Perplexity to give away its AI security software",
-    "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119881",
-    "source": "semafor.com",
-    "date": "2026-10-16T15:47:38Z",
-    "timestamp": 1792165658,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I miss crappy AI art",
-    "url": "https://blog.alexbeals.com/posts/i-miss-crappy-ai-art",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119876",
-    "source": "blog.alexbeals.com",
-    "date": "2026-10-16T15:47:17Z",
-    "timestamp": 1792165637,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China proposes export controls on AI technologies",
-    "url": "https://m.bjnews.com.cn/detail/1792137269129878.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119804",
-    "source": "m.bjnews.com.cn",
-    "date": "2026-10-16T15:42:43Z",
-    "timestamp": 1792165363,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pry, a browser agent that redacts private data before anything reaches AI model",
-    "url": "https://chromewebstore.google.com/detail/pry-agent/aocmnoompdjlgbfjlimikkpoebooolog",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119709",
-    "source": "chromewebstore.google.com",
-    "date": "2026-10-16T15:34:45Z",
-    "timestamp": 1792164885,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Specialty Steel Squeeze Drives EU Transformer Shortage",
-    "url": "https://spectrum.ieee.org/transformer-shortage-europe-goes-steel",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119550",
-    "source": "spectrum.ieee.org",
-    "date": "2026-10-16T15:22:39Z",
-    "timestamp": 1792164159,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Client-Side LLMs Product Demo: PDF to AudioBook [video]",
-    "url": "https://www.youtube.com/watch?v=t39svoJohkg",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119453",
-    "source": "youtube.com",
-    "date": "2026-10-16T15:15:54Z",
-    "timestamp": 1792163754,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The EU wants an AI revolution. But on whose terms?",
-    "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456",
-    "discussion_url": "https://news.ycombinator.com/item?id=50119442",
-    "source": "dw.com",
-    "date": "2026-10-16T15:14:57Z",
-    "timestamp": 1792163697,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CUDA Matrix Multiplication Optimization: From Naive to Near-cuBLAS",
-    "url": "https://www.abhik.ai/articles/cuda-matrix-multiplication-optimization",
-    "discussion_url": "https://news.ycombinator.com/item?id=50118521",
-    "source": "abhik.ai",
-    "date": "2026-10-16T14:03:02Z",
-    "timestamp": 1792159382,
+    "title": "GPU-Accelerated PostGIS",
+    "url": "https://github.com/landstats-us/postgis-cuda",
+    "discussion_url": "https://news.ycombinator.com/item?id=50124422",
+    "source": "github.com",
+    "date": "2026-10-16T20:46:19Z",
+    "timestamp": 1792183579,
     "category": "Computer Architecture"
   },
   {
-    "title": "There's Nothing Mysterious or Unusual About the German Sexual Harassment Robot",
-    "url": "https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50118472",
-    "source": "404media.co",
-    "date": "2026-10-16T13:59:07Z",
-    "timestamp": 1792159147,
-    "category": "Physical AI"
+    "title": "Ryzen 9 9950X3D2 sold by Amazon was an Intel CPU under an AMD heat spreader",
+    "url": "https://www.reddit.com/r/watercooling/comments/1x724mr/two_different_versions_of_amd_9950x3d2_dual/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50124396",
+    "source": "reddit.com",
+    "date": "2026-10-16T20:45:01Z",
+    "timestamp": 1792183501,
+    "category": "Computer Architecture"
   },
   {
-    "title": "A children's companion robot allows snooping from third party actors",
-    "url": "https://github.com/xn0tsa/your-secrets-are-safe-with-me",
-    "discussion_url": "https://news.ycombinator.com/item?id=50118121",
+    "title": "AI creates 16 new viruses from scratch",
+    "url": "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123762",
+    "source": "cnn.com",
+    "date": "2026-10-16T20:00:28Z",
+    "timestamp": 1792180828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Emu Concept – Make AI Follows Your Rules. (Feedback Wanted)",
+    "url": "https://news.ycombinator.com/item?id=50123524",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123524",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-16T19:43:31Z",
+    "timestamp": 1792179811,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Outlines – Structured Outputs for LLMs",
+    "url": "https://github.com/dottxt-ai/outlines",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123515",
     "source": "github.com",
-    "date": "2026-10-16T13:25:23Z",
-    "timestamp": 1792157123,
-    "category": "Physical AI"
+    "date": "2026-10-16T19:42:56Z",
+    "timestamp": 1792179776,
+    "category": "Machine Learning"
   },
   {
-    "title": "Show HN: I made puzzle game IT THINKS – you build a GPU from logic gates",
-    "url": "https://catchy.games/it-thinks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50118108",
-    "source": "catchy.games",
-    "date": "2026-10-16T13:24:23Z",
-    "timestamp": 1792157063,
+    "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+    "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123441",
+    "source": "fortune.com",
+    "date": "2026-10-16T19:37:57Z",
+    "timestamp": 1792179477,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mathematical Foundations of Generative AI, IISc Bangalore",
+    "url": "https://nptel.ac.in/courses/106108004",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123268",
+    "source": "nptel.ac.in",
+    "date": "2026-10-16T19:27:14Z",
+    "timestamp": 1792178834,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Avoid AI Brain Rot",
+    "url": "https://twitter.com/MilesCranmer/status/2111105654211608847",
+    "discussion_url": "https://news.ycombinator.com/item?id=50123133",
+    "source": "twitter.com",
+    "date": "2026-10-16T19:18:04Z",
+    "timestamp": 1792178284,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Prisov – Private AI for Enterprise Workflows [video]",
+    "url": "https://www.youtube.com/watch?v=9SyK9l8wi2A",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122941",
+    "source": "youtube.com",
+    "date": "2026-10-16T19:04:22Z",
+    "timestamp": 1792177462,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122878",
+    "source": "alexwang.ai",
+    "date": "2026-10-16T19:01:17Z",
+    "timestamp": 1792177277,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+    "url": "https://github.com/Moshik21/weatherdeck",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122767",
+    "source": "github.com",
+    "date": "2026-10-16T18:54:22Z",
+    "timestamp": 1792176862,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rogue AI agents broke into Indian firms' live systems",
+    "url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122749",
+    "source": "reuters.com",
+    "date": "2026-10-16T18:53:22Z",
+    "timestamp": 1792176802,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SentryWard: Formal Verification of Warp-Specialized GPU Kernels",
+    "url": "https://sentryward.io/blog/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122730",
+    "source": "sentryward.io",
+    "date": "2026-10-16T18:52:15Z",
+    "timestamp": 1792176735,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The Emerging Science of Machine Learning Benchmarks",
+    "url": "https://mlbenchmarks.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122711",
+    "source": "mlbenchmarks.org",
+    "date": "2026-10-16T18:51:37Z",
+    "timestamp": 1792176697,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+    "url": "https://news.ycombinator.com/item?id=50121562",
+    "discussion_url": "https://news.ycombinator.com/item?id=50121562",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-16T17:31:42Z",
+    "timestamp": 1792171902,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Dark GPUs",
+    "url": "https://blog.dshr.org/2026/10/dark-gpus.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50120639",
+    "source": "blog.dshr.org",
+    "date": "2026-10-16T16:36:44Z",
+    "timestamp": 1792168604,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Capy-flash – a 125B MoE model on two 16 GB consumer GPUs",
+    "url": "https://github.com/ValerioDolci/capy-flash",
+    "discussion_url": "https://news.ycombinator.com/item?id=50118153",
+    "source": "github.com",
+    "date": "2026-10-16T13:28:36Z",
+    "timestamp": 1792157316,
     "category": "Computer Architecture"
   },
   {
@@ -151,5 +169,14 @@
     "date": "2026-10-15T16:04:05Z",
     "timestamp": 1792080245,
     "category": "Computer Vision"
+  },
+  {
+    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50083673",
+    "source": "hub.jhu.edu",
+    "date": "2026-10-14T07:21:12Z",
+    "timestamp": 1791962472,
+    "category": "Physical AI"
   }
 ]
