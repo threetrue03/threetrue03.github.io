@@ -1,110 +1,128 @@
 [
   {
-    "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
-    "url": "https://arxiv.org/abs/2610.14270",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113842",
-    "source": "arxiv.org",
-    "date": "2026-10-16T03:49:46Z",
-    "timestamp": 1792122586,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-    "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113841",
-    "source": "businessinsider.com",
-    "date": "2026-10-16T03:49:35Z",
-    "timestamp": 1792122575,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
-    "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113792",
-    "source": "swarmcha.se",
-    "date": "2026-10-16T03:42:02Z",
-    "timestamp": 1792122122,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Linus Torvalds on \"don't use AI for X\"",
-    "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113790",
-    "source": "lore.kernel.org",
-    "date": "2026-10-16T03:41:52Z",
-    "timestamp": 1792122112,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Artificial Intelligence, Economics, Sustainability, and Irreversibility",
-    "url": "https://www.alexahn.com/2026/10/artificial-intelligence-economics.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113712",
-    "source": "alexahn.com",
-    "date": "2026-10-16T03:31:28Z",
-    "timestamp": 1792121488,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Major AI Copyright Ruling Lawyer Explains [video]",
-    "url": "https://www.youtube.com/watch?v=SJCw54PUdXg",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113697",
+    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
+    "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50116859",
     "source": "youtube.com",
-    "date": "2026-10-16T03:29:52Z",
-    "timestamp": 1792121392,
+    "date": "2026-10-16T10:59:18Z",
+    "timestamp": 1792148358,
     "category": "Machine Learning"
   },
   {
-    "title": "Researchers Stranded an AI Agent on a Virtual Island. Things Got Weird",
-    "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113668",
-    "source": "gizmodo.com",
-    "date": "2026-10-16T03:26:19Z",
-    "timestamp": 1792121179,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
-    "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113643",
-    "source": "theregister.com",
-    "date": "2026-10-16T03:24:38Z",
-    "timestamp": 1792121078,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "MuscleMemory: Open-source procedural memory for AI agents",
-    "url": "https://github.com/TheWariend/MuscleMemory",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113506",
-    "source": "github.com",
-    "date": "2026-10-16T03:06:23Z",
-    "timestamp": 1792119983,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
-    "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113499",
-    "source": "404media.co",
-    "date": "2026-10-16T03:05:14Z",
-    "timestamp": 1792119914,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Firmenza – An AI employee for SAM.gov",
-    "url": "https://firmenza.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50113168",
-    "source": "firmenza.com",
-    "date": "2026-10-16T02:26:57Z",
-    "timestamp": 1792117617,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
-    "url": "https://twitter.com/antigravity/status/2110866531932316011",
-    "discussion_url": "https://news.ycombinator.com/item?id=50112997",
+    "title": "I spent 48 hours in SF hanging out with billionaires, data labs and AI founders",
+    "url": "https://twitter.com/gregisenberg/status/2110414696037716372",
+    "discussion_url": "https://news.ycombinator.com/item?id=50116759",
     "source": "twitter.com",
-    "date": "2026-10-16T02:08:44Z",
-    "timestamp": 1792116524,
+    "date": "2026-10-16T10:45:08Z",
+    "timestamp": 1792147508,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AlbertCode, an AI software engineering agent for building applications",
+    "url": "https://www.albertcode.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=50116533",
+    "source": "albertcode.dev",
+    "date": "2026-10-16T10:16:12Z",
+    "timestamp": 1792145772,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LibreNT – how AI slop infects Windows clean-room engineering",
+    "url": "https://github.com/ahmedarif193/LiberNT",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115828",
+    "source": "github.com",
+    "date": "2026-10-16T08:44:45Z",
+    "timestamp": 1792140285,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Skill that will matter most in the AI age: computationalizing (S.Wolfram)[video]",
+    "url": "https://www.youtube.com/shorts/DmA01hM5B4E",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115727",
+    "source": "youtube.com",
+    "date": "2026-10-16T08:32:30Z",
+    "timestamp": 1792139550,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI will lose to Human when it comes to gambling",
+    "url": "https://www.youtube.com/watch?v=19hdzsbeBHY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115628",
+    "source": "youtube.com",
+    "date": "2026-10-16T08:20:08Z",
+    "timestamp": 1792138808,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RP1: An Open Source Full-Stack Platform for Agentic Humanoids",
+    "url": "https://github.com/Roboparty/RP1",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115528",
+    "source": "github.com",
+    "date": "2026-10-16T08:05:39Z",
+    "timestamp": 1792137939,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Mistral announces Timestral: SOTA time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115465",
+    "source": "mistral.ai",
+    "date": "2026-10-16T07:57:26Z",
+    "timestamp": 1792137446,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI as a part of capitalism – the right way to go",
+    "url": "https://news.ycombinator.com/item?id=50115335",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115335",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-16T07:38:27Z",
+    "timestamp": 1792136307,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is driving a boom in modestly successful software projects",
+    "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50115251",
+    "source": "seangoedecke.com",
+    "date": "2026-10-16T07:26:47Z",
+    "timestamp": 1792135607,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI proof is my business?",
+    "url": "https://keithbrown.com/tools/ai-proof",
+    "discussion_url": "https://news.ycombinator.com/item?id=50114999",
+    "source": "keithbrown.com",
+    "date": "2026-10-16T06:50:03Z",
+    "timestamp": 1792133403,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI has killed my passion for coding [video]",
+    "url": "https://www.youtube.com/watch?v=Htdy1dsuSLY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50114936",
+    "source": "youtube.com",
+    "date": "2026-10-16T06:41:20Z",
+    "timestamp": 1792132880,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "KNOD: Offloading Linux network packet processing to AMD GPUs",
+    "url": "https://www.servers99.com/blog/linux-knod-amd-gpu-network-offload/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50114861",
+    "source": "servers99.com",
+    "date": "2026-10-16T06:30:29Z",
+    "timestamp": 1792132229,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Sift – Analyse every file with local LLMs",
+    "url": "https://github.com/c0decave/sift",
+    "discussion_url": "https://news.ycombinator.com/item?id=50114848",
+    "source": "github.com",
+    "date": "2026-10-16T06:29:13Z",
+    "timestamp": 1792132153,
     "category": "Machine Learning"
   },
   {
@@ -124,51 +142,6 @@
     "date": "2026-10-16T01:37:34Z",
     "timestamp": 1792114654,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Laptop Based on 6502 CPU",
-    "url": "https://www.maddox.pro/?p=448",
-    "discussion_url": "https://news.ycombinator.com/item?id=50111537",
-    "source": "maddox.pro",
-    "date": "2026-10-15T22:56:23Z",
-    "timestamp": 1792104983,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AA-Robotics v0.1",
-    "url": "https://artificialanalysis.ai/articles/aa-robotics",
-    "discussion_url": "https://news.ycombinator.com/item?id=50111441",
-    "source": "artificialanalysis.ai",
-    "date": "2026-10-15T22:46:15Z",
-    "timestamp": 1792104375,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Magic state cultivation on a superconducting quantum processor",
-    "url": "https://www.science.org/doi/10.1126/science.aee7961",
-    "discussion_url": "https://news.ycombinator.com/item?id=50110503",
-    "source": "science.org",
-    "date": "2026-10-15T21:25:05Z",
-    "timestamp": 1792099505,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Memtest86 v9.00 Released with Support for ARM64 Memory Testing",
-    "url": "https://www.phoronix.com/news/memtest86-Plus-9.0",
-    "discussion_url": "https://news.ycombinator.com/item?id=50110072",
-    "source": "phoronix.com",
-    "date": "2026-10-15T20:55:02Z",
-    "timestamp": 1792097702,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Police seize robot that groped 16-year-old girl, investigate was at the controls",
-    "url": "https://apnews.com/article/robot-germany-sexual-assault-cologne-bf171b1697bd9a7119424040a303af22",
-    "discussion_url": "https://news.ycombinator.com/item?id=50109757",
-    "source": "apnews.com",
-    "date": "2026-10-15T20:27:42Z",
-    "timestamp": 1792096062,
-    "category": "Physical AI"
   },
   {
     "title": "Krea 3 – An image model built for editing at scale",
