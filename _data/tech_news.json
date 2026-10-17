@@ -1,12 +1,120 @@
 [
   {
-    "title": "Proactive AI for Superintelligent Agents",
-    "url": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50131631",
-    "source": "research.google",
-    "date": "2026-10-17T14:44:38Z",
-    "timestamp": 1792248278,
+    "title": "Neuro-Symbolic AI",
+    "url": "https://en.wikipedia.org/wiki/Neuro-symbolic_AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134477",
+    "source": "en.wikipedia.org",
+    "date": "2026-10-17T19:53:40Z",
+    "timestamp": 1792266820,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
+    "url": "https://kairos-experiment.com/checks.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134298",
+    "source": "kairos-experiment.com",
+    "date": "2026-10-17T19:31:26Z",
+    "timestamp": 1792265486,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+    "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134241",
+    "source": "twitter.com",
+    "date": "2026-10-17T19:26:43Z",
+    "timestamp": 1792265203,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic pitches its own AI safety bill to lawmakers",
+    "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134131",
+    "source": "politico.com",
+    "date": "2026-10-17T19:15:11Z",
+    "timestamp": 1792264511,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+    "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134108",
+    "source": "globalnews.ca",
+    "date": "2026-10-17T19:13:02Z",
+    "timestamp": 1792264382,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Selfhosting my AI chats: more privacy and sovereignty",
+    "url": "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+    "discussion_url": "https://news.ycombinator.com/item?id=50134060",
+    "source": "janlukas.blog",
+    "date": "2026-10-17T19:08:23Z",
+    "timestamp": 1792264103,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Can Write the Code. Who Verifies It?",
+    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133713",
+    "source": "mihaisplace.com",
+    "date": "2026-10-17T18:31:30Z",
+    "timestamp": 1792261890,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+    "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133559",
+    "source": "forgemesh.io",
+    "date": "2026-10-17T18:16:03Z",
+    "timestamp": 1792260963,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Torvalds calls AI disclosure rules 'utterly stupid' as Linux drops its tag",
+    "url": "https://thenextweb.com/news/torvalds-ai-assisted-by-tag-utterly-stupid-open-source-summit",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133555",
+    "source": "thenextweb.com",
+    "date": "2026-10-17T18:15:43Z",
+    "timestamp": 1792260943,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
+    "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133269",
+    "source": "nbcnews.com",
+    "date": "2026-10-17T17:48:41Z",
+    "timestamp": 1792259321,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Bitty – Turn AI coding wait time into brain breaks",
+    "url": "https://playbitty.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133119",
+    "source": "playbitty.com",
+    "date": "2026-10-17T17:32:27Z",
+    "timestamp": 1792258347,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: GoRoute – Ultra-Lightweight LLM Gateway in Go (<15MB RAM)",
+    "url": "https://github.com/ziuus/goroute",
+    "discussion_url": "https://news.ycombinator.com/item?id=50133090",
+    "source": "github.com",
+    "date": "2026-10-17T17:29:10Z",
+    "timestamp": 1792258150,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+    "discussion_url": "https://news.ycombinator.com/item?id=50132550",
+    "source": "tomshardware.com",
+    "date": "2026-10-17T16:35:35Z",
+    "timestamp": 1792254935,
+    "category": "Physical AI"
   },
   {
     "title": "Retired UPenn professor arrested after blocking Uber Eats robots",
@@ -16,132 +124,6 @@
     "date": "2026-10-17T14:36:05Z",
     "timestamp": 1792247765,
     "category": "Physical AI"
-  },
-  {
-    "title": "CVE-2026-49950 and Why Upgrading Xinference Isn't Enough",
-    "url": "https://medium.com/@husenet/cve-2026-49950-and-why-upgrading-xinference-isnt-enough-dd3c1f75deac",
-    "discussion_url": "https://news.ycombinator.com/item?id=50131394",
-    "source": "medium.com",
-    "date": "2026-10-17T14:16:44Z",
-    "timestamp": 1792246604,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
-    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50131331",
-    "source": "arstechnica.com",
-    "date": "2026-10-17T14:10:10Z",
-    "timestamp": 1792246210,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Are You Sure Your LLM Is Sure?",
-    "url": "https://arxiv.org/abs/2610.22139",
-    "discussion_url": "https://news.ycombinator.com/item?id=50131085",
-    "source": "arxiv.org",
-    "date": "2026-10-17T13:39:04Z",
-    "timestamp": 1792244344,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Edge Foresight",
-    "url": "https://developers.google.com/edge/foresight",
-    "discussion_url": "https://news.ycombinator.com/item?id=50130847",
-    "source": "developers.google.com",
-    "date": "2026-10-17T13:08:59Z",
-    "timestamp": 1792242539,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
-    "url": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
-    "discussion_url": "https://news.ycombinator.com/item?id=50130587",
-    "source": "medium.com",
-    "date": "2026-10-17T12:39:09Z",
-    "timestamp": 1792240749,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cookbook to use LLMs effectively for sciences, in various levels of expertise",
-    "url": "https://github.com/NASA-IMPACT/LLM-cookbook-for-open-science",
-    "discussion_url": "https://news.ycombinator.com/item?id=50130277",
-    "source": "github.com",
-    "date": "2026-10-17T11:53:27Z",
-    "timestamp": 1792238007,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "As AI triggers a tsunami, computer science conferences impose caps",
-    "url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
-    "discussion_url": "https://news.ycombinator.com/item?id=50130206",
-    "source": "science.org",
-    "date": "2026-10-17T11:44:09Z",
-    "timestamp": 1792237449,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Expectations Gap",
-    "url": "https://www.anthropic.com/research/ai-expectations-gap",
-    "discussion_url": "https://news.ycombinator.com/item?id=50129987",
-    "source": "anthropic.com",
-    "date": "2026-10-17T11:06:19Z",
-    "timestamp": 1792235179,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
-    "url": "https://Joe-Heffer.github.io/sys2txt/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50129017",
-    "source": "joe-heffer.github.io",
-    "date": "2026-10-17T08:14:12Z",
-    "timestamp": 1792224852,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta to scrape content from business customers for model training",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
-    "discussion_url": "https://news.ycombinator.com/item?id=50129015",
-    "source": "theregister.com",
-    "date": "2026-10-17T08:14:06Z",
-    "timestamp": 1792224846,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pooling OpenAI subscriptions and bypassing regional inference capacity limits",
-    "url": "https://ghuntley.com/underclass/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128995",
-    "source": "ghuntley.com",
-    "date": "2026-10-17T08:09:56Z",
-    "timestamp": 1792224596,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Roboto 01: Full-stack Open-source humanoid robot",
-    "url": "https://roboparty.com/products/RP1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128642",
-    "source": "roboparty.com",
-    "date": "2026-10-17T06:58:53Z",
-    "timestamp": 1792220333,
-    "category": "Physical AI"
-  },
-  {
-    "title": "German police launch investigation after robot allegedly gropes teenage girl",
-    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127941",
-    "source": "cnn.com",
-    "date": "2026-10-17T04:27:35Z",
-    "timestamp": 1792211255,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Krea 3 – An image model built for editing at scale",
-    "url": "https://www.krea.ai/krea-3",
-    "discussion_url": "https://news.ycombinator.com/item?id=50105648",
-    "source": "krea.ai",
-    "date": "2026-10-15T16:04:05Z",
-    "timestamp": 1792080245,
-    "category": "Computer Vision"
   },
   {
     "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
