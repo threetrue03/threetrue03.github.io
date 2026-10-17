@@ -1,5 +1,131 @@
 [
   {
+    "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+    "url": "https://Joe-Heffer.github.io/sys2txt/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50129017",
+    "source": "joe-heffer.github.io",
+    "date": "2026-10-17T08:14:12Z",
+    "timestamp": 1792224852,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta to scrape content from business customers for model training",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
+    "discussion_url": "https://news.ycombinator.com/item?id=50129015",
+    "source": "theregister.com",
+    "date": "2026-10-17T08:14:06Z",
+    "timestamp": 1792224846,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pooling OpenAI subscriptions and bypassing regional inference capacity limits",
+    "url": "https://ghuntley.com/underclass/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128995",
+    "source": "ghuntley.com",
+    "date": "2026-10-17T08:09:56Z",
+    "timestamp": 1792224596,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Researchers Stranded an AI Agent on a Virtual Island",
+    "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128876",
+    "source": "gizmodo.com",
+    "date": "2026-10-17T07:45:09Z",
+    "timestamp": 1792223109,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Roboto 01: Full-stack Open-source humanoid robot",
+    "url": "https://roboparty.com/products/RP1",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128642",
+    "source": "roboparty.com",
+    "date": "2026-10-17T06:58:53Z",
+    "timestamp": 1792220333,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+    "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128576",
+    "source": "404media.co",
+    "date": "2026-10-17T06:44:13Z",
+    "timestamp": 1792219453,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What We Talk to When We Talk to Language Models (David J. Chalmers) [pdf]",
+    "url": "https://philpapers.org/archive/CHAWWT-8.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128561",
+    "source": "philpapers.org",
+    "date": "2026-10-17T06:41:27Z",
+    "timestamp": 1792219287,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What is the most useful thing AI has done for you?",
+    "url": "https://news.ycombinator.com/item?id=50128412",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128412",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-17T06:06:44Z",
+    "timestamp": 1792217204,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
+    "url": "https://recul.ai/news/claude-viral-dna-pattern-priority-dispute/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128328",
+    "source": "recul.ai",
+    "date": "2026-10-17T05:49:12Z",
+    "timestamp": 1792216152,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding",
+    "url": "https://medium.com/@smoking2man/sterile-knowledge-artificial-intelligence-models-and-the-genealogy-of-understanding-51d8e1355a04",
+    "discussion_url": "https://news.ycombinator.com/item?id=50128314",
+    "source": "medium.com",
+    "date": "2026-10-17T05:46:39Z",
+    "timestamp": 1792215999,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50127979",
+    "source": "llmspeed.dev",
+    "date": "2026-10-17T04:36:53Z",
+    "timestamp": 1792211813,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tort Law at the Frontier of Artificial Intelligence",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6979919",
+    "discussion_url": "https://news.ycombinator.com/item?id=50127957",
+    "source": "papers.ssrn.com",
+    "date": "2026-10-17T04:31:34Z",
+    "timestamp": 1792211494,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "German police launch investigation after robot allegedly gropes teenage girl",
+    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
+    "discussion_url": "https://news.ycombinator.com/item?id=50127941",
+    "source": "cnn.com",
+    "date": "2026-10-17T04:27:35Z",
+    "timestamp": 1792211255,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Zeabur discontinues AI Hub after its August security breach",
+    "url": "https://zeabur.com/changelogs/aihub-shutdown",
+    "discussion_url": "https://news.ycombinator.com/item?id=50127877",
+    "source": "zeabur.com",
+    "date": "2026-10-17T04:14:58Z",
+    "timestamp": 1792210498,
+    "category": "Machine Learning"
+  },
+  {
     "title": "AI is driving a boom in modestly successful software projects",
     "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
     "discussion_url": "https://news.ycombinator.com/item?id=50127729",
@@ -7,141 +133,6 @@
     "date": "2026-10-17T03:47:39Z",
     "timestamp": 1792208859,
     "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Tensor Golf – Practise PyTorch Through Short Drills",
-    "url": "https://tensor.golf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127334",
-    "source": "tensor.golf",
-    "date": "2026-10-17T02:35:14Z",
-    "timestamp": 1792204514,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
-    "url": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127280",
-    "source": "sfist.com",
-    "date": "2026-10-17T02:21:55Z",
-    "timestamp": 1792203715,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cloud computing is a trap, warns GNU founder Richard Stallman (2008)",
-    "url": "https://www.theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127228",
-    "source": "theguardian.com",
-    "date": "2026-10-17T02:13:47Z",
-    "timestamp": 1792203227,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127187",
-    "source": "japannews.yomiuri.co.jp",
-    "date": "2026-10-17T02:08:03Z",
-    "timestamp": 1792202883,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
-    "url": "https://github.com/andunieee/twain",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127157",
-    "source": "github.com",
-    "date": "2026-10-17T02:03:40Z",
-    "timestamp": 1792202620,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The trickle-down economics of the AI boom",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127070",
-    "source": "economist.com",
-    "date": "2026-10-17T01:47:04Z",
-    "timestamp": 1792201624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Data Layer Is Where AI Goes to Die",
-    "url": "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127026",
-    "source": "druhindhavala.com",
-    "date": "2026-10-17T01:41:00Z",
-    "timestamp": 1792201260,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Using fzf with AI coding agents",
-    "url": "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50126880",
-    "source": "junegunn.github.io",
-    "date": "2026-10-17T01:19:22Z",
-    "timestamp": 1792199962,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Android gets AI defenses against messaging scams, fake calls",
-    "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50126802",
-    "source": "bleepingcomputer.com",
-    "date": "2026-10-17T01:05:28Z",
-    "timestamp": 1792199128,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
-    "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
-    "discussion_url": "https://news.ycombinator.com/item?id=50126612",
-    "source": "github.com",
-    "date": "2026-10-17T00:37:16Z",
-    "timestamp": 1792197436,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Wrong Bender: A Ruling on AI Feelings",
-    "url": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings",
-    "discussion_url": "https://news.ycombinator.com/item?id=50126481",
-    "source": "latticenet.ai",
-    "date": "2026-10-17T00:16:00Z",
-    "timestamp": 1792196160,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPU-Accelerated PostGIS",
-    "url": "https://github.com/landstats-us/postgis-cuda",
-    "discussion_url": "https://news.ycombinator.com/item?id=50124422",
-    "source": "github.com",
-    "date": "2026-10-16T20:46:19Z",
-    "timestamp": 1792183579,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ryzen 9 9950X3D2 sold by Amazon was an Intel CPU under an AMD heat spreader",
-    "url": "https://www.reddit.com/r/watercooling/comments/1x724mr/two_different_versions_of_amd_9950x3d2_dual/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50124396",
-    "source": "reddit.com",
-    "date": "2026-10-16T20:45:01Z",
-    "timestamp": 1792183501,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ross Douthat: How to Survive the Robot Apocalypse",
-    "url": "https://www.thefp.com/p/ross-douthat-how-to-survive-the-robot-apocalypse-ai-tech-doom",
-    "discussion_url": "https://news.ycombinator.com/item?id=50124164",
-    "source": "thefp.com",
-    "date": "2026-10-16T20:28:16Z",
-    "timestamp": 1792182496,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Capy-flash – a 125B MoE model on two 16 GB consumer GPUs",
-    "url": "https://github.com/ValerioDolci/capy-flash",
-    "discussion_url": "https://news.ycombinator.com/item?id=50118153",
-    "source": "github.com",
-    "date": "2026-10-16T13:28:36Z",
-    "timestamp": 1792157316,
-    "category": "Computer Architecture"
   },
   {
     "title": "Krea 3 – An image model built for editing at scale",
