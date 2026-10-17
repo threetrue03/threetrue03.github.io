@@ -1,5 +1,95 @@
 [
   {
+    "title": "Proactive AI for Superintelligent Agents",
+    "url": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50131631",
+    "source": "research.google",
+    "date": "2026-10-17T14:44:38Z",
+    "timestamp": 1792248278,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Retired UPenn professor arrested after blocking Uber Eats robots",
+    "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50131565",
+    "source": "phillyvoice.com",
+    "date": "2026-10-17T14:36:05Z",
+    "timestamp": 1792247765,
+    "category": "Physical AI"
+  },
+  {
+    "title": "CVE-2026-49950 and Why Upgrading Xinference Isn't Enough",
+    "url": "https://medium.com/@husenet/cve-2026-49950-and-why-upgrading-xinference-isnt-enough-dd3c1f75deac",
+    "discussion_url": "https://news.ycombinator.com/item?id=50131394",
+    "source": "medium.com",
+    "date": "2026-10-17T14:16:44Z",
+    "timestamp": 1792246604,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50131331",
+    "source": "arstechnica.com",
+    "date": "2026-10-17T14:10:10Z",
+    "timestamp": 1792246210,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Are You Sure Your LLM Is Sure?",
+    "url": "https://arxiv.org/abs/2610.22139",
+    "discussion_url": "https://news.ycombinator.com/item?id=50131085",
+    "source": "arxiv.org",
+    "date": "2026-10-17T13:39:04Z",
+    "timestamp": 1792244344,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Edge Foresight",
+    "url": "https://developers.google.com/edge/foresight",
+    "discussion_url": "https://news.ycombinator.com/item?id=50130847",
+    "source": "developers.google.com",
+    "date": "2026-10-17T13:08:59Z",
+    "timestamp": 1792242539,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
+    "url": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
+    "discussion_url": "https://news.ycombinator.com/item?id=50130587",
+    "source": "medium.com",
+    "date": "2026-10-17T12:39:09Z",
+    "timestamp": 1792240749,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cookbook to use LLMs effectively for sciences, in various levels of expertise",
+    "url": "https://github.com/NASA-IMPACT/LLM-cookbook-for-open-science",
+    "discussion_url": "https://news.ycombinator.com/item?id=50130277",
+    "source": "github.com",
+    "date": "2026-10-17T11:53:27Z",
+    "timestamp": 1792238007,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "As AI triggers a tsunami, computer science conferences impose caps",
+    "url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+    "discussion_url": "https://news.ycombinator.com/item?id=50130206",
+    "source": "science.org",
+    "date": "2026-10-17T11:44:09Z",
+    "timestamp": 1792237449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Expectations Gap",
+    "url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "discussion_url": "https://news.ycombinator.com/item?id=50129987",
+    "source": "anthropic.com",
+    "date": "2026-10-17T11:06:19Z",
+    "timestamp": 1792235179,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
     "url": "https://Joe-Heffer.github.io/sys2txt/",
     "discussion_url": "https://news.ycombinator.com/item?id=50129017",
@@ -27,15 +117,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Researchers Stranded an AI Agent on a Virtual Island",
-    "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128876",
-    "source": "gizmodo.com",
-    "date": "2026-10-17T07:45:09Z",
-    "timestamp": 1792223109,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Roboto 01: Full-stack Open-source humanoid robot",
     "url": "https://roboparty.com/products/RP1",
     "discussion_url": "https://news.ycombinator.com/item?id=50128642",
@@ -45,69 +126,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-    "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128576",
-    "source": "404media.co",
-    "date": "2026-10-17T06:44:13Z",
-    "timestamp": 1792219453,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What We Talk to When We Talk to Language Models (David J. Chalmers) [pdf]",
-    "url": "https://philpapers.org/archive/CHAWWT-8.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128561",
-    "source": "philpapers.org",
-    "date": "2026-10-17T06:41:27Z",
-    "timestamp": 1792219287,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is the most useful thing AI has done for you?",
-    "url": "https://news.ycombinator.com/item?id=50128412",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128412",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-17T06:06:44Z",
-    "timestamp": 1792217204,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
-    "url": "https://recul.ai/news/claude-viral-dna-pattern-priority-dispute/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128328",
-    "source": "recul.ai",
-    "date": "2026-10-17T05:49:12Z",
-    "timestamp": 1792216152,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding",
-    "url": "https://medium.com/@smoking2man/sterile-knowledge-artificial-intelligence-models-and-the-genealogy-of-understanding-51d8e1355a04",
-    "discussion_url": "https://news.ycombinator.com/item?id=50128314",
-    "source": "medium.com",
-    "date": "2026-10-17T05:46:39Z",
-    "timestamp": 1792215999,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "url": "https://llmspeed.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127979",
-    "source": "llmspeed.dev",
-    "date": "2026-10-17T04:36:53Z",
-    "timestamp": 1792211813,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tort Law at the Frontier of Artificial Intelligence",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6979919",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127957",
-    "source": "papers.ssrn.com",
-    "date": "2026-10-17T04:31:34Z",
-    "timestamp": 1792211494,
-    "category": "Machine Learning"
-  },
-  {
     "title": "German police launch investigation after robot allegedly gropes teenage girl",
     "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
     "discussion_url": "https://news.ycombinator.com/item?id=50127941",
@@ -115,24 +133,6 @@
     "date": "2026-10-17T04:27:35Z",
     "timestamp": 1792211255,
     "category": "Physical AI"
-  },
-  {
-    "title": "Zeabur discontinues AI Hub after its August security breach",
-    "url": "https://zeabur.com/changelogs/aihub-shutdown",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127877",
-    "source": "zeabur.com",
-    "date": "2026-10-17T04:14:58Z",
-    "timestamp": 1792210498,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is driving a boom in modestly successful software projects",
-    "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50127729",
-    "source": "seangoedecke.com",
-    "date": "2026-10-17T03:47:39Z",
-    "timestamp": 1792208859,
-    "category": "Machine Learning"
   },
   {
     "title": "Krea 3 – An image model built for editing at scale",
