@@ -1,5 +1,122 @@
 [
   {
+    "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+    "discussion_url": "https://news.ycombinator.com/item?id=50142115",
+    "source": "theguardian.com",
+    "date": "2026-10-18T15:48:32Z",
+    "timestamp": 1792338512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "discussion_url": "https://news.ycombinator.com/item?id=50141657",
+    "source": "theverge.com",
+    "date": "2026-10-18T14:58:10Z",
+    "timestamp": 1792335490,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "discussion_url": "https://news.ycombinator.com/item?id=50141429",
+    "source": "tomshardware.com",
+    "date": "2026-10-18T14:30:27Z",
+    "timestamp": 1792333827,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers",
+    "url": "https://arxiv.org/abs/2610.21500",
+    "discussion_url": "https://news.ycombinator.com/item?id=50141369",
+    "source": "arxiv.org",
+    "date": "2026-10-18T14:23:22Z",
+    "timestamp": 1792333402,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
+    "url": "https://www.documemory.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50141365",
+    "source": "documemory.dev",
+    "date": "2026-10-18T14:22:54Z",
+    "timestamp": 1792333374,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In 23 of 24 categories, AI answer engines recommend one brand in every query",
+    "url": "https://noniner.io/report/state-of-ai-brand-visibility-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=50141088",
+    "source": "noniner.io",
+    "date": "2026-10-18T13:49:57Z",
+    "timestamp": 1792331397,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hyper Optimizing Kimi K3 in vLLM",
+    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140784",
+    "source": "vllm.ai",
+    "date": "2026-10-18T13:08:50Z",
+    "timestamp": 1792328930,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Language Models Can Reduce Asymmetry in Information Markets (COLM 2024)",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DZq9Dfj4nBo",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140636",
+    "source": "openreview.net",
+    "date": "2026-10-18T12:46:31Z",
+    "timestamp": 1792327591,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How the AI boom might end: 5 scenarios",
+    "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140566",
+    "source": "martinalderson.com",
+    "date": "2026-10-18T12:37:42Z",
+    "timestamp": 1792327062,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140462",
+    "source": "vals.ai",
+    "date": "2026-10-18T12:22:58Z",
+    "timestamp": 1792326178,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
+    "url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140420",
+    "source": "roadster-ai.net",
+    "date": "2026-10-18T12:17:30Z",
+    "timestamp": 1792325850,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Shipback – SFTP deploys your AI agent can undo",
+    "url": "https://github.com/aldohushi1-stack/shipback-sftp",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140229",
+    "source": "github.com",
+    "date": "2026-10-18T11:48:48Z",
+    "timestamp": 1792324128,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+    "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140075",
+    "source": "huggingface.co",
+    "date": "2026-10-18T11:28:54Z",
+    "timestamp": 1792322934,
+    "category": "Machine Learning"
+  },
+  {
     "title": "The Landscape of Humanoids – 2,351 products, 788 companies",
     "url": "https://airfold.co/humanoid-technology-map/",
     "discussion_url": "https://news.ycombinator.com/item?id=50139775",
@@ -9,15 +126,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Open-source tax rules for 100 countries that your LLM can use",
-    "url": "https://github.com/openaccountants/openaccountants",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139629",
-    "source": "github.com",
-    "date": "2026-10-18T10:09:28Z",
-    "timestamp": 1792318168,
-    "category": "Machine Learning"
-  },
-  {
     "title": "China proposes export controls on its advanced AI models and chip designs",
     "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
     "discussion_url": "https://news.ycombinator.com/item?id=50139587",
@@ -25,123 +133,6 @@
     "date": "2026-10-18T10:01:06Z",
     "timestamp": 1792317666,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Benchmarking LLM ability to code in an adversarial language",
-    "url": "https://bench.killswitch-lang.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139549",
-    "source": "bench.killswitch-lang.org",
-    "date": "2026-10-18T09:53:06Z",
-    "timestamp": 1792317186,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Deezer Will Let Listeners Filter Out AI Music",
-    "url": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139390",
-    "source": "engadget.com",
-    "date": "2026-10-18T09:19:13Z",
-    "timestamp": 1792315153,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why CoreWeave is in the crosshairs of the AI scare",
-    "url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139375",
-    "source": "reuters.com",
-    "date": "2026-10-18T09:17:02Z",
-    "timestamp": 1792315022,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Universe as a Test Harness: Meat AI and God's Admin Panel",
-    "url": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139275",
-    "source": "rebecca-powell.com",
-    "date": "2026-10-18T09:00:20Z",
-    "timestamp": 1792314020,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Connecting Captions Local Private AI Interpreter",
-    "url": "https://local-host.ai/connectingCaptions/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138839",
-    "source": "local-host.ai",
-    "date": "2026-10-18T07:41:31Z",
-    "timestamp": 1792309291,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ArXiv versus AI slop: will capping preprint submissions work?",
-    "url": "https://www.nature.com/articles/d41586-026-03194-w",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138702",
-    "source": "nature.com",
-    "date": "2026-10-18T07:15:57Z",
-    "timestamp": 1792307757,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "If you don't run your own LLM proxy how the fuck do you even know whats going on",
-    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138678",
-    "source": "jrdsgl.com",
-    "date": "2026-10-18T07:12:11Z",
-    "timestamp": 1792307531,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Neural networks are not already clean",
-    "url": "https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138543",
-    "source": "lesswrong.com",
-    "date": "2026-10-18T06:52:20Z",
-    "timestamp": 1792306340,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "America's $10T AI infrastructure boom is starting to fray",
-    "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138511",
-    "source": "ft.com",
-    "date": "2026-10-18T06:46:50Z",
-    "timestamp": 1792306010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "JAXA is about to perform a Phobos sample return mission",
-    "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138490",
-    "source": "science.org",
-    "date": "2026-10-18T06:40:55Z",
-    "timestamp": 1792305655,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs are inside fabs, so why aren't they solving core problems?",
-    "url": "https://www.waferpilot.xyz/resources/fab-llm-yield-reliability/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50138229",
-    "source": "waferpilot.xyz",
-    "date": "2026-10-18T05:42:37Z",
-    "timestamp": 1792302157,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
-    "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
-    "discussion_url": "https://news.ycombinator.com/item?id=50137325",
-    "source": "gmicloud.ai",
-    "date": "2026-10-18T02:35:00Z",
-    "timestamp": 1792290900,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Retired Penn professor arrested for blocking Uber Eats robot",
-    "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l=",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136198",
-    "source": "phillyvoice.com",
-    "date": "2026-10-17T23:31:48Z",
-    "timestamp": 1792279908,
-    "category": "Physical AI"
   },
   {
     "title": "Fun Extending the C Preprocessor",
