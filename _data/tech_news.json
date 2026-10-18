@@ -1,5 +1,113 @@
 [
   {
+    "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+    "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50145068",
+    "source": "news.cgtn.com",
+    "date": "2026-10-18T20:19:01Z",
+    "timestamp": 1792354741,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Leviathan LLM Inference",
+    "url": "https://github.com/CuppaTea1983/Leviathan",
+    "discussion_url": "https://news.ycombinator.com/item?id=50144588",
+    "source": "github.com",
+    "date": "2026-10-18T19:38:37Z",
+    "timestamp": 1792352317,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Woman arrested after blocking delivery robot in Philadelphia confrontation",
+    "url": "https://abc13.com/story/woman-arrested-blocking-delivery-robot-philadelphia-confrontation/19943936/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50144243",
+    "source": "abc13.com",
+    "date": "2026-10-18T19:09:14Z",
+    "timestamp": 1792350554,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+    "url": "https://github.com/sianachi/nixsites",
+    "discussion_url": "https://news.ycombinator.com/item?id=50143999",
+    "source": "github.com",
+    "date": "2026-10-18T18:39:42Z",
+    "timestamp": 1792348782,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+    "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+    "discussion_url": "https://news.ycombinator.com/item?id=50143897",
+    "source": "thezvi.substack.com",
+    "date": "2026-10-18T18:28:58Z",
+    "timestamp": 1792348138,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Ontological Admission Test: When a Language Model Requires an Object",
+    "url": "https://medium.com/@smoking2man/the-ontological-admission-test-when-a-language-model-requires-an-object-to-belong-to-its-own-world-416e6446c5ab",
+    "discussion_url": "https://news.ycombinator.com/item?id=50143796",
+    "source": "medium.com",
+    "date": "2026-10-18T18:19:23Z",
+    "timestamp": 1792347563,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The LLM Comments Are Not for You",
+    "url": "https://danilafe.com/blog/comments_not_for_you/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50143476",
+    "source": "danilafe.com",
+    "date": "2026-10-18T17:51:55Z",
+    "timestamp": 1792345915,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Men Can't Stop Faking How Much They Know About AI",
+    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50143083",
+    "source": "wired.com",
+    "date": "2026-10-18T17:15:01Z",
+    "timestamp": 1792343701,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+    "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+    "discussion_url": "https://news.ycombinator.com/item?id=50142772",
+    "source": "thebignewsletter.com",
+    "date": "2026-10-18T16:48:25Z",
+    "timestamp": 1792342105,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM analyzed 150k Reddit posts to identify side effects of unapproved new GLP-1",
+    "url": "https://www.engineering.upenn.edu/stories/penn-engineers-use-ai-reddit-to-identify-potential-side-effects-of-unapproved-new-glp-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50142726",
+    "source": "engineering.upenn.edu",
+    "date": "2026-10-18T16:45:35Z",
+    "timestamp": 1792341935,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tell HN: I picked up knitting while waiting for my AI agent to complete",
+    "url": "https://news.ycombinator.com/item?id=50142650",
+    "discussion_url": "https://news.ycombinator.com/item?id=50142650",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-18T16:39:46Z",
+    "timestamp": 1792341586,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+    "url": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
+    "discussion_url": "https://news.ycombinator.com/item?id=50142310",
+    "source": "medium.com",
+    "date": "2026-10-18T16:07:52Z",
+    "timestamp": 1792339672,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
     "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
     "discussion_url": "https://news.ycombinator.com/item?id=50142115",
@@ -9,129 +117,12 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Websites are closing their doors to AI agents",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "discussion_url": "https://news.ycombinator.com/item?id=50141657",
-    "source": "theverge.com",
-    "date": "2026-10-18T14:58:10Z",
-    "timestamp": 1792335490,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-    "discussion_url": "https://news.ycombinator.com/item?id=50141429",
-    "source": "tomshardware.com",
-    "date": "2026-10-18T14:30:27Z",
-    "timestamp": 1792333827,
-    "category": "Machine Learning"
-  },
-  {
     "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers",
     "url": "https://arxiv.org/abs/2610.21500",
     "discussion_url": "https://news.ycombinator.com/item?id=50141369",
     "source": "arxiv.org",
     "date": "2026-10-18T14:23:22Z",
     "timestamp": 1792333402,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
-    "url": "https://www.documemory.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50141365",
-    "source": "documemory.dev",
-    "date": "2026-10-18T14:22:54Z",
-    "timestamp": 1792333374,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "In 23 of 24 categories, AI answer engines recommend one brand in every query",
-    "url": "https://noniner.io/report/state-of-ai-brand-visibility-2026",
-    "discussion_url": "https://news.ycombinator.com/item?id=50141088",
-    "source": "noniner.io",
-    "date": "2026-10-18T13:49:57Z",
-    "timestamp": 1792331397,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hyper Optimizing Kimi K3 in vLLM",
-    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140784",
-    "source": "vllm.ai",
-    "date": "2026-10-18T13:08:50Z",
-    "timestamp": 1792328930,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Language Models Can Reduce Asymmetry in Information Markets (COLM 2024)",
-    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DZq9Dfj4nBo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140636",
-    "source": "openreview.net",
-    "date": "2026-10-18T12:46:31Z",
-    "timestamp": 1792327591,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How the AI boom might end: 5 scenarios",
-    "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140566",
-    "source": "martinalderson.com",
-    "date": "2026-10-18T12:37:42Z",
-    "timestamp": 1792327062,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "url": "https://www.vals.ai/blogs/impossible-refund",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140462",
-    "source": "vals.ai",
-    "date": "2026-10-18T12:22:58Z",
-    "timestamp": 1792326178,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
-    "url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140420",
-    "source": "roadster-ai.net",
-    "date": "2026-10-18T12:17:30Z",
-    "timestamp": 1792325850,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Shipback – SFTP deploys your AI agent can undo",
-    "url": "https://github.com/aldohushi1-stack/shipback-sftp",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140229",
-    "source": "github.com",
-    "date": "2026-10-18T11:48:48Z",
-    "timestamp": 1792324128,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
-    "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
-    "discussion_url": "https://news.ycombinator.com/item?id=50140075",
-    "source": "huggingface.co",
-    "date": "2026-10-18T11:28:54Z",
-    "timestamp": 1792322934,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Landscape of Humanoids – 2,351 products, 788 companies",
-    "url": "https://airfold.co/humanoid-technology-map/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139775",
-    "source": "airfold.co",
-    "date": "2026-10-18T10:32:57Z",
-    "timestamp": 1792319577,
-    "category": "Physical AI"
-  },
-  {
-    "title": "China proposes export controls on its advanced AI models and chip designs",
-    "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
-    "discussion_url": "https://news.ycombinator.com/item?id=50139587",
-    "source": "thenextweb.com",
-    "date": "2026-10-18T10:01:06Z",
-    "timestamp": 1792317666,
     "category": "Computer Architecture"
   },
   {
