@@ -1,102 +1,138 @@
 [
   {
-    "title": "My AI agent caught most of our sites saying sent while no email left the server",
-    "url": "https://iampneuma.com/the-function-returned-true/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50137826",
-    "source": "iampneuma.com",
-    "date": "2026-10-18T04:07:07Z",
-    "timestamp": 1792296427,
-    "category": "Machine Learning"
+    "title": "The Landscape of Humanoids – 2,351 products, 788 companies",
+    "url": "https://airfold.co/humanoid-technology-map/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139775",
+    "source": "airfold.co",
+    "date": "2026-10-18T10:32:57Z",
+    "timestamp": 1792319577,
+    "category": "Physical AI"
   },
   {
-    "title": "Phishing emails are baiting your AI assistant",
-    "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
-    "discussion_url": "https://news.ycombinator.com/item?id=50137768",
-    "source": "malwarebytes.com",
-    "date": "2026-10-18T03:52:35Z",
-    "timestamp": 1792295555,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
-    "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50137246",
-    "source": "cnbc.com",
-    "date": "2026-10-18T02:20:40Z",
-    "timestamp": 1792290040,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
-    "url": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136796",
-    "source": "defuzex.ai",
-    "date": "2026-10-18T00:59:44Z",
-    "timestamp": 1792285184,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
-    "url": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136741",
-    "source": "noisypixel.net",
-    "date": "2026-10-18T00:50:48Z",
-    "timestamp": 1792284648,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic warns AI models could self-replicate across home devices",
-    "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136716",
-    "source": "cnbc.com",
-    "date": "2026-10-18T00:44:06Z",
-    "timestamp": 1792284246,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lazyagents – Lazygit for AI coding agents",
-    "url": "https://github.com/rogeriojunior31/lazyagents",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136701",
+    "title": "Open-source tax rules for 100 countries that your LLM can use",
+    "url": "https://github.com/openaccountants/openaccountants",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139629",
     "source": "github.com",
-    "date": "2026-10-18T00:42:19Z",
-    "timestamp": 1792284139,
+    "date": "2026-10-18T10:09:28Z",
+    "timestamp": 1792318168,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Reviews All-In",
-    "url": "https://all-in-claim-check.pages.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136673",
-    "source": "all-in-claim-check.pages.dev",
-    "date": "2026-10-18T00:37:15Z",
-    "timestamp": 1792283835,
+    "title": "China proposes export controls on its advanced AI models and chip designs",
+    "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139587",
+    "source": "thenextweb.com",
+    "date": "2026-10-18T10:01:06Z",
+    "timestamp": 1792317666,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Benchmarking LLM ability to code in an adversarial language",
+    "url": "https://bench.killswitch-lang.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139549",
+    "source": "bench.killswitch-lang.org",
+    "date": "2026-10-18T09:53:06Z",
+    "timestamp": 1792317186,
     "category": "Machine Learning"
   },
   {
-    "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
-    "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136669",
-    "source": "defuzex.ai",
-    "date": "2026-10-18T00:36:34Z",
-    "timestamp": 1792283794,
+    "title": "Deezer Will Let Listeners Filter Out AI Music",
+    "url": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139390",
+    "source": "engadget.com",
+    "date": "2026-10-18T09:19:13Z",
+    "timestamp": 1792315153,
     "category": "Machine Learning"
   },
   {
-    "title": "I run my one-person business with ~17 narrow AI agents",
-    "url": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136273",
-    "source": "blakelapierre.substack.com",
-    "date": "2026-10-17T23:43:05Z",
-    "timestamp": 1792280585,
+    "title": "Why CoreWeave is in the crosshairs of the AI scare",
+    "url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139375",
+    "source": "reuters.com",
+    "date": "2026-10-18T09:17:02Z",
+    "timestamp": 1792315022,
     "category": "Machine Learning"
   },
   {
-    "title": "Does code quality still matter when AI writes the code?",
-    "url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136214",
-    "source": "docspring.com",
-    "date": "2026-10-17T23:33:53Z",
-    "timestamp": 1792280033,
+    "title": "The Universe as a Test Harness: Meat AI and God's Admin Panel",
+    "url": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50139275",
+    "source": "rebecca-powell.com",
+    "date": "2026-10-18T09:00:20Z",
+    "timestamp": 1792314020,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Connecting Captions Local Private AI Interpreter",
+    "url": "https://local-host.ai/connectingCaptions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138839",
+    "source": "local-host.ai",
+    "date": "2026-10-18T07:41:31Z",
+    "timestamp": 1792309291,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+    "url": "https://www.nature.com/articles/d41586-026-03194-w",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138702",
+    "source": "nature.com",
+    "date": "2026-10-18T07:15:57Z",
+    "timestamp": 1792307757,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "If you don't run your own LLM proxy how the fuck do you even know whats going on",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138678",
+    "source": "jrdsgl.com",
+    "date": "2026-10-18T07:12:11Z",
+    "timestamp": 1792307531,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Neural networks are not already clean",
+    "url": "https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138543",
+    "source": "lesswrong.com",
+    "date": "2026-10-18T06:52:20Z",
+    "timestamp": 1792306340,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "America's $10T AI infrastructure boom is starting to fray",
+    "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138511",
+    "source": "ft.com",
+    "date": "2026-10-18T06:46:50Z",
+    "timestamp": 1792306010,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "JAXA is about to perform a Phobos sample return mission",
+    "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138490",
+    "source": "science.org",
+    "date": "2026-10-18T06:40:55Z",
+    "timestamp": 1792305655,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs are inside fabs, so why aren't they solving core problems?",
+    "url": "https://www.waferpilot.xyz/resources/fab-llm-yield-reliability/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50138229",
+    "source": "waferpilot.xyz",
+    "date": "2026-10-18T05:42:37Z",
+    "timestamp": 1792302157,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+    "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50137325",
+    "source": "gmicloud.ai",
+    "date": "2026-10-18T02:35:00Z",
+    "timestamp": 1792290900,
+    "category": "Computer Architecture"
   },
   {
     "title": "Retired Penn professor arrested for blocking Uber Eats robot",
@@ -108,13 +144,13 @@
     "category": "Physical AI"
   },
   {
-    "title": "Abolish AI Manifesto",
-    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50136124",
-    "source": "abolish-ai.net",
-    "date": "2026-10-17T23:23:46Z",
-    "timestamp": 1792279426,
-    "category": "Machine Learning"
+    "title": "Fun Extending the C Preprocessor",
+    "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50106792",
+    "source": "davidpriver.com",
+    "date": "2026-10-15T17:08:26Z",
+    "timestamp": 1792084106,
+    "category": "Computer Architecture"
   },
   {
     "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
