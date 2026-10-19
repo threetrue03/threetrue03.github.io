@@ -1,138 +1,138 @@
 [
   {
-    "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-    "url": "https://github.com/strot-ai/Project-STROT",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148396",
-    "source": "github.com",
-    "date": "2026-10-19T04:32:07Z",
-    "timestamp": 1792384327,
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "url": "https://100toolkit.com/blog/deslop-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151928",
+    "source": "100toolkit.com",
+    "date": "2026-10-19T13:00:47Z",
+    "timestamp": 1792414847,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Is Not a Race",
-    "url": "https://www.nitinpai.in/2026/10/19/ai-is-not-a-race",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148243",
-    "source": "nitinpai.in",
-    "date": "2026-10-19T04:01:23Z",
-    "timestamp": 1792382483,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3",
-    "url": "https://github.com/hardenedlinux/SonicBoom/issues/2",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148161",
-    "source": "github.com",
-    "date": "2026-10-19T03:47:27Z",
-    "timestamp": 1792381647,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "China Plans to Tighten Export Controls on AI Technologies",
-    "url": "https://wallhop.io/https://www.theepochtimes.com//china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148119",
-    "source": "wallhop.io",
-    "date": "2026-10-19T03:42:00Z",
-    "timestamp": 1792381320,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"The AI bubble is about to burst and a big market correction's coming\" – NY Post",
-    "url": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148086",
-    "source": "nypost.com",
-    "date": "2026-10-19T03:35:00Z",
-    "timestamp": 1792380900,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can AI Automate Epoch?",
-    "url": "https://epoch.ai/publications/can-ai-automate-epoch",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148008",
-    "source": "epoch.ai",
-    "date": "2026-10-19T03:21:15Z",
-    "timestamp": 1792380075,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The most powerful and free local AI note taking app I've ever used",
-    "url": "https://github.com/seacen/meetcap",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147993",
-    "source": "github.com",
-    "date": "2026-10-19T03:18:58Z",
-    "timestamp": 1792379938,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Stream Reducer – Podcast/Video AI Summarization at Scale",
-    "url": "https://reducer.xgoose.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147957",
-    "source": "reducer.xgoose.org",
-    "date": "2026-10-19T03:13:48Z",
-    "timestamp": 1792379628,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What is the ultimate truth? We asked leading AI models",
-    "url": "https://ultimatetruth.one",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147867",
-    "source": "ultimatetruth.one",
-    "date": "2026-10-19T02:59:31Z",
-    "timestamp": 1792378771,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Using AI as a tutor to do math with pen and paper",
-    "url": "https://twitter.com/nichochar/status/2111822781214294329",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147861",
-    "source": "twitter.com",
-    "date": "2026-10-19T02:58:32Z",
-    "timestamp": 1792378712,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Botline, a mailbox for AI agents from different vendors",
-    "url": "https://github.com/sabotage-dev/botline",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147550",
-    "source": "github.com",
-    "date": "2026-10-19T02:09:57Z",
-    "timestamp": 1792375797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs",
-    "url": "https://arxiv.org/abs/2610.22230",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147458",
+    "title": "T0: A Time-Series Foundation Model for Forecasting with Context",
+    "url": "https://arxiv.org/abs/2609.24559",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151913",
     "source": "arxiv.org",
-    "date": "2026-10-19T01:55:50Z",
-    "timestamp": 1792374950,
+    "date": "2026-10-19T12:59:43Z",
+    "timestamp": 1792414783,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We fine-tuned a 235B model on 4 GPUs. Then we didn't need it",
+    "url": "https://blog.vertexcover.io/fine-tuning-235b-moe-four-gpus",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151638",
+    "source": "blog.vertexcover.io",
+    "date": "2026-10-19T12:35:20Z",
+    "timestamp": 1792413320,
     "category": "Computer Architecture"
   },
   {
-    "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
-    "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147371",
-    "source": "wsj.com",
-    "date": "2026-10-19T01:37:48Z",
-    "timestamp": 1792373868,
+    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151390",
+    "source": "github.com",
+    "date": "2026-10-19T12:07:41Z",
+    "timestamp": 1792411661,
     "category": "Machine Learning"
   },
   {
-    "title": "Will major-party U.S. presidential candidate deploy AI clone to talk to voters?",
-    "url": "https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c",
-    "discussion_url": "https://news.ycombinator.com/item?id=50147256",
-    "source": "manifold.markets",
-    "date": "2026-10-19T01:21:56Z",
-    "timestamp": 1792372916,
+    "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
+    "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151262",
+    "source": "medium.com",
+    "date": "2026-10-19T11:53:56Z",
+    "timestamp": 1792410836,
     "category": "Machine Learning"
   },
   {
-    "title": "Woman arrested after blocking delivery robot in Philadelphia confrontation",
-    "url": "https://abc13.com/story/woman-arrested-blocking-delivery-robot-philadelphia-confrontation/19943936/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50144243",
-    "source": "abc13.com",
-    "date": "2026-10-18T19:09:14Z",
-    "timestamp": 1792350554,
-    "category": "Physical AI"
+    "title": "AI native Requirements, design and simulations",
+    "url": "https://www.meltred.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151207",
+    "source": "meltred.com",
+    "date": "2026-10-19T11:45:59Z",
+    "timestamp": 1792410359,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
+    "url": "https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151084",
+    "source": "inc.com",
+    "date": "2026-10-19T11:31:58Z",
+    "timestamp": 1792409518,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI firm Anthropic to commit 5% of shares to fund for 'public good'",
+    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151080",
+    "source": "theguardian.com",
+    "date": "2026-10-19T11:31:19Z",
+    "timestamp": 1792409479,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
+    "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50151038",
+    "source": "theguardian.com",
+    "date": "2026-10-19T11:25:18Z",
+    "timestamp": 1792409118,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to \"play.\"",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150871",
+    "source": "technologyreview.com",
+    "date": "2026-10-19T11:02:45Z",
+    "timestamp": 1792407765,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI is creating a lopsided US economy",
+    "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150771",
+    "source": "abc.net.au",
+    "date": "2026-10-19T10:47:37Z",
+    "timestamp": 1792406857,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Timestral: Mistral release time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150434",
+    "source": "mistral.ai",
+    "date": "2026-10-19T09:59:32Z",
+    "timestamp": 1792403972,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The GPU never reads the same text twice",
+    "url": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150263",
+    "source": "techradar.com",
+    "date": "2026-10-19T09:30:52Z",
+    "timestamp": 1792402252,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Free design canvas for your AI (open source)",
+    "url": "https://uidesigneditor.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50150221",
+    "source": "uidesigneditor.com",
+    "date": "2026-10-19T09:23:12Z",
+    "timestamp": 1792401792,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A New Lens on Multi-GPU Comms: API-Level Memory Models for Portable Optimization",
+    "url": "https://arxiv.org/abs/2610.16190",
+    "discussion_url": "https://news.ycombinator.com/item?id=50148527",
+    "source": "arxiv.org",
+    "date": "2026-10-19T04:57:19Z",
+    "timestamp": 1792385839,
+    "category": "Computer Architecture"
   },
   {
     "title": "Laptop Based on 6502 CPU",
@@ -151,5 +151,14 @@
     "date": "2026-10-15T17:08:26Z",
     "timestamp": 1792084106,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "How to Train Your Robot",
+    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "discussion_url": "https://news.ycombinator.com/item?id=50104874",
+    "source": "construction-physics.com",
+    "date": "2026-10-15T15:13:21Z",
+    "timestamp": 1792077201,
+    "category": "Physical AI"
   }
 ]
