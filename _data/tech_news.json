@@ -1,21 +1,183 @@
 [
   {
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "url": "https://100toolkit.com/blog/deslop-model/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151928",
-    "source": "100toolkit.com",
-    "date": "2026-10-19T13:00:47Z",
-    "timestamp": 1792414847,
+    "title": "AI models can get brain rot, too",
+    "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50158679",
+    "source": "news.engineering.tamu.edu",
+    "date": "2026-10-19T22:01:26Z",
+    "timestamp": 1792447286,
     "category": "Machine Learning"
   },
   {
-    "title": "T0: A Time-Series Foundation Model for Forecasting with Context",
-    "url": "https://arxiv.org/abs/2609.24559",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151913",
-    "source": "arxiv.org",
-    "date": "2026-10-19T12:59:43Z",
-    "timestamp": 1792414783,
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "url": "https://bsd.network/@brynet/117407035545900963",
+    "discussion_url": "https://news.ycombinator.com/item?id=50158138",
+    "source": "bsd.network",
+    "date": "2026-10-19T21:11:45Z",
+    "timestamp": 1792444305,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Scope: Open-source evaluation for AI coding agents",
+    "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157945",
+    "source": "opensource.microsoft.com",
+    "date": "2026-10-19T20:57:44Z",
+    "timestamp": 1792443464,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+    "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157926",
+    "source": "skills.sh",
+    "date": "2026-10-19T20:55:51Z",
+    "timestamp": 1792443351,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
+    "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157912",
+    "source": "openmarketsinstitute.org",
+    "date": "2026-10-19T20:54:50Z",
+    "timestamp": 1792443290,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Blocking the Internet Archive Will Not Stop AI",
+    "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157858",
+    "source": "theatlantic.com",
+    "date": "2026-10-19T20:49:29Z",
+    "timestamp": 1792442969,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Overmind: Cut PyTorch model load time 15s to 0.2s with a zero-copy shared cache",
+    "url": "https://github.com/meshy-dev/overmind",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157696",
+    "source": "github.com",
+    "date": "2026-10-19T20:34:39Z",
+    "timestamp": 1792442079,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157504",
+    "source": "blog.cloudflare.com",
+    "date": "2026-10-19T20:16:45Z",
+    "timestamp": 1792441005,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Time to LLM Post",
+    "url": "https://news.ycombinator.com/item?id=50157348",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157348",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-19T20:04:37Z",
+    "timestamp": 1792440277,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
+    "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157257",
+    "source": "techstrong.it",
+    "date": "2026-10-19T19:56:58Z",
+    "timestamp": 1792439818,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Robotics startup with $10–12 meals delivered in SF",
+    "url": "https://www.dailys.menu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157175",
+    "source": "dailys.menu",
+    "date": "2026-10-19T19:50:26Z",
+    "timestamp": 1792439426,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
+    "url": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157158",
+    "source": "phoronix.com",
+    "date": "2026-10-19T19:48:58Z",
+    "timestamp": 1792439338,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RISC-V Silicon Fabricated on Intel 3 in Major Chip Milestone",
+    "url": "https://hothardware.com/news/risc-v-fabbed-on-intel-3-bzl",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157104",
+    "source": "hothardware.com",
+    "date": "2026-10-19T19:44:10Z",
+    "timestamp": 1792439050,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What is still hard to become good at as AI makes coding easier?",
+    "url": "https://news.ycombinator.com/item?id=50157098",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157098",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-19T19:43:46Z",
+    "timestamp": 1792439026,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built a crane robot to clean my house [video]",
+    "url": "https://www.youtube.com/watch?v=vsL1EHt5iBY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50157059",
+    "source": "youtube.com",
+    "date": "2026-10-19T19:40:46Z",
+    "timestamp": 1792438846,
+    "category": "Physical AI"
+  },
+  {
+    "title": "SpacemiT Announces the V100 Server-Class RISC-V Processor",
+    "url": "https://www.phoronix.com/news/SpacemiT-V100",
+    "discussion_url": "https://news.ycombinator.com/item?id=50156860",
+    "source": "phoronix.com",
+    "date": "2026-10-19T19:27:19Z",
+    "timestamp": 1792438039,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Maali – Privacy-first personal finance app with a local AI analyst",
+    "url": "https://maali.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50156825",
+    "source": "maali.app",
+    "date": "2026-10-19T19:25:03Z",
+    "timestamp": 1792437903,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Matrix for Robots",
+    "url": "https://twitter.com/luckyrobots/status/2112247781188637071",
+    "discussion_url": "https://news.ycombinator.com/item?id=50156571",
+    "source": "twitter.com",
+    "date": "2026-10-19T19:06:36Z",
+    "timestamp": 1792436796,
+    "category": "Physical AI"
+  },
+  {
+    "title": "We kept renting GPUs after getting 7 quotes to buy them",
+    "url": "https://www.searchagora.com/blog/why-we-kept-renting-gpus-after-getting-7-quotes-to-buy-them",
+    "discussion_url": "https://news.ycombinator.com/item?id=50156523",
+    "source": "searchagora.com",
+    "date": "2026-10-19T19:03:28Z",
+    "timestamp": 1792436608,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+    "discussion_url": "https://news.ycombinator.com/item?id=50152976",
+    "source": "stealthium.io",
+    "date": "2026-10-19T14:31:27Z",
+    "timestamp": 1792420287,
+    "category": "Computer Architecture"
   },
   {
     "title": "We fine-tuned a 235B model on 4 GPUs. Then we didn't need it",
@@ -27,129 +189,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151390",
-    "source": "github.com",
-    "date": "2026-10-19T12:07:41Z",
-    "timestamp": 1792411661,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
-    "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151262",
-    "source": "medium.com",
-    "date": "2026-10-19T11:53:56Z",
-    "timestamp": 1792410836,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI native Requirements, design and simulations",
-    "url": "https://www.meltred.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151207",
-    "source": "meltred.com",
-    "date": "2026-10-19T11:45:59Z",
-    "timestamp": 1792410359,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
-    "url": "https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151084",
-    "source": "inc.com",
-    "date": "2026-10-19T11:31:58Z",
-    "timestamp": 1792409518,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI firm Anthropic to commit 5% of shares to fund for 'public good'",
-    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151080",
-    "source": "theguardian.com",
-    "date": "2026-10-19T11:31:19Z",
-    "timestamp": 1792409479,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
-    "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151038",
-    "source": "theguardian.com",
-    "date": "2026-10-19T11:25:18Z",
-    "timestamp": 1792409118,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to \"play.\"",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50150871",
-    "source": "technologyreview.com",
-    "date": "2026-10-19T11:02:45Z",
-    "timestamp": 1792407765,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How AI is creating a lopsided US economy",
-    "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
-    "discussion_url": "https://news.ycombinator.com/item?id=50150771",
-    "source": "abc.net.au",
-    "date": "2026-10-19T10:47:37Z",
-    "timestamp": 1792406857,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Timestral: Mistral release time-series foundation models",
-    "url": "https://mistral.ai/news/timestral/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50150434",
-    "source": "mistral.ai",
-    "date": "2026-10-19T09:59:32Z",
-    "timestamp": 1792403972,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The GPU never reads the same text twice",
-    "url": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
-    "discussion_url": "https://news.ycombinator.com/item?id=50150263",
-    "source": "techradar.com",
-    "date": "2026-10-19T09:30:52Z",
-    "timestamp": 1792402252,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Free design canvas for your AI (open source)",
-    "url": "https://uidesigneditor.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50150221",
-    "source": "uidesigneditor.com",
-    "date": "2026-10-19T09:23:12Z",
-    "timestamp": 1792401792,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A New Lens on Multi-GPU Comms: API-Level Memory Models for Portable Optimization",
-    "url": "https://arxiv.org/abs/2610.16190",
-    "discussion_url": "https://news.ycombinator.com/item?id=50148527",
-    "source": "arxiv.org",
-    "date": "2026-10-19T04:57:19Z",
-    "timestamp": 1792385839,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Laptop Based on 6502 CPU",
     "url": "https://www.maddox.pro/?p=448",
     "discussion_url": "https://news.ycombinator.com/item?id=50111537",
     "source": "maddox.pro",
     "date": "2026-10-15T22:56:23Z",
     "timestamp": 1792104983,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Fun Extending the C Preprocessor",
-    "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50106792",
-    "source": "davidpriver.com",
-    "date": "2026-10-15T17:08:26Z",
-    "timestamp": 1792084106,
     "category": "Computer Architecture"
   },
   {
