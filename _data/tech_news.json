@@ -1,84 +1,138 @@
 [
   {
-    "title": "Refuseless: Open and Abliterated LLMs",
-    "url": "https://refuseless.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50161098",
-    "source": "refuseless.com",
-    "date": "2026-10-20T03:45:35Z",
-    "timestamp": 1792467935,
+    "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
+    "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+    "discussion_url": "https://news.ycombinator.com/item?id=50164424",
+    "source": "wsj.com",
+    "date": "2026-10-20T11:06:15Z",
+    "timestamp": 1792494375,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
-    "url": "https://github.com/yanacuti1121/yana-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50160774",
+    "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
+    "url": "https://arxiv.org/abs/2609.19644",
+    "discussion_url": "https://news.ycombinator.com/item?id=50164403",
+    "source": "arxiv.org",
+    "date": "2026-10-20T11:04:02Z",
+    "timestamp": 1792494242,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer",
+    "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50164120",
+    "source": "aboutamazon.com",
+    "date": "2026-10-20T10:38:07Z",
+    "timestamp": 1792492687,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Make AI coding agents verify its own work",
+    "url": "https://github.com/reticlehq/reticle",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163896",
     "source": "github.com",
-    "date": "2026-10-20T02:48:40Z",
-    "timestamp": 1792464520,
+    "date": "2026-10-20T10:20:33Z",
+    "timestamp": 1792491633,
     "category": "Machine Learning"
   },
   {
-    "title": "AI experts to school Congress wanted",
-    "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
-    "discussion_url": "https://news.ycombinator.com/item?id=50160249",
-    "source": "politico.com",
-    "date": "2026-10-20T01:28:25Z",
-    "timestamp": 1792459705,
+    "title": "DeepInfer, our in-house inference framework, now open source",
+    "url": "https://twitter.com/deepseek_ai/status/2112476496283775135",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163812",
+    "source": "twitter.com",
+    "date": "2026-10-20T10:12:46Z",
+    "timestamp": 1792491166,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Self-hosted AI spend attribution",
-    "url": "https://demo.costura.ai/overview",
-    "discussion_url": "https://news.ycombinator.com/item?id=50160102",
-    "source": "demo.costura.ai",
-    "date": "2026-10-20T01:08:20Z",
-    "timestamp": 1792458500,
+    "title": "Study: New AI tool can predict cancer survival by a single patient selfie",
+    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163691",
+    "source": "theguardian.com",
+    "date": "2026-10-20T10:01:28Z",
+    "timestamp": 1792490488,
     "category": "Machine Learning"
   },
   {
-    "title": "Self-hosted AI spend attribution",
-    "url": "https://github.com/CosturaAI/costura",
-    "discussion_url": "https://news.ycombinator.com/item?id=50160072",
+    "title": "AI slop is a human problem",
+    "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163516",
+    "source": "nishanth.blog",
+    "date": "2026-10-20T09:38:19Z",
+    "timestamp": 1792489099,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DeepSeek just open-sourced its inference engine",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163277",
     "source": "github.com",
-    "date": "2026-10-20T01:04:38Z",
-    "timestamp": 1792458278,
+    "date": "2026-10-20T09:08:54Z",
+    "timestamp": 1792487334,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Discovery Index",
-    "url": "https://mojodojo.io/ai-discovery-index",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159896",
-    "source": "mojodojo.io",
-    "date": "2026-10-20T00:38:55Z",
-    "timestamp": 1792456735,
+    "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+    "url": "https://a2oliteai.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163258",
+    "source": "a2oliteai.com",
+    "date": "2026-10-20T09:06:42Z",
+    "timestamp": 1792487202,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-    "url": "https://news.ycombinator.com/item?id=50159886",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159886",
+    "title": "Impactful Scheduling for GPU Clusters",
+    "url": "https://allenai.org/blog/impactful-scheduling",
+    "discussion_url": "https://news.ycombinator.com/item?id=50163191",
+    "source": "allenai.org",
+    "date": "2026-10-20T08:58:01Z",
+    "timestamp": 1792486681,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+    "url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50162912",
+    "source": "gil-neto.com",
+    "date": "2026-10-20T08:24:35Z",
+    "timestamp": 1792484675,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CPU-native. Deterministic. O(1) processes. – the Old New Coolness",
+    "url": "https://news.ycombinator.com/item?id=50162847",
+    "discussion_url": "https://news.ycombinator.com/item?id=50162847",
     "source": "news.ycombinator.com",
-    "date": "2026-10-20T00:37:45Z",
-    "timestamp": 1792456665,
+    "date": "2026-10-20T08:15:12Z",
+    "timestamp": 1792484112,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+    "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+    "discussion_url": "https://news.ycombinator.com/item?id=50162633",
+    "source": "youtube.com",
+    "date": "2026-10-20T07:45:05Z",
+    "timestamp": 1792482305,
     "category": "Machine Learning"
   },
   {
-    "title": "People are using AI to make smart TVs, dumb TVs",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159765",
-    "source": "techcrunch.com",
-    "date": "2026-10-20T00:19:13Z",
-    "timestamp": 1792455553,
+    "title": "Should LLMs write in mainstream languages?",
+    "url": "https://www.nobodywho.ai/posts/why-is-pi-not-written-in-lisp/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50162455",
+    "source": "nobodywho.ai",
+    "date": "2026-10-20T07:17:51Z",
+    "timestamp": 1792480671,
     "category": "Machine Learning"
   },
   {
-    "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
-    "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159754",
-    "source": "videogameschronicle.com",
-    "date": "2026-10-20T00:17:11Z",
-    "timestamp": 1792455431,
-    "category": "Machine Learning"
+    "title": "OpenPCIE – FPGA Root Complex, OpenBackplane, EduBOS5 RISC-V, Co-SIM",
+    "url": "https://github.com/chili-chips-ba/openPCIE",
+    "discussion_url": "https://news.ycombinator.com/item?id=50162122",
+    "source": "github.com",
+    "date": "2026-10-20T06:31:43Z",
+    "timestamp": 1792477903,
+    "category": "Computer Architecture"
   },
   {
     "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
@@ -88,42 +142,6 @@
     "date": "2026-10-20T00:15:09Z",
     "timestamp": 1792455309,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
-    "url": "https://github.com/SeeRay11/OpenFlow",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159710",
-    "source": "github.com",
-    "date": "2026-10-20T00:12:44Z",
-    "timestamp": 1792455164,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Chai-UI – A design system to generative AI apps",
-    "url": "https://chai-ui.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159662",
-    "source": "chai-ui.com",
-    "date": "2026-10-20T00:06:14Z",
-    "timestamp": 1792454774,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs Deal with Fraudulent Papers",
-    "url": "https://www.science.org/content/blog-post/how-llms-deal-fraudulent-papers",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159615",
-    "source": "science.org",
-    "date": "2026-10-20T00:00:43Z",
-    "timestamp": 1792454443,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",
-    "url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50159372",
-    "source": "blockclubchicago.org",
-    "date": "2026-10-19T23:27:20Z",
-    "timestamp": 1792452440,
-    "category": "Physical AI"
   },
   {
     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
@@ -141,15 +159,6 @@
     "source": "stealthium.io",
     "date": "2026-10-19T14:31:27Z",
     "timestamp": 1792420287,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "We fine-tuned a 235B model on 4 GPUs. Then we didn't need it",
-    "url": "https://blog.vertexcover.io/fine-tuning-235b-moe-four-gpus",
-    "discussion_url": "https://news.ycombinator.com/item?id=50151638",
-    "source": "blog.vertexcover.io",
-    "date": "2026-10-19T12:35:20Z",
-    "timestamp": 1792413320,
     "category": "Computer Architecture"
   },
   {
