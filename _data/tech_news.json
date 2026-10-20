@@ -1,155 +1,146 @@
 [
   {
-    "title": "Go Conventions That Clicked Too Late for an AI Engineer",
-    "url": "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2",
-    "discussion_url": "https://news.ycombinator.com/item?id=50169336",
-    "source": "towardsdev.com",
-    "date": "2026-10-20T16:59:16Z",
-    "timestamp": 1792515556,
+    "title": "Bringing AI into business is hard",
+    "url": "https://pindexis.github.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=50172442",
+    "source": "pindexis.github.io",
+    "date": "2026-10-20T20:46:30Z",
+    "timestamp": 1792529190,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Megapop – a Populous-style god game in the browser, WebGPU, no engine",
-    "url": "https://waldtier.itch.io/megapop",
-    "discussion_url": "https://news.ycombinator.com/item?id=50169128",
-    "source": "waldtier.itch.io",
-    "date": "2026-10-20T16:45:39Z",
-    "timestamp": 1792514739,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "discussion_url": "https://news.ycombinator.com/item?id=50169053",
-    "source": "github.com",
-    "date": "2026-10-20T16:40:24Z",
-    "timestamp": 1792514424,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Topology of an LLM Agent Loop with Tool Use",
-    "url": "https://blog.exe.dev/topology",
-    "discussion_url": "https://news.ycombinator.com/item?id=50169019",
-    "source": "blog.exe.dev",
-    "date": "2026-10-20T16:38:57Z",
-    "timestamp": 1792514337,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Had Better Work Out",
-    "url": "https://www.wheresyoured.at/ai-had-better-work-out/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168809",
-    "source": "wheresyoured.at",
-    "date": "2026-10-20T16:25:52Z",
-    "timestamp": 1792513552,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: armsense – firewall & router ARM64 distro based on pfSense and FreeBSD",
-    "url": "https://github.com/yadvlabs/armsense",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168709",
-    "source": "github.com",
-    "date": "2026-10-20T16:19:45Z",
-    "timestamp": 1792513185,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Public Exposure of NASA's Mission AI Hub allowed access to sensitive gov models",
-    "url": "https://twitter.com/galnagli/status/2112572671682617413",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168595",
-    "source": "twitter.com",
-    "date": "2026-10-20T16:13:16Z",
-    "timestamp": 1792512796,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Koody for Business – AI bookkeeping for people who aren't accountants",
-    "url": "https://koody.com/business",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168525",
-    "source": "koody.com",
-    "date": "2026-10-20T16:09:44Z",
-    "timestamp": 1792512584,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models told me not to start the company",
-    "url": "https://redgeoff.com/posts/dont-start-the-company/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168487",
-    "source": "redgeoff.com",
-    "date": "2026-10-20T16:07:37Z",
-    "timestamp": 1792512457,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled",
-    "url": "https://worklicant.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168474",
-    "source": "worklicant.com",
-    "date": "2026-10-20T16:07:06Z",
-    "timestamp": 1792512426,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Countercheck – re-runs your tests when an AI agent says \"done\"",
-    "url": "https://github.com/datacrate360/countercheck",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168450",
-    "source": "github.com",
-    "date": "2026-10-20T16:05:56Z",
-    "timestamp": 1792512356,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why scraping isn't enough for AI agents and how DNS-verified profiles could help",
-    "url": "https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168366",
-    "source": "github.com",
-    "date": "2026-10-20T15:59:42Z",
-    "timestamp": 1792511982,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: As developers from low-income countries,how to cope with AI replacement?",
-    "url": "https://news.ycombinator.com/item?id=50168362",
-    "discussion_url": "https://news.ycombinator.com/item?id=50168362",
+    "title": "Ask HN: Will AI = extreme concentration of power?",
+    "url": "https://news.ycombinator.com/item?id=50172133",
+    "discussion_url": "https://news.ycombinator.com/item?id=50172133",
     "source": "news.ycombinator.com",
-    "date": "2026-10-20T15:59:25Z",
-    "timestamp": 1792511965,
+    "date": "2026-10-20T20:23:04Z",
+    "timestamp": 1792527784,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence",
-    "url": "https://github.com/dib-artificial/pluto-flash",
-    "discussion_url": "https://news.ycombinator.com/item?id=50167955",
-    "source": "github.com",
-    "date": "2026-10-20T15:33:09Z",
-    "timestamp": 1792510389,
+    "title": "We need a frictionless physical AI experience for builders, makers and tinkerers",
+    "url": "https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171907",
+    "source": "blog.marcolamina.me",
+    "date": "2026-10-20T20:04:58Z",
+    "timestamp": 1792526698,
+    "category": "Physical AI"
+  },
+  {
+    "title": "On AI writing",
+    "url": "https://www.bolkunov.com/p/on-ai-writing",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171771",
+    "source": "bolkunov.com",
+    "date": "2026-10-20T19:55:11Z",
+    "timestamp": 1792526111,
     "category": "Machine Learning"
   },
   {
-    "title": "The Subprocessor List Is the Real Privacy Policy",
-    "url": "https://xavier.xfaang.com/blog/2026-10-20.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50167683",
-    "source": "xavier.xfaang.com",
-    "date": "2026-10-20T15:16:08Z",
-    "timestamp": 1792509368,
+    "title": "Waste tsunami. Water and the hidden cost of AI data centres",
+    "url": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171570",
+    "source": "michaelwest.com.au",
+    "date": "2026-10-20T19:37:54Z",
+    "timestamp": 1792525074,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Building a Robot Owl with No Robotics Experience",
+    "url": "https://mattcool.tech/posts/hoot-a-small-robot-companion-for-learning/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171498",
+    "source": "mattcool.tech",
+    "date": "2026-10-20T19:32:06Z",
+    "timestamp": 1792524726,
+    "category": "Physical AI"
+  },
+  {
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171379",
+    "source": "danielball.com",
+    "date": "2026-10-20T19:22:39Z",
+    "timestamp": 1792524159,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic redesigned source-control for AI agents",
+    "url": "https://www.anthropic.com/research/redesigning-source-control",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171167",
+    "source": "anthropic.com",
+    "date": "2026-10-20T19:08:21Z",
+    "timestamp": 1792523301,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cold starting a 32B model in 1.1s with GPU checkpoint/restore",
+    "url": "https://numerata.com/blog/post-gpu-cold-start-checkpoint-restore",
+    "discussion_url": "https://news.ycombinator.com/item?id=50171082",
+    "source": "numerata.com",
+    "date": "2026-10-20T19:03:19Z",
+    "timestamp": 1792522999,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "url": "https://jevcards.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50167617",
-    "source": "jevcards.com",
-    "date": "2026-10-20T15:11:56Z",
-    "timestamp": 1792509116,
-    "category": "Computer Vision"
+    "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+    "url": "https://rocus.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170581",
+    "source": "rocus.io",
+    "date": "2026-10-20T18:28:16Z",
+    "timestamp": 1792520896,
+    "category": "Machine Learning"
   },
   {
-    "title": "AI Reasoning Without GPU",
-    "url": "https://fleetingswallow.com/introducing-minotaur-a-gpuless-ai-architecture/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50166901",
-    "source": "fleetingswallow.com",
-    "date": "2026-10-20T14:22:41Z",
-    "timestamp": 1792506161,
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170566",
+    "source": "technologyreview.com",
+    "date": "2026-10-20T18:27:29Z",
+    "timestamp": 1792520849,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
+    "url": "https://www.minlit.app/ask",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170441",
+    "source": "minlit.app",
+    "date": "2026-10-20T18:19:25Z",
+    "timestamp": 1792520365,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
+    "url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170384",
+    "source": "respawnfirst.com",
+    "date": "2026-10-20T18:15:00Z",
+    "timestamp": 1792520100,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
+    "url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170304",
+    "source": "apnews.com",
+    "date": "2026-10-20T18:09:24Z",
+    "timestamp": 1792519764,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Kiwi AI tech saving our native bush from pests",
+    "url": "https://www.rnz.co.nz/news/environment/2044455/the-kiwi-ai-tech-saving-our-native-bush-from-pests",
+    "discussion_url": "https://news.ycombinator.com/item?id=50170254",
+    "source": "rnz.co.nz",
+    "date": "2026-10-20T18:06:02Z",
+    "timestamp": 1792519562,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linux 7.4 Removing Its Broken and Rarely Touched Code for ARM64 Big Endian",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE",
+    "discussion_url": "https://news.ycombinator.com/item?id=50169559",
+    "source": "phoronix.com",
+    "date": "2026-10-20T17:14:27Z",
+    "timestamp": 1792516467,
     "category": "Computer Architecture"
   },
   {
