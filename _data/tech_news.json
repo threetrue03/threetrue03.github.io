@@ -1,12 +1,129 @@
 [
   {
-    "title": "AI models can get brain rot, too",
-    "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50158679",
-    "source": "news.engineering.tamu.edu",
-    "date": "2026-10-19T22:01:26Z",
-    "timestamp": 1792447286,
+    "title": "Refuseless: Open and Abliterated LLMs",
+    "url": "https://refuseless.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50161098",
+    "source": "refuseless.com",
+    "date": "2026-10-20T03:45:35Z",
+    "timestamp": 1792467935,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+    "url": "https://github.com/yanacuti1121/yana-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50160774",
+    "source": "github.com",
+    "date": "2026-10-20T02:48:40Z",
+    "timestamp": 1792464520,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI experts to school Congress wanted",
+    "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
+    "discussion_url": "https://news.ycombinator.com/item?id=50160249",
+    "source": "politico.com",
+    "date": "2026-10-20T01:28:25Z",
+    "timestamp": 1792459705,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Self-hosted AI spend attribution",
+    "url": "https://demo.costura.ai/overview",
+    "discussion_url": "https://news.ycombinator.com/item?id=50160102",
+    "source": "demo.costura.ai",
+    "date": "2026-10-20T01:08:20Z",
+    "timestamp": 1792458500,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Self-hosted AI spend attribution",
+    "url": "https://github.com/CosturaAI/costura",
+    "discussion_url": "https://news.ycombinator.com/item?id=50160072",
+    "source": "github.com",
+    "date": "2026-10-20T01:04:38Z",
+    "timestamp": 1792458278,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Discovery Index",
+    "url": "https://mojodojo.io/ai-discovery-index",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159896",
+    "source": "mojodojo.io",
+    "date": "2026-10-20T00:38:55Z",
+    "timestamp": 1792456735,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What have you built privately with AI that you'd like to share?",
+    "url": "https://news.ycombinator.com/item?id=50159886",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159886",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-20T00:37:45Z",
+    "timestamp": 1792456665,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "People are using AI to make smart TVs, dumb TVs",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159765",
+    "source": "techcrunch.com",
+    "date": "2026-10-20T00:19:13Z",
+    "timestamp": 1792455553,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
+    "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159754",
+    "source": "videogameschronicle.com",
+    "date": "2026-10-20T00:17:11Z",
+    "timestamp": 1792455431,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
+    "url": "https://skymizer.ai/products/htx301/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159734",
+    "source": "skymizer.ai",
+    "date": "2026-10-20T00:15:09Z",
+    "timestamp": 1792455309,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
+    "url": "https://github.com/SeeRay11/OpenFlow",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159710",
+    "source": "github.com",
+    "date": "2026-10-20T00:12:44Z",
+    "timestamp": 1792455164,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Chai-UI – A design system to generative AI apps",
+    "url": "https://chai-ui.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159662",
+    "source": "chai-ui.com",
+    "date": "2026-10-20T00:06:14Z",
+    "timestamp": 1792454774,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs Deal with Fraudulent Papers",
+    "url": "https://www.science.org/content/blog-post/how-llms-deal-fraudulent-papers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159615",
+    "source": "science.org",
+    "date": "2026-10-20T00:00:43Z",
+    "timestamp": 1792454443,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",
+    "url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50159372",
+    "source": "blockclubchicago.org",
+    "date": "2026-10-19T23:27:20Z",
+    "timestamp": 1792452440,
+    "category": "Physical AI"
   },
   {
     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
@@ -15,159 +132,6 @@
     "source": "bsd.network",
     "date": "2026-10-19T21:11:45Z",
     "timestamp": 1792444305,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Scope: Open-source evaluation for AI coding agents",
-    "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157945",
-    "source": "opensource.microsoft.com",
-    "date": "2026-10-19T20:57:44Z",
-    "timestamp": 1792443464,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-    "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157926",
-    "source": "skills.sh",
-    "date": "2026-10-19T20:55:51Z",
-    "timestamp": 1792443351,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-    "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157912",
-    "source": "openmarketsinstitute.org",
-    "date": "2026-10-19T20:54:50Z",
-    "timestamp": 1792443290,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Blocking the Internet Archive Will Not Stop AI",
-    "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157858",
-    "source": "theatlantic.com",
-    "date": "2026-10-19T20:49:29Z",
-    "timestamp": 1792442969,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Overmind: Cut PyTorch model load time 15s to 0.2s with a zero-copy shared cache",
-    "url": "https://github.com/meshy-dev/overmind",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157696",
-    "source": "github.com",
-    "date": "2026-10-19T20:34:39Z",
-    "timestamp": 1792442079,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157504",
-    "source": "blog.cloudflare.com",
-    "date": "2026-10-19T20:16:45Z",
-    "timestamp": 1792441005,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Time to LLM Post",
-    "url": "https://news.ycombinator.com/item?id=50157348",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157348",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-19T20:04:37Z",
-    "timestamp": 1792440277,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
-    "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157257",
-    "source": "techstrong.it",
-    "date": "2026-10-19T19:56:58Z",
-    "timestamp": 1792439818,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Robotics startup with $10–12 meals delivered in SF",
-    "url": "https://www.dailys.menu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157175",
-    "source": "dailys.menu",
-    "date": "2026-10-19T19:50:26Z",
-    "timestamp": 1792439426,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
-    "url": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157158",
-    "source": "phoronix.com",
-    "date": "2026-10-19T19:48:58Z",
-    "timestamp": 1792439338,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "RISC-V Silicon Fabricated on Intel 3 in Major Chip Milestone",
-    "url": "https://hothardware.com/news/risc-v-fabbed-on-intel-3-bzl",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157104",
-    "source": "hothardware.com",
-    "date": "2026-10-19T19:44:10Z",
-    "timestamp": 1792439050,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "What is still hard to become good at as AI makes coding easier?",
-    "url": "https://news.ycombinator.com/item?id=50157098",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157098",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-19T19:43:46Z",
-    "timestamp": 1792439026,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built a crane robot to clean my house [video]",
-    "url": "https://www.youtube.com/watch?v=vsL1EHt5iBY",
-    "discussion_url": "https://news.ycombinator.com/item?id=50157059",
-    "source": "youtube.com",
-    "date": "2026-10-19T19:40:46Z",
-    "timestamp": 1792438846,
-    "category": "Physical AI"
-  },
-  {
-    "title": "SpacemiT Announces the V100 Server-Class RISC-V Processor",
-    "url": "https://www.phoronix.com/news/SpacemiT-V100",
-    "discussion_url": "https://news.ycombinator.com/item?id=50156860",
-    "source": "phoronix.com",
-    "date": "2026-10-19T19:27:19Z",
-    "timestamp": 1792438039,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Maali – Privacy-first personal finance app with a local AI analyst",
-    "url": "https://maali.app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50156825",
-    "source": "maali.app",
-    "date": "2026-10-19T19:25:03Z",
-    "timestamp": 1792437903,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Matrix for Robots",
-    "url": "https://twitter.com/luckyrobots/status/2112247781188637071",
-    "discussion_url": "https://news.ycombinator.com/item?id=50156571",
-    "source": "twitter.com",
-    "date": "2026-10-19T19:06:36Z",
-    "timestamp": 1792436796,
-    "category": "Physical AI"
-  },
-  {
-    "title": "We kept renting GPUs after getting 7 quotes to buy them",
-    "url": "https://www.searchagora.com/blog/why-we-kept-renting-gpus-after-getting-7-quotes-to-buy-them",
-    "discussion_url": "https://news.ycombinator.com/item?id=50156523",
-    "source": "searchagora.com",
-    "date": "2026-10-19T19:03:28Z",
-    "timestamp": 1792436608,
     "category": "Computer Architecture"
   },
   {
