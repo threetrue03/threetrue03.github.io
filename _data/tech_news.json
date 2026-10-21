@@ -1,137 +1,146 @@
 [
   {
-    "title": "Show HN: Qovilio – an AI that reads your bills and lists your subscriptions",
-    "url": "https://qovilio.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50179151",
-    "source": "qovilio.com",
-    "date": "2026-10-21T11:32:55Z",
-    "timestamp": 1792582375,
+    "title": "Jax4j: NumPy-style tensors and automatic differentiation for Java",
+    "url": "https://nablatensor.com/blog/numpy-for-java-jax4j",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183966",
+    "source": "nablatensor.com",
+    "date": "2026-10-21T16:49:06Z",
+    "timestamp": 1792601346,
     "category": "Machine Learning"
   },
   {
-    "title": "Chinese AI Tool Linked to Hacks in Japan",
-    "url": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b",
-    "discussion_url": "https://news.ycombinator.com/item?id=50179112",
-    "source": "wsj.com",
-    "date": "2026-10-21T11:28:16Z",
-    "timestamp": 1792582096,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Releases Flare, a Blackwell LLM Inference",
-    "url": "https://news.ycombinator.com/item?id=50179088",
-    "discussion_url": "https://news.ycombinator.com/item?id=50179088",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-21T11:26:15Z",
-    "timestamp": 1792581975,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Private and OpenAI-Comp. Inference Engine for Nvidia Linux and Apple Silicon",
-    "url": "https://github.com/tara-vision/taraengine",
-    "discussion_url": "https://news.ycombinator.com/item?id=50178808",
-    "source": "github.com",
-    "date": "2026-10-21T10:52:28Z",
-    "timestamp": 1792579948,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
-    "url": "https://github.com/blue-idea/linkit",
-    "discussion_url": "https://news.ycombinator.com/item?id=50178218",
-    "source": "github.com",
-    "date": "2026-10-21T09:51:41Z",
-    "timestamp": 1792576301,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ahead-of-Time Compilation of JavaScript to WebAssembly via Static Type Inference [video]",
-    "url": "https://vimeo.com/1234257957",
-    "discussion_url": "https://news.ycombinator.com/item?id=50177557",
-    "source": "vimeo.com",
-    "date": "2026-10-21T08:17:51Z",
-    "timestamp": 1792570671,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Slowdown, What Slowdown?",
-    "url": "https://13trillionparameters.com/comics/003-the-slowdown",
-    "discussion_url": "https://news.ycombinator.com/item?id=50177327",
-    "source": "13trillionparameters.com",
-    "date": "2026-10-21T07:43:19Z",
-    "timestamp": 1792568599,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
-    "url": "https://www.uber.com/us/en/blog/ai-code-cleanup/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50177259",
-    "source": "uber.com",
-    "date": "2026-10-21T07:33:29Z",
-    "timestamp": 1792568009,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: See AI trends heat up in real time",
-    "url": "https://ai-news.jagular.io",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176960",
-    "source": "ai-news.jagular.io",
-    "date": "2026-10-21T06:49:14Z",
-    "timestamp": 1792565354,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Grafista – AI graphic designer built to fight slop",
-    "url": "https://grafista.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176914",
-    "source": "grafista.io",
-    "date": "2026-10-21T06:43:17Z",
-    "timestamp": 1792564997,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176872",
-    "source": "tomshardware.com",
-    "date": "2026-10-21T06:37:47Z",
-    "timestamp": 1792564667,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Android 17 for RISC-V Available for the RVA23 Profile Through Rise",
-    "url": "https://riseproject.dev/2026/10/20/android-17-available-on-rva23-with-rise/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176578",
-    "source": "riseproject.dev",
-    "date": "2026-10-21T05:51:41Z",
-    "timestamp": 1792561901,
+    "title": "Nvidia GPUs sit idle in Meta's Prometheus",
+    "url": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183876",
+    "source": "theregister.com",
+    "date": "2026-10-21T16:43:51Z",
+    "timestamp": 1792601031,
     "category": "Computer Architecture"
   },
   {
-    "title": "AI Benchmarks: Climbing the Wrong Hills",
-    "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176528",
-    "source": "research.contrary.com",
-    "date": "2026-10-21T05:46:13Z",
-    "timestamp": 1792561573,
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "url": "https://rustoffrails.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183727",
+    "source": "rustoffrails.org",
+    "date": "2026-10-21T16:34:16Z",
+    "timestamp": 1792600456,
     "category": "Machine Learning"
   },
   {
-    "title": "Delivery Robots Accused of Scanning Customers' Faces and Sharing Biometric Data",
-    "url": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
-    "discussion_url": "https://news.ycombinator.com/item?id=50176483",
-    "source": "apnews.com",
-    "date": "2026-10-21T05:38:03Z",
-    "timestamp": 1792561083,
-    "category": "Physical AI"
+    "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+    "url": "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183655",
+    "source": "pcmag.com",
+    "date": "2026-10-21T16:30:11Z",
+    "timestamp": 1792600211,
+    "category": "Machine Learning"
   },
   {
-    "title": "UALink – Ultra Accelerator Link – Open-Source/Hardware Alternative to NVLink",
-    "url": "https://en.wikipedia.org/wiki/UALink",
-    "discussion_url": "https://news.ycombinator.com/item?id=50175806",
-    "source": "en.wikipedia.org",
-    "date": "2026-10-21T03:39:56Z",
-    "timestamp": 1792553996,
+    "title": "Some Initial Thoughts on Nick Cammarata's \"Neural Networks Are Clean\"",
+    "url": "https://livgorton.com/already-clean-thoughts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183638",
+    "source": "livgorton.com",
+    "date": "2026-10-21T16:28:56Z",
+    "timestamp": 1792600136,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Sam Altman on Why AI Hasn't Killed Coding Jobs",
+    "url": "https://twitter.com/MatthewBerman/status/2112930776811806874",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183471",
+    "source": "twitter.com",
+    "date": "2026-10-21T16:17:47Z",
+    "timestamp": 1792599467,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alan Turing Institute wants to build a UK AI model from scratch and make it free",
+    "url": "https://hotminute.co.uk/2026/10/21/the-alan-turing-institute-wants-to-build-a-uk-ai-model-from-scratch-and-release-it-for-free-to-the-public/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183469",
+    "source": "hotminute.co.uk",
+    "date": "2026-10-21T16:17:41Z",
+    "timestamp": 1792599461,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Nysa – Shared memory for teams that work with AI agents",
+    "url": "https://usenysa.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183382",
+    "source": "usenysa.com",
+    "date": "2026-10-21T16:11:17Z",
+    "timestamp": 1792599077,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI agent fixed the bug, but what else did it change?",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183253",
+    "source": "blog.trailofbits.com",
+    "date": "2026-10-21T16:03:32Z",
+    "timestamp": 1792598612,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+    "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183227",
+    "source": "pawmc-demo.kolaegipet.workers.dev",
+    "date": "2026-10-21T16:01:32Z",
+    "timestamp": 1792598492,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The state of AI coding interviews, 2026",
+    "url": "https://nyrion.ai/research/ai-coding-interviews-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183088",
+    "source": "nyrion.ai",
+    "date": "2026-10-21T15:55:00Z",
+    "timestamp": 1792598100,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPUThor: Amplifying Rowhammer Attacks to Exploit ECC-Protected GPUs",
+    "url": "https://gputhor.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50183064",
+    "source": "gputhor.com",
+    "date": "2026-10-21T15:53:19Z",
+    "timestamp": 1792597999,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Open-source, cross-harness memory for AI agents",
+    "url": "https://news.ycombinator.com/item?id=50182883",
+    "discussion_url": "https://news.ycombinator.com/item?id=50182883",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-21T15:42:38Z",
+    "timestamp": 1792597358,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FS-SSD: a drive that serves files over NVMe – built for the accelerator era [pdf]",
+    "url": "https://www.fadu.io/files/whitepaper/FSSSD_whitepaper-1.0.2.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50182877",
+    "source": "fadu.io",
+    "date": "2026-10-21T15:42:17Z",
+    "timestamp": 1792597337,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Modular AI Data center presented by Nvidia",
+    "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50182659",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-21T15:28:25Z",
+    "timestamp": 1792596505,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+    "url": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+    "discussion_url": "https://news.ycombinator.com/item?id=50181856",
+    "source": "tomshardware.com",
+    "date": "2026-10-21T14:41:23Z",
+    "timestamp": 1792593683,
     "category": "Computer Architecture"
   },
   {
@@ -151,14 +160,5 @@
     "date": "2026-10-20T15:11:56Z",
     "timestamp": 1792509116,
     "category": "Computer Vision"
-  },
-  {
-    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "url": "https://bsd.network/@brynet/117407035545900963",
-    "discussion_url": "https://news.ycombinator.com/item?id=50158138",
-    "source": "bsd.network",
-    "date": "2026-10-19T21:11:45Z",
-    "timestamp": 1792444305,
-    "category": "Computer Architecture"
   }
 ]
