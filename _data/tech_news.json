@@ -1,12 +1,138 @@
 [
   {
-    "title": "Jax4j: NumPy-style tensors and automatic differentiation for Java",
-    "url": "https://nablatensor.com/blog/numpy-for-java-jax4j",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183966",
-    "source": "nablatensor.com",
-    "date": "2026-10-21T16:49:06Z",
-    "timestamp": 1792601346,
+    "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
+    "url": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187972",
+    "source": "unite.ai",
+    "date": "2026-10-21T21:33:18Z",
+    "timestamp": 1792618398,
     "category": "Machine Learning"
+  },
+  {
+    "title": "LiteLLM 1.107.0 wheels on PyPI are compromised",
+    "url": "https://twitter.com/LiteLLM/status/2112945728565993864",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187940",
+    "source": "twitter.com",
+    "date": "2026-10-21T21:30:40Z",
+    "timestamp": 1792618240,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+    "url": "https://www.reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187456",
+    "source": "reuters.com",
+    "date": "2026-10-21T20:52:33Z",
+    "timestamp": 1792615953,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Anti-Punk",
+    "url": "https://www.techdirt.com/2026/10/21/ai-is-anti-punk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187406",
+    "source": "techdirt.com",
+    "date": "2026-10-21T20:48:31Z",
+    "timestamp": 1792615711,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
+    "url": "https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187400",
+    "source": "reuters.com",
+    "date": "2026-10-21T20:47:38Z",
+    "timestamp": 1792615658,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built a neural network using DOOM games",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187309",
+    "source": "github.com",
+    "date": "2026-10-21T20:40:03Z",
+    "timestamp": 1792615203,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "discussion_url": "https://news.ycombinator.com/item?id=50187248",
+    "source": "arxiv.org",
+    "date": "2026-10-21T20:35:09Z",
+    "timestamp": 1792614909,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Indiana Jones and the Fate of Atlantis (2026) – Fan Film Live-Action AI Concept [video]",
+    "url": "https://www.youtube.com/watch?v=O8k7PP38gws",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186960",
+    "source": "youtube.com",
+    "date": "2026-10-21T20:12:28Z",
+    "timestamp": 1792613548,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
+    "url": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186310",
+    "source": "techstrong.ai",
+    "date": "2026-10-21T19:31:37Z",
+    "timestamp": 1792611097,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The $15B 'viral' AI startup changing how American doctors treat patients",
+    "url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186265",
+    "source": "ft.com",
+    "date": "2026-10-21T19:29:10Z",
+    "timestamp": 1792610950,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Security Through Obscurity Is Dead and LLMs Killed It – Brendan Dolan Gavitt [video]",
+    "url": "https://www.youtube.com/watch?v=8rOY3aD1yxY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186256",
+    "source": "youtube.com",
+    "date": "2026-10-21T19:28:48Z",
+    "timestamp": 1792610928,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50186197",
+    "source": "elonlit.com",
+    "date": "2026-10-21T19:25:32Z",
+    "timestamp": 1792610732,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Running ClickHouse on Nvidia Vera CPU",
+    "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+    "discussion_url": "https://news.ycombinator.com/item?id=50185777",
+    "source": "clickhouse.com",
+    "date": "2026-10-21T18:55:25Z",
+    "timestamp": 1792608925,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A complete open-source FPGA replica of the Soviet-era Vector-06C home computer",
+    "url": "https://svofski.github.io/vector06cc/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50185598",
+    "source": "svofski.github.io",
+    "date": "2026-10-21T18:43:00Z",
+    "timestamp": 1792608180,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Lucid's 25,000 Bolt robotaxis will run on Nvidia's self-driving software",
+    "url": "https://electrek.co/2026/10/21/lucid-bolt-robotaxi-nvidia-alpamayo-madrid-2027/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50184967",
+    "source": "electrek.co",
+    "date": "2026-10-21T17:54:18Z",
+    "timestamp": 1792605258,
+    "category": "Physical AI"
   },
   {
     "title": "Nvidia GPUs sit idle in Meta's Prometheus",
@@ -16,149 +142,5 @@
     "date": "2026-10-21T16:43:51Z",
     "timestamp": 1792601031,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Rust off Rails: The opinionated web stack for the AI era",
-    "url": "https://rustoffrails.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183727",
-    "source": "rustoffrails.org",
-    "date": "2026-10-21T16:34:16Z",
-    "timestamp": 1792600456,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
-    "url": "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183655",
-    "source": "pcmag.com",
-    "date": "2026-10-21T16:30:11Z",
-    "timestamp": 1792600211,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Some Initial Thoughts on Nick Cammarata's \"Neural Networks Are Clean\"",
-    "url": "https://livgorton.com/already-clean-thoughts/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183638",
-    "source": "livgorton.com",
-    "date": "2026-10-21T16:28:56Z",
-    "timestamp": 1792600136,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sam Altman on Why AI Hasn't Killed Coding Jobs",
-    "url": "https://twitter.com/MatthewBerman/status/2112930776811806874",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183471",
-    "source": "twitter.com",
-    "date": "2026-10-21T16:17:47Z",
-    "timestamp": 1792599467,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alan Turing Institute wants to build a UK AI model from scratch and make it free",
-    "url": "https://hotminute.co.uk/2026/10/21/the-alan-turing-institute-wants-to-build-a-uk-ai-model-from-scratch-and-release-it-for-free-to-the-public/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183469",
-    "source": "hotminute.co.uk",
-    "date": "2026-10-21T16:17:41Z",
-    "timestamp": 1792599461,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Nysa – Shared memory for teams that work with AI agents",
-    "url": "https://usenysa.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183382",
-    "source": "usenysa.com",
-    "date": "2026-10-21T16:11:17Z",
-    "timestamp": 1792599077,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agent fixed the bug, but what else did it change?",
-    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183253",
-    "source": "blog.trailofbits.com",
-    "date": "2026-10-21T16:03:32Z",
-    "timestamp": 1792598612,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
-    "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183227",
-    "source": "pawmc-demo.kolaegipet.workers.dev",
-    "date": "2026-10-21T16:01:32Z",
-    "timestamp": 1792598492,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The state of AI coding interviews, 2026",
-    "url": "https://nyrion.ai/research/ai-coding-interviews-2026",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183088",
-    "source": "nyrion.ai",
-    "date": "2026-10-21T15:55:00Z",
-    "timestamp": 1792598100,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPUThor: Amplifying Rowhammer Attacks to Exploit ECC-Protected GPUs",
-    "url": "https://gputhor.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50183064",
-    "source": "gputhor.com",
-    "date": "2026-10-21T15:53:19Z",
-    "timestamp": 1792597999,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Open-source, cross-harness memory for AI agents",
-    "url": "https://news.ycombinator.com/item?id=50182883",
-    "discussion_url": "https://news.ycombinator.com/item?id=50182883",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-21T15:42:38Z",
-    "timestamp": 1792597358,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "FS-SSD: a drive that serves files over NVMe – built for the accelerator era [pdf]",
-    "url": "https://www.fadu.io/files/whitepaper/FSSSD_whitepaper-1.0.2.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50182877",
-    "source": "fadu.io",
-    "date": "2026-10-21T15:42:17Z",
-    "timestamp": 1792597337,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Modular AI Data center presented by Nvidia",
-    "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50182659",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-21T15:28:25Z",
-    "timestamp": 1792596505,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
-    "url": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
-    "discussion_url": "https://news.ycombinator.com/item?id=50181856",
-    "source": "tomshardware.com",
-    "date": "2026-10-21T14:41:23Z",
-    "timestamp": 1792593683,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
-    "url": "https://gamowlabs.com/lab-robot-bench-v0-1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50174317",
-    "source": "gamowlabs.com",
-    "date": "2026-10-20T23:55:03Z",
-    "timestamp": 1792540503,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "url": "https://jevcards.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50167617",
-    "source": "jevcards.com",
-    "date": "2026-10-20T15:11:56Z",
-    "timestamp": 1792509116,
-    "category": "Computer Vision"
   }
 ]
