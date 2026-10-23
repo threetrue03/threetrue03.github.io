@@ -1,146 +1,137 @@
 [
   {
-    "title": "AI Agents Kinda Broke the Internet",
-    "url": "https://jacobg.co/ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50204300",
-    "source": "jacobg.co",
-    "date": "2026-10-23T03:48:55Z",
-    "timestamp": 1792727335,
+    "title": "Show HN: Best otaku AI to chat about Anime with",
+    "url": "https://otaku.animearray.site/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206876",
+    "source": "otaku.animearray.site",
+    "date": "2026-10-23T10:36:24Z",
+    "timestamp": 1792751784,
     "category": "Machine Learning"
   },
   {
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "url": "https://zordt.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203789",
-    "source": "zordt.com",
-    "date": "2026-10-23T02:25:18Z",
-    "timestamp": 1792722318,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
-    "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203770",
-    "source": "thenextweb.com",
-    "date": "2026-10-23T02:21:45Z",
-    "timestamp": 1792722105,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-    "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203597",
-    "source": "wsj.com",
-    "date": "2026-10-23T01:50:06Z",
-    "timestamp": 1792720206,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Humming: Fast, Flexible Kernels for Quantized Inference",
-    "url": "https://vllm.ai/blog/2026-10-21-humming",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203547",
-    "source": "vllm.ai",
-    "date": "2026-10-23T01:42:24Z",
-    "timestamp": 1792719744,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
-    "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203502",
-    "source": "greyenlightenment.com",
-    "date": "2026-10-23T01:37:19Z",
-    "timestamp": 1792719439,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canva's first in-house AI image model plans designs before generating them",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "discussion_url": "https://news.ycombinator.com/item?id=50203240",
-    "source": "theverge.com",
-    "date": "2026-10-23T01:04:26Z",
-    "timestamp": 1792717466,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-    "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202831",
-    "source": "axios.com",
-    "date": "2026-10-23T00:06:50Z",
-    "timestamp": 1792714010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
-    "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202819",
-    "source": "aswathdamodaran.substack.com",
-    "date": "2026-10-23T00:05:56Z",
-    "timestamp": 1792713956,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI compute is the new oil–and needs a new market",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202671",
-    "source": "economist.com",
-    "date": "2026-10-22T23:45:16Z",
-    "timestamp": 1792712716,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Next Bottleneck in AI for Science",
-    "url": "https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202520",
-    "source": "mixtureofexperts.co",
-    "date": "2026-10-22T23:28:17Z",
-    "timestamp": 1792711697,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US appeals court ejects judge from case over AI errors",
-    "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202373",
-    "source": "reuters.com",
-    "date": "2026-10-22T23:11:19Z",
-    "timestamp": 1792710679,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canva's image model reaches #4 on Design Arena",
-    "url": "https://twitter.com/DesignArena/status/2113349031762268476",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202345",
-    "source": "twitter.com",
-    "date": "2026-10-22T23:07:42Z",
-    "timestamp": 1792710462,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50202340",
-    "source": "404media.co",
-    "date": "2026-10-22T23:07:16Z",
-    "timestamp": 1792710436,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cyberpunk 2077 in WebGPU",
-    "url": "https://twitter.com/omonkeyzz/status/2113389957968785510",
-    "discussion_url": "https://news.ycombinator.com/item?id=50201922",
-    "source": "twitter.com",
-    "date": "2026-10-22T22:24:30Z",
-    "timestamp": 1792707870,
+    "title": "Free Cached Input",
+    "url": "https://runinfra.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206821",
+    "source": "runinfra.ai",
+    "date": "2026-10-23T10:28:49Z",
+    "timestamp": 1792751329,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: CNET – Complex-valued neural networks from scratch in C++/CUDA",
-    "url": "https://github.com/crasmarum/CNet",
-    "discussion_url": "https://news.ycombinator.com/item?id=50201717",
+    "title": "How Generative AI Is Scaling Transnational Repression",
+    "url": "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206724",
+    "source": "justsecurity.org",
+    "date": "2026-10-23T10:15:11Z",
+    "timestamp": 1792750511,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and its main promoters are not enterprise-ready, says Gartner",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206663",
+    "source": "theregister.com",
+    "date": "2026-10-23T10:05:51Z",
+    "timestamp": 1792749951,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to do ambitious things with AI (parent friendly)",
+    "url": "https://dhruvagoyal.com/blog/how-to-do-ambitious-things-with-ai-parent-friendly/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206641",
+    "source": "dhruvagoyal.com",
+    "date": "2026-10-23T10:01:28Z",
+    "timestamp": 1792749688,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Embracing the dark side – An Aristotelian analysis of large language models",
+    "url": "https://adamschaefers.com/blog/2026-10-21-embracing-the-dark-side/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206566",
+    "source": "adamschaefers.com",
+    "date": "2026-10-23T09:50:59Z",
+    "timestamp": 1792749059,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to become a top-tier AI agent user (0.01%)?",
+    "url": "https://news.ycombinator.com/item?id=50206325",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206325",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-23T09:15:08Z",
+    "timestamp": 1792746908,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ukraine is wiping out Russian data centers, setting its AI race back",
+    "url": "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206324",
+    "source": "fortune.com",
+    "date": "2026-10-23T09:15:06Z",
+    "timestamp": 1792746906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A new Digital Audio Workstation created using AI",
+    "url": "https://github.com/BurningTreeC/faderframe",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206311",
     "source": "github.com",
-    "date": "2026-10-22T22:05:20Z",
-    "timestamp": 1792706720,
+    "date": "2026-10-23T09:13:42Z",
+    "timestamp": 1792746822,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fortescue is using KUKA welding robots to handle 6 MW charging cables",
+    "url": "https://electrek.co/2026/10/22/fortescue-is-using-kuka-welding-robots-to-handle-6-mw-charging-cables-video/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206190",
+    "source": "electrek.co",
+    "date": "2026-10-23T08:57:31Z",
+    "timestamp": 1792745851,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Can AI predict cancer survival better than a doctor? I have my doubts",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+    "discussion_url": "https://news.ycombinator.com/item?id=50206162",
+    "source": "theguardian.com",
+    "date": "2026-10-23T08:53:24Z",
+    "timestamp": 1792745604,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China offered European Commission to join its AI alliance",
+    "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50205972",
+    "source": "rapporteur.com",
+    "date": "2026-10-23T08:28:11Z",
+    "timestamp": 1792744091,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Unauthorized AI agents are reportedly accessing US bank accounts",
+    "url": "https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti",
+    "discussion_url": "https://news.ycombinator.com/item?id=50205590",
+    "source": "msn.com",
+    "date": "2026-10-23T07:31:28Z",
+    "timestamp": 1792740688,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+    "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+    "discussion_url": "https://news.ycombinator.com/item?id=50205229",
+    "source": "berget.ai",
+    "date": "2026-10-23T06:41:11Z",
+    "timestamp": 1792737671,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models",
+    "url": "https://quantized.uk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50204153",
+    "source": "quantized.uk",
+    "date": "2026-10-23T03:25:46Z",
+    "timestamp": 1792725946,
     "category": "Computer Architecture"
   },
   {
