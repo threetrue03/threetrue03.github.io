@@ -1,6 +1,141 @@
 [
   {
-    "title": "Auto-exist – Flow-state induction via raw mouse input (a biohacking experiment)",
+    "title": "From Software Engineering to AI Research or a Tale of 413 \"No\"",
+    "url": "https://faillearnrepeat.net/blog/from-swe-to-ai-research/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50222088",
+    "source": "faillearnrepeat.net",
+    "date": "2026-10-24T15:15:40Z",
+    "timestamp": 1792854940,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DetectorScope: AI text detectors that show their work",
+    "url": "https://github.com/google-deepmind/detectorscope",
+    "discussion_url": "https://news.ycombinator.com/item?id=50222061",
+    "source": "github.com",
+    "date": "2026-10-24T15:13:07Z",
+    "timestamp": 1792854787,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Glyphh Ada: Decision model that learns from your past decisions, no transformer",
+    "url": "https://glyphh.ai/blog/introducing-ada",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221793",
+    "source": "glyphh.ai",
+    "date": "2026-10-24T14:48:37Z",
+    "timestamp": 1792853317,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
+    "url": "https://arxiv.org/abs/2604.04721",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221762",
+    "source": "arxiv.org",
+    "date": "2026-10-24T14:45:29Z",
+    "timestamp": 1792853129,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI Saved My Company From a 2-Year Litigation Nightmare",
+    "url": "https://tylertringas.com/ai-legal/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221750",
+    "source": "tylertringas.com",
+    "date": "2026-10-24T14:44:27Z",
+    "timestamp": 1792853067,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "BeNice Closing the Inference-Memory Gap of Looped Models with KV-Sharing",
+    "url": "https://sandyresearch.github.io/benice/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221659",
+    "source": "sandyresearch.github.io",
+    "date": "2026-10-24T14:36:53Z",
+    "timestamp": 1792852613,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI gets about 10x cheaper every year",
+    "url": "https://stevekrouse.com/10x",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221446",
+    "source": "stevekrouse.com",
+    "date": "2026-10-24T14:15:23Z",
+    "timestamp": 1792851323,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US Air Force wants AI to assist aerial refueling",
+    "url": "https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50221226",
+    "source": "militarytimes.com",
+    "date": "2026-10-24T13:52:56Z",
+    "timestamp": 1792849976,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is AI just another get rich quick scheme?",
+    "url": "https://news.ycombinator.com/item?id=50220934",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220934",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-24T13:11:37Z",
+    "timestamp": 1792847497,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia B300 GPUs on Chinese Networks: 12,000 GPU Study",
+    "url": "https://lava.security/blog/nvidia-b300-gpus-china",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220906",
+    "source": "lava.security",
+    "date": "2026-10-24T13:09:07Z",
+    "timestamp": 1792847347,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
+    "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220831",
+    "source": "substack.norabble.com",
+    "date": "2026-10-24T12:57:53Z",
+    "timestamp": 1792846673,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia's RTX Spark has an NPU, I spent a week figuring it out",
+    "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220703",
+    "source": "xda-developers.com",
+    "date": "2026-10-24T12:40:13Z",
+    "timestamp": 1792845613,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+    "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220694",
+    "source": "medicalxpress.com",
+    "date": "2026-10-24T12:38:09Z",
+    "timestamp": 1792845489,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China's Baidu tests robotaxi on London streets",
+    "url": "https://www.reuters.com/business/finance/chinas-baidu-tests-robotaxi-london-streets-2026-10-23/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220529",
+    "source": "reuters.com",
+    "date": "2026-10-24T12:12:37Z",
+    "timestamp": 1792843957,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Shigeru Miyamoto on Gen AI",
+    "url": "https://www.ndw.jp/nintendo-interview-261023/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50220413",
+    "source": "ndw.jp",
+    "date": "2026-10-24T11:52:32Z",
+    "timestamp": 1792842752,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Flow-state induction via raw mouse input (a working biohacking protocol)",
     "url": "https://news.ycombinator.com/item?id=50219717",
     "discussion_url": "https://news.ycombinator.com/item?id=50219717",
     "source": "news.ycombinator.com",
@@ -18,111 +153,21 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
-    "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
-    "discussion_url": "https://news.ycombinator.com/item?id=50219381",
-    "source": "thestreet.com",
-    "date": "2026-10-24T08:54:54Z",
-    "timestamp": 1792832094,
-    "category": "Machine Learning"
+    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50192975",
+    "source": "infoq.com",
+    "date": "2026-10-22T09:01:10Z",
+    "timestamp": 1792659670,
+    "category": "Computer Architecture"
   },
   {
-    "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
-    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50219343",
-    "source": "bbc.co.uk",
-    "date": "2026-10-24T08:44:57Z",
-    "timestamp": 1792831497,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Samsung TV on-device AI listening, using soundbar's mic if the TV has none",
-    "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218950",
-    "source": "reddit.com",
-    "date": "2026-10-24T07:13:52Z",
-    "timestamp": 1792826032,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Few Americans Say They Are Asking AI Chatbots for 2026 Election Information",
-    "url": "https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218935",
-    "source": "pewresearch.org",
-    "date": "2026-10-24T07:10:15Z",
-    "timestamp": 1792825815,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "That AI Temptation",
-    "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218743",
-    "source": "tbray.org",
-    "date": "2026-10-24T06:18:39Z",
-    "timestamp": 1792822719,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218633",
-    "source": "reddit.com",
-    "date": "2026-10-24T05:49:57Z",
-    "timestamp": 1792820997,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Pilely – Build and ship web apps within your AI chat",
-    "url": "https://pilely.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218573",
-    "source": "pilely.ai",
-    "date": "2026-10-24T05:32:49Z",
-    "timestamp": 1792819969,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
-    "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218553",
-    "source": "adweek.com",
-    "date": "2026-10-24T05:27:03Z",
-    "timestamp": 1792819623,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
-    "url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218450",
-    "source": "nytimes.com",
-    "date": "2026-10-24T04:55:56Z",
-    "timestamp": 1792817756,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pangram CEO: People believe AI writing is indistinguishable from ours. It's not",
-    "url": "https://bigthink.com/science-tech/trust-issues/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218438",
-    "source": "bigthink.com",
-    "date": "2026-10-24T04:52:28Z",
-    "timestamp": 1792817548,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Inference Cooperative, user-governed AI",
-    "url": "https://inference.coop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218142",
-    "source": "inference.coop",
-    "date": "2026-10-24T03:32:54Z",
-    "timestamp": 1792812774,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CowAgent – Open-Source Super AI Assistant",
-    "url": "https://cowagent.ai/en/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50218141",
-    "source": "cowagent.ai",
-    "date": "2026-10-24T03:32:47Z",
-    "timestamp": 1792812767,
-    "category": "Machine Learning"
+    "title": "Tiling Noise – Procedural GPU Patterns",
+    "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180251",
+    "source": "catlikecoding.com",
+    "date": "2026-10-21T13:04:07Z",
+    "timestamp": 1792587847,
+    "category": "Computer Architecture"
   }
 ]
