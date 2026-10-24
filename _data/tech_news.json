@@ -1,5 +1,113 @@
 [
   {
+    "title": "EU Member States approve \"digital expropriation\" for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "discussion_url": "https://news.ycombinator.com/item?id=50218050",
+    "source": "noyb.eu",
+    "date": "2026-10-24T03:10:11Z",
+    "timestamp": 1792811411,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+    "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50218013",
+    "source": "cio.com",
+    "date": "2026-10-24T03:00:43Z",
+    "timestamp": 1792810843,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built rooms for AI agents to work together",
+    "url": "https://bellman.sh/r/blog/p001-hello-front-desk",
+    "discussion_url": "https://news.ycombinator.com/item?id=50217473",
+    "source": "bellman.sh",
+    "date": "2026-10-24T01:11:45Z",
+    "timestamp": 1792804305,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+    "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50217208",
+    "source": "nngroup.com",
+    "date": "2026-10-24T00:32:17Z",
+    "timestamp": 1792801937,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Algernon – A B2B compliance and security oracle for AI agents on Base via x402",
+    "url": "https://github.com/tobiaslofton/algernon-x402-oracle",
+    "discussion_url": "https://news.ycombinator.com/item?id=50217159",
+    "source": "github.com",
+    "date": "2026-10-24T00:26:14Z",
+    "timestamp": 1792801574,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+    "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+    "discussion_url": "https://news.ycombinator.com/item?id=50216915",
+    "source": "theguardian.com",
+    "date": "2026-10-23T23:46:43Z",
+    "timestamp": 1792799203,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+    "url": "https://aakatheeri.github.io/narrative-deck/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50216138",
+    "source": "aakatheeri.github.io",
+    "date": "2026-10-23T22:18:39Z",
+    "timestamp": 1792793919,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+    "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50215991",
+    "source": "cio.com",
+    "date": "2026-10-23T22:04:21Z",
+    "timestamp": 1792793061,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI devours a fifth of companies' IT budgets",
+    "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50215950",
+    "source": "computerworld.com",
+    "date": "2026-10-23T22:00:05Z",
+    "timestamp": 1792792805,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Just Raised the Stakes on Continuous Delivery",
+    "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50215890",
+    "source": "bradoyler.com",
+    "date": "2026-10-23T21:53:52Z",
+    "timestamp": 1792792432,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
+    "url": "https://github.com/Arthur031221/AiSniff",
+    "discussion_url": "https://news.ycombinator.com/item?id=50215712",
+    "source": "github.com",
+    "date": "2026-10-23T21:36:29Z",
+    "timestamp": 1792791389,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Biggest Fails from the 2026 World Humanoid Robot Games in China [video]",
+    "url": "https://www.youtube.com/watch?v=XgnBN8BLc-o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50215485",
+    "source": "youtube.com",
+    "date": "2026-10-23T21:18:33Z",
+    "timestamp": 1792790313,
+    "category": "Physical AI"
+  },
+  {
     "title": "AI is devastating higher education, but the system was broken",
     "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
     "discussion_url": "https://news.ycombinator.com/item?id=50215398",
@@ -7,122 +115,5 @@
     "date": "2026-10-23T21:11:59Z",
     "timestamp": 1792789919,
     "category": "Machine Learning"
-  },
-  {
-    "title": "The attack chain behind the v1.107.0 LiteLLM release",
-    "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
-    "discussion_url": "https://news.ycombinator.com/item?id=50215317",
-    "source": "docs.litellm.ai",
-    "date": "2026-10-23T21:05:16Z",
-    "timestamp": 1792789516,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
-    "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50214701",
-    "source": "modelcompare.ai",
-    "date": "2026-10-23T20:15:27Z",
-    "timestamp": 1792786527,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI: Securing our frontier model training environment",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50214416",
-    "source": "openai.com",
-    "date": "2026-10-23T19:50:56Z",
-    "timestamp": 1792785056,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-    "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-    "discussion_url": "https://news.ycombinator.com/item?id=50214185",
-    "source": "gizmodo.com",
-    "date": "2026-10-23T19:31:36Z",
-    "timestamp": 1792783896,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLM-d v1.0.0 is out",
-    "url": "https://github.com/llm-d/llm-d/releases/tag/v1.0.0",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213960",
-    "source": "github.com",
-    "date": "2026-10-23T19:13:17Z",
-    "timestamp": 1792782797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
-    "url": "https://useinstantsearch.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213691",
-    "source": "useinstantsearch.com",
-    "date": "2026-10-23T18:52:34Z",
-    "timestamp": 1792781554,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
-    "url": "https://www.nber.org/papers/w35275",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213207",
-    "source": "nber.org",
-    "date": "2026-10-23T18:16:14Z",
-    "timestamp": 1792779374,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Behavior-Centric AI Design",
-    "url": "https://swamp-club.com/behavior",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213175",
-    "source": "swamp-club.com",
-    "date": "2026-10-23T18:14:06Z",
-    "timestamp": 1792779246,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models think humans are a bunch of amoral sheep",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213172",
-    "source": "theregister.com",
-    "date": "2026-10-23T18:13:54Z",
-    "timestamp": 1792779234,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "RoboJev: Grade robot task success 48x cheaper than 6 Astra",
-    "url": "https://huggingface.co/spaces/josefchen/RoboJev",
-    "discussion_url": "https://news.ycombinator.com/item?id=50213160",
-    "source": "huggingface.co",
-    "date": "2026-10-23T18:13:09Z",
-    "timestamp": 1792779189,
-    "category": "Physical AI"
-  },
-  {
-    "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
-    "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50212881",
-    "source": "techspot.com",
-    "date": "2026-10-23T17:54:56Z",
-    "timestamp": 1792778096,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Private LLM Inference with Homomorphic Encryption [pdf]",
-    "url": "https://www.vldb.org/pvldb/vol19/p4927-lim.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50212778",
-    "source": "vldb.org",
-    "date": "2026-10-23T17:47:45Z",
-    "timestamp": 1792777665,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Do pricier robot vacuums get better reviews? 737 reviews",
-    "url": "https://www.bettascore.ai/research/robot-vacuum-prices",
-    "discussion_url": "https://news.ycombinator.com/item?id=50212341",
-    "source": "bettascore.ai",
-    "date": "2026-10-23T17:16:30Z",
-    "timestamp": 1792775790,
-    "category": "Physical AI"
   }
 ]
