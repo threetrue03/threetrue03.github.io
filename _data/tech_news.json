@@ -1,5 +1,140 @@
 [
   {
+    "title": "Tokens aren't valuable: No more AI",
+    "url": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227985",
+    "source": "reddit.com",
+    "date": "2026-10-25T03:25:18Z",
+    "timestamp": 1792898718,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Heat Map Sourced from over 140 News Feeds",
+    "url": "https://ai.jagular.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227984",
+    "source": "ai.jagular.io",
+    "date": "2026-10-25T03:25:15Z",
+    "timestamp": 1792898715,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Gpuix-Svelte · Build native desktop apps with Svelte",
+    "url": "https://gpuix-svelte.stanislav.garden/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227761",
+    "source": "gpuix-svelte.stanislav.garden",
+    "date": "2026-10-25T02:40:15Z",
+    "timestamp": 1792896015,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+    "url": "https://github.com/calasdan-sketch/onememory",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227486",
+    "source": "github.com",
+    "date": "2026-10-25T01:54:19Z",
+    "timestamp": 1792893259,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227356",
+    "source": "cerebras.ai",
+    "date": "2026-10-25T01:33:49Z",
+    "timestamp": 1792892029,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+    "url": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227265",
+    "source": "thesuburban.com",
+    "date": "2026-10-25T01:21:49Z",
+    "timestamp": 1792891309,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227174",
+    "source": "techcrunch.com",
+    "date": "2026-10-25T01:07:24Z",
+    "timestamp": 1792890444,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Redmi phone can do things that $16K GPU is needed for on Ethereum",
+    "url": "https://github.com/ignotusnemo/paramo1d",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226569",
+    "source": "github.com",
+    "date": "2026-10-24T23:32:57Z",
+    "timestamp": 1792884777,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Your tokens aren't valuable: No more AI",
+    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226554",
+    "source": "reddit.com",
+    "date": "2026-10-24T23:30:45Z",
+    "timestamp": 1792884645,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Generated launch videos are starting to get insane",
+    "url": "https://motioncrackers.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226290",
+    "source": "motioncrackers.com",
+    "date": "2026-10-24T22:58:20Z",
+    "timestamp": 1792882700,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Planning to Kill You",
+    "url": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226160",
+    "source": "hanzo.blog",
+    "date": "2026-10-24T22:40:45Z",
+    "timestamp": 1792881645,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RoboJev: Jev, but to Grade Robot Data",
+    "url": "https://robo-jev.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226125",
+    "source": "robo-jev.com",
+    "date": "2026-10-24T22:36:04Z",
+    "timestamp": 1792881364,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Kevlar = MCP Firewall for LLM's",
+    "url": "https://github.com/Ablation-Tool/kevlar",
+    "discussion_url": "https://news.ycombinator.com/item?id=50226016",
+    "source": "github.com",
+    "date": "2026-10-24T22:24:09Z",
+    "timestamp": 1792880649,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50225552",
+    "source": "techcrunch.com",
+    "date": "2026-10-24T21:31:16Z",
+    "timestamp": 1792877476,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making My Blog Readable by AI Agents",
+    "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=50225443",
+    "source": "deallocatedobjects.com",
+    "date": "2026-10-24T21:21:33Z",
+    "timestamp": 1792876893,
+    "category": "Machine Learning"
+  },
+  {
     "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
     "url": "https://twitter.com/rynorhn/status/2113757656498196605",
     "discussion_url": "https://news.ycombinator.com/item?id=50224890",
@@ -9,51 +144,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "No Signs of AI Payoff Outside the Tech Sector",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "discussion_url": "https://news.ycombinator.com/item?id=50224463",
-    "source": "apollo.com",
-    "date": "2026-10-24T19:47:19Z",
-    "timestamp": 1792871239,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
-    "url": "https://github.com/swrdfish/narro",
-    "discussion_url": "https://news.ycombinator.com/item?id=50224373",
-    "source": "github.com",
-    "date": "2026-10-24T19:37:32Z",
-    "timestamp": 1792870652,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Who Pays for AI Data Centers?",
-    "url": "https://www.youtube.com/watch?v=NyOeLB0WVNE",
-    "discussion_url": "https://news.ycombinator.com/item?id=50224121",
-    "source": "youtube.com",
-    "date": "2026-10-24T19:09:16Z",
-    "timestamp": 1792868956,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI: EU Member States approve \"digital expropriation\" for AI companies",
-    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223856",
-    "source": "noyb.eu",
-    "date": "2026-10-24T18:33:34Z",
-    "timestamp": 1792866814,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)",
-    "url": "https://playgama.ai/play/xl6duef7p3",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223798",
-    "source": "playgama.ai",
-    "date": "2026-10-24T18:25:53Z",
-    "timestamp": 1792866353,
-    "category": "Machine Learning"
-  },
-  {
     "title": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER",
     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
     "discussion_url": "https://news.ycombinator.com/item?id=50223787",
@@ -61,78 +151,6 @@
     "date": "2026-10-24T18:23:53Z",
     "timestamp": 1792866233,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
-    "url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223705",
-    "source": "barrons.com",
-    "date": "2026-10-24T18:13:39Z",
-    "timestamp": 1792865619,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why is AI generated language so hard to understand?",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223647",
-    "source": "arxiv.org",
-    "date": "2026-10-24T18:04:57Z",
-    "timestamp": 1792865097,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How LLM-Based Penetration Testing Harnesses Work",
-    "url": "https://utkusen.substack.com/p/how-llm-based-penetration-testing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223210",
-    "source": "utkusen.substack.com",
-    "date": "2026-10-24T17:15:47Z",
-    "timestamp": 1792862147,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
-    "url": "https://www.shuffle-on.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50223151",
-    "source": "shuffle-on.com",
-    "date": "2026-10-24T17:06:44Z",
-    "timestamp": 1792861604,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I'm Addicted to Coding the N64's GPU [video]",
-    "url": "https://www.youtube.com/watch?v=WEoRgQH08MA",
-    "discussion_url": "https://news.ycombinator.com/item?id=50222873",
-    "source": "youtube.com",
-    "date": "2026-10-24T16:34:07Z",
-    "timestamp": 1792859647,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Is the browser becoming the common gateway for AI agents?",
-    "url": "https://ricuicui.com/articles/navigateur-porte-entree-agents-ia",
-    "discussion_url": "https://news.ycombinator.com/item?id=50222824",
-    "source": "ricuicui.com",
-    "date": "2026-10-24T16:30:35Z",
-    "timestamp": 1792859435,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
-    "url": "https://rentry.co/themis-docket-e61b189e37",
-    "discussion_url": "https://news.ycombinator.com/item?id=50222576",
-    "source": "rentry.co",
-    "date": "2026-10-24T16:01:49Z",
-    "timestamp": 1792857709,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
-    "url": "https://app.enclave.ai/threat-feed",
-    "discussion_url": "https://news.ycombinator.com/item?id=50222559",
-    "source": "app.enclave.ai",
-    "date": "2026-10-24T16:00:05Z",
-    "timestamp": 1792857605,
-    "category": "Machine Learning"
   },
   {
     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
