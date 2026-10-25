@@ -1,5 +1,140 @@
 [
   {
+    "title": "Struggling to Keep AI Out",
+    "url": "https://blog.eunach.scot/struggling-to-keep-ai-out",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235916",
+    "source": "blog.eunach.scot",
+    "date": "2026-10-25T20:47:39Z",
+    "timestamp": 1792961259,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+    "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235883",
+    "source": "unverifiablerewards.substack.com",
+    "date": "2026-10-25T20:44:07Z",
+    "timestamp": 1792961047,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Power Grab of the AI Doomers",
+    "url": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235512",
+    "source": "aipanic.news",
+    "date": "2026-10-25T20:01:52Z",
+    "timestamp": 1792958512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+    "url": "https://github.com/aymen94/NeuronDump",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235357",
+    "source": "github.com",
+    "date": "2026-10-25T19:45:09Z",
+    "timestamp": 1792957509,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reclaim disk space with an AI agent",
+    "url": "https://github.com/riza/ai-disk-cleanup",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235230",
+    "source": "github.com",
+    "date": "2026-10-25T19:31:08Z",
+    "timestamp": 1792956668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+    "url": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179",
+    "discussion_url": "https://news.ycombinator.com/item?id=50235014",
+    "source": "cbc.ca",
+    "date": "2026-10-25T19:10:53Z",
+    "timestamp": 1792955453,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234725",
+    "source": "the-decoder.com",
+    "date": "2026-10-25T18:44:11Z",
+    "timestamp": 1792953851,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234699",
+    "source": "vithushansylvester.com",
+    "date": "2026-10-25T18:42:23Z",
+    "timestamp": 1792953743,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I added offline OCR and text extraction to pdfcpu",
+    "url": "https://github.com/huzpsb/pdfcpu2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234607",
+    "source": "github.com",
+    "date": "2026-10-25T18:35:15Z",
+    "timestamp": 1792953315,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234408",
+    "source": "techcrunch.com",
+    "date": "2026-10-25T18:18:04Z",
+    "timestamp": 1792952284,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Boom Looks a Lot Like the Housing Bubble",
+    "url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234190",
+    "source": "nytimes.com",
+    "date": "2026-10-25T18:00:28Z",
+    "timestamp": 1792951228,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+    "url": "https://news.ycombinator.com/item?id=50234108",
+    "discussion_url": "https://news.ycombinator.com/item?id=50234108",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-25T17:52:28Z",
+    "timestamp": 1792950748,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50233779",
+    "source": "lynchlab.net",
+    "date": "2026-10-25T17:15:38Z",
+    "timestamp": 1792948538,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Benchmarking DSpark speculative decoding on a consumer GPU",
+    "url": "https://github.com/juraj-jumic/dspark-local-bench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50233709",
+    "source": "github.com",
+    "date": "2026-10-25T17:07:06Z",
+    "timestamp": 1792948026,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+    "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+    "discussion_url": "https://news.ycombinator.com/item?id=50233570",
+    "source": "keln.ai",
+    "date": "2026-10-25T16:53:40Z",
+    "timestamp": 1792947220,
+    "category": "Machine Learning"
+  },
+  {
     "title": "JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript",
     "url": "https://github.com/jackskip22/rapier-jxl",
     "discussion_url": "https://news.ycombinator.com/item?id=50232703",
@@ -7,114 +142,6 @@
     "date": "2026-10-25T15:36:34Z",
     "timestamp": 1792942594,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
-    "url": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50232522",
-    "source": "vincentschmalbach.com",
-    "date": "2026-10-25T15:20:51Z",
-    "timestamp": 1792941651,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Can we do something about this impending AI dystopia",
-    "url": "https://news.ycombinator.com/item?id=50232407",
-    "discussion_url": "https://news.ycombinator.com/item?id=50232407",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-25T15:12:10Z",
-    "timestamp": 1792941130,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
-    "url": "https://reddit.com/opensource_projects",
-    "discussion_url": "https://news.ycombinator.com/item?id=50232289",
-    "source": "reddit.com",
-    "date": "2026-10-25T15:03:44Z",
-    "timestamp": 1792940624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "R/open source bans all solo projects and projects using LLMs",
-    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231722",
-    "source": "reddit.com",
-    "date": "2026-10-25T14:05:03Z",
-    "timestamp": 1792937103,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231661",
-    "source": "bloomberg.com",
-    "date": "2026-10-25T13:56:49Z",
-    "timestamp": 1792936609,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Kolo – share your AI coding sessions with anyone",
-    "url": "https://github.com/komovaar/kolo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231567",
-    "source": "github.com",
-    "date": "2026-10-25T13:49:15Z",
-    "timestamp": 1792936155,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
-    "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231486",
-    "source": "medium.com",
-    "date": "2026-10-25T13:41:19Z",
-    "timestamp": 1792935679,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231249",
-    "source": "techcrunch.com",
-    "date": "2026-10-25T13:16:49Z",
-    "timestamp": 1792934209,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
-    "url": "https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3",
-    "discussion_url": "https://news.ycombinator.com/item?id=50231008",
-    "source": "medium.com",
-    "date": "2026-10-25T12:49:41Z",
-    "timestamp": 1792932581,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Imagine an AI future where being banned means you are now economically useless",
-    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-    "discussion_url": "https://news.ycombinator.com/item?id=50230995",
-    "source": "twitter.com",
-    "date": "2026-10-25T12:47:20Z",
-    "timestamp": 1792932440,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-    "discussion_url": "https://news.ycombinator.com/item?id=50230847",
-    "source": "tomshardware.com",
-    "date": "2026-10-25T12:28:43Z",
-    "timestamp": 1792931323,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-    "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-    "discussion_url": "https://news.ycombinator.com/item?id=50230181",
-    "source": "twitter.com",
-    "date": "2026-10-25T10:42:01Z",
-    "timestamp": 1792924921,
-    "category": "Machine Learning"
   },
   {
     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
