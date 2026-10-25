@@ -1,5 +1,113 @@
 [
   {
+    "title": "JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript",
+    "url": "https://github.com/jackskip22/rapier-jxl",
+    "discussion_url": "https://news.ycombinator.com/item?id=50232703",
+    "source": "github.com",
+    "date": "2026-10-25T15:36:34Z",
+    "timestamp": 1792942594,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
+    "url": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50232522",
+    "source": "vincentschmalbach.com",
+    "date": "2026-10-25T15:20:51Z",
+    "timestamp": 1792941651,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Can we do something about this impending AI dystopia",
+    "url": "https://news.ycombinator.com/item?id=50232407",
+    "discussion_url": "https://news.ycombinator.com/item?id=50232407",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-25T15:12:10Z",
+    "timestamp": 1792941130,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+    "url": "https://reddit.com/opensource_projects",
+    "discussion_url": "https://news.ycombinator.com/item?id=50232289",
+    "source": "reddit.com",
+    "date": "2026-10-25T15:03:44Z",
+    "timestamp": 1792940624,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "R/open source bans all solo projects and projects using LLMs",
+    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231722",
+    "source": "reddit.com",
+    "date": "2026-10-25T14:05:03Z",
+    "timestamp": 1792937103,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231661",
+    "source": "bloomberg.com",
+    "date": "2026-10-25T13:56:49Z",
+    "timestamp": 1792936609,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Kolo – share your AI coding sessions with anyone",
+    "url": "https://github.com/komovaar/kolo",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231567",
+    "source": "github.com",
+    "date": "2026-10-25T13:49:15Z",
+    "timestamp": 1792936155,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+    "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231486",
+    "source": "medium.com",
+    "date": "2026-10-25T13:41:19Z",
+    "timestamp": 1792935679,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231249",
+    "source": "techcrunch.com",
+    "date": "2026-10-25T13:16:49Z",
+    "timestamp": 1792934209,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+    "url": "https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3",
+    "discussion_url": "https://news.ycombinator.com/item?id=50231008",
+    "source": "medium.com",
+    "date": "2026-10-25T12:49:41Z",
+    "timestamp": 1792932581,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Imagine an AI future where being banned means you are now economically useless",
+    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+    "discussion_url": "https://news.ycombinator.com/item?id=50230995",
+    "source": "twitter.com",
+    "date": "2026-10-25T12:47:20Z",
+    "timestamp": 1792932440,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+    "discussion_url": "https://news.ycombinator.com/item?id=50230847",
+    "source": "tomshardware.com",
+    "date": "2026-10-25T12:28:43Z",
+    "timestamp": 1792931323,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
     "url": "https://twitter.com/mike64_t/status/2114150399406202896",
     "discussion_url": "https://news.ycombinator.com/item?id=50230181",
@@ -7,132 +115,6 @@
     "date": "2026-10-25T10:42:01Z",
     "timestamp": 1792924921,
     "category": "Machine Learning"
-  },
-  {
-    "title": "The design skill that ends AI slop",
-    "url": "https://github.com/Nutlope/hallmark",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229994",
-    "source": "github.com",
-    "date": "2026-10-25T10:18:22Z",
-    "timestamp": 1792923502,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229827",
-    "source": "techspot.com",
-    "date": "2026-10-25T09:51:17Z",
-    "timestamp": 1792921877,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An artist's take on AI in math",
-    "url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229822",
-    "source": "3blue1brown.substack.com",
-    "date": "2026-10-25T09:50:22Z",
-    "timestamp": 1792921822,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI and Steve Strogatz",
-    "url": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229811",
-    "source": "cultureandcompass.substack.com",
-    "date": "2026-10-25T09:48:23Z",
-    "timestamp": 1792921703,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
-    "url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229662",
-    "source": "observer.co.uk",
-    "date": "2026-10-25T09:19:04Z",
-    "timestamp": 1792919944,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-    "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50229645",
-    "source": "hollywoodreporter.com",
-    "date": "2026-10-25T09:15:56Z",
-    "timestamp": 1792919756,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Rotting Your Brain [video]",
-    "url": "https://www.youtube.com/watch?v=ZumXpZzDsgo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50228913",
-    "source": "youtube.com",
-    "date": "2026-10-25T06:38:17Z",
-    "timestamp": 1792910297,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
-    "url": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
-    "discussion_url": "https://news.ycombinator.com/item?id=50228150",
-    "source": "kevinkelly.substack.com",
-    "date": "2026-10-25T03:53:52Z",
-    "timestamp": 1792900432,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tokens aren't valuable: No more AI",
-    "url": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227985",
-    "source": "reddit.com",
-    "date": "2026-10-25T03:25:18Z",
-    "timestamp": 1792898718,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Heat Map Sourced from over 140 News Feeds",
-    "url": "https://ai.jagular.io",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227984",
-    "source": "ai.jagular.io",
-    "date": "2026-10-25T03:25:15Z",
-    "timestamp": 1792898715,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "UK government sets out $800M of AI security funding",
-    "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227867",
-    "source": "reuters.com",
-    "date": "2026-10-25T03:00:56Z",
-    "timestamp": 1792897256,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gpuix-Svelte · Build native desktop apps with Svelte",
-    "url": "https://gpuix-svelte.stanislav.garden/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227761",
-    "source": "gpuix-svelte.stanislav.garden",
-    "date": "2026-10-25T02:40:15Z",
-    "timestamp": 1792896015,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Redmi phone can do things that $16K GPU is needed for on Ethereum",
-    "url": "https://github.com/ignotusnemo/paramo1d",
-    "discussion_url": "https://news.ycombinator.com/item?id=50226569",
-    "source": "github.com",
-    "date": "2026-10-24T23:32:57Z",
-    "timestamp": 1792884777,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RoboJev: Jev, but to Grade Robot Data",
-    "url": "https://robo-jev.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50226125",
-    "source": "robo-jev.com",
-    "date": "2026-10-24T22:36:04Z",
-    "timestamp": 1792881364,
-    "category": "Physical AI"
   },
   {
     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
