@@ -1,56 +1,128 @@
 [
   {
-    "title": "Struggling to Keep AI Out",
-    "url": "https://blog.eunach.scot/struggling-to-keep-ai-out",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235916",
-    "source": "blog.eunach.scot",
-    "date": "2026-10-25T20:47:39Z",
-    "timestamp": 1792961259,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
-    "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235883",
-    "source": "unverifiablerewards.substack.com",
-    "date": "2026-10-25T20:44:07Z",
-    "timestamp": 1792961047,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Power Grab of the AI Doomers",
-    "url": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235512",
-    "source": "aipanic.news",
-    "date": "2026-10-25T20:01:52Z",
-    "timestamp": 1792958512,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
-    "url": "https://github.com/aymen94/NeuronDump",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235357",
+    "title": "Local-first video production workspace for people and AI agents",
+    "url": "https://github.com/TriHerm/cutmark",
+    "discussion_url": "https://news.ycombinator.com/item?id=50239195",
     "source": "github.com",
-    "date": "2026-10-25T19:45:09Z",
-    "timestamp": 1792957509,
+    "date": "2026-10-26T04:39:10Z",
+    "timestamp": 1792989550,
     "category": "Machine Learning"
   },
   {
-    "title": "Reclaim disk space with an AI agent",
-    "url": "https://github.com/riza/ai-disk-cleanup",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235230",
+    "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+    "url": "https://uipalooza.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238943",
+    "source": "uipalooza.ai",
+    "date": "2026-10-26T04:00:04Z",
+    "timestamp": 1792987204,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Close Are We to Autonomous Chip Design",
+    "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238621",
+    "source": "semiengineering.com",
+    "date": "2026-10-26T03:12:17Z",
+    "timestamp": 1792984337,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238561",
+    "source": "theguardian.com",
+    "date": "2026-10-26T03:04:17Z",
+    "timestamp": 1792983857,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "If AI displaces human workers, they will lose more than just pay",
+    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238351",
+    "source": "economist.com",
+    "date": "2026-10-26T02:22:38Z",
+    "timestamp": 1792981358,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Biff 2.0.4: LLM Skills",
+    "url": "https://biffweb.com/p/skills/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238323",
+    "source": "biffweb.com",
+    "date": "2026-10-26T02:18:09Z",
+    "timestamp": 1792981089,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: God – real-time control room for LLM agent societies (EMNLP 2026 demo)",
+    "url": "https://github.com/XiaoLuoLYG/GOD",
+    "discussion_url": "https://news.ycombinator.com/item?id=50238271",
     "source": "github.com",
-    "date": "2026-10-25T19:31:08Z",
-    "timestamp": 1792956668,
+    "date": "2026-10-26T02:11:28Z",
+    "timestamp": 1792980688,
     "category": "Machine Learning"
   },
   {
-    "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
-    "url": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179",
-    "discussion_url": "https://news.ycombinator.com/item?id=50235014",
-    "source": "cbc.ca",
-    "date": "2026-10-25T19:10:53Z",
-    "timestamp": 1792955453,
+    "title": "Grokking: A 777-Parameter Transformer Learned Real Math",
+    "url": "https://themenonlab.blog/blog/grokking-777-parameter-transformer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50237920",
+    "source": "themenonlab.blog",
+    "date": "2026-10-26T01:27:16Z",
+    "timestamp": 1792978036,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "One gateway for your AI agents, APIs and MCP servers",
+    "url": "https://github.com/Clivern/Sloth",
+    "discussion_url": "https://news.ycombinator.com/item?id=50237533",
+    "source": "github.com",
+    "date": "2026-10-26T00:38:22Z",
+    "timestamp": 1792975102,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is getting good at math, here's why",
+    "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50237104",
+    "source": "latent.space",
+    "date": "2026-10-25T23:30:52Z",
+    "timestamp": 1792971052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+    "discussion_url": "https://news.ycombinator.com/item?id=50236828",
+    "source": "businessinsider.com",
+    "date": "2026-10-25T22:49:06Z",
+    "timestamp": 1792968546,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50236681",
+    "source": "shraiwi.com",
+    "date": "2026-10-25T22:29:47Z",
+    "timestamp": 1792967387,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers",
+    "discussion_url": "https://news.ycombinator.com/item?id=50236606",
+    "source": "bloomberg.com",
+    "date": "2026-10-25T22:20:19Z",
+    "timestamp": 1792966819,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+    "discussion_url": "https://news.ycombinator.com/item?id=50236528",
+    "source": "tomshardware.com",
+    "date": "2026-10-25T22:11:27Z",
+    "timestamp": 1792966287,
     "category": "Machine Learning"
   },
   {
@@ -63,15 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50234699",
-    "source": "vithushansylvester.com",
-    "date": "2026-10-25T18:42:23Z",
-    "timestamp": 1792953743,
-    "category": "Machine Learning"
-  },
-  {
     "title": "I added offline OCR and text extraction to pdfcpu",
     "url": "https://github.com/huzpsb/pdfcpu2",
     "discussion_url": "https://news.ycombinator.com/item?id=50234607",
@@ -79,60 +142,6 @@
     "date": "2026-10-25T18:35:15Z",
     "timestamp": 1792953315,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50234408",
-    "source": "techcrunch.com",
-    "date": "2026-10-25T18:18:04Z",
-    "timestamp": 1792952284,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Boom Looks a Lot Like the Housing Bubble",
-    "url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50234190",
-    "source": "nytimes.com",
-    "date": "2026-10-25T18:00:28Z",
-    "timestamp": 1792951228,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
-    "url": "https://news.ycombinator.com/item?id=50234108",
-    "discussion_url": "https://news.ycombinator.com/item?id=50234108",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-25T17:52:28Z",
-    "timestamp": 1792950748,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233779",
-    "source": "lynchlab.net",
-    "date": "2026-10-25T17:15:38Z",
-    "timestamp": 1792948538,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Benchmarking DSpark speculative decoding on a consumer GPU",
-    "url": "https://github.com/juraj-jumic/dspark-local-bench",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233709",
-    "source": "github.com",
-    "date": "2026-10-25T17:07:06Z",
-    "timestamp": 1792948026,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
-    "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233570",
-    "source": "keln.ai",
-    "date": "2026-10-25T16:53:40Z",
-    "timestamp": 1792947220,
-    "category": "Machine Learning"
   },
   {
     "title": "JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript",
@@ -159,6 +168,15 @@
     "source": "infoq.com",
     "date": "2026-10-22T09:01:10Z",
     "timestamp": 1792659670,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Chip Builder is a puzzle and strategy game that teaches you chip design",
+    "url": "https://chipbuilder.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50180612",
+    "source": "chipbuilder.org",
+    "date": "2026-10-21T13:28:54Z",
+    "timestamp": 1792589334,
     "category": "Computer Architecture"
   },
   {
