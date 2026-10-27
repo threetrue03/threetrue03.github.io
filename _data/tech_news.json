@@ -1,12 +1,138 @@
 [
   {
-    "title": "Show HN: SkillScout, ranking AI tools by how you work instead of popularity",
-    "url": "https://skillscout.si/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50263192",
-    "source": "skillscout.si",
-    "date": "2026-10-27T17:58:32Z",
-    "timestamp": 1793123912,
+    "title": "The doorman fallacy in the age of AI",
+    "url": "https://www.adriankrebs.ch/blog/ai-and-the-doorman-fallacy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50266138",
+    "source": "adriankrebs.ch",
+    "date": "2026-10-27T21:31:42Z",
+    "timestamp": 1793136702,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Head of ADL claims they are \"cleaning up\" AI and Wikipedia",
+    "url": "https://twitter.com/infolibnews/status/2115106467460108731",
+    "discussion_url": "https://news.ycombinator.com/item?id=50266079",
+    "source": "twitter.com",
+    "date": "2026-10-27T21:27:55Z",
+    "timestamp": 1793136475,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta launches plan for $95B stock offering to fund AI expansion",
+    "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265833",
+    "source": "cnbc.com",
+    "date": "2026-10-27T21:08:59Z",
+    "timestamp": 1793135339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AGI-pill is specialized robots",
+    "url": "https://www.giacomoran.com/blog/agi-pill-specialized-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265680",
+    "source": "giacomoran.com",
+    "date": "2026-10-27T20:56:12Z",
+    "timestamp": 1793134572,
+    "category": "Physical AI"
+  },
+  {
+    "title": "I put an AI in the Garden of Eden. Then I introduced the serpent",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265624",
+    "source": "reddit.com",
+    "date": "2026-10-27T20:51:54Z",
+    "timestamp": 1793134314,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In China, the AI bubble has burst",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265525",
+    "source": "finance.yahoo.com",
+    "date": "2026-10-27T20:44:20Z",
+    "timestamp": 1793133860,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers",
+    "url": "https://codingplans.dev/briefs/us-model-labs-part-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265421",
+    "source": "codingplans.dev",
+    "date": "2026-10-27T20:37:03Z",
+    "timestamp": 1793133423,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump isn't happy people are ignoring his new name for AI",
+    "url": "https://www.neowin.net/news/trump-isnt-happy-people-are-ignoring-his-new-name-for-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50265042",
+    "source": "neowin.net",
+    "date": "2026-10-27T20:06:36Z",
+    "timestamp": 1793131596,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic Ships the #1 LLM in the World with Katelyn Lesse and Angela Jiang [video]",
+    "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264993",
+    "source": "youtube.com",
+    "date": "2026-10-27T20:03:47Z",
+    "timestamp": 1793131427,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Omega: Can LLMs Reason Outside the Box in Math? (2025)",
+    "url": "https://arxiv.org/abs/2506.18880",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264944",
+    "source": "arxiv.org",
+    "date": "2026-10-27T20:01:01Z",
+    "timestamp": 1793131261,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic IPO might kick off tech reset if the AI stock underperforms",
+    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264920",
+    "source": "cnbc.com",
+    "date": "2026-10-27T19:59:31Z",
+    "timestamp": 1793131171,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264853",
+    "source": "brangus.io",
+    "date": "2026-10-27T19:55:06Z",
+    "timestamp": 1793130906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta plans $95B stock offering to bankroll AI expansion",
+    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264771",
+    "source": "ft.com",
+    "date": "2026-10-27T19:49:31Z",
+    "timestamp": 1793130571,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Ability of Frontier Models to Control Robots Is Rapidly Improving",
+    "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+    "discussion_url": "https://news.ycombinator.com/item?id=50264471",
+    "source": "lesswrong.com",
+    "date": "2026-10-27T19:29:00Z",
+    "timestamp": 1793129340,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Glacex: GPU-Rendered UI library built from scratch in Rust",
+    "url": "https://github.com/artemtsitronov/glacex",
+    "discussion_url": "https://news.ycombinator.com/item?id=50263281",
+    "source": "github.com",
+    "date": "2026-10-27T18:05:41Z",
+    "timestamp": 1793124341,
+    "category": "Computer Architecture"
   },
   {
     "title": "A Jev-style vision model is now OPEN SOURCE",
@@ -18,31 +144,13 @@
     "category": "Computer Vision"
   },
   {
-    "title": "Norwegian media sue Meta over plans to use their journalism for AI",
-    "url": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262955",
-    "source": "euronews.com",
-    "date": "2026-10-27T17:47:14Z",
-    "timestamp": 1793123234,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Make your AI agent think before it codes",
-    "url": "https://github.com/sanmak/specops",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262833",
-    "source": "github.com",
-    "date": "2026-10-27T17:41:07Z",
-    "timestamp": 1793122867,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Satya Nadella Rethinks Whether More Powerful AI Is Safer",
-    "url": "https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262470",
-    "source": "businessinsider.com",
-    "date": "2026-10-27T17:18:36Z",
-    "timestamp": 1793121516,
-    "category": "Machine Learning"
+    "title": "Doctor removes prostate from 35 miles away in first telerobotic surgery in US",
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262579",
+    "source": "theguardian.com",
+    "date": "2026-10-27T17:26:02Z",
+    "timestamp": 1793121962,
+    "category": "Physical AI"
   },
   {
     "title": "Wanted: Robot-Dog Walkers. $20/Hour",
@@ -52,96 +160,6 @@
     "date": "2026-10-27T17:18:27Z",
     "timestamp": 1793121507,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Search2o Simplifies AI Agents",
-    "url": "https://search2o.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262458",
-    "source": "search2o.com",
-    "date": "2026-10-27T17:18:03Z",
-    "timestamp": 1793121483,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AgenticBench, 9 security tests run on 25 AI coding agents",
-    "url": "https://agenticbench.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262290",
-    "source": "agenticbench.org",
-    "date": "2026-10-27T17:08:18Z",
-    "timestamp": 1793120898,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ICE plan to buy robot dogs from Boston Dynamics",
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50262194",
-    "source": "arstechnica.com",
-    "date": "2026-10-27T17:02:56Z",
-    "timestamp": 1793120576,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Who needs AI psychosis? I gave myself VR psychosis",
-    "url": "https://blog.jacobstechtavern.com/p/vr-psychosis",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261905",
-    "source": "blog.jacobstechtavern.com",
-    "date": "2026-10-27T16:45:50Z",
-    "timestamp": 1793119550,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "At 14 Justine Tunney published software. Now she makes AI models run from a file",
-    "url": "https://timesofindia.indiatimes.com/education/news/at-14-justine-tunney-was-already-publishing-software-years-later-her-five-year-project-helped-make-local-ai-models-run-from-a-single-file/articleshow/134581627.cms",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261887",
-    "source": "timesofindia.indiatimes.com",
-    "date": "2026-10-27T16:44:50Z",
-    "timestamp": 1793119490,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261819",
-    "source": "gizmodo.com",
-    "date": "2026-10-27T16:40:15Z",
-    "timestamp": 1793119215,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Oracle unveils its first in-house Image/Video Models",
-    "url": "https://blogs.oracle.com/ai-and-datascience/oracle-ai-media-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261753",
-    "source": "blogs.oracle.com",
-    "date": "2026-10-27T16:35:57Z",
-    "timestamp": 1793118957,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "A Framework Toward Responsible and Beneficial AI for Fundraising",
-    "url": "https://fundraising.ai/framework/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261590",
-    "source": "fundraising.ai",
-    "date": "2026-10-27T16:25:39Z",
-    "timestamp": 1793118339,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261589",
-    "source": "futurism.com",
-    "date": "2026-10-27T16:25:30Z",
-    "timestamp": 1793118330,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50261583",
-    "source": "cloudsleuth.io",
-    "date": "2026-10-27T16:25:12Z",
-    "timestamp": 1793118312,
-    "category": "Machine Learning"
   },
   {
     "title": "Magic state cultivation on a superconducting quantum processor",
