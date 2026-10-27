@@ -1,138 +1,147 @@
 [
   {
-    "title": "LiteLLM supply chain attack started with an exposed master key",
-    "url": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257923",
-    "source": "theregister.com",
-    "date": "2026-10-27T12:07:39Z",
-    "timestamp": 1793102859,
+    "title": "Show HN: SkillScout, ranking AI tools by how you work instead of popularity",
+    "url": "https://skillscout.si/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50263192",
+    "source": "skillscout.si",
+    "date": "2026-10-27T17:58:32Z",
+    "timestamp": 1793123912,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: FoundationForecast: unified API for time series foundation models",
-    "url": "https://github.com/TimeCopilot/foundationforecast",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257899",
+    "title": "A Jev-style vision model is now OPEN SOURCE",
+    "url": "https://github.com/Sivasuthan9/fovea",
+    "discussion_url": "https://news.ycombinator.com/item?id=50263017",
     "source": "github.com",
-    "date": "2026-10-27T12:05:28Z",
-    "timestamp": 1793102728,
+    "date": "2026-10-27T17:49:52Z",
+    "timestamp": 1793123392,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Norwegian media sue Meta over plans to use their journalism for AI",
+    "url": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262955",
+    "source": "euronews.com",
+    "date": "2026-10-27T17:47:14Z",
+    "timestamp": 1793123234,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: AI Compute Footprint (energy, space, water and CO2)",
-    "url": "https://heyyeah.github.io/AI_Compute_Footprint/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257879",
-    "source": "heyyeah.github.io",
-    "date": "2026-10-27T12:04:10Z",
-    "timestamp": 1793102650,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Officially corrected errors persist in AI training data",
-    "url": "https://zenodo.org/records/23642239",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257850",
-    "source": "zenodo.org",
-    "date": "2026-10-27T12:01:45Z",
-    "timestamp": 1793102505,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257841",
-    "source": "arstechnica.com",
-    "date": "2026-10-27T12:00:37Z",
-    "timestamp": 1793102437,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open AI vs. frontier models: the hidden cost of your data (2026)",
-    "url": "https://lucasaguiar.xyz/posts/modelos-ia-abertos-vs-fronteira-dados-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257839",
-    "source": "lucasaguiar.xyz",
-    "date": "2026-10-27T12:00:23Z",
-    "timestamp": 1793102423,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Run ARM64 Linux userspace and desktop applications on iPhone and iPad",
-    "url": "https://github.com/mxhm11cr/LinuxRunner",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257361",
+    "title": "Show HN: Make your AI agent think before it codes",
+    "url": "https://github.com/sanmak/specops",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262833",
     "source": "github.com",
-    "date": "2026-10-27T11:11:44Z",
-    "timestamp": 1793099504,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI promised less work. I've never worked more",
-    "url": "https://oioannou.com/blog/ai-promised-less-work/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50257325",
-    "source": "oioannou.com",
-    "date": "2026-10-27T11:08:14Z",
-    "timestamp": 1793099294,
+    "date": "2026-10-27T17:41:07Z",
+    "timestamp": 1793122867,
     "category": "Machine Learning"
   },
   {
-    "title": "GDPR change lets companies train AI on Europeans' personal data without consent",
-    "url": "https://twitter.com/IntCyberDigest/status/2114838732197224927",
-    "discussion_url": "https://news.ycombinator.com/item?id=50256839",
-    "source": "twitter.com",
-    "date": "2026-10-27T10:10:40Z",
-    "timestamp": 1793095840,
+    "title": "Satya Nadella Rethinks Whether More Powerful AI Is Safer",
+    "url": "https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262470",
+    "source": "businessinsider.com",
+    "date": "2026-10-27T17:18:36Z",
+    "timestamp": 1793121516,
     "category": "Machine Learning"
   },
   {
-    "title": "I tested 12 small AI models on 2,500 design-system questions",
-    "url": "https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64",
-    "discussion_url": "https://news.ycombinator.com/item?id=50256562",
-    "source": "designsystemscollective.com",
-    "date": "2026-10-27T09:34:32Z",
-    "timestamp": 1793093672,
+    "title": "Wanted: Robot-Dog Walkers. $20/Hour",
+    "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262462",
+    "source": "nytimes.com",
+    "date": "2026-10-27T17:18:27Z",
+    "timestamp": 1793121507,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Search2o Simplifies AI Agents",
+    "url": "https://search2o.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262458",
+    "source": "search2o.com",
+    "date": "2026-10-27T17:18:03Z",
+    "timestamp": 1793121483,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: Can we do something about this impending AI dystopia",
-    "url": "https://news.ycombinator.com/item?id=50256342",
-    "discussion_url": "https://news.ycombinator.com/item?id=50256342",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-27T09:05:20Z",
-    "timestamp": 1793091920,
+    "title": "Show HN: AgenticBench, 9 security tests run on 25 AI coding agents",
+    "url": "https://agenticbench.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262290",
+    "source": "agenticbench.org",
+    "date": "2026-10-27T17:08:18Z",
+    "timestamp": 1793120898,
     "category": "Machine Learning"
   },
   {
-    "title": "Just Eat apologises for AI food mistakes",
-    "url": "https://www.bbc.com/news/articles/crz981p0klvgo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50256270",
-    "source": "bbc.com",
-    "date": "2026-10-27T08:55:50Z",
-    "timestamp": 1793091350,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is ruining haunted houses",
-    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50256230",
-    "source": "plagiarismtoday.com",
-    "date": "2026-10-27T08:50:33Z",
-    "timestamp": 1793091033,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ICE plan to buy robot dogs spurs protest from Boston Dynamics employees",
+    "title": "ICE plan to buy robot dogs from Boston Dynamics",
     "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50255258",
+    "discussion_url": "https://news.ycombinator.com/item?id=50262194",
     "source": "arstechnica.com",
-    "date": "2026-10-27T06:19:42Z",
-    "timestamp": 1793081982,
+    "date": "2026-10-27T17:02:56Z",
+    "timestamp": 1793120576,
     "category": "Physical AI"
   },
   {
-    "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'",
-    "url": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50253750",
-    "source": "wbur.org",
-    "date": "2026-10-27T01:49:35Z",
-    "timestamp": 1793065775,
-    "category": "Physical AI"
+    "title": "Who needs AI psychosis? I gave myself VR psychosis",
+    "url": "https://blog.jacobstechtavern.com/p/vr-psychosis",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261905",
+    "source": "blog.jacobstechtavern.com",
+    "date": "2026-10-27T16:45:50Z",
+    "timestamp": 1793119550,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "At 14 Justine Tunney published software. Now she makes AI models run from a file",
+    "url": "https://timesofindia.indiatimes.com/education/news/at-14-justine-tunney-was-already-publishing-software-years-later-her-five-year-project-helped-make-local-ai-models-run-from-a-single-file/articleshow/134581627.cms",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261887",
+    "source": "timesofindia.indiatimes.com",
+    "date": "2026-10-27T16:44:50Z",
+    "timestamp": 1793119490,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261819",
+    "source": "gizmodo.com",
+    "date": "2026-10-27T16:40:15Z",
+    "timestamp": 1793119215,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Oracle unveils its first in-house Image/Video Models",
+    "url": "https://blogs.oracle.com/ai-and-datascience/oracle-ai-media-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261753",
+    "source": "blogs.oracle.com",
+    "date": "2026-10-27T16:35:57Z",
+    "timestamp": 1793118957,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "A Framework Toward Responsible and Beneficial AI for Fundraising",
+    "url": "https://fundraising.ai/framework/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261590",
+    "source": "fundraising.ai",
+    "date": "2026-10-27T16:25:39Z",
+    "timestamp": 1793118339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261589",
+    "source": "futurism.com",
+    "date": "2026-10-27T16:25:30Z",
+    "timestamp": 1793118330,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50261583",
+    "source": "cloudsleuth.io",
+    "date": "2026-10-27T16:25:12Z",
+    "timestamp": 1793118312,
+    "category": "Machine Learning"
   },
   {
     "title": "Magic state cultivation on a superconducting quantum processor",
@@ -141,15 +150,6 @@
     "source": "arxiv.org",
     "date": "2026-10-26T19:37:59Z",
     "timestamp": 1793043479,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia discusses $2k-per-GPU annual fee for software",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-    "discussion_url": "https://news.ycombinator.com/item?id=50247677",
-    "source": "tomshardware.com",
-    "date": "2026-10-26T17:34:45Z",
-    "timestamp": 1793036085,
     "category": "Computer Architecture"
   },
   {
