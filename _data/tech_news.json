@@ -1,56 +1,119 @@
 [
   {
-    "title": "Alan Watts Predicted LLM Usage in 1951",
-    "url": "https://knell.digital/alan-watts-predicted-llm-usage-in-1951/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251716",
-    "source": "knell.digital",
-    "date": "2026-10-26T22:02:45Z",
-    "timestamp": 1793052165,
+    "title": "Why AI coding tools assume a clean slate",
+    "url": "https://loopsfinity.com/blog-greenfield-bias-ai-tools",
+    "discussion_url": "https://news.ycombinator.com/item?id=50254774",
+    "source": "loopsfinity.com",
+    "date": "2026-10-27T04:41:47Z",
+    "timestamp": 1793076107,
     "category": "Machine Learning"
   },
   {
-    "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-    "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251518",
-    "source": "codingplans.dev",
-    "date": "2026-10-26T21:48:19Z",
-    "timestamp": 1793051299,
+    "title": "AI and the Collapse of Capitalism",
+    "url": "https://jasonpolak.substack.com/p/ai-and-the-collapse-of-capitalism",
+    "discussion_url": "https://news.ycombinator.com/item?id=50254670",
+    "source": "jasonpolak.substack.com",
+    "date": "2026-10-27T04:20:09Z",
+    "timestamp": 1793074809,
     "category": "Machine Learning"
   },
   {
-    "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-    "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251513",
+    "title": "Create and edit images with a collection of easy-to-use AI tools",
+    "url": "https://www.picttool.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50254470",
+    "source": "picttool.com",
+    "date": "2026-10-27T03:39:12Z",
+    "timestamp": 1793072352,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50254386",
+    "source": "blogs.nvidia.com",
+    "date": "2026-10-27T03:23:52Z",
+    "timestamp": 1793071432,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Do you feel like you're seeing fewer bugs since the AI coding era began?",
+    "url": "https://news.ycombinator.com/item?id=50254174",
+    "discussion_url": "https://news.ycombinator.com/item?id=50254174",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-27T02:47:06Z",
+    "timestamp": 1793069226,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Science vs. Human Science",
+    "url": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253759",
+    "source": "lacuna.tiptreesystems.com",
+    "date": "2026-10-27T01:51:04Z",
+    "timestamp": 1793065864,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'",
+    "url": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253750",
+    "source": "wbur.org",
+    "date": "2026-10-27T01:49:35Z",
+    "timestamp": 1793065775,
+    "category": "Physical AI"
+  },
+  {
+    "title": "What to do if you discover AI models trained using your copywrighted book?",
+    "url": "https://news.ycombinator.com/item?id=50253561",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253561",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-27T01:18:50Z",
+    "timestamp": 1793063930,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Do you want to keep your job? Stop feeding AI models",
+    "url": "https://news.ycombinator.com/item?id=50253524",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253524",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-27T01:14:09Z",
+    "timestamp": 1793063649,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI wasn't overhyped. Almost everyone underestimated it",
+    "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253468",
+    "source": "benjamintodd.substack.com",
+    "date": "2026-10-27T01:07:00Z",
+    "timestamp": 1793063220,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
+    "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253346",
+    "source": "youtube.com",
+    "date": "2026-10-27T00:47:20Z",
+    "timestamp": 1793062040,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meaning After an AI Eucatastrophe",
+    "url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253325",
+    "source": "meaningness.substack.com",
+    "date": "2026-10-27T00:45:16Z",
+    "timestamp": 1793061916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In China, the AI bubble has already burst",
+    "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50253320",
     "source": "reuters.com",
-    "date": "2026-10-26T21:48:01Z",
-    "timestamp": 1793051281,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251477",
-    "source": "aclu.org",
-    "date": "2026-10-26T21:45:23Z",
-    "timestamp": 1793051123,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-    "url": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251301",
-    "source": "zdnet.com",
-    "date": "2026-10-26T21:32:10Z",
-    "timestamp": 1793050330,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Analysis – In China, the AI bubble has burst",
-    "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251278",
-    "source": "msn.com",
-    "date": "2026-10-26T21:29:44Z",
-    "timestamp": 1793050184,
+    "date": "2026-10-27T00:44:23Z",
+    "timestamp": 1793061863,
     "category": "Machine Learning"
   },
   {
@@ -63,75 +126,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251062",
-    "source": "404media.co",
-    "date": "2026-10-26T21:13:59Z",
-    "timestamp": 1793049239,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models cost more when you don't use English",
-    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50250910",
-    "source": "restofworld.org",
-    "date": "2026-10-26T21:03:22Z",
-    "timestamp": 1793048602,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Rules of relevance: Carlyle's new paper on AI and markets",
-    "url": "https://www.carlyle.com/global-insights/research/rules-of-relevance",
-    "discussion_url": "https://news.ycombinator.com/item?id=50250677",
-    "source": "carlyle.com",
-    "date": "2026-10-26T20:45:43Z",
-    "timestamp": 1793047543,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-    "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-    "discussion_url": "https://news.ycombinator.com/item?id=50250618",
-    "source": "theregister.com",
-    "date": "2026-10-26T20:41:12Z",
-    "timestamp": 1793047272,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agents have few qualms with log tampering",
-    "url": "https://www.manifold.security/blog/agent-log-tampering",
-    "discussion_url": "https://news.ycombinator.com/item?id=50250494",
-    "source": "manifold.security",
-    "date": "2026-10-26T20:31:43Z",
-    "timestamp": 1793046703,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A dated, inspectable AI citation checker (no fake rankings)",
-    "url": "https://citysignal.date/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50250003",
-    "source": "citysignal.date",
-    "date": "2026-10-26T19:56:48Z",
-    "timestamp": 1793044608,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Magic state cultivation on a superconducting quantum processor",
     "url": "https://arxiv.org/abs/2512.13908",
     "discussion_url": "https://news.ycombinator.com/item?id=50249738",
     "source": "arxiv.org",
     "date": "2026-10-26T19:37:59Z",
     "timestamp": 1793043479,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Cubic Boron Arsenide: An emerging semiconductor (2025)",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2590238525001742",
-    "discussion_url": "https://news.ycombinator.com/item?id=50247781",
-    "source": "sciencedirect.com",
-    "date": "2026-10-26T17:41:02Z",
-    "timestamp": 1793036462,
     "category": "Computer Architecture"
   },
   {
