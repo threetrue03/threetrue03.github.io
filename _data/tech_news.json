@@ -1,129 +1,120 @@
 [
   {
-    "title": "Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API",
-    "url": "https://github.com/Alanzj/SelfClaw",
-    "discussion_url": "https://news.ycombinator.com/item?id=50269473",
-    "source": "github.com",
-    "date": "2026-10-28T04:52:34Z",
-    "timestamp": 1793163154,
+    "title": "Are our personal AI agents holding us hostage?",
+    "url": "https://trevinsays.com/p/are-our-personal-ai-agents-holding",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272715",
+    "source": "trevinsays.com",
+    "date": "2026-10-28T12:46:12Z",
+    "timestamp": 1793191572,
     "category": "Machine Learning"
   },
   {
-    "title": "AICC: Free AI certifications, technical courses, and learning resources",
-    "url": "https://www.aicertificationcouncil.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50269410",
-    "source": "aicertificationcouncil.com",
-    "date": "2026-10-28T04:39:34Z",
-    "timestamp": 1793162374,
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272479",
+    "source": "research.google",
+    "date": "2026-10-28T12:24:25Z",
+    "timestamp": 1793190265,
     "category": "Machine Learning"
   },
   {
-    "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
-    "url": "https://tiny-desk-ai.app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50269013",
-    "source": "tiny-desk-ai.app",
-    "date": "2026-10-28T03:27:21Z",
-    "timestamp": 1793158041,
+    "title": "The Cost of AI in Code: Goodbye, Fingerspitzengefühl?",
+    "url": "https://architecturenotes.co/p/the-cost-of-ai-in-code-goodbye-fingerspitzengefu",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272470",
+    "source": "architecturenotes.co",
+    "date": "2026-10-28T12:23:40Z",
+    "timestamp": 1793190220,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
-    "url": "https://www.aivideosugc.com/ai-video-generation",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268919",
-    "source": "aivideosugc.com",
-    "date": "2026-10-28T03:14:26Z",
-    "timestamp": 1793157266,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
-    "url": "https://www.cirkit.us/demo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268880",
-    "source": "cirkit.us",
-    "date": "2026-10-28T03:09:20Z",
-    "timestamp": 1793156960,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A bust-up between mathematicians fuels fears that AI could undermine science",
-    "url": "https://www.bbc.com/news/articles/c6gelgxjwzdzo",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268874",
-    "source": "bbc.com",
-    "date": "2026-10-28T03:07:39Z",
-    "timestamp": 1793156859,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Wikipedia: Signs of AI Writing",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268783",
-    "source": "en.wikipedia.org",
-    "date": "2026-10-28T02:48:51Z",
-    "timestamp": 1793155731,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Writing AI agents in YAML instead of Python",
-    "url": "https://codecut.ai/build-ai-agents-yaml-docker-agent/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268662",
-    "source": "codecut.ai",
-    "date": "2026-10-28T02:30:09Z",
-    "timestamp": 1793154609,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Why aren't maintainers worried about the Copyright status of LLM output?",
-    "url": "https://news.ycombinator.com/item?id=50268658",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268658",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-28T02:29:46Z",
-    "timestamp": 1793154586,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Are Changing the Price of Goods (Odd Lots) [video]",
-    "url": "https://www.youtube.com/watch?v=gzgBmZcSEU8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268529",
-    "source": "youtube.com",
-    "date": "2026-10-28T02:09:46Z",
-    "timestamp": 1793153386,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
-    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268191",
-    "source": "cnbc.com",
-    "date": "2026-10-28T01:17:10Z",
-    "timestamp": 1793150230,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon defines the role of the developer in the age of AI",
-    "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50268075",
-    "source": "aboutamazon.com",
-    "date": "2026-10-28T01:00:33Z",
-    "timestamp": 1793149233,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ukraine is arming war robots with grenade launchers to hit the Russians",
-    "url": "https://www.businessinsider.com/ukraine-robots-use-grenade-launchers-to-fire-without-risking-soldiers-2026-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=50267927",
-    "source": "businessinsider.com",
-    "date": "2026-10-28T00:40:16Z",
-    "timestamp": 1793148016,
+    "title": "Doctor in UK directs robot to remove a prostate in Gibraltar",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272351",
+    "source": "theguardian.com",
+    "date": "2026-10-28T12:12:42Z",
+    "timestamp": 1793189562,
     "category": "Physical AI"
   },
   {
-    "title": ".aamt – one GPU file format for model weights, agent memory and worlds",
-    "url": "https://asamanthinks.com/aamt",
-    "discussion_url": "https://news.ycombinator.com/item?id=50267356",
-    "source": "asamanthinks.com",
-    "date": "2026-10-27T23:30:17Z",
-    "timestamp": 1793143817,
-    "category": "Computer Architecture"
+    "title": "Video Games for AI Agents, so they don't get bored",
+    "url": "https://play.agentickingdoms.com/?guest=1&src=news.hn",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272278",
+    "source": "play.agentickingdoms.com",
+    "date": "2026-10-28T12:05:51Z",
+    "timestamp": 1793189151,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
+    "url": "https://aiworkflows.tools/workflows",
+    "discussion_url": "https://news.ycombinator.com/item?id=50272242",
+    "source": "aiworkflows.tools",
+    "date": "2026-10-28T12:03:05Z",
+    "timestamp": 1793188985,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+    "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271998",
+    "source": "cnbc.com",
+    "date": "2026-10-28T11:41:06Z",
+    "timestamp": 1793187666,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
+    "url": "https://www.anthropic.com/research/agents-judgment-calls",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271917",
+    "source": "anthropic.com",
+    "date": "2026-10-28T11:33:10Z",
+    "timestamp": 1793187190,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Agents Flooded RubyGems to Get Code Execution on Its Docs Builder",
+    "url": "https://optimuslabs.io/research/briefings/rubygems-rubydoc-agent-execution",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271829",
+    "source": "optimuslabs.io",
+    "date": "2026-10-28T11:23:51Z",
+    "timestamp": 1793186631,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+    "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271720",
+    "source": "theguardian.com",
+    "date": "2026-10-28T11:13:42Z",
+    "timestamp": 1793186022,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI finds 4 bugs in popular industrial control software in under 4 hrs",
+    "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271303",
+    "source": "theregister.com",
+    "date": "2026-10-28T10:17:34Z",
+    "timestamp": 1793182654,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271271",
+    "source": "kotaku.com",
+    "date": "2026-10-28T10:10:58Z",
+    "timestamp": 1793182258,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Shigeru Miyamoto explains why AI won't make human creativity obsolete",
+    "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50271156",
+    "source": "videogameschronicle.com",
+    "date": "2026-10-28T09:53:47Z",
+    "timestamp": 1793181227,
+    "category": "Machine Learning"
   },
   {
     "title": "Slughorn – GPU Vector Graphics",
@@ -133,15 +124,6 @@
     "date": "2026-10-27T23:00:14Z",
     "timestamp": 1793142014,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "The AGI-pill is specialized robots",
-    "url": "https://www.giacomoran.com/blog/agi-pill-specialized-robots/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50265680",
-    "source": "giacomoran.com",
-    "date": "2026-10-27T20:56:12Z",
-    "timestamp": 1793134572,
-    "category": "Physical AI"
   },
   {
     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
