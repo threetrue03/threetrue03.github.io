@@ -1,137 +1,146 @@
 [
   {
-    "title": "Show HN: Pidgeon – Email inboxes for AI agents",
-    "url": "https://pidgeon.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50288172",
-    "source": "pidgeon.ai",
-    "date": "2026-10-29T12:55:12Z",
-    "timestamp": 1793278512,
+    "title": "Dartmouth provost resigns following accusations he used AI for writing",
+    "url": "https://apnews.com/article/dartmouth-provost-ai-a9f71dc5e9e10461c7c2390febcd1b5a",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297194",
+    "source": "apnews.com",
+    "date": "2026-10-29T22:35:31Z",
+    "timestamp": 1793313331,
     "category": "Machine Learning"
   },
   {
-    "title": "Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-    "discussion_url": "https://news.ycombinator.com/item?id=50288014",
-    "source": "tomshardware.com",
-    "date": "2026-10-29T12:41:28Z",
-    "timestamp": 1793277688,
+    "title": "Open-weight AI models can exploit the patch gap",
+    "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297159",
+    "source": "epoch.ai",
+    "date": "2026-10-29T22:32:46Z",
+    "timestamp": 1793313166,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: The AI workspace for teammates share agents on company",
-    "url": "https://github.com/ahmadrosid/nakama",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287951",
+    "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+    "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297037",
+    "source": "bbc.com",
+    "date": "2026-10-29T22:22:13Z",
+    "timestamp": 1793312533,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nanbeige4.3-33B – Flagship teacher LLM",
+    "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296877",
+    "source": "huggingface.co",
+    "date": "2026-10-29T22:08:38Z",
+    "timestamp": 1793311718,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: InputConfig, a free open-source app to run your Mac with any controller",
+    "url": "https://github.com/ryleighnewman/InputConfig",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296793",
     "source": "github.com",
-    "date": "2026-10-29T12:35:56Z",
-    "timestamp": 1793277356,
+    "date": "2026-10-29T22:02:49Z",
+    "timestamp": 1793311369,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "\"Human Emacs\": Proposal for an Emacs Fork Without LLM Contributions",
+    "url": "https://lists.gnu.org/archive/html/emacs-devel/2026-10/msg00508.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296662",
+    "source": "lists.gnu.org",
+    "date": "2026-10-29T21:54:03Z",
+    "timestamp": 1793310843,
     "category": "Machine Learning"
   },
   {
-    "title": "Ukraine Develops Ground Robots That Launch Interceptor Drones",
-    "url": "https://www.kyivpost.com/post/88325",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287807",
-    "source": "kyivpost.com",
-    "date": "2026-10-29T12:23:03Z",
-    "timestamp": 1793276583,
+    "title": "Why Is AI Bad at Writing?",
+    "url": "https://weightythoughts.com/p/why-is-ai-bad-at-writing",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296630",
+    "source": "weightythoughts.com",
+    "date": "2026-10-29T21:51:29Z",
+    "timestamp": 1793310689,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reddit will force users to log in as AI is killing search traffic",
+    "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296625",
+    "source": "engadget.com",
+    "date": "2026-10-29T21:51:18Z",
+    "timestamp": 1793310678,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
+    "url": "https://8rank.ai/game/apple-intelligence-knowledge-graph-in-the-wrong-hands",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296620",
+    "source": "8rank.ai",
+    "date": "2026-10-29T21:50:44Z",
+    "timestamp": 1793310644,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI often makes writing worse. (Even if it makes it better)",
+    "url": "https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296605",
+    "source": "economist.com",
+    "date": "2026-10-29T21:49:57Z",
+    "timestamp": 1793310597,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Proton goes all in on using AI",
+    "url": "https://convo.casa/@b/117525936178835007",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296602",
+    "source": "convo.casa",
+    "date": "2026-10-29T21:49:28Z",
+    "timestamp": 1793310568,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Writing Has Entered Its Post-Shame Era",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296592",
+    "source": "theatlantic.com",
+    "date": "2026-10-29T21:49:09Z",
+    "timestamp": 1793310549,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LessWrong Sans AI",
+    "url": "https://jimrandomh.github.io/LesswrongSansAI/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296548",
+    "source": "jimrandomh.github.io",
+    "date": "2026-10-29T21:45:24Z",
+    "timestamp": 1793310324,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
+    "url": "https://usenua.com/blog/artificer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50296436",
+    "source": "usenua.com",
+    "date": "2026-10-29T21:36:21Z",
+    "timestamp": 1793309781,
     "category": "Physical AI"
   },
   {
-    "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
-    "url": "https://arxiv.org/abs/2610.15033",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287741",
-    "source": "arxiv.org",
-    "date": "2026-10-29T12:14:17Z",
-    "timestamp": 1793276057,
-    "category": "Machine Learning"
+    "title": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
+    "url": "https://sparkjs.dev/radix/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50292475",
+    "source": "sparkjs.dev",
+    "date": "2026-10-29T17:10:49Z",
+    "timestamp": 1793293849,
+    "category": "Computer Architecture"
   },
   {
-    "title": "AI recommends more expensive treatment than physicians, analysis suggests",
-    "url": "https://www.bmj.com/content/395/bmj-2026-101271",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287724",
-    "source": "bmj.com",
-    "date": "2026-10-29T12:12:11Z",
-    "timestamp": 1793275931,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google struggling to make money from AI Mode",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287431",
-    "source": "theregister.com",
-    "date": "2026-10-29T11:38:56Z",
-    "timestamp": 1793273936,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI social media interview platform",
-    "url": "https://www.spotlytt.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287379",
-    "source": "spotlytt.com",
-    "date": "2026-10-29T11:33:29Z",
-    "timestamp": 1793273609,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
-    "url": "https://sonidoselva.com/perspectiva-kogui",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287359",
-    "source": "sonidoselva.com",
-    "date": "2026-10-29T11:29:49Z",
-    "timestamp": 1793273389,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]",
-    "url": "https://www.youtube.com/shorts/TUH_tNq1Ou8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287348",
-    "source": "youtube.com",
-    "date": "2026-10-29T11:28:34Z",
-    "timestamp": 1793273314,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trump says imported robotics pose national security risks",
-    "url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287203",
-    "source": "reuters.com",
-    "date": "2026-10-29T11:08:56Z",
-    "timestamp": 1793272136,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI infra financials leading/lagging indicators data vis and analysis page",
-    "url": "https://artificialliabilities.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287110",
-    "source": "artificialliabilities.com",
-    "date": "2026-10-29T10:57:29Z",
-    "timestamp": 1793271449,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open Source or Custom in Enterprise AI Systems?",
-    "url": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287093",
-    "source": "deepsense.ai",
-    "date": "2026-10-29T10:56:07Z",
-    "timestamp": 1793271367,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
-    "url": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50287073",
-    "source": "deepsense.ai",
-    "date": "2026-10-29T10:54:29Z",
-    "timestamp": 1793271269,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GeForce vs. Workstation GPUs: Nvidia's Half Rate, Priced",
-    "url": "https://www.airealist.ai/p/nvidia-geforce-half-rate",
-    "discussion_url": "https://news.ycombinator.com/item?id=50284980",
-    "source": "airealist.ai",
-    "date": "2026-10-29T05:47:33Z",
-    "timestamp": 1793252853,
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "discussion_url": "https://news.ycombinator.com/item?id=50290912",
+    "source": "skypilot.ai",
+    "date": "2026-10-29T15:45:05Z",
+    "timestamp": 1793288705,
     "category": "Computer Architecture"
   },
   {
@@ -141,24 +150,6 @@
     "source": "divagr.com",
     "date": "2026-10-29T00:25:45Z",
     "timestamp": 1793233545,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",
-    "url": "https://thenewstack.io/github-7-4b-commits-september/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50279722",
-    "source": "thenewstack.io",
-    "date": "2026-10-28T19:41:13Z",
-    "timestamp": 1793216473,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "OpenAI's agents talked to each other through the CPU Cache",
-    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50251200",
-    "source": "the-decoder.com",
-    "date": "2026-10-26T21:24:18Z",
-    "timestamp": 1793049858,
     "category": "Computer Architecture"
   },
   {
