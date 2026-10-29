@@ -1,110 +1,137 @@
 [
   {
-    "title": "Open AI Math Proofs modified sandbox",
-    "url": "https://zenodo.org/records/23717719",
-    "discussion_url": "https://news.ycombinator.com/item?id=50281807",
-    "source": "zenodo.org",
-    "date": "2026-10-28T22:26:13Z",
-    "timestamp": 1793226373,
+    "title": "Ask HN: Why big LLMs use \"it's not A, it is B\" pattern? Shared dataset supplier?",
+    "url": "https://news.ycombinator.com/item?id=50284849",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284849",
+    "source": "news.ycombinator.com",
+    "date": "2026-10-29T05:20:39Z",
+    "timestamp": 1793251239,
     "category": "Machine Learning"
   },
   {
-    "title": "When AI goes rogue, its human overseers may be to blame",
-    "url": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
-    "discussion_url": "https://news.ycombinator.com/item?id=50281581",
-    "source": "sciencenews.org",
-    "date": "2026-10-28T22:04:55Z",
-    "timestamp": 1793225095,
+    "title": "Meta has a new AI pet app called Waddle World",
+    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284716",
+    "source": "techcrunch.com",
+    "date": "2026-10-29T04:54:31Z",
+    "timestamp": 1793249671,
     "category": "Machine Learning"
   },
   {
-    "title": "Can AI forecast elections better than experts?",
-    "url": "https://ballotbench.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50281532",
-    "source": "ballotbench.com",
-    "date": "2026-10-28T22:00:10Z",
-    "timestamp": 1793224810,
+    "title": "AI Chatbots Are Building an 'Algorithmic Self-Portrait' of You",
+    "url": "https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284702",
+    "source": "gizmodo.com",
+    "date": "2026-10-29T04:52:24Z",
+    "timestamp": 1793249544,
     "category": "Machine Learning"
   },
   {
-    "title": "AI agent skills for better second-hand decisions",
-    "url": "https://github.com/budna-marketplace/recommerce",
-    "discussion_url": "https://news.ycombinator.com/item?id=50281334",
+    "title": "NLnet Publishes More Stringent Generative AI Policy",
+    "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284547",
+    "source": "nlnet.nl",
+    "date": "2026-10-29T04:23:02Z",
+    "timestamp": 1793247782,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tools, 17 with write access: How AI platforms bound agent authority",
+    "url": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284178",
+    "source": "antalpha.com",
+    "date": "2026-10-29T03:17:38Z",
+    "timestamp": 1793243858,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
+    "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+    "discussion_url": "https://news.ycombinator.com/item?id=50284115",
+    "source": "techradar.com",
+    "date": "2026-10-29T03:06:03Z",
+    "timestamp": 1793243163,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Quiet Part – a lesson on AI and jobs, built and narrated by AI",
+    "url": "https://thequietpart.ai/?src=hn",
+    "discussion_url": "https://news.ycombinator.com/item?id=50283966",
+    "source": "thequietpart.ai",
+    "date": "2026-10-29T02:42:54Z",
+    "timestamp": 1793241774,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
+    "url": "https://lumi-geo.pages.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50283790",
+    "source": "lumi-geo.pages.dev",
+    "date": "2026-10-29T02:18:56Z",
+    "timestamp": 1793240336,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+    "url": "https://ai-agent-antivirus.space/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50283625",
+    "source": "ai-agent-antivirus.space",
+    "date": "2026-10-29T01:56:16Z",
+    "timestamp": 1793238976,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "N-gram hinted language modeling: NanoGPT Speedrun in 6.7s",
+    "url": "https://brunborg.com/n-gram-hinted-lm",
+    "discussion_url": "https://news.ycombinator.com/item?id=50283487",
+    "source": "brunborg.com",
+    "date": "2026-10-29T01:40:37Z",
+    "timestamp": 1793238037,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU or PSU coil whine: a test log and 47 owner reports across 44 models",
+    "url": "https://techfuelhq.com/articles/gpu-or-psu-coil-whine/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50283212",
+    "source": "techfuelhq.com",
+    "date": "2026-10-29T01:08:57Z",
+    "timestamp": 1793236137,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "I Fixed a $500 Robot, Now You Can Control It [video]",
+    "url": "https://www.youtube.com/watch?v=jorcg0Bx3Cw",
+    "discussion_url": "https://news.ycombinator.com/item?id=50282930",
+    "source": "youtube.com",
+    "date": "2026-10-29T00:39:00Z",
+    "timestamp": 1793234340,
+    "category": "Physical AI"
+  },
+  {
+    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=50282865",
     "source": "github.com",
-    "date": "2026-10-28T21:42:12Z",
-    "timestamp": 1793223732,
+    "date": "2026-10-29T00:30:37Z",
+    "timestamp": 1793233837,
     "category": "Machine Learning"
   },
   {
-    "title": "AI training platform Outlier illegally surveils European platform workers",
-    "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
-    "discussion_url": "https://news.ycombinator.com/item?id=50281071",
-    "source": "noyb.eu",
-    "date": "2026-10-28T21:22:15Z",
-    "timestamp": 1793222535,
-    "category": "Machine Learning"
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50282838",
+    "source": "divagr.com",
+    "date": "2026-10-29T00:25:45Z",
+    "timestamp": 1793233545,
+    "category": "Computer Architecture"
   },
   {
-    "title": "The cultish behavior of top AI figures (2024)",
-    "url": "https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280991",
-    "source": "rollingstone.com",
-    "date": "2026-10-28T21:15:16Z",
-    "timestamp": 1793222116,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to Outrun the AI Hackers",
-    "url": "https://www.thefp.com/p/tyler-cowen-how-to-outrun-the-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280797",
-    "source": "thefp.com",
-    "date": "2026-10-28T20:57:02Z",
-    "timestamp": 1793221022,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "When AI Does the Work, What Will Humans Do?",
-    "url": "https://project507.substack.com/p/when-ai-does-the-work-what-will-humans",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280739",
-    "source": "project507.substack.com",
-    "date": "2026-10-28T20:52:31Z",
-    "timestamp": 1793220751,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Startups Are Getting an Inch and Taking a Mile",
-    "url": "https://tedium.co/2026/10/27/ai-startups-sketchy-behavior/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280720",
-    "source": "tedium.co",
-    "date": "2026-10-28T20:51:35Z",
-    "timestamp": 1793220695,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Getting good at AI takes time and practice",
-    "url": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280471",
-    "source": "seangoedecke.com",
-    "date": "2026-10-28T20:31:36Z",
-    "timestamp": 1793219496,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google AI gets cagey when asked who won the 2020 elections",
-    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280178",
-    "source": "arstechnica.com",
-    "date": "2026-10-28T20:10:16Z",
-    "timestamp": 1793218216,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs Love Python: A Study of LLMs' Bias",
-    "url": "https://arxiv.org/abs/2503.17181",
-    "discussion_url": "https://news.ycombinator.com/item?id=50280092",
-    "source": "arxiv.org",
-    "date": "2026-10-28T20:03:51Z",
-    "timestamp": 1793217831,
+    "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+    "url": "https://supermhel.github.io/fengarde/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50282830",
+    "source": "supermhel.github.io",
+    "date": "2026-10-29T00:24:55Z",
+    "timestamp": 1793233495,
     "category": "Machine Learning"
   },
   {
@@ -117,30 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Passengers injured after collision between bus and delivery robot in Tallinn",
-    "url": "https://news.err.ee/1610179027/passengers-injured-after-collision-between-bus-and-delivery-robot-in-tallinn",
-    "discussion_url": "https://news.ycombinator.com/item?id=50279304",
-    "source": "news.err.ee",
-    "date": "2026-10-28T19:14:49Z",
-    "timestamp": 1793214889,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Writing GPU kernels in Rust: how I made speakrs 60× faster than pyannote",
-    "url": "https://avencera.com/blog/writing-gpu-kernels-in-rust-speakrs-60x-faster-than-pyannote",
-    "discussion_url": "https://news.ycombinator.com/item?id=50278252",
-    "source": "avencera.com",
-    "date": "2026-10-28T18:07:38Z",
-    "timestamp": 1793210858,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A RISC-V CPU compiled into the weights of an LLM",
-    "url": "https://github.com/divagr18/qwenputer",
-    "discussion_url": "https://news.ycombinator.com/item?id=50277757",
-    "source": "github.com",
-    "date": "2026-10-28T17:45:29Z",
-    "timestamp": 1793209529,
+    "title": "OpenAI's agents talked to each other through the CPU Cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50251200",
+    "source": "the-decoder.com",
+    "date": "2026-10-26T21:24:18Z",
+    "timestamp": 1793049858,
     "category": "Computer Architecture"
   },
   {
