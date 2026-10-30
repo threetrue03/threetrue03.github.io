@@ -1,39 +1,120 @@
 [
   {
-    "title": "Dartmouth provost resigns following accusations he used AI for writing",
-    "url": "https://apnews.com/article/dartmouth-provost-ai-a9f71dc5e9e10461c7c2390febcd1b5a",
-    "discussion_url": "https://news.ycombinator.com/item?id=50297194",
-    "source": "apnews.com",
-    "date": "2026-10-29T22:35:31Z",
-    "timestamp": 1793313331,
+    "title": "Show HN: Breatic – Collaborative canvases and documents with an AI agent",
+    "url": "https://github.com/orime-org/breatic",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299847",
+    "source": "github.com",
+    "date": "2026-10-30T04:23:59Z",
+    "timestamp": 1793334239,
     "category": "Machine Learning"
   },
   {
-    "title": "Open-weight AI models can exploit the patch gap",
-    "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-    "discussion_url": "https://news.ycombinator.com/item?id=50297159",
-    "source": "epoch.ai",
-    "date": "2026-10-29T22:32:46Z",
-    "timestamp": 1793313166,
+    "title": "Sam Altman: local inference is a terrible allocation of scarce resources",
+    "url": "https://www.linkedin.com/posts/boucetta-abderahmane_sam-altman-local-inference-is-a-terrible-activity-7521718579914981376-WZzP",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299796",
+    "source": "linkedin.com",
+    "date": "2026-10-30T04:13:28Z",
+    "timestamp": 1793333608,
     "category": "Machine Learning"
   },
   {
-    "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-    "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-    "discussion_url": "https://news.ycombinator.com/item?id=50297037",
-    "source": "bbc.com",
-    "date": "2026-10-29T22:22:13Z",
-    "timestamp": 1793312533,
+    "title": "AI killed my software career [video]",
+    "url": "https://www.youtube.com/watch?v=cwsy-6gu5p4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299573",
+    "source": "youtube.com",
+    "date": "2026-10-30T03:31:38Z",
+    "timestamp": 1793331098,
     "category": "Machine Learning"
   },
   {
-    "title": "Nanbeige4.3-33B – Flagship teacher LLM",
-    "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296877",
-    "source": "huggingface.co",
-    "date": "2026-10-29T22:08:38Z",
-    "timestamp": 1793311718,
+    "title": "Ambition in the Age of AI",
+    "url": "https://aumitleon.dev/ambition-in-the-age-of-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299390",
+    "source": "aumitleon.dev",
+    "date": "2026-10-30T03:00:27Z",
+    "timestamp": 1793329227,
     "category": "Machine Learning"
+  },
+  {
+    "title": "The hard problem of AI therapy",
+    "url": "https://www.theseedsofscience.pub/p/the-hard-problem-of-ai-therapy",
+    "discussion_url": "https://news.ycombinator.com/item?id=50299275",
+    "source": "theseedsofscience.pub",
+    "date": "2026-10-30T02:45:50Z",
+    "timestamp": 1793328350,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
+    "url": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50298949",
+    "source": "finance.yahoo.com",
+    "date": "2026-10-30T01:56:00Z",
+    "timestamp": 1793325360,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Ace Interviews and Meetings with AI Assistance",
+    "url": "https://sanityos.com/blog/ai-meeting-interview-assistant",
+    "discussion_url": "https://news.ycombinator.com/item?id=50298463",
+    "source": "sanityos.com",
+    "date": "2026-10-30T00:45:56Z",
+    "timestamp": 1793321156,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Deep Learning Made Difficult",
+    "url": "https://philsci-archive.pitt.edu/id/eprint/31028/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50298437",
+    "source": "philsci-archive.pitt.edu",
+    "date": "2026-10-30T00:42:48Z",
+    "timestamp": 1793320968,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Programming and Theory Building",
+    "url": "https://kevinlynagh.com/newsletter/2026_10_29_llm_programming_and_theory_building/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297955",
+    "source": "kevinlynagh.com",
+    "date": "2026-10-29T23:56:15Z",
+    "timestamp": 1793318175,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An Open Field Guide to Inference Engineering",
+    "url": "https://docs.modelplane.ai/main/guides/inference_guide",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297926",
+    "source": "docs.modelplane.ai",
+    "date": "2026-10-29T23:52:20Z",
+    "timestamp": 1793317940,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297697",
+    "source": "github.com",
+    "date": "2026-10-29T23:25:46Z",
+    "timestamp": 1793316346,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+    "url": "https://judgementlabs.app/blog/the-coalition-room",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297636",
+    "source": "judgementlabs.app",
+    "date": "2026-10-29T23:19:01Z",
+    "timestamp": 1793315941,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Advanced Matrix Multiplication Optimization on Nvidia GPUs",
+    "url": "https://salykova.github.io/gemm-gpu",
+    "discussion_url": "https://news.ycombinator.com/item?id=50297437",
+    "source": "salykova.github.io",
+    "date": "2026-10-29T22:58:57Z",
+    "timestamp": 1793314737,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: InputConfig, a free open-source app to run your Mac with any controller",
@@ -45,78 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "\"Human Emacs\": Proposal for an Emacs Fork Without LLM Contributions",
-    "url": "https://lists.gnu.org/archive/html/emacs-devel/2026-10/msg00508.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296662",
-    "source": "lists.gnu.org",
-    "date": "2026-10-29T21:54:03Z",
-    "timestamp": 1793310843,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Is AI Bad at Writing?",
-    "url": "https://weightythoughts.com/p/why-is-ai-bad-at-writing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296630",
-    "source": "weightythoughts.com",
-    "date": "2026-10-29T21:51:29Z",
-    "timestamp": 1793310689,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reddit will force users to log in as AI is killing search traffic",
-    "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296625",
-    "source": "engadget.com",
-    "date": "2026-10-29T21:51:18Z",
-    "timestamp": 1793310678,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
-    "url": "https://8rank.ai/game/apple-intelligence-knowledge-graph-in-the-wrong-hands",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296620",
-    "source": "8rank.ai",
-    "date": "2026-10-29T21:50:44Z",
-    "timestamp": 1793310644,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI often makes writing worse. (Even if it makes it better)",
-    "url": "https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296605",
-    "source": "economist.com",
-    "date": "2026-10-29T21:49:57Z",
-    "timestamp": 1793310597,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Proton goes all in on using AI",
-    "url": "https://convo.casa/@b/117525936178835007",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296602",
-    "source": "convo.casa",
-    "date": "2026-10-29T21:49:28Z",
-    "timestamp": 1793310568,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Writing Has Entered Its Post-Shame Era",
-    "url": "https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296592",
-    "source": "theatlantic.com",
-    "date": "2026-10-29T21:49:09Z",
-    "timestamp": 1793310549,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LessWrong Sans AI",
-    "url": "https://jimrandomh.github.io/LesswrongSansAI/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50296548",
-    "source": "jimrandomh.github.io",
-    "date": "2026-10-29T21:45:24Z",
-    "timestamp": 1793310324,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
     "url": "https://usenua.com/blog/artificer",
     "discussion_url": "https://news.ycombinator.com/item?id=50296436",
@@ -124,15 +133,6 @@
     "date": "2026-10-29T21:36:21Z",
     "timestamp": 1793309781,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
-    "url": "https://sparkjs.dev/radix/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50292475",
-    "source": "sparkjs.dev",
-    "date": "2026-10-29T17:10:49Z",
-    "timestamp": 1793293849,
-    "category": "Computer Architecture"
   },
   {
     "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
