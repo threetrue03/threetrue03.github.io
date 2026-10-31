@@ -1,74 +1,119 @@
 [
   {
-    "title": "Ignore AI and ask for that pay rise",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310851",
+    "title": "AI gave me the skills. It didn't give me people",
+    "url": "https://apps.apple.com/us/app/neonetworking/id6818046802",
+    "discussion_url": "https://news.ycombinator.com/item?id=50313446",
+    "source": "apps.apple.com",
+    "date": "2026-10-31T05:26:54Z",
+    "timestamp": 1793424414,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "discussion_url": "https://news.ycombinator.com/item?id=50313296",
+    "source": "theverge.com",
+    "date": "2026-10-31T04:49:47Z",
+    "timestamp": 1793422187,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Free AI Learning Platform",
+    "url": "https://www.aicertificationcouncil.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50313213",
+    "source": "aicertificationcouncil.com",
+    "date": "2026-10-31T04:28:26Z",
+    "timestamp": 1793420906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
+    "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50312720",
+    "source": "3dprintingindustry.com",
+    "date": "2026-10-31T02:38:46Z",
+    "timestamp": 1793414326,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50312395",
+    "source": "openai.com",
+    "date": "2026-10-31T01:36:47Z",
+    "timestamp": 1793410607,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+    "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+    "discussion_url": "https://news.ycombinator.com/item?id=50312342",
+    "source": "eff.org",
+    "date": "2026-10-31T01:26:11Z",
+    "timestamp": 1793409971,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google's $500B bloodbath reflects the danger it faces from AI",
+    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist",
+    "discussion_url": "https://news.ycombinator.com/item?id=50312290",
     "source": "economist.com",
-    "date": "2026-10-30T22:16:09Z",
-    "timestamp": 1793398569,
+    "date": "2026-10-31T01:19:32Z",
+    "timestamp": 1793409572,
     "category": "Machine Learning"
   },
   {
-    "title": "The biggest feud in artificial intelligence",
-    "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310732",
-    "source": "afr.com",
-    "date": "2026-10-30T22:02:43Z",
-    "timestamp": 1793397763,
+    "title": "Black October: At least nine AI developer platforms breached this month",
+    "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311844",
+    "source": "wiz.io",
+    "date": "2026-10-31T00:11:32Z",
+    "timestamp": 1793405492,
     "category": "Machine Learning"
   },
   {
-    "title": "I built a honeypot for LLMs, will a agent take the bait?",
-    "url": "https://victorribeiro.com/bots/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310696",
-    "source": "victorribeiro.com",
-    "date": "2026-10-30T21:58:45Z",
-    "timestamp": 1793397525,
+    "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+    "url": "https://judgementlabs.app/blog/the-coalition-room",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311801",
+    "source": "judgementlabs.app",
+    "date": "2026-10-31T00:06:00Z",
+    "timestamp": 1793405160,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Capital Spending Is Booming. But What About Shareholder Returns?",
-    "url": "https://michaelhillaert1.substack.com/p/valuation-dislocation-october-2026",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310531",
-    "source": "michaelhillaert1.substack.com",
-    "date": "2026-10-30T21:41:07Z",
-    "timestamp": 1793396467,
+    "title": "AI changed what I can build",
+    "url": "https://tanner.place/blog/how-ai-changed-what-i-can-build",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311326",
+    "source": "tanner.place",
+    "date": "2026-10-30T23:10:13Z",
+    "timestamp": 1793401813,
     "category": "Machine Learning"
   },
   {
-    "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-    "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310431",
+    "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+    "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311250",
     "source": "reuters.com",
-    "date": "2026-10-30T21:32:35Z",
-    "timestamp": 1793395955,
+    "date": "2026-10-30T23:02:48Z",
+    "timestamp": 1793401368,
     "category": "Machine Learning"
   },
   {
-    "title": "Web-MCP-Bridge – Connect browser-based LLMs to MCP servers and tools",
-    "url": "https://github.com/AstraxOf/web-mcp-bridge",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310370",
+    "title": "The N64's GPU Is a Technical Marvel [video]",
+    "url": "https://www.youtube.com/watch?v=WEoRgQH08MA",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311188",
+    "source": "youtube.com",
+    "date": "2026-10-30T22:57:39Z",
+    "timestamp": 1793401059,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Assure – your AI agent says \"done.\" This checks if it's lying",
+    "url": "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
+    "discussion_url": "https://news.ycombinator.com/item?id=50311101",
     "source": "github.com",
-    "date": "2026-10-30T21:27:04Z",
-    "timestamp": 1793395624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Using AI to Revive Frozen Bubble",
-    "url": "https://github.com/guax/frozen-bubble",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310357",
-    "source": "github.com",
-    "date": "2026-10-30T21:26:11Z",
-    "timestamp": 1793395571,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI's latest discoveries spark a backlash and Help My kid hates AI",
-    "url": "https://text.npr.org/nx-s1-6022556",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310311",
-    "source": "text.npr.org",
-    "date": "2026-10-30T21:21:24Z",
-    "timestamp": 1793395284,
+    "date": "2026-10-30T22:48:05Z",
+    "timestamp": 1793400485,
     "category": "Machine Learning"
   },
   {
@@ -79,42 +124,6 @@
     "date": "2026-10-30T21:06:35Z",
     "timestamp": 1793394395,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Generative AI's Environmental Impact",
-    "url": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310131",
-    "source": "news.mit.edu",
-    "date": "2026-10-30T21:06:28Z",
-    "timestamp": 1793394388,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: mobile-agent – Let AI agents control Android and iOS devices",
-    "url": "https://github.com/gesposito/mobile-agent",
-    "discussion_url": "https://news.ycombinator.com/item?id=50310027",
-    "source": "github.com",
-    "date": "2026-10-30T20:54:51Z",
-    "timestamp": 1793393691,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Venice: The Antidote to AI",
-    "url": "https://www.with-flo.com/journal/venice",
-    "discussion_url": "https://news.ycombinator.com/item?id=50309936",
-    "source": "with-flo.com",
-    "date": "2026-10-30T20:47:38Z",
-    "timestamp": 1793393258,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Don't Make a Human Do What AI Is Amazing At",
-    "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50309929",
-    "source": "johnnunemaker.com",
-    "date": "2026-10-30T20:47:13Z",
-    "timestamp": 1793393233,
-    "category": "Machine Learning"
   },
   {
     "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
@@ -160,24 +169,6 @@
     "date": "2026-10-30T19:45:42Z",
     "timestamp": 1793389542,
     "category": "Physical AI"
-  },
-  {
-    "title": "China unveils 13-foot robot that can lift a cow",
-    "url": "https://www.the-independent.com/tech/china-robot-humanoid-neodradynamics-neo1-ai-b3074374.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50308489",
-    "source": "the-independent.com",
-    "date": "2026-10-30T18:51:44Z",
-    "timestamp": 1793386304,
-    "category": "Physical AI"
-  },
-  {
-    "title": "RISC-V Has a Nice Portable Performance Optimization with Linux 7.4",
-    "url": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
-    "discussion_url": "https://news.ycombinator.com/item?id=50308066",
-    "source": "phoronix.com",
-    "date": "2026-10-30T18:20:33Z",
-    "timestamp": 1793384433,
-    "category": "Computer Architecture"
   },
   {
     "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
