@@ -1,38 +1,119 @@
 [
   {
-    "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-    "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50322458",
+    "title": "A 90% Chance of AI Saving Humanity",
+    "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+    "discussion_url": "https://news.ycombinator.com/item?id=50325398",
+    "source": "joshbocanegra.medium.com",
+    "date": "2026-11-01T13:19:04Z",
+    "timestamp": 1793539144,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Modeljury – a jury of cheap LLMs that escalates the hard cases",
+    "url": "https://github.com/YasserManss/modeljury",
+    "discussion_url": "https://news.ycombinator.com/item?id=50325217",
+    "source": "github.com",
+    "date": "2026-11-01T12:58:26Z",
+    "timestamp": 1793537906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The question we should all be asking about AI",
+    "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+    "discussion_url": "https://news.ycombinator.com/item?id=50325107",
+    "source": "cnn.com",
+    "date": "2026-11-01T12:44:36Z",
+    "timestamp": 1793537076,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+    "url": "https://agenticresourcediscovery.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50324679",
+    "source": "agenticresourcediscovery.org",
+    "date": "2026-11-01T11:39:35Z",
+    "timestamp": 1793533175,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "QwenPU: An LLM running inside another LLM's weights",
+    "url": "https://huggingface.co/divagr1925/QwenPU",
+    "discussion_url": "https://news.ycombinator.com/item?id=50324179",
+    "source": "huggingface.co",
+    "date": "2026-11-01T10:15:39Z",
+    "timestamp": 1793528139,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Fruth – A semantic state inference engine for AI",
+    "url": "https://github.com/fl0ri0/fruth",
+    "discussion_url": "https://news.ycombinator.com/item?id=50324172",
+    "source": "github.com",
+    "date": "2026-11-01T10:14:07Z",
+    "timestamp": 1793528047,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FreeGent: Free Agentic AI for Everyone",
+    "url": "https://freegent.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323876",
+    "source": "freegent.ai",
+    "date": "2026-11-01T09:20:16Z",
+    "timestamp": 1793524816,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Early Career Researcher Responses to AI in Math",
+    "url": "https://arxiv.org/abs/2610.40584",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323728",
+    "source": "arxiv.org",
+    "date": "2026-11-01T08:47:22Z",
+    "timestamp": 1793522842,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323470",
     "source": "theguardian.com",
-    "date": "2026-11-01T03:27:55Z",
-    "timestamp": 1793503675,
+    "date": "2026-11-01T07:46:28Z",
+    "timestamp": 1793519188,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Made Me Homeless",
-    "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-    "discussion_url": "https://news.ycombinator.com/item?id=50322251",
-    "source": "medium.com",
-    "date": "2026-11-01T02:38:11Z",
-    "timestamp": 1793500691,
+    "title": "FineDNA: Open data to train LLMs on DNA",
+    "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323353",
+    "source": "huggingface.co",
+    "date": "2026-11-01T07:13:15Z",
+    "timestamp": 1793517195,
     "category": "Machine Learning"
   },
   {
-    "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
-    "url": "https://www.youtube.com/watch?v=usZLo_9Jz54",
-    "discussion_url": "https://news.ycombinator.com/item?id=50322165",
-    "source": "youtube.com",
-    "date": "2026-11-01T02:17:57Z",
-    "timestamp": 1793499477,
+    "title": "V0.5.0 of PSSA: a non-transformer language model",
+    "url": "https://github.com/Sparticle62ops/pssa/releases/tag/v0.5.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323347",
+    "source": "github.com",
+    "date": "2026-11-01T07:11:12Z",
+    "timestamp": 1793517072,
     "category": "Machine Learning"
   },
   {
-    "title": "How AI may drive union-resistant tech workers to the bargaining table",
-    "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321734",
-    "source": "theguardian.com",
-    "date": "2026-11-01T00:49:23Z",
-    "timestamp": 1793494163,
+    "title": "Open data and code to teach LLMs to read DNA",
+    "url": "https://github.com/huggingface/carbon",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323345",
+    "source": "github.com",
+    "date": "2026-11-01T07:10:25Z",
+    "timestamp": 1793517025,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Who pays for the AI power boom?",
+    "url": "https://www.axios.com/2026/10/31/who-pays-ai-power-boom",
+    "discussion_url": "https://news.ycombinator.com/item?id=50323148",
+    "source": "axios.com",
+    "date": "2026-11-01T06:20:11Z",
+    "timestamp": 1793514011,
     "category": "Machine Learning"
   },
   {
@@ -42,105 +123,6 @@
     "source": "engadget.com",
     "date": "2026-11-01T00:40:30Z",
     "timestamp": 1793493630,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
-    "url": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321629",
-    "source": "gizmodo.com",
-    "date": "2026-11-01T00:30:34Z",
-    "timestamp": 1793493034,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321572",
-    "source": "arstechnica.com",
-    "date": "2026-11-01T00:19:20Z",
-    "timestamp": 1793492360,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Honest Government Ad – AI Data Centres [video]",
-    "url": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321493",
-    "source": "youtube.com",
-    "date": "2026-11-01T00:05:14Z",
-    "timestamp": 1793491514,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "When AI writes almost all code, what happens to software engineering?",
-    "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321300",
-    "source": "newsletter.pragmaticengineer.com",
-    "date": "2026-10-31T23:34:14Z",
-    "timestamp": 1793489654,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321065",
-    "source": "bloomberg.com",
-    "date": "2026-10-31T22:57:27Z",
-    "timestamp": 1793487447,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
-    "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320683",
-    "source": "ai.pt",
-    "date": "2026-10-31T22:01:31Z",
-    "timestamp": 1793484091,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Proton senior management prioritizes AI over security",
-    "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320681",
-    "source": "consumerrights.wiki",
-    "date": "2026-10-31T22:01:11Z",
-    "timestamp": 1793484071,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Playground for Designing Buildable Robotics",
-    "url": "https://github.com/JamelHammoud/basecase",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320660",
-    "source": "github.com",
-    "date": "2026-10-31T21:59:22Z",
-    "timestamp": 1793483962,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI text watermarking and quality loss",
-    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320599",
-    "source": "blog.keyvan.net",
-    "date": "2026-10-31T21:50:13Z",
-    "timestamp": 1793483413,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU",
-    "url": "https://re-use-demo.geronimo-labs.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320492",
-    "source": "re-use-demo.geronimo-labs.com",
-    "date": "2026-10-31T21:38:20Z",
-    "timestamp": 1793482700,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A Haskell processor running on an FPGA",
-    "url": "https://bathtub-01.github.io/technical/ouros-demo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50319896",
-    "source": "bathtub-01.github.io",
-    "date": "2026-10-31T20:34:02Z",
-    "timestamp": 1793478842,
     "category": "Computer Architecture"
   },
   {
