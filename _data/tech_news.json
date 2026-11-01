@@ -1,12 +1,138 @@
 [
   {
-    "title": "Will AI take your job? You have more agency than you think",
-    "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
-    "discussion_url": "https://news.ycombinator.com/item?id=50320302",
-    "source": "vox.com",
-    "date": "2026-10-31T21:13:50Z",
-    "timestamp": 1793481230,
+    "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+    "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+    "discussion_url": "https://news.ycombinator.com/item?id=50322458",
+    "source": "theguardian.com",
+    "date": "2026-11-01T03:27:55Z",
+    "timestamp": 1793503675,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI Made Me Homeless",
+    "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+    "discussion_url": "https://news.ycombinator.com/item?id=50322251",
+    "source": "medium.com",
+    "date": "2026-11-01T02:38:11Z",
+    "timestamp": 1793500691,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
+    "url": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+    "discussion_url": "https://news.ycombinator.com/item?id=50322165",
+    "source": "youtube.com",
+    "date": "2026-11-01T02:17:57Z",
+    "timestamp": 1793499477,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI may drive union-resistant tech workers to the bargaining table",
+    "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321734",
+    "source": "theguardian.com",
+    "date": "2026-11-01T00:49:23Z",
+    "timestamp": 1793494163,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon made the AUX input on older Alexa devices less useful",
+    "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321688",
+    "source": "engadget.com",
+    "date": "2026-11-01T00:40:30Z",
+    "timestamp": 1793493630,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
+    "url": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321629",
+    "source": "gizmodo.com",
+    "date": "2026-11-01T00:30:34Z",
+    "timestamp": 1793493034,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321572",
+    "source": "arstechnica.com",
+    "date": "2026-11-01T00:19:20Z",
+    "timestamp": 1793492360,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Honest Government Ad – AI Data Centres [video]",
+    "url": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321493",
+    "source": "youtube.com",
+    "date": "2026-11-01T00:05:14Z",
+    "timestamp": 1793491514,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "When AI writes almost all code, what happens to software engineering?",
+    "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321300",
+    "source": "newsletter.pragmaticengineer.com",
+    "date": "2026-10-31T23:34:14Z",
+    "timestamp": 1793489654,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+    "discussion_url": "https://news.ycombinator.com/item?id=50321065",
+    "source": "bloomberg.com",
+    "date": "2026-10-31T22:57:27Z",
+    "timestamp": 1793487447,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+    "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50320683",
+    "source": "ai.pt",
+    "date": "2026-10-31T22:01:31Z",
+    "timestamp": 1793484091,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Proton senior management prioritizes AI over security",
+    "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
+    "discussion_url": "https://news.ycombinator.com/item?id=50320681",
+    "source": "consumerrights.wiki",
+    "date": "2026-10-31T22:01:11Z",
+    "timestamp": 1793484071,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Playground for Designing Buildable Robotics",
+    "url": "https://github.com/JamelHammoud/basecase",
+    "discussion_url": "https://news.ycombinator.com/item?id=50320660",
+    "source": "github.com",
+    "date": "2026-10-31T21:59:22Z",
+    "timestamp": 1793483962,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI text watermarking and quality loss",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "discussion_url": "https://news.ycombinator.com/item?id=50320599",
+    "source": "blog.keyvan.net",
+    "date": "2026-10-31T21:50:13Z",
+    "timestamp": 1793483413,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU",
+    "url": "https://re-use-demo.geronimo-labs.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50320492",
+    "source": "re-use-demo.geronimo-labs.com",
+    "date": "2026-10-31T21:38:20Z",
+    "timestamp": 1793482700,
+    "category": "Computer Architecture"
   },
   {
     "title": "A Haskell processor running on an FPGA",
@@ -15,132 +141,6 @@
     "source": "bathtub-01.github.io",
     "date": "2026-10-31T20:34:02Z",
     "timestamp": 1793478842,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Reddit shares plunge as Google's AI search squeezes traffic",
-    "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50319851",
-    "source": "reuters.com",
-    "date": "2026-10-31T20:31:09Z",
-    "timestamp": 1793478669,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
-    "url": "https://castov.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50319273",
-    "source": "castov.com",
-    "date": "2026-10-31T19:30:14Z",
-    "timestamp": 1793475014,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inference engine in game scripting language using macros",
-    "url": "https://dasllama.io/articles/2026-10-28-the-need-for-speed.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50319155",
-    "source": "dasllama.io",
-    "date": "2026-10-31T19:17:31Z",
-    "timestamp": 1793474251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Limits of AI as an Economic Weapon",
-    "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318940",
-    "source": "palladiummag.com",
-    "date": "2026-10-31T18:56:26Z",
-    "timestamp": 1793472986,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
-    "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318912",
-    "source": "wsj.com",
-    "date": "2026-10-31T18:54:27Z",
-    "timestamp": 1793472867,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-    "url": "https://news.ycombinator.com/item?id=50318869",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318869",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-31T18:50:25Z",
-    "timestamp": 1793472625,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Software is Eating AI (2017)",
-    "url": "https://hyperparameter.space/blog/software-is-eating-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318620",
-    "source": "hyperparameter.space",
-    "date": "2026-10-31T18:27:27Z",
-    "timestamp": 1793471247,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-    "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318494",
-    "source": "arxo.io",
-    "date": "2026-10-31T18:14:17Z",
-    "timestamp": 1793470457,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-    "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318401",
-    "source": "dl.acm.org",
-    "date": "2026-10-31T18:02:29Z",
-    "timestamp": 1793469749,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
-    "url": "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318169",
-    "source": "gadgetreview.com",
-    "date": "2026-10-31T17:34:23Z",
-    "timestamp": 1793468063,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Is AI destroying public online community as a protective moat?",
-    "url": "https://news.ycombinator.com/item?id=50318091",
-    "discussion_url": "https://news.ycombinator.com/item?id=50318091",
-    "source": "news.ycombinator.com",
-    "date": "2026-10-31T17:25:32Z",
-    "timestamp": 1793467532,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GAC starts mass-producing Level 4 robotrucks in China",
-    "url": "https://asia-tech-news.ghost.io/gac-starts-mass-producing-level-4-pony-ai-robotrucks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50316689",
-    "source": "asia-tech-news.ghost.io",
-    "date": "2026-10-31T14:48:59Z",
-    "timestamp": 1793458139,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Wanted: Robot-Dog Walkers. $20/Hour. No pooper scooper required.",
-    "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50316631",
-    "source": "nytimes.com",
-    "date": "2026-10-31T14:41:28Z",
-    "timestamp": 1793457688,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-    "discussion_url": "https://news.ycombinator.com/item?id=50290912",
-    "source": "skypilot.ai",
-    "date": "2026-10-29T15:45:05Z",
-    "timestamp": 1793288705,
     "category": "Computer Architecture"
   },
   {
