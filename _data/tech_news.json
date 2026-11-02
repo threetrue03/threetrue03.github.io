@@ -1,39 +1,129 @@
 [
   {
-    "title": "Proton's AI manifesto for software engineering",
-    "url": "https://proton.me/blog/ai-manifesto",
-    "discussion_url": "https://news.ycombinator.com/item?id=50330353",
-    "source": "proton.me",
-    "date": "2026-11-01T21:58:17Z",
-    "timestamp": 1793570297,
+    "title": "Asking my AI teacher how to spell seventeen",
+    "url": "https://twitter.com/huskirl/status/2116941001335947635",
+    "discussion_url": "https://news.ycombinator.com/item?id=50333262",
+    "source": "twitter.com",
+    "date": "2026-11-02T04:50:50Z",
+    "timestamp": 1793595050,
     "category": "Machine Learning"
   },
   {
-    "title": "So I guess everyone uses LLMs to think now",
-    "url": "https://eva.ac/blog/llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50330253",
-    "source": "eva.ac",
-    "date": "2026-11-01T21:49:04Z",
-    "timestamp": 1793569744,
+    "title": "Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs",
+    "url": "https://github.com/arkenforge/arken-core",
+    "discussion_url": "https://news.ycombinator.com/item?id=50333115",
+    "source": "github.com",
+    "date": "2026-11-02T04:29:23Z",
+    "timestamp": 1793593763,
     "category": "Machine Learning"
   },
   {
-    "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-    "url": "https://arxiv.org/abs/2610.40269",
-    "discussion_url": "https://news.ycombinator.com/item?id=50330033",
-    "source": "arxiv.org",
-    "date": "2026-11-01T21:22:28Z",
-    "timestamp": 1793568148,
+    "title": "Intel trials open robotics architecture with SAP in Chinese demo",
+    "url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50333010",
+    "source": "sdxcentral.com",
+    "date": "2026-11-02T04:06:02Z",
+    "timestamp": 1793592362,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI is programming's next abstraction. What should we teach?",
+    "url": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50332797",
+    "source": "lernerpython.com",
+    "date": "2026-11-02T03:25:03Z",
+    "timestamp": 1793589903,
     "category": "Machine Learning"
   },
   {
-    "title": "Early Career Researcher Responses to AI in Math",
-    "url": "https://arxiv.org/abs/2610.40584",
-    "discussion_url": "https://news.ycombinator.com/item?id=50330023",
-    "source": "arxiv.org",
-    "date": "2026-11-01T21:21:55Z",
-    "timestamp": 1793568115,
+    "title": "Agentic AI Is Myth Set in Motion",
+    "url": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50332768",
+    "source": "braddelong.substack.com",
+    "date": "2026-11-02T03:20:34Z",
+    "timestamp": 1793589634,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+    "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+    "discussion_url": "https://news.ycombinator.com/item?id=50332086",
+    "source": "eurogamer.net",
+    "date": "2026-11-02T01:47:07Z",
+    "timestamp": 1793584027,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+    "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331998",
+    "source": "picon.dev",
+    "date": "2026-11-02T01:35:02Z",
+    "timestamp": 1793583302,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Flare, Nvidia's DGX Spark Inference Engine",
+    "url": "https://github.com/NVIDIA/spark-local-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331803",
+    "source": "github.com",
+    "date": "2026-11-02T01:11:27Z",
+    "timestamp": 1793581887,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Competition in Generative AI: Evidence from Consumer Demand (NBER)",
+    "url": "https://www.nber.org/papers/w35953",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331511",
+    "source": "nber.org",
+    "date": "2026-11-02T00:32:20Z",
+    "timestamp": 1793579540,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+    "url": "https://better-together.fun/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331415",
+    "source": "better-together.fun",
+    "date": "2026-11-02T00:19:11Z",
+    "timestamp": 1793578751,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Small Can We Slice an AI Model?",
+    "url": "https://operator0x.com/field-notes/weights-still-need-a-home/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331384",
+    "source": "operator0x.com",
+    "date": "2026-11-02T00:15:04Z",
+    "timestamp": 1793578504,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In LLM era, can software startup survive?",
+    "url": "https://news.ycombinator.com/item?id=50331001",
+    "discussion_url": "https://news.ycombinator.com/item?id=50331001",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-01T23:28:46Z",
+    "timestamp": 1793575726,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
+    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+    "discussion_url": "https://news.ycombinator.com/item?id=50330753",
+    "source": "foreignaffairs.com",
+    "date": "2026-11-01T22:52:23Z",
+    "timestamp": 1793573543,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A History of Nvidia Stream Multiprocessor (2020)",
+    "url": "https://fabiensanglard.net/cuda/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50330520",
+    "source": "fabiensanglard.net",
+    "date": "2026-11-01T22:18:25Z",
+    "timestamp": 1793571505,
+    "category": "Computer Architecture"
   },
   {
     "title": "Copper is an operating system for robots",
@@ -42,105 +132,6 @@
     "source": "github.com",
     "date": "2026-11-01T20:36:13Z",
     "timestamp": 1793565373,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Are There Problems Beyond the Reach of AI [video]",
-    "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50329218",
-    "source": "youtube.com",
-    "date": "2026-11-01T20:06:51Z",
-    "timestamp": 1793563611,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
-    "url": "https://castov.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50329149",
-    "source": "castov.com",
-    "date": "2026-11-01T19:59:55Z",
-    "timestamp": 1793563195,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What mistakes did AI make in your codebase?",
-    "url": "https://news.ycombinator.com/item?id=50328797",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328797",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-01T19:25:25Z",
-    "timestamp": 1793561125,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Heretic 2.0 Released: Training-free language model modification",
-    "url": "https://news.ycombinator.com/item?id=50328567",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328567",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-01T19:01:42Z",
-    "timestamp": 1793559702,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "It wasn't AI that flipped Proton's charge",
-    "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328488",
-    "source": "blog.raed.dev",
-    "date": "2026-11-01T18:53:55Z",
-    "timestamp": 1793559235,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI bubble could expose your deepest secrets",
-    "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328384",
-    "source": "bbc.com",
-    "date": "2026-11-01T18:41:23Z",
-    "timestamp": 1793558483,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-    "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328365",
-    "source": "siliconangle.com",
-    "date": "2026-11-01T18:39:51Z",
-    "timestamp": 1793558391,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50328357",
-    "source": "openai.com",
-    "date": "2026-11-01T18:39:20Z",
-    "timestamp": 1793558360,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
-    "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-    "discussion_url": "https://news.ycombinator.com/item?id=50327831",
-    "source": "youtube.com",
-    "date": "2026-11-01T17:47:17Z",
-    "timestamp": 1793555237,
-    "category": "Physical AI"
-  },
-  {
-    "title": "GPUlayer: Train PyTorch on every GPU you can reach-faster than PyTorch Lightning",
-    "url": "https://www.gpulayer.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50327437",
-    "source": "gpulayer.dev",
-    "date": "2026-11-01T17:03:27Z",
-    "timestamp": 1793552607,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Law of Leaky Abstractions, 24 Years Later: Robots and Coding Agents",
-    "url": "https://whattotelltherobot.com/p/the-law-of-leaky-abstractions-and",
-    "discussion_url": "https://news.ycombinator.com/item?id=50326639",
-    "source": "whattotelltherobot.com",
-    "date": "2026-11-01T15:36:19Z",
-    "timestamp": 1793547379,
     "category": "Physical AI"
   },
   {
