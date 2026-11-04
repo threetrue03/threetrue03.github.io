@@ -1,156 +1,138 @@
 [
   {
-    "title": "Why Every AI Model Will Ship as a Torrent",
-    "url": "https://pirateface.co/articles/one-model-one-swarm",
-    "discussion_url": "https://news.ycombinator.com/item?id=50359225",
-    "source": "pirateface.co",
-    "date": "2026-11-03T22:36:22Z",
-    "timestamp": 1793745382,
+    "title": "Oracle cancels $7B Tencent AI deal under Trump pressure",
+    "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+    "discussion_url": "https://news.ycombinator.com/item?id=50362002",
+    "source": "ft.com",
+    "date": "2026-11-04T06:14:13Z",
+    "timestamp": 1793772853,
     "category": "Machine Learning"
   },
   {
-    "title": "Siri AI is now open to all developers",
-    "url": "https://developer.apple.com/news/?id=gdk2umrf",
-    "discussion_url": "https://news.ycombinator.com/item?id=50359173",
-    "source": "developer.apple.com",
-    "date": "2026-11-03T22:31:28Z",
-    "timestamp": 1793745088,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "More daily API calls than Google searches, now applied to LLM inference",
-    "url": "https://inference.alchemy.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358698",
-    "source": "inference.alchemy.com",
-    "date": "2026-11-03T21:50:48Z",
-    "timestamp": 1793742648,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lotse: AI Coding Agent – iOS",
-    "url": "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358695",
-    "source": "apps.apple.com",
-    "date": "2026-11-03T21:50:44Z",
-    "timestamp": 1793742644,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "url": "https://arxiv.org/abs/2605.29713",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358582",
-    "source": "arxiv.org",
-    "date": "2026-11-03T21:40:53Z",
-    "timestamp": 1793742053,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358422",
-    "source": "asia.nikkei.com",
-    "date": "2026-11-03T21:26:44Z",
-    "timestamp": 1793741204,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canva Brush, a vision-language model for design",
-    "url": "https://www.canva.com/newsroom/news/canva-brush/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358419",
-    "source": "canva.com",
-    "date": "2026-11-03T21:26:27Z",
-    "timestamp": 1793741187,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-    "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358414",
-    "source": "bloomberg.com",
-    "date": "2026-11-03T21:25:48Z",
-    "timestamp": 1793741148,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358388",
-    "source": "theregister.com",
-    "date": "2026-11-03T21:23:42Z",
-    "timestamp": 1793741022,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "url": "https://uncracked.city",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358352",
-    "source": "uncracked.city",
-    "date": "2026-11-03T21:20:03Z",
-    "timestamp": 1793740803,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: MoEShift - Faster large MoE inference with half the RAM",
-    "url": "https://github.com/davide-troiani/moeshift",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358319",
+    "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
+    "url": "https://github.com/Coding-Dev-Tools/engraphis",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361620",
     "source": "github.com",
-    "date": "2026-11-03T21:17:06Z",
-    "timestamp": 1793740626,
+    "date": "2026-11-04T04:52:44Z",
+    "timestamp": 1793767964,
     "category": "Machine Learning"
   },
   {
-    "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-    "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50358078",
-    "source": "dealroom.co",
-    "date": "2026-11-03T20:57:15Z",
-    "timestamp": 1793739435,
+    "title": "Google will cut off search access for students at schools that reject AI",
+    "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361562",
+    "source": "apnews.com",
+    "date": "2026-11-04T04:40:06Z",
+    "timestamp": 1793767206,
     "category": "Machine Learning"
   },
   {
-    "title": "A Specialised Haskell Processor on FPGA",
-    "url": "https://bathtub-01.github.io/technical/ouros-demo/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50357936",
-    "source": "bathtub-01.github.io",
-    "date": "2026-11-03T20:46:49Z",
-    "timestamp": 1793738809,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50357893",
-    "source": "forbes.com",
-    "date": "2026-11-03T20:42:44Z",
-    "timestamp": 1793738564,
+    "title": "Anthropic launched tools to show companies what their AI spending is buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361486",
+    "source": "techcrunch.com",
+    "date": "2026-11-04T04:26:22Z",
+    "timestamp": 1793766382,
     "category": "Machine Learning"
   },
   {
-    "title": "Formalizing Nvidia PTX in Lean to Prove GPU Kernel Correctness",
-    "url": "https://sf-tensor.com/engineering/formalizing-ptx",
-    "discussion_url": "https://news.ycombinator.com/item?id=50357402",
-    "source": "sf-tensor.com",
-    "date": "2026-11-03T20:04:08Z",
-    "timestamp": 1793736248,
+    "title": "\"Start with a Monolith\" Was Good Advice. AI Is Changing That",
+    "url": "https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361361",
+    "source": "medium.com",
+    "date": "2026-11-04T04:00:28Z",
+    "timestamp": 1793764828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
+    "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361359",
+    "source": "phoronix.com",
+    "date": "2026-11-04T03:59:51Z",
+    "timestamp": 1793764791,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A private AI box in one apply",
+    "url": "https://conn3x.org/blog/private-ai-box",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361306",
+    "source": "conn3x.org",
+    "date": "2026-11-04T03:49:20Z",
+    "timestamp": 1793764160,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SemiconductorX – The Chip Supply Chain, from Quartz to Module",
+    "url": "https://semiconductorx.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361174",
+    "source": "semiconductorx.com",
+    "date": "2026-11-04T03:23:43Z",
+    "timestamp": 1793762623,
     "category": "Computer Architecture"
   },
   {
-    "title": "Av1gpu – AVIF encoder in CUDA, 9× faster than libaom at the same size",
-    "url": "https://github.com/maddog107/av1gpu",
-    "discussion_url": "https://news.ycombinator.com/item?id=50356287",
-    "source": "github.com",
-    "date": "2026-11-03T18:43:42Z",
-    "timestamp": 1793731422,
-    "category": "Computer Architecture"
+    "title": "Is hosting an open-source inference engine profitable?",
+    "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361035",
+    "source": "userecurrence.ai",
+    "date": "2026-11-04T02:58:34Z",
+    "timestamp": 1793761114,
+    "category": "Machine Learning"
   },
   {
-    "title": "Global Semiconductor Sales Increase 24.1% (to $517.7B) from Q2 2026 to Q3 2026",
-    "url": "https://www.semiconductors.org/global-semiconductor-sales-increase-24-1-from-q2-2026-to-q3-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50356258",
-    "source": "semiconductors.org",
-    "date": "2026-11-03T18:42:08Z",
-    "timestamp": 1793731328,
-    "category": "Computer Architecture"
+    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "discussion_url": "https://news.ycombinator.com/item?id=50361033",
+    "source": "wsj.com",
+    "date": "2026-11-04T02:58:13Z",
+    "timestamp": 1793761093,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: AI Side/personal projects to improve hireability?",
+    "url": "https://news.ycombinator.com/item?id=50360823",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360823",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-04T02:24:06Z",
+    "timestamp": 1793759046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A $300 Robot That Fetches a Ball and Brings It Back, All on Its Own",
+    "url": "https://www.gadgetreview.com/a-300-robot-that-fetches-a-ball-and-brings-it-back-all-on-its-own",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360700",
+    "source": "gadgetreview.com",
+    "date": "2026-11-04T01:58:35Z",
+    "timestamp": 1793757515,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Graduates are managing AI – but are they learning much else?",
+    "url": "https://www.bbc.com/news/articles/c820vz6wyp65o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360592",
+    "source": "bbc.com",
+    "date": "2026-11-04T01:44:03Z",
+    "timestamp": 1793756643,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why GPT-6 Astra is suddenly so good at robotics",
+    "url": "https://twitter.com/josefchen/status/2117749992420946241",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360540",
+    "source": "twitter.com",
+    "date": "2026-11-04T01:34:35Z",
+    "timestamp": 1793756075,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Writing as an act of rebellion (Despite the AI psychosis)",
+    "url": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+    "discussion_url": "https://news.ycombinator.com/item?id=50360457",
+    "source": "charlesfonseca.substack.com",
+    "date": "2026-11-04T01:21:28Z",
+    "timestamp": 1793755288,
+    "category": "Machine Learning"
   },
   {
     "title": "Stringman, an $800 open-source room scale gripper robot",
@@ -168,15 +150,6 @@
     "source": "erici.eu",
     "date": "2026-11-02T08:58:33Z",
     "timestamp": 1793609913,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "WiCi: Connecting GPUs over WiFi",
-    "url": "https://wici.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50321939",
-    "source": "wici.ai",
-    "date": "2026-11-01T01:29:51Z",
-    "timestamp": 1793496591,
     "category": "Computer Architecture"
   }
 ]
