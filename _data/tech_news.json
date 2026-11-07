@@ -1,5 +1,95 @@
 [
   {
+    "title": "Google says there's no way to use Search without using artificial intelligence",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=50403625",
+    "source": "theguardian.com",
+    "date": "2026-11-07T11:33:27Z",
+    "timestamp": 1794051207,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Greece launches semiconductor and microelectronics strategy",
+    "url": "https://hccc.org.gr/greece-opens-a-new-chapter-in-microelectronics-and-semiconductors/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50403263",
+    "source": "hccc.org.gr",
+    "date": "2026-11-07T10:25:18Z",
+    "timestamp": 1794047118,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Beyond Transformers: Can LLMs redesign themselves as they train?",
+    "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402932",
+    "source": "doubleai.com",
+    "date": "2026-11-07T09:12:36Z",
+    "timestamp": 1794042756,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+    "url": "https://rungrid.space",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402836",
+    "source": "rungrid.space",
+    "date": "2026-11-07T08:53:45Z",
+    "timestamp": 1794041625,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Source Code Analysis Detection Evasion Techniques",
+    "url": "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402826",
+    "source": "cipher.org.uk",
+    "date": "2026-11-07T08:52:16Z",
+    "timestamp": 1794041536,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Every processor die anyone has photographed",
+    "url": "https://sheets.works/data-viz/cpu-dies",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402632",
+    "source": "sheets.works",
+    "date": "2026-11-07T08:07:48Z",
+    "timestamp": 1794038868,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+    "url": "https://digitalminds.cam/inter-ai-morality.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402602",
+    "source": "digitalminds.cam",
+    "date": "2026-11-07T08:02:02Z",
+    "timestamp": 1794038522,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+    "url": "https://github.com/vagrillo/nngen",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402488",
+    "source": "github.com",
+    "date": "2026-11-07T07:37:42Z",
+    "timestamp": 1794037062,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Six humanoid robots worked a 24-hour shift at a convenience store",
+    "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402413",
+    "source": "techspot.com",
+    "date": "2026-11-07T07:22:50Z",
+    "timestamp": 1794036170,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
+    "url": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50402123",
+    "source": "endpoints.news",
+    "date": "2026-11-07T06:16:44Z",
+    "timestamp": 1794032204,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Kimi K3.1 locally on one GPU",
     "url": "https://news.ycombinator.com/item?id=50401869",
     "discussion_url": "https://news.ycombinator.com/item?id=50401869",
@@ -61,87 +151,6 @@
     "date": "2026-11-07T03:34:25Z",
     "timestamp": 1794022465,
     "category": "Machine Learning"
-  },
-  {
-    "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
-    "url": "https://twitter.com/pushmeet/status/2118752095859794390",
-    "discussion_url": "https://news.ycombinator.com/item?id=50401254",
-    "source": "twitter.com",
-    "date": "2026-11-07T03:07:49Z",
-    "timestamp": 1794020869,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI sell-off compared to well-known stock market crashes",
-    "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-    "discussion_url": "https://news.ycombinator.com/item?id=50401029",
-    "source": "kadoa.com",
-    "date": "2026-11-07T02:20:06Z",
-    "timestamp": 1794018006,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Coding agents ranked for builders shipping AI software",
-    "url": "https://rankings.leffke.com/categories/coding-agents",
-    "discussion_url": "https://news.ycombinator.com/item?id=50401011",
-    "source": "rankings.leffke.com",
-    "date": "2026-11-07T02:16:19Z",
-    "timestamp": 1794017779,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A woman possibly using AI to help murder her husband – a play",
-    "url": "http://awbvious.com/LittleRose.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50400552",
-    "source": "awbvious.com",
-    "date": "2026-11-07T00:56:12Z",
-    "timestamp": 1794012972,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
-    "url": "https://github.com/meshapplied/Goethe",
-    "discussion_url": "https://news.ycombinator.com/item?id=50400374",
-    "source": "github.com",
-    "date": "2026-11-07T00:26:21Z",
-    "timestamp": 1794011181,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
-    "url": "https://www.theslopindex.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50400178",
-    "source": "theslopindex.com",
-    "date": "2026-11-06T23:57:51Z",
-    "timestamp": 1794009471,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
-    "url": "https://scholar.social/@JubalBarca/117570024280604981",
-    "discussion_url": "https://news.ycombinator.com/item?id=50400091",
-    "source": "scholar.social",
-    "date": "2026-11-06T23:48:40Z",
-    "timestamp": 1794008920,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I watched a humanoid robot clean my apartment. Like a taste of the future",
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50398702",
-    "source": "technologyreview.com",
-    "date": "2026-11-06T21:21:40Z",
-    "timestamp": 1794000100,
-    "category": "Physical AI"
-  },
-  {
-    "title": "VFlash: Enabling System-1 VLMs for Physical AI",
-    "url": "https://research.nvidia.com/labs/lpr/vflash/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50398514",
-    "source": "research.nvidia.com",
-    "date": "2026-11-06T21:04:04Z",
-    "timestamp": 1793999044,
-    "category": "Physical AI"
   },
   {
     "title": "GPU-Accelerated Weight Teleportation",
