@@ -1,137 +1,146 @@
 [
   {
-    "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
-    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50396682",
-    "source": "arstechnica.com",
-    "date": "2026-11-06T18:55:43Z",
-    "timestamp": 1793991343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dot Com Bubble vs. AI Bubble: 2000 and 2026 Compared",
-    "url": "https://aibubblemonitor.com/analysis/dot-com-bubble-vs-ai-bubble-data-comparison",
-    "discussion_url": "https://news.ycombinator.com/item?id=50396619",
-    "source": "aibubblemonitor.com",
-    "date": "2026-11-06T18:51:32Z",
-    "timestamp": 1793991092,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Code Matters: Reflections on Rust in the LLM Age [video]",
-    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
-    "discussion_url": "https://news.ycombinator.com/item?id=50396050",
-    "source": "youtube.com",
-    "date": "2026-11-06T18:12:41Z",
-    "timestamp": 1793988761,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We stress-tested AI spend limits under bursts and outages",
-    "url": "https://stipend-ai.com/blog/ai-spend-limits-tested/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50396021",
-    "source": "stipend-ai.com",
-    "date": "2026-11-06T18:10:14Z",
-    "timestamp": 1793988614,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395933",
-    "source": "reuters.com",
-    "date": "2026-11-06T18:04:06Z",
-    "timestamp": 1793988246,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Memorilla: Latent Semantic Memory for LLMs",
-    "url": "https://arxiv.org/abs/2610.21375",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395919",
-    "source": "arxiv.org",
-    "date": "2026-11-06T18:03:33Z",
-    "timestamp": 1793988213,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An AI Rant",
-    "url": "https://carlhandellen.substack.com/p/an-ai-rant",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395877",
-    "source": "carlhandellen.substack.com",
-    "date": "2026-11-06T18:00:30Z",
-    "timestamp": 1793988030,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Perplexity launches AI agents for work",
-    "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395866",
-    "source": "perplexity.ai",
-    "date": "2026-11-06T17:59:41Z",
-    "timestamp": 1793987981,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google, OpenAI, and Anthropic back a shared robots.txt AI training signal",
-    "url": "https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395808",
-    "source": "coywolf.com",
-    "date": "2026-11-06T17:56:02Z",
-    "timestamp": 1793987762,
-    "category": "Physical AI"
-  },
-  {
-    "title": "JAXA samples reveal asteroid Ryugu has a complete set of DNA and RNA nucleobases",
-    "url": "https://www.livescience.com/space/asteroids/all-5-letters-of-dna-found-on-an-asteroid-speeding-through-our-solar-system-what-do-they-tell-us-about-the-origins-of-life",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395806",
-    "source": "livescience.com",
-    "date": "2026-11-06T17:55:57Z",
-    "timestamp": 1793987757,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Product Team – 64 specialized AI agent roles with executable CLI workflows",
-    "url": "https://github.com/3orionkings/ai-product-team",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395557",
-    "source": "github.com",
-    "date": "2026-11-06T17:38:02Z",
-    "timestamp": 1793986682,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-    "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395550",
-    "source": "lesswrong.com",
-    "date": "2026-11-06T17:37:26Z",
-    "timestamp": 1793986646,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stay ahead in AI race; Build on next AI Idea",
-    "url": "https://github.com/mukeshatnyc/dAIly",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395531",
-    "source": "github.com",
-    "date": "2026-11-06T17:36:06Z",
-    "timestamp": 1793986566,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Ru-Jev – an open model that scores caller-supplied options on CPU (MIT)",
-    "url": "https://huggingface.co/besktech/ru-jev",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395242",
-    "source": "huggingface.co",
-    "date": "2026-11-06T17:15:44Z",
-    "timestamp": 1793985344,
+    "title": "Kimi K3.1 locally on one GPU",
+    "url": "https://news.ycombinator.com/item?id=50401869",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401869",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-07T05:20:44Z",
+    "timestamp": 1794028844,
     "category": "Computer Architecture"
   },
   {
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "url": "https://huggingface.co/blog/allenai/toyblocks",
-    "discussion_url": "https://news.ycombinator.com/item?id=50395213",
-    "source": "huggingface.co",
-    "date": "2026-11-06T17:14:01Z",
-    "timestamp": 1793985241,
+    "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
+    "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401820",
+    "source": "news.mit.edu",
+    "date": "2026-11-07T05:11:30Z",
+    "timestamp": 1794028290,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401738",
+    "source": "youtube.com",
+    "date": "2026-11-07T04:54:11Z",
+    "timestamp": 1794027251,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It",
+    "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401675",
+    "source": "wsj.com",
+    "date": "2026-11-07T04:39:33Z",
+    "timestamp": 1794026373,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Business Model Just Collapsed",
+    "url": "https://www.honest-broker.com/p/the-ai-business-model-just-collapsed",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401626",
+    "source": "honest-broker.com",
+    "date": "2026-11-07T04:30:10Z",
+    "timestamp": 1794025810,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
+    "url": "https://backwords.greg.technology/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401409",
+    "source": "backwords.greg.technology",
+    "date": "2026-11-07T03:39:46Z",
+    "timestamp": 1794022786,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "YC Backed Bron AI Accused of Using LeBron's Name and Likeness",
+    "url": "https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401390",
+    "source": "frontofficesports.com",
+    "date": "2026-11-07T03:34:25Z",
+    "timestamp": 1794022465,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
+    "url": "https://twitter.com/pushmeet/status/2118752095859794390",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401254",
+    "source": "twitter.com",
+    "date": "2026-11-07T03:07:49Z",
+    "timestamp": 1794020869,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI sell-off compared to well-known stock market crashes",
+    "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401029",
+    "source": "kadoa.com",
+    "date": "2026-11-07T02:20:06Z",
+    "timestamp": 1794018006,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Coding agents ranked for builders shipping AI software",
+    "url": "https://rankings.leffke.com/categories/coding-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401011",
+    "source": "rankings.leffke.com",
+    "date": "2026-11-07T02:16:19Z",
+    "timestamp": 1794017779,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A woman possibly using AI to help murder her husband – a play",
+    "url": "http://awbvious.com/LittleRose.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50400552",
+    "source": "awbvious.com",
+    "date": "2026-11-07T00:56:12Z",
+    "timestamp": 1794012972,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+    "url": "https://github.com/meshapplied/Goethe",
+    "discussion_url": "https://news.ycombinator.com/item?id=50400374",
+    "source": "github.com",
+    "date": "2026-11-07T00:26:21Z",
+    "timestamp": 1794011181,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+    "url": "https://www.theslopindex.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50400178",
+    "source": "theslopindex.com",
+    "date": "2026-11-06T23:57:51Z",
+    "timestamp": 1794009471,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+    "url": "https://scholar.social/@JubalBarca/117570024280604981",
+    "discussion_url": "https://news.ycombinator.com/item?id=50400091",
+    "source": "scholar.social",
+    "date": "2026-11-06T23:48:40Z",
+    "timestamp": 1794008920,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I watched a humanoid robot clean my apartment. Like a taste of the future",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50398702",
+    "source": "technologyreview.com",
+    "date": "2026-11-06T21:21:40Z",
+    "timestamp": 1794000100,
+    "category": "Physical AI"
+  },
+  {
+    "title": "VFlash: Enabling System-1 VLMs for Physical AI",
+    "url": "https://research.nvidia.com/labs/lpr/vflash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50398514",
+    "source": "research.nvidia.com",
+    "date": "2026-11-06T21:04:04Z",
+    "timestamp": 1793999044,
     "category": "Physical AI"
   },
   {
@@ -144,24 +153,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Why can a multi-GPU job wait while GPUs are idle?",
-    "url": "https://nodeox.com/blog/idle-gpus-waiting-jobs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50394758",
-    "source": "nodeox.com",
-    "date": "2026-11-06T16:44:31Z",
-    "timestamp": 1793983471,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia Tightens Tracking of AI GPUs in Southeast Asia",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
-    "discussion_url": "https://news.ycombinator.com/item?id=50394613",
-    "source": "tomshardware.com",
-    "date": "2026-11-06T16:33:54Z",
-    "timestamp": 1793982834,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
     "url": "https://github.com/anomalyco/rune",
     "discussion_url": "https://news.ycombinator.com/item?id=50394569",
@@ -171,48 +162,30 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Six pallets of Nvidia GPUs worth $11.4M stolen in California in Aug 2026",
-    "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-    "discussion_url": "https://news.ycombinator.com/item?id=50394256",
-    "source": "tomshardware.com",
-    "date": "2026-11-06T16:12:07Z",
-    "timestamp": 1793981527,
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "discussion_url": "https://news.ycombinator.com/item?id=50389333",
+    "source": "github.com",
+    "date": "2026-11-06T07:40:35Z",
+    "timestamp": 1793950835,
     "category": "Computer Architecture"
   },
   {
-    "title": "I tried to connect every GPU on the planet together (kinda)",
-    "url": "https://news.ycombinator.com/item?id=50394231",
-    "discussion_url": "https://news.ycombinator.com/item?id=50394231",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-06T16:10:48Z",
-    "timestamp": 1793981448,
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "discussion_url": "https://news.ycombinator.com/item?id=50368208",
+    "source": "linum.ai",
+    "date": "2026-11-04T16:45:11Z",
+    "timestamp": 1793810711,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Panthera: Ampere's CPU Performance Model",
+    "url": "https://github.com/AmpereComputing/panthera",
+    "discussion_url": "https://news.ycombinator.com/item?id=50356722",
+    "source": "github.com",
+    "date": "2026-11-03T19:12:17Z",
+    "timestamp": 1793733137,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Using decision models to speed up design rule violation repair in chip design",
-    "url": "https://engineering.flexcompute.com/articles/decision-models-drc-repair/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50394156",
-    "source": "engineering.flexcompute.com",
-    "date": "2026-11-06T16:07:08Z",
-    "timestamp": 1793981228,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Shanghai sets rules for L4 robotaxis, including 15 minute breakdown response",
-    "url": "https://asia-tech-news.ghost.io/shanghai-sets-rules-for-l4-robotaxis-including-quick-breakdown-response/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50393683",
-    "source": "asia-tech-news.ghost.io",
-    "date": "2026-11-06T15:40:23Z",
-    "timestamp": 1793979623,
-    "category": "Physical AI"
-  },
-  {
-    "title": "China has barred SoftBank from acquiring ABB Robotics' business in China",
-    "url": "https://harava.news/en/articles/2026/11/06/china-blocks-abb-robotics-deal-focus",
-    "discussion_url": "https://news.ycombinator.com/item?id=50393660",
-    "source": "harava.news",
-    "date": "2026-11-06T15:38:35Z",
-    "timestamp": 1793979515,
-    "category": "Physical AI"
   }
 ]
