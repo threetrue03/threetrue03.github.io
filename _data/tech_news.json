@@ -1,137 +1,146 @@
 [
   {
-    "title": "Segmentation Drives Market Share Wins in AI",
-    "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50408137",
-    "source": "tomtunguz.com",
-    "date": "2026-11-07T21:15:00Z",
-    "timestamp": 1794086100,
+    "title": "Modern LLMs have tiny GPTs hidden inside them",
+    "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410653",
+    "source": "invertedpassion.substack.com",
+    "date": "2026-11-08T05:27:00Z",
+    "timestamp": 1794115620,
     "category": "Machine Learning"
   },
   {
-    "title": "AI agents enter the 'wet lab'",
-    "url": "https://www.nature.com/articles/d41586-026-03270-1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407717",
-    "source": "nature.com",
-    "date": "2026-11-07T20:23:49Z",
-    "timestamp": 1794083029,
+    "title": "The internet has a human slop problem, and AI is exposing it",
+    "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410557",
+    "source": "businessinsider.com",
+    "date": "2026-11-08T05:09:25Z",
+    "timestamp": 1794114565,
     "category": "Machine Learning"
   },
   {
-    "title": "Read this before you build another AI wrapper",
-    "url": "https://ferran.sh/writing/read-this-before-you-build-another-ai-wrapper",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407665",
-    "source": "ferran.sh",
-    "date": "2026-11-07T20:18:15Z",
-    "timestamp": 1794082695,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Layoffs Backfire as Companies Start Rehiring Workers",
-    "url": "https://jsdev.space/companies-rehiring-workers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407575",
-    "source": "jsdev.space",
-    "date": "2026-11-07T20:07:15Z",
-    "timestamp": 1794082035,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Exponential time hypothesis refuted by AI",
-    "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407562",
-    "source": "nytimes.com",
-    "date": "2026-11-07T20:05:26Z",
-    "timestamp": 1794081926,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Driver AI in Stunt Car Racer, Commodore 64",
-    "url": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407514",
-    "source": "gamesexplained.com",
-    "date": "2026-11-07T19:59:25Z",
-    "timestamp": 1794081565,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Artificial Epanorthosis: Why LLMs overuse a classical rhetorical figure",
-    "url": "https://arxiv.org/abs/2607.21498",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407306",
-    "source": "arxiv.org",
-    "date": "2026-11-07T19:33:42Z",
-    "timestamp": 1794080022,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
-    "url": "https://www.puglieseweb.com/blog/architecture-as-truth",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406831",
-    "source": "puglieseweb.com",
-    "date": "2026-11-07T18:37:04Z",
-    "timestamp": 1794076624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gradual disempowerment model organism: Frontier AI labs",
-    "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406802",
-    "source": "lesswrong.com",
-    "date": "2026-11-07T18:32:04Z",
-    "timestamp": 1794076324,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
-    "url": "https://github.com/PersonaliAI/chatty",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406794",
+    "title": "Le Salon Client IRCv3 natif en Rust – interface GPU avec GPUI",
+    "url": "https://github.com/MrTHP/Le-Salon",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410293",
     "source": "github.com",
-    "date": "2026-11-07T18:31:32Z",
-    "timestamp": 1794076292,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
-    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406735",
-    "source": "github.com",
-    "date": "2026-11-07T18:23:18Z",
-    "timestamp": 1794075798,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
-    "url": "https://github.com/lhadzic377-netizen/TokiRecur",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406634",
-    "source": "github.com",
-    "date": "2026-11-07T18:08:43Z",
-    "timestamp": 1794074923,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA",
-    "url": "https://github.com/ImpossibleComputing/jacq",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406532",
-    "source": "github.com",
-    "date": "2026-11-07T17:58:49Z",
-    "timestamp": 1794074329,
+    "date": "2026-11-08T03:54:32Z",
+    "timestamp": 1794110072,
     "category": "Computer Architecture"
   },
   {
-    "title": "China drafts lifetime ID codes for every robot it makes, not just humanoids",
-    "url": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406482",
-    "source": "asia-tech-news.ghost.io",
-    "date": "2026-11-07T17:52:16Z",
-    "timestamp": 1794073936,
-    "category": "Physical AI"
+    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+    "url": "https://github.com/AmSach/maple",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410253",
+    "source": "github.com",
+    "date": "2026-11-08T03:48:04Z",
+    "timestamp": 1794109684,
+    "category": "Computer Architecture"
   },
   {
-    "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
-    "url": "https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says",
-    "discussion_url": "https://news.ycombinator.com/item?id=50406064",
-    "source": "pcmag.com",
-    "date": "2026-11-07T17:01:11Z",
-    "timestamp": 1794070871,
+    "title": "Show HN: Reges Town – a 3D city run by AI citizens, in the browser",
+    "url": "https://regestown.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410242",
+    "source": "regestown.com",
+    "date": "2026-11-08T03:44:10Z",
+    "timestamp": 1794109450,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409992",
+    "source": "techcrunch.com",
+    "date": "2026-11-08T02:39:59Z",
+    "timestamp": 1794105599,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409986",
+    "source": "github.com",
+    "date": "2026-11-08T02:37:10Z",
+    "timestamp": 1794105430,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+    "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409675",
+    "source": "forbes.com",
+    "date": "2026-11-08T01:22:37Z",
+    "timestamp": 1794100957,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+    "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409668",
+    "source": "wsj.com",
+    "date": "2026-11-08T01:21:18Z",
+    "timestamp": 1794100878,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+    "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409570",
+    "source": "insidehighered.com",
+    "date": "2026-11-08T01:00:16Z",
+    "timestamp": 1794099616,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can AI help connect knowledge across 135 academic domains?",
+    "url": "https://zenodo.org/records/23686384",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409450",
+    "source": "zenodo.org",
+    "date": "2026-11-08T00:39:00Z",
+    "timestamp": 1794098340,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+    "url": "https://news.ycombinator.com/item?id=50409438",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409438",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-08T00:37:05Z",
+    "timestamp": 1794098225,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
+    "url": "https://rogermas05.github.io/agent-recap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409425",
+    "source": "rogermas05.github.io",
+    "date": "2026-11-08T00:32:08Z",
+    "timestamp": 1794097928,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+    "url": "https://2tinteractive.com/watch/episodes/5682/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50409414",
+    "source": "2tinteractive.com",
+    "date": "2026-11-08T00:30:10Z",
+    "timestamp": 1794097810,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A RISC-V Based Trusted Environment with AMD Zen 6 CPUs",
+    "url": "https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based",
+    "discussion_url": "https://news.ycombinator.com/item?id=50408534",
+    "source": "phoronix.com",
+    "date": "2026-11-07T22:10:35Z",
+    "timestamp": 1794089435,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "SSA-Based Register Allocation for Intel GPUs – Alyssa Rosenzweig, XDC 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=-UFjec3YctM",
+    "discussion_url": "https://news.ycombinator.com/item?id=50407403",
+    "source": "youtube.com",
+    "date": "2026-11-07T19:44:07Z",
+    "timestamp": 1794080647,
     "category": "Computer Architecture"
   },
   {
@@ -142,24 +151,6 @@
     "date": "2026-11-07T16:21:36Z",
     "timestamp": 1794068496,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Computing Without Processors (2011)",
-    "url": "https://dl.acm.org/doi/epdf/10.1145/1978542.1978558",
-    "discussion_url": "https://news.ycombinator.com/item?id=50405778",
-    "source": "dl.acm.org",
-    "date": "2026-11-07T16:21:12Z",
-    "timestamp": 1794068472,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-    "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50405591",
-    "source": "electrek.co",
-    "date": "2026-11-07T15:54:37Z",
-    "timestamp": 1794066877,
-    "category": "Physical AI"
   },
   {
     "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
