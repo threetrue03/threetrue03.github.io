@@ -1,20 +1,119 @@
 [
   {
-    "title": "Modern LLMs have tiny GPTs hidden inside them",
-    "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
-    "discussion_url": "https://news.ycombinator.com/item?id=50410653",
-    "source": "invertedpassion.substack.com",
-    "date": "2026-11-08T05:27:00Z",
-    "timestamp": 1794115620,
+    "title": "AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+    "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412899",
+    "source": "theguardian.com",
+    "date": "2026-11-08T13:01:16Z",
+    "timestamp": 1794142876,
     "category": "Machine Learning"
   },
   {
-    "title": "The internet has a human slop problem, and AI is exposing it",
-    "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=50410557",
-    "source": "businessinsider.com",
-    "date": "2026-11-08T05:09:25Z",
-    "timestamp": 1794114565,
+    "title": "LLMs are terrible at designing AI systems",
+    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412713",
+    "source": "seangoedecke.com",
+    "date": "2026-11-08T12:33:58Z",
+    "timestamp": 1794141238,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I will not be using LLMs in my coding",
+    "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412591",
+    "source": "polso.info",
+    "date": "2026-11-08T12:14:10Z",
+    "timestamp": 1794140050,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bella Caledonia Statement on Artificial Intelligence",
+    "url": "https://bellacaledonia.org.uk/2026/11/07/bella-caledonia-statement-on-artificial-intelligence/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412412",
+    "source": "bellacaledonia.org.uk",
+    "date": "2026-11-08T11:42:42Z",
+    "timestamp": 1794138162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Alignment Considered Harmful",
+    "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50412294",
+    "source": "togelius.blogspot.com",
+    "date": "2026-11-08T11:19:35Z",
+    "timestamp": 1794136775,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411961",
+    "source": "github.com",
+    "date": "2026-11-08T10:22:04Z",
+    "timestamp": 1794133324,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+    "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411752",
+    "source": "dorcohen.dev",
+    "date": "2026-11-08T09:42:03Z",
+    "timestamp": 1794130923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+    "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411704",
+    "source": "news.ncsu.edu",
+    "date": "2026-11-08T09:32:43Z",
+    "timestamp": 1794130363,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ThinkStream – AI generates the work. We still need to understand it",
+    "url": "https://thinkstream.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411638",
+    "source": "thinkstream.app",
+    "date": "2026-11-08T09:20:04Z",
+    "timestamp": 1794129604,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Companies Want to Buy Your Work Files and Emails",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411618",
+    "source": "wired.com",
+    "date": "2026-11-08T09:15:06Z",
+    "timestamp": 1794129306,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: LLM-Resistant Publishing Strategies",
+    "url": "https://news.ycombinator.com/item?id=50411036",
+    "discussion_url": "https://news.ycombinator.com/item?id=50411036",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-08T06:57:42Z",
+    "timestamp": 1794121062,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI labs are paying $100K–$2M for internal company workflow data",
+    "url": "https://calendly.com/d/d3ss-w9w-7vs",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410816",
+    "source": "calendly.com",
+    "date": "2026-11-08T06:03:02Z",
+    "timestamp": 1794117782,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Live Speech Rewriting Patent",
+    "url": "https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50410729",
+    "source": "patentlyze.com",
+    "date": "2026-11-08T05:41:50Z",
+    "timestamp": 1794116510,
     "category": "Machine Learning"
   },
   {
@@ -33,114 +132,6 @@
     "source": "github.com",
     "date": "2026-11-08T03:48:04Z",
     "timestamp": 1794109684,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Reges Town – a 3D city run by AI citizens, in the browser",
-    "url": "https://regestown.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50410242",
-    "source": "regestown.com",
-    "date": "2026-11-08T03:44:10Z",
-    "timestamp": 1794109450,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
-    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409992",
-    "source": "techcrunch.com",
-    "date": "2026-11-08T02:39:59Z",
-    "timestamp": 1794105599,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409986",
-    "source": "github.com",
-    "date": "2026-11-08T02:37:10Z",
-    "timestamp": 1794105430,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
-    "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409675",
-    "source": "forbes.com",
-    "date": "2026-11-08T01:22:37Z",
-    "timestamp": 1794100957,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
-    "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409668",
-    "source": "wsj.com",
-    "date": "2026-11-08T01:21:18Z",
-    "timestamp": 1794100878,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
-    "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409570",
-    "source": "insidehighered.com",
-    "date": "2026-11-08T01:00:16Z",
-    "timestamp": 1794099616,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can AI help connect knowledge across 135 academic domains?",
-    "url": "https://zenodo.org/records/23686384",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409450",
-    "source": "zenodo.org",
-    "date": "2026-11-08T00:39:00Z",
-    "timestamp": 1794098340,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
-    "url": "https://news.ycombinator.com/item?id=50409438",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409438",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-08T00:37:05Z",
-    "timestamp": 1794098225,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
-    "url": "https://rogermas05.github.io/agent-recap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409425",
-    "source": "rogermas05.github.io",
-    "date": "2026-11-08T00:32:08Z",
-    "timestamp": 1794097928,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
-    "url": "https://2tinteractive.com/watch/episodes/5682/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50409414",
-    "source": "2tinteractive.com",
-    "date": "2026-11-08T00:30:10Z",
-    "timestamp": 1794097810,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A RISC-V Based Trusted Environment with AMD Zen 6 CPUs",
-    "url": "https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based",
-    "discussion_url": "https://news.ycombinator.com/item?id=50408534",
-    "source": "phoronix.com",
-    "date": "2026-11-07T22:10:35Z",
-    "timestamp": 1794089435,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "SSA-Based Register Allocation for Intel GPUs – Alyssa Rosenzweig, XDC 2026 [video]",
-    "url": "https://www.youtube.com/watch?v=-UFjec3YctM",
-    "discussion_url": "https://news.ycombinator.com/item?id=50407403",
-    "source": "youtube.com",
-    "date": "2026-11-07T19:44:07Z",
-    "timestamp": 1794080647,
     "category": "Computer Architecture"
   },
   {
@@ -168,15 +159,6 @@
     "source": "github.com",
     "date": "2026-11-06T07:40:35Z",
     "timestamp": 1793950835,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Panthera: Ampere's CPU Performance Model",
-    "url": "https://github.com/AmpereComputing/panthera",
-    "discussion_url": "https://news.ycombinator.com/item?id=50356722",
-    "source": "github.com",
-    "date": "2026-11-03T19:12:17Z",
-    "timestamp": 1793733137,
     "category": "Computer Architecture"
   }
 ]
