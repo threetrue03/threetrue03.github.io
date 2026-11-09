@@ -1,137 +1,182 @@
 [
   {
-    "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
-    "url": "https://news.ycombinator.com/item?id=50421778",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421778",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-09T06:22:08Z",
-    "timestamp": 1794205328,
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433079",
+    "source": "reddit.com",
+    "date": "2026-11-09T22:19:12Z",
+    "timestamp": 1794262752,
     "category": "Machine Learning"
   },
   {
-    "title": "Apple capped engineers at a $200 daily AI budget",
-    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421426",
-    "source": "stork.ai",
-    "date": "2026-11-09T05:30:11Z",
-    "timestamp": 1794202211,
+    "title": "AI labs raise prices without raising prices",
+    "url": "https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433048",
+    "source": "playcode.io",
+    "date": "2026-11-09T22:15:58Z",
+    "timestamp": 1794262558,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic secures $3.4B generator deal for AI data centers",
-    "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421371",
-    "source": "reuters.com",
-    "date": "2026-11-09T05:20:26Z",
-    "timestamp": 1794201626,
+    "title": "I use 11.35B AI tokens a month. How many do you use?",
+    "url": "https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433002",
+    "source": "jellyfish.co",
+    "date": "2026-11-09T22:12:23Z",
+    "timestamp": 1794262343,
     "category": "Machine Learning"
   },
   {
-    "title": "AI learns from the products of thinking, not thought itself",
-    "url": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421354",
-    "source": "theconversation.com",
-    "date": "2026-11-09T05:17:12Z",
-    "timestamp": 1794201432,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: clap.cpp – Audio embedding inference in C++ (GGML)",
-    "url": "https://github.com/gorse-io/clap.cpp",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421168",
+    "title": "USB: A trust layer for AI skills and MCP servers",
+    "url": "https://github.com/PeepSick/usbplus",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432661",
     "source": "github.com",
-    "date": "2026-11-09T04:46:12Z",
-    "timestamp": 1794199572,
+    "date": "2026-11-09T21:42:46Z",
+    "timestamp": 1794260566,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: A diffusion model that runs in pure CSS, no JavaScript",
-    "url": "https://metrix187.github.io/diffusion.css/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50421012",
-    "source": "metrix187.github.io",
-    "date": "2026-11-09T04:16:07Z",
-    "timestamp": 1794197767,
+    "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+    "url": "https://app.nuancelabs.ai/try",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432589",
+    "source": "app.nuancelabs.ai",
+    "date": "2026-11-09T21:38:00Z",
+    "timestamp": 1794260280,
     "category": "Machine Learning"
   },
   {
-    "title": "Pay per pre-configured GPU hour or per token for open-source LLM inference?",
-    "url": "https://news.ycombinator.com/item?id=50420874",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420874",
+    "title": "Indie Game Development with AI",
+    "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432523",
+    "source": "sandromaglione.com",
+    "date": "2026-11-09T21:33:55Z",
+    "timestamp": 1794260035,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI chip financing hits a wall",
+    "url": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432517",
+    "source": "semafor.com",
+    "date": "2026-11-09T21:33:45Z",
+    "timestamp": 1794260025,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fireworks AI Hacked",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432415",
+    "source": "bloomberg.com",
+    "date": "2026-11-09T21:26:09Z",
+    "timestamp": 1794259569,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Protesters slam AI after entering Microsoft data centre site",
+    "url": "https://www.independent.co.uk/tv/news/protesters-microsoft-data-centre-amsterdam-video-b3080959.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50432221",
+    "source": "independent.co.uk",
+    "date": "2026-11-09T21:11:49Z",
+    "timestamp": 1794258709,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+    "url": "https://github.com/humanethq/airgap-check",
+    "discussion_url": "https://news.ycombinator.com/item?id=50431705",
+    "source": "github.com",
+    "date": "2026-11-09T20:37:28Z",
+    "timestamp": 1794256648,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Institutional vs Personal AI",
+    "url": "https://armincat.com/articles/eunice-vs-aunties",
+    "discussion_url": "https://news.ycombinator.com/item?id=50431116",
+    "source": "armincat.com",
+    "date": "2026-11-09T20:03:23Z",
+    "timestamp": 1794254603,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cost of AI Crash Protection Spikes",
+    "url": "https://www.youtube.com/watch?v=YUyoWFlaOKg",
+    "discussion_url": "https://news.ycombinator.com/item?id=50431113",
+    "source": "youtube.com",
+    "date": "2026-11-09T20:03:19Z",
+    "timestamp": 1794254599,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
+    "discussion_url": "https://news.ycombinator.com/item?id=50431054",
+    "source": "tomshardware.com",
+    "date": "2026-11-09T19:58:42Z",
+    "timestamp": 1794254322,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "UE5.9 running with Lumen in the browser with WebGPU",
+    "url": "https://twitter.com/toreler/status/2119862440167145492",
+    "discussion_url": "https://news.ycombinator.com/item?id=50430587",
+    "source": "twitter.com",
+    "date": "2026-11-09T19:33:17Z",
+    "timestamp": 1794252797,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Recent advances in AI are creating a 'paradigm shift' for robotics",
+    "url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50430433",
+    "source": "news.berkeley.edu",
+    "date": "2026-11-09T19:25:46Z",
+    "timestamp": 1794252346,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: WebGL2 GPU Liquidity Heatmap for Hyperliquid L2 Orderbooks",
+    "url": "https://velqiris-acquisition.netlify.app/heatmap.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429530",
+    "source": "velqiris-acquisition.netlify.app",
+    "date": "2026-11-09T18:32:12Z",
+    "timestamp": 1794249132,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI agents use simulation to solve tough robotics problems with code, not data",
+    "url": "https://spectrum.ieee.org/agentic-robotics",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429524",
+    "source": "spectrum.ieee.org",
+    "date": "2026-11-09T18:31:38Z",
+    "timestamp": 1794249098,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: ZeroPoint – CPU-only decision model that can answer 'none of these'",
+    "url": "https://github.com/Javihaus/zeropoint",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429147",
+    "source": "github.com",
+    "date": "2026-11-09T18:06:06Z",
+    "timestamp": 1794247566,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "P2P inference using WebGPU libp2p and IPFS",
+    "url": "https://news.ycombinator.com/item?id=50429114",
+    "discussion_url": "https://news.ycombinator.com/item?id=50429114",
     "source": "news.ycombinator.com",
-    "date": "2026-11-09T03:52:55Z",
-    "timestamp": 1794196375,
+    "date": "2026-11-09T18:03:54Z",
+    "timestamp": 1794247434,
     "category": "Computer Architecture"
   },
   {
-    "title": "A Critique of GPUI",
-    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420857",
-    "source": "blog.zortax.de",
-    "date": "2026-11-09T03:51:10Z",
-    "timestamp": 1794196270,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Official Wanting Data Centers on Public Lands Has >10M Invested in AI Industry",
-    "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420710",
-    "source": "propublica.org",
-    "date": "2026-11-09T03:31:35Z",
-    "timestamp": 1794195095,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
-    "url": "https://company.mindfries.com/login",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420697",
-    "source": "company.mindfries.com",
-    "date": "2026-11-09T03:30:04Z",
-    "timestamp": 1794195004,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Type in Any Task. Get the Best AI Model for It",
-    "url": "https://taskrouter.com/tasks",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420635",
-    "source": "taskrouter.com",
-    "date": "2026-11-09T03:20:39Z",
-    "timestamp": 1794194439,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420532",
-    "source": "itsfoss.com",
-    "date": "2026-11-09T03:06:55Z",
-    "timestamp": 1794193615,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-    "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420330",
-    "source": "quantamagazine.org",
-    "date": "2026-11-09T02:39:19Z",
-    "timestamp": 1794191959,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
-    "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=50420025",
-    "source": "linas.substack.com",
-    "date": "2026-11-09T01:56:17Z",
-    "timestamp": 1794189377,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Six GPUs on One X16 Slot: R9700s and RTX 3090s Behind a PCIe Switch",
-    "url": "https://doug.sh/posts/six-gpus-one-x16-slot/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50418366",
-    "source": "doug.sh",
-    "date": "2026-11-08T22:52:07Z",
-    "timestamp": 1794178327,
+    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+    "url": "https://news.ycombinator.com/item?id=50427934",
+    "discussion_url": "https://news.ycombinator.com/item?id=50427934",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-09T16:36:38Z",
+    "timestamp": 1794242198,
     "category": "Computer Architecture"
   },
   {
@@ -153,15 +198,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-    "url": "https://github.com/AmSach/maple",
-    "discussion_url": "https://news.ycombinator.com/item?id=50410253",
-    "source": "github.com",
-    "date": "2026-11-08T03:48:04Z",
-    "timestamp": 1794109684,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Every processor die anyone has photographed and given away",
     "url": "https://sheets.works/data-viz/cpu-dies",
     "discussion_url": "https://news.ycombinator.com/item?id=50405782",
@@ -177,15 +213,6 @@
     "source": "github.com",
     "date": "2026-11-07T05:16:31Z",
     "timestamp": 1794028591,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "url": "https://github.com/ppmpreetham/BUI",
-    "discussion_url": "https://news.ycombinator.com/item?id=50389333",
-    "source": "github.com",
-    "date": "2026-11-06T07:40:35Z",
-    "timestamp": 1793950835,
     "category": "Computer Architecture"
   }
 ]
