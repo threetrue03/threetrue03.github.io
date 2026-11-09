@@ -1,137 +1,146 @@
 [
   {
-    "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
-    "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
-    "discussion_url": "https://news.ycombinator.com/item?id=50417769",
-    "source": "nextiqumai.com",
-    "date": "2026-11-08T21:57:07Z",
-    "timestamp": 1794175027,
+    "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
+    "url": "https://news.ycombinator.com/item?id=50421778",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421778",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-09T06:22:08Z",
+    "timestamp": 1794205328,
     "category": "Machine Learning"
   },
   {
-    "title": "AI skill to provide IPA and English translations from uploaded sheet music",
-    "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416922",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421426",
+    "source": "stork.ai",
+    "date": "2026-11-09T05:30:11Z",
+    "timestamp": 1794202211,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic secures $3.4B generator deal for AI data centers",
+    "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421371",
+    "source": "reuters.com",
+    "date": "2026-11-09T05:20:26Z",
+    "timestamp": 1794201626,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI learns from the products of thinking, not thought itself",
+    "url": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421354",
+    "source": "theconversation.com",
+    "date": "2026-11-09T05:17:12Z",
+    "timestamp": 1794201432,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: clap.cpp – Audio embedding inference in C++ (GGML)",
+    "url": "https://github.com/gorse-io/clap.cpp",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421168",
     "source": "github.com",
-    "date": "2026-11-08T20:37:23Z",
-    "timestamp": 1794170243,
+    "date": "2026-11-09T04:46:12Z",
+    "timestamp": 1794199572,
     "category": "Machine Learning"
   },
   {
-    "title": "Not another AI note taker",
-    "url": "https://useskribble.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416773",
-    "source": "useskribble.com",
-    "date": "2026-11-08T20:24:16Z",
-    "timestamp": 1794169456,
+    "title": "Show HN: A diffusion model that runs in pure CSS, no JavaScript",
+    "url": "https://metrix187.github.io/diffusion.css/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50421012",
+    "source": "metrix187.github.io",
+    "date": "2026-11-09T04:16:07Z",
+    "timestamp": 1794197767,
     "category": "Machine Learning"
   },
   {
-    "title": "LLMs can understand and write neural network weights",
-    "url": "https://github.com/RikiyaT/lm_understand-logs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416722",
-    "source": "github.com",
-    "date": "2026-11-08T20:18:49Z",
-    "timestamp": 1794169129,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bloomington, Indiana Bans Artificial Intelligence: Ordinance 2026-29 Explained",
-    "url": "https://explainx.ai/blog/bloomington-indiana-superintelligence-ban-ordinance-2026-29-2026",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416484",
-    "source": "explainx.ai",
-    "date": "2026-11-08T19:50:45Z",
-    "timestamp": 1794167445,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How I Fight AI Brain Fry",
-    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416363",
-    "source": "sergeykuhne.com",
-    "date": "2026-11-08T19:37:42Z",
-    "timestamp": 1794166662,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-    "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-    "discussion_url": "https://news.ycombinator.com/item?id=50416103",
-    "source": "youtube.com",
-    "date": "2026-11-08T19:14:41Z",
-    "timestamp": 1794165281,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why a pink potato-like robot is wheeling around Philadelphia",
-    "url": "https://www.popsci.com/science/orifice-awebot-robot-philadelphia/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415927",
-    "source": "popsci.com",
-    "date": "2026-11-08T18:55:03Z",
-    "timestamp": 1794164103,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Canada's AI translation tool keeps making hilarious mistakes",
-    "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415905",
-    "source": "blogto.com",
-    "date": "2026-11-08T18:52:42Z",
-    "timestamp": 1794163962,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
-    "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415854",
-    "source": "rgs-ibg.onlinelibrary.wiley.com",
-    "date": "2026-11-08T18:46:42Z",
-    "timestamp": 1794163602,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415817",
-    "source": "wsj.com",
-    "date": "2026-11-08T18:43:07Z",
-    "timestamp": 1794163387,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Is your product AI slop?",
-    "url": "https://slopcalculator.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415740",
-    "source": "slopcalculator.com",
-    "date": "2026-11-08T18:32:31Z",
-    "timestamp": 1794162751,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
-    "url": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415265",
-    "source": "valueaddedresource.net",
-    "date": "2026-11-08T17:31:42Z",
-    "timestamp": 1794159102,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Maple – Run Gemma 4 26B on a 6GB Laptop GPU at 45 TPS (Sub-2-BPW)",
-    "url": "https://amsach.github.io/maple/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50415106",
-    "source": "amsach.github.io",
-    "date": "2026-11-08T17:13:03Z",
-    "timestamp": 1794157983,
+    "title": "Pay per pre-configured GPU hour or per token for open-source LLM inference?",
+    "url": "https://news.ycombinator.com/item?id=50420874",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420874",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-09T03:52:55Z",
+    "timestamp": 1794196375,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Nino – Fastest C# serializer, safe on untrusted input, also TS/Go/Rust",
-    "url": "https://github.com/JasonXuDeveloper/Nino",
-    "discussion_url": "https://news.ycombinator.com/item?id=50413601",
-    "source": "github.com",
-    "date": "2026-11-08T14:20:43Z",
-    "timestamp": 1794147643,
+    "title": "A Critique of GPUI",
+    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420857",
+    "source": "blog.zortax.de",
+    "date": "2026-11-09T03:51:10Z",
+    "timestamp": 1794196270,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Official Wanting Data Centers on Public Lands Has >10M Invested in AI Industry",
+    "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420710",
+    "source": "propublica.org",
+    "date": "2026-11-09T03:31:35Z",
+    "timestamp": 1794195095,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
+    "url": "https://company.mindfries.com/login",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420697",
+    "source": "company.mindfries.com",
+    "date": "2026-11-09T03:30:04Z",
+    "timestamp": 1794195004,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Type in Any Task. Get the Best AI Model for It",
+    "url": "https://taskrouter.com/tasks",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420635",
+    "source": "taskrouter.com",
+    "date": "2026-11-09T03:20:39Z",
+    "timestamp": 1794194439,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420532",
+    "source": "itsfoss.com",
+    "date": "2026-11-09T03:06:55Z",
+    "timestamp": 1794193615,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+    "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420330",
+    "source": "quantamagazine.org",
+    "date": "2026-11-09T02:39:19Z",
+    "timestamp": 1794191959,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
+    "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=50420025",
+    "source": "linas.substack.com",
+    "date": "2026-11-09T01:56:17Z",
+    "timestamp": 1794189377,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Six GPUs on One X16 Slot: R9700s and RTX 3090s Behind a PCIe Switch",
+    "url": "https://doug.sh/posts/six-gpus-one-x16-slot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50418366",
+    "source": "doug.sh",
+    "date": "2026-11-08T22:52:07Z",
+    "timestamp": 1794178327,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50418176",
+    "source": "ketchup3d.github.io",
+    "date": "2026-11-08T22:35:35Z",
+    "timestamp": 1794177335,
     "category": "Computer Architecture"
   },
   {
@@ -159,6 +168,15 @@
     "source": "sheets.works",
     "date": "2026-11-07T16:21:36Z",
     "timestamp": 1794068496,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+    "url": "https://github.com/rkaehn/uniform",
+    "discussion_url": "https://news.ycombinator.com/item?id=50401844",
+    "source": "github.com",
+    "date": "2026-11-07T05:16:31Z",
+    "timestamp": 1794028591,
     "category": "Computer Architecture"
   },
   {
