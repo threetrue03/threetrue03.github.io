@@ -1,173 +1,164 @@
 [
   {
-    "title": "A year after the 100% AI mandate nobody understands our code",
-    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50433079",
-    "source": "reddit.com",
-    "date": "2026-11-09T22:19:12Z",
-    "timestamp": 1794262752,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI labs raise prices without raising prices",
-    "url": "https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices",
-    "discussion_url": "https://news.ycombinator.com/item?id=50433048",
-    "source": "playcode.io",
-    "date": "2026-11-09T22:15:58Z",
-    "timestamp": 1794262558,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I use 11.35B AI tokens a month. How many do you use?",
-    "url": "https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50433002",
-    "source": "jellyfish.co",
-    "date": "2026-11-09T22:12:23Z",
-    "timestamp": 1794262343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "USB: A trust layer for AI skills and MCP servers",
-    "url": "https://github.com/PeepSick/usbplus",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432661",
-    "source": "github.com",
-    "date": "2026-11-09T21:42:46Z",
-    "timestamp": 1794260566,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
-    "url": "https://app.nuancelabs.ai/try",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432589",
-    "source": "app.nuancelabs.ai",
-    "date": "2026-11-09T21:38:00Z",
-    "timestamp": 1794260280,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Indie Game Development with AI",
-    "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432523",
-    "source": "sandromaglione.com",
-    "date": "2026-11-09T21:33:55Z",
-    "timestamp": 1794260035,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI chip financing hits a wall",
-    "url": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432517",
-    "source": "semafor.com",
-    "date": "2026-11-09T21:33:45Z",
-    "timestamp": 1794260025,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Fireworks AI Hacked",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432415",
-    "source": "bloomberg.com",
-    "date": "2026-11-09T21:26:09Z",
-    "timestamp": 1794259569,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Protesters slam AI after entering Microsoft data centre site",
-    "url": "https://www.independent.co.uk/tv/news/protesters-microsoft-data-centre-amsterdam-video-b3080959.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50432221",
-    "source": "independent.co.uk",
-    "date": "2026-11-09T21:11:49Z",
-    "timestamp": 1794258709,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
-    "url": "https://github.com/humanethq/airgap-check",
-    "discussion_url": "https://news.ycombinator.com/item?id=50431705",
-    "source": "github.com",
-    "date": "2026-11-09T20:37:28Z",
-    "timestamp": 1794256648,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Institutional vs Personal AI",
-    "url": "https://armincat.com/articles/eunice-vs-aunties",
-    "discussion_url": "https://news.ycombinator.com/item?id=50431116",
-    "source": "armincat.com",
-    "date": "2026-11-09T20:03:23Z",
-    "timestamp": 1794254603,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cost of AI Crash Protection Spikes",
-    "url": "https://www.youtube.com/watch?v=YUyoWFlaOKg",
-    "discussion_url": "https://news.ycombinator.com/item?id=50431113",
-    "source": "youtube.com",
-    "date": "2026-11-09T20:03:19Z",
-    "timestamp": 1794254599,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
-    "discussion_url": "https://news.ycombinator.com/item?id=50431054",
-    "source": "tomshardware.com",
-    "date": "2026-11-09T19:58:42Z",
-    "timestamp": 1794254322,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "UE5.9 running with Lumen in the browser with WebGPU",
-    "url": "https://twitter.com/toreler/status/2119862440167145492",
-    "discussion_url": "https://news.ycombinator.com/item?id=50430587",
-    "source": "twitter.com",
-    "date": "2026-11-09T19:33:17Z",
-    "timestamp": 1794252797,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Recent advances in AI are creating a 'paradigm shift' for robotics",
-    "url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50430433",
-    "source": "news.berkeley.edu",
-    "date": "2026-11-09T19:25:46Z",
-    "timestamp": 1794252346,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: WebGL2 GPU Liquidity Heatmap for Hyperliquid L2 Orderbooks",
-    "url": "https://velqiris-acquisition.netlify.app/heatmap.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50429530",
-    "source": "velqiris-acquisition.netlify.app",
-    "date": "2026-11-09T18:32:12Z",
-    "timestamp": 1794249132,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI agents use simulation to solve tough robotics problems with code, not data",
-    "url": "https://spectrum.ieee.org/agentic-robotics",
-    "discussion_url": "https://news.ycombinator.com/item?id=50429524",
-    "source": "spectrum.ieee.org",
-    "date": "2026-11-09T18:31:38Z",
-    "timestamp": 1794249098,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: ZeroPoint – CPU-only decision model that can answer 'none of these'",
-    "url": "https://github.com/Javihaus/zeropoint",
-    "discussion_url": "https://news.ycombinator.com/item?id=50429147",
-    "source": "github.com",
-    "date": "2026-11-09T18:06:06Z",
-    "timestamp": 1794247566,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "P2P inference using WebGPU libp2p and IPFS",
-    "url": "https://news.ycombinator.com/item?id=50429114",
-    "discussion_url": "https://news.ycombinator.com/item?id=50429114",
+    "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+    "url": "https://news.ycombinator.com/item?id=50436636",
+    "discussion_url": "https://news.ycombinator.com/item?id=50436636",
     "source": "news.ycombinator.com",
-    "date": "2026-11-09T18:03:54Z",
-    "timestamp": 1794247434,
+    "date": "2026-11-10T06:00:48Z",
+    "timestamp": 1794290448,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I don't want AI in my online search. What options do I have?",
+    "url": "https://theconversation.com/i-dont-want-ai-in-my-online-search-what-options-do-i-have-295875",
+    "discussion_url": "https://news.ycombinator.com/item?id=50436472",
+    "source": "theconversation.com",
+    "date": "2026-11-10T05:33:17Z",
+    "timestamp": 1794288797,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Red Queen hypothesis – a new way forward for self-improving AI",
+    "url": "https://www.cl.cam.ac.uk/news/2026/07-21-red-queen-hypothesis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435877",
+    "source": "cl.cam.ac.uk",
+    "date": "2026-11-10T03:57:01Z",
+    "timestamp": 1794283021,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic put GPU kernel optimization under Safeguards with hacking and biology",
+    "url": "https://twitter.com/superalesha/status/2119911942227959883",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435876",
+    "source": "twitter.com",
+    "date": "2026-11-10T03:56:32Z",
+    "timestamp": 1794282992,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
+    "url": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435784",
+    "source": "gizmodo.com",
+    "date": "2026-11-10T03:40:24Z",
+    "timestamp": 1794282024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+    "url": "https://zthr.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435672",
+    "source": "zthr.ai",
+    "date": "2026-11-10T03:21:56Z",
+    "timestamp": 1794280916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435660",
+    "source": "cnbc.com",
+    "date": "2026-11-10T03:20:06Z",
+    "timestamp": 1794280806,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft patent: turning idle gaming GPUs into paid AI training hardware",
+    "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435601",
+    "source": "videocardz.com",
+    "date": "2026-11-10T03:09:31Z",
+    "timestamp": 1794280171,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435539",
+    "source": "techcrunch.com",
+    "date": "2026-11-10T02:59:27Z",
+    "timestamp": 1794279567,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+    "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435293",
+    "source": "youtube.com",
+    "date": "2026-11-10T02:20:22Z",
+    "timestamp": 1794277222,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
+    "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435242",
+    "source": "reddit.com",
+    "date": "2026-11-10T02:12:55Z",
+    "timestamp": 1794276775,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+    "url": "https://github.com/mw00/project-maya/pull/879",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435181",
+    "source": "github.com",
+    "date": "2026-11-10T02:05:11Z",
+    "timestamp": 1794276311,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Boston Dynamics Launches Next Generation Stretch Robot",
+    "url": "https://bostondynamics.com/news/boston-dynamics-launches-next-generation-stretch-robot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435129",
+    "source": "bostondynamics.com",
+    "date": "2026-11-10T02:00:02Z",
+    "timestamp": 1794276002,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50435074",
+    "source": "openai.com",
+    "date": "2026-11-10T01:50:24Z",
+    "timestamp": 1794275424,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why is AI slop so frustrating to read?",
+    "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+    "discussion_url": "https://news.ycombinator.com/item?id=50434647",
+    "source": "twitter.com",
+    "date": "2026-11-10T00:52:01Z",
+    "timestamp": 1794271921,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Learning Abstractions: The Next Frontier for AI",
+    "url": "https://twitter.com/jmugan/status/2119593410268999700",
+    "discussion_url": "https://news.ycombinator.com/item?id=50434434",
+    "source": "twitter.com",
+    "date": "2026-11-10T00:24:41Z",
+    "timestamp": 1794270281,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50434418",
+    "source": "wired.com",
+    "date": "2026-11-10T00:22:45Z",
+    "timestamp": 1794270165,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Built the Top Catan 1v1 Bot Without a GPU",
+    "url": "https://www.weihu.ca/posts/building-top-ranked-catan-1v1-bot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50433704",
+    "source": "weihu.ca",
+    "date": "2026-11-09T23:13:27Z",
+    "timestamp": 1794266007,
     "category": "Computer Architecture"
   },
   {
@@ -198,21 +189,21 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Every processor die anyone has photographed and given away",
-    "url": "https://sheets.works/data-viz/cpu-dies",
-    "discussion_url": "https://news.ycombinator.com/item?id=50405782",
-    "source": "sheets.works",
-    "date": "2026-11-07T16:21:36Z",
-    "timestamp": 1794068496,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
     "url": "https://github.com/rkaehn/uniform",
     "discussion_url": "https://news.ycombinator.com/item?id=50401844",
     "source": "github.com",
     "date": "2026-11-07T05:16:31Z",
     "timestamp": 1794028591,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A primer on GPUs and kernel optimization",
+    "url": "https://www.nabo.dev/blogs/kernel-primer",
+    "discussion_url": "https://news.ycombinator.com/item?id=50386246",
+    "source": "nabo.dev",
+    "date": "2026-11-05T23:48:04Z",
+    "timestamp": 1793922484,
     "category": "Computer Architecture"
   }
 ]
