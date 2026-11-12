@@ -1,183 +1,156 @@
 [
   {
-    "title": "Retirement Savings Are Fueling the AI Bubble",
-    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50457164",
-    "source": "lpeproject.org",
-    "date": "2026-11-11T19:06:43Z",
-    "timestamp": 1794424003,
+    "title": "Towards Verifiable LLM Infra",
+    "url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463558",
+    "source": "haoailab.com",
+    "date": "2026-11-12T05:53:11Z",
+    "timestamp": 1794462791,
     "category": "Machine Learning"
   },
   {
-    "title": "Airlock, a checker for AI models going into air-gapped networks",
-    "url": "https://news.ycombinator.com/item?id=50457018",
-    "discussion_url": "https://news.ycombinator.com/item?id=50457018",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-11T18:52:38Z",
-    "timestamp": 1794423158,
+    "title": "What happens to the AI industry if Nvidia falters",
+    "url": "https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463372",
+    "source": "finshots.in",
+    "date": "2026-11-12T05:25:17Z",
+    "timestamp": 1794461117,
     "category": "Machine Learning"
   },
   {
-    "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-    "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456926",
-    "source": "tomshardware.com",
-    "date": "2026-11-11T18:44:23Z",
-    "timestamp": 1794422663,
+    "title": "Show HN: DeepSeek-Coder-V2-Lite Under 5GB: 65 TPS 100% In-VRAM on 6GB GPU",
+    "url": "https://huggingface.co/AmSach/DeepSeek-Coder-V2-Lite-Instruct-MAPLE-Sub5GB-GGUF",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463281",
+    "source": "huggingface.co",
+    "date": "2026-11-12T05:07:43Z",
+    "timestamp": 1794460063,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What I Learned About Christmas–and Life–By Starring* in a Hallmark Movie",
+    "url": "https://www.theatlantic.com/magazine/2026/12/hallmark-christmas-movie-actor/689028/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463176",
+    "source": "theatlantic.com",
+    "date": "2026-11-12T04:49:16Z",
+    "timestamp": 1794458956,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A RISC-V Based TEE with AMD Zen 6 CPUs",
+    "url": "https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based",
+    "discussion_url": "https://news.ycombinator.com/item?id=50463156",
+    "source": "phoronix.com",
+    "date": "2026-11-12T04:44:52Z",
+    "timestamp": 1794458692,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "What it takes to operate a SaaS when AI agents write all the code",
+    "url": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50462933",
+    "source": "docspring.com",
+    "date": "2026-11-12T04:00:41Z",
+    "timestamp": 1794456041,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ring Robotics",
+    "url": "https://ring.com/ring-robotics",
+    "discussion_url": "https://news.ycombinator.com/item?id=50462717",
+    "source": "ring.com",
+    "date": "2026-11-12T03:31:04Z",
+    "timestamp": 1794454264,
     "category": "Physical AI"
-  },
-  {
-    "title": "Prompt Injection, Esq.: pwning AI agent guardrails with lawyerspeak",
-    "url": "https://www.mrnice.dev/posts/heavyweight-guardrails/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456893",
-    "source": "mrnice.dev",
-    "date": "2026-11-11T18:41:14Z",
-    "timestamp": 1794422474,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Opportunistic Micro-Training on Edge Devices Using Spare GPU Utilization",
-    "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260349820",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456779",
-    "source": "image-ppubs.uspto.gov",
-    "date": "2026-11-11T18:31:32Z",
-    "timestamp": 1794421892,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Isometric Burlington – my town redrawn by an image model",
-    "url": "https://isoburlington.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456774",
-    "source": "isoburlington.com",
-    "date": "2026-11-11T18:31:18Z",
-    "timestamp": 1794421878,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "37% on ARC-AGI 2 without an LLM",
-    "url": "https://mvakde.github.io/blog/looped-mdlarc/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456764",
-    "source": "mvakde.github.io",
-    "date": "2026-11-11T18:30:21Z",
-    "timestamp": 1794421821,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Swatters are using AI voices to deceive 911 dispatchers, and it's getting worse",
-    "url": "https://text.npr.org/nx-s1-6034449",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456742",
-    "source": "text.npr.org",
-    "date": "2026-11-11T18:28:33Z",
-    "timestamp": 1794421713,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "If AI Takes Jobs, What Happens to Us? [video]",
-    "url": "https://www.youtube.com/watch?v=GPfXfkin2FY",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456726",
-    "source": "youtube.com",
-    "date": "2026-11-11T18:27:29Z",
-    "timestamp": 1794421649,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Am I So Tired If AI Is Doing All the Work?",
-    "url": "https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456699",
-    "source": "terriblesoftware.org",
-    "date": "2026-11-11T18:25:15Z",
-    "timestamp": 1794421515,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Zero inference, no GPU but you have a bot on CPU with evidence",
-    "url": "https://github.com/insightitsGit/cpullm",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456696",
-    "source": "github.com",
-    "date": "2026-11-11T18:25:03Z",
-    "timestamp": 1794421503,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-    "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456668",
-    "source": "finance.yahoo.com",
-    "date": "2026-11-11T18:23:31Z",
-    "timestamp": 1794421411,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
-    "url": "https://www.youtube.com/watch?v=saXrLnzWTD0",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456646",
-    "source": "youtube.com",
-    "date": "2026-11-11T18:22:09Z",
-    "timestamp": 1794421329,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Railway's $740K AI Key Incident: How Two Trust Failures Exposed Customer Secrets",
-    "url": "https://medium.com/@inclinq/railways-740k-ai-key-incident-how-two-trust-failures-exposed-customer-secrets-0e018353ff88",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456556",
-    "source": "medium.com",
-    "date": "2026-11-11T18:15:51Z",
-    "timestamp": 1794420951,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
-    "url": "https://gitlab.com/__alexander__/anathem",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456509",
-    "source": "gitlab.com",
-    "date": "2026-11-11T18:10:46Z",
-    "timestamp": 1794420646,
-    "category": "Machine Learning"
   },
   {
     "title": "United Airlines Is Banning AI Bots from Booking Flights",
     "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456474",
+    "discussion_url": "https://news.ycombinator.com/item?id=50462187",
     "source": "wsj.com",
-    "date": "2026-11-11T18:07:39Z",
-    "timestamp": 1794420459,
+    "date": "2026-11-12T02:11:54Z",
+    "timestamp": 1794449514,
     "category": "Machine Learning"
   },
   {
-    "title": "Tang, a compiler that derives GPU kernels and bounds how fast they can run",
-    "url": "https://muni.works/research/tang",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456374",
-    "source": "muni.works",
-    "date": "2026-11-11T17:59:25Z",
-    "timestamp": 1794419965,
-    "category": "Computer Architecture"
+    "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
+    "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+    "discussion_url": "https://news.ycombinator.com/item?id=50461979",
+    "source": "medium.com",
+    "date": "2026-11-12T01:48:59Z",
+    "timestamp": 1794448139,
+    "category": "Machine Learning"
   },
   {
-    "title": "ILrDOS – header-only C++20 robot runtime for a Pi Zero 2 W",
-    "url": "https://github.com/V0rtexLinux/ILrDOS",
-    "discussion_url": "https://news.ycombinator.com/item?id=50456112",
-    "source": "github.com",
-    "date": "2026-11-11T17:38:55Z",
-    "timestamp": 1794418735,
+    "title": "37% on ARC-AGI-2 Kaggle Without LLMs",
+    "url": "https://twitter.com/evilmathkid/status/2120581574584582301",
+    "discussion_url": "https://news.ycombinator.com/item?id=50461495",
+    "source": "twitter.com",
+    "date": "2026-11-12T00:58:20Z",
+    "timestamp": 1794445100,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Yes, you should panic about AI",
+    "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460968",
+    "source": "rutgerbregman.substack.com",
+    "date": "2026-11-12T00:11:49Z",
+    "timestamp": 1794442309,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
+    "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460744",
+    "source": "ft.com",
+    "date": "2026-11-11T23:51:33Z",
+    "timestamp": 1794441093,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: An open-source macOS file browser built with GPUI",
-    "url": "https://github.com/Graham-04/filetree.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=50455176",
+    "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+    "url": "https://acneally.vercel.app",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460717",
+    "source": "acneally.vercel.app",
+    "date": "2026-11-11T23:49:11Z",
+    "timestamp": 1794440951,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: W-ISA – An instruction set for programming LLM weights",
+    "url": "https://github.com/eax/w-isa",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460697",
     "source": "github.com",
-    "date": "2026-11-11T16:22:13Z",
-    "timestamp": 1794414133,
+    "date": "2026-11-11T23:47:21Z",
+    "timestamp": 1794440841,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+    "url": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=50460559",
+    "source": "cyberdefensereview.army.mil",
+    "date": "2026-11-11T23:36:07Z",
+    "timestamp": 1794440167,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "discussion_url": "https://news.ycombinator.com/item?id=50459445",
+    "source": "huggingface.co",
+    "date": "2026-11-11T22:12:54Z",
+    "timestamp": 1794435174,
     "category": "Computer Architecture"
   },
   {
-    "title": "Meridian: Web-browser built on GPUI and Servo",
-    "url": "https://tangled.org/oppi.li/meridian",
-    "discussion_url": "https://news.ycombinator.com/item?id=50454724",
-    "source": "tangled.org",
-    "date": "2026-11-11T15:41:54Z",
-    "timestamp": 1794411714,
-    "category": "Computer Architecture"
+    "title": "LiteLLM rewrote its Router in Rust",
+    "url": "https://docs.litellm.ai/blog/router-rust",
+    "discussion_url": "https://news.ycombinator.com/item?id=50459250",
+    "source": "docs.litellm.ai",
+    "date": "2026-11-11T21:57:45Z",
+    "timestamp": 1794434265,
+    "category": "Machine Learning"
   },
   {
     "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
@@ -195,15 +168,6 @@
     "source": "tendrils.co",
     "date": "2026-11-10T22:14:03Z",
     "timestamp": 1794348843,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A primer on GPUs and kernel optimization",
-    "url": "https://www.nabo.dev/blogs/kernel-primer",
-    "discussion_url": "https://news.ycombinator.com/item?id=50386246",
-    "source": "nabo.dev",
-    "date": "2026-11-05T23:48:04Z",
-    "timestamp": 1793922484,
     "category": "Computer Architecture"
   }
 ]
