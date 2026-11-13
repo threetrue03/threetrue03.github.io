@@ -1,156 +1,147 @@
 [
   {
-    "title": "AI search is recommending fake retail websites",
-    "url": "https://podqi.com/research/ai-search-brand-risk",
-    "discussion_url": "https://news.ycombinator.com/item?id=50473120",
-    "source": "podqi.com",
-    "date": "2026-11-12T19:46:22Z",
-    "timestamp": 1794512782,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI, Google, Anthropic hit with lawsuit to stop AI development",
-    "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50473015",
-    "source": "reuters.com",
-    "date": "2026-11-12T19:38:52Z",
-    "timestamp": 1794512332,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The big gap between AI capabilities and replacing jobs",
-    "url": "https://greyenlightenment.com/2026/11/11/the-gap-between-ai-capabilities-and-replacing-jobs/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50472576",
-    "source": "greyenlightenment.com",
-    "date": "2026-11-12T19:10:43Z",
-    "timestamp": 1794510643,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Fireworks AI cyberattack let hackers access Notion customers' chat transcripts",
-    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50472240",
+    "title": "United Airlines blocks AI agents from booking flights",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50479219",
     "source": "techcrunch.com",
-    "date": "2026-11-12T18:51:09Z",
-    "timestamp": 1794509469,
+    "date": "2026-11-13T06:34:41Z",
+    "timestamp": 1794551681,
     "category": "Machine Learning"
   },
   {
-    "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50471673",
+    "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+    "url": "https://chatpanel.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50479186",
+    "source": "chatpanel.net",
+    "date": "2026-11-13T06:31:06Z",
+    "timestamp": 1794551466,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Michelangelo AI",
+    "url": "https://michelangelo-ai.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50478531",
+    "source": "michelangelo-ai.org",
+    "date": "2026-11-13T04:56:40Z",
+    "timestamp": 1794545800,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Glue work is still harmful in the age of AI",
+    "url": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50478213",
+    "source": "seangoedecke.com",
+    "date": "2026-11-13T04:13:29Z",
+    "timestamp": 1794543209,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Security Wiki",
+    "url": "https://nachi065.github.io/AI-Security-Wiki/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50478007",
+    "source": "nachi065.github.io",
+    "date": "2026-11-13T03:48:55Z",
+    "timestamp": 1794541735,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50477699",
     "source": "techcrunch.com",
-    "date": "2026-11-12T18:17:29Z",
-    "timestamp": 1794507449,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How many GPUs do you run on your OpenCode dev setup?",
-    "url": "https://news.ycombinator.com/item?id=50471352",
-    "discussion_url": "https://news.ycombinator.com/item?id=50471352",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-12T17:56:31Z",
-    "timestamp": 1794506191,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Running 800B-parameter LLMs on consumer hardware with InferSSD",
-    "url": "https://wici.ai/article/running-800b-models-with-inferssd",
-    "discussion_url": "https://news.ycombinator.com/item?id=50471151",
-    "source": "wici.ai",
-    "date": "2026-11-12T17:43:16Z",
-    "timestamp": 1794505396,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ForgePtr: Unprivileged kernel write in Nvidia Linux GPU driver (CVE-2026-47501)",
-    "url": "https://stealthium.io/blog/forgeptr",
-    "discussion_url": "https://news.ycombinator.com/item?id=50471105",
-    "source": "stealthium.io",
-    "date": "2026-11-12T17:40:15Z",
-    "timestamp": 1794505215,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
-    "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470975",
-    "source": "blog.cip.org",
-    "date": "2026-11-12T17:32:49Z",
-    "timestamp": 1794504769,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is your current AI stack looking like?",
-    "url": "https://news.ycombinator.com/item?id=50470767",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470767",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-12T17:19:54Z",
-    "timestamp": 1794503994,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Near AI Gateway: Easily Use Private AI from Claude, Codex and Open Code",
-    "url": "https://gateway.near.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470680",
-    "source": "gateway.near.ai",
-    "date": "2026-11-12T17:14:28Z",
-    "timestamp": 1794503668,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenIGI: WebGPU independent reimplementation of Project IGI",
-    "url": "https://github.com/openigi/openigi",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470596",
-    "source": "github.com",
-    "date": "2026-11-12T17:08:11Z",
-    "timestamp": 1794503291,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Meeting Assistants Raise Eavesdropping Concerns and Discovery Headaches",
-    "url": "https://www.corporatecomplianceinsights.com/ai-meeting-assistants-raise-eavesdropping-concerns-discovery-headaches/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470549",
-    "source": "corporatecomplianceinsights.com",
-    "date": "2026-11-12T17:05:47Z",
-    "timestamp": 1794503147,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
-    "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470363",
-    "source": "ecosistemastartup.com",
-    "date": "2026-11-12T16:53:48Z",
-    "timestamp": 1794502428,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inception's Diffusion LLM API Is Shutting Down",
-    "url": "https://news.ycombinator.com/item?id=50470335",
-    "discussion_url": "https://news.ycombinator.com/item?id=50470335",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-12T16:51:58Z",
-    "timestamp": 1794502318,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon's Ring debuts security robots, including a drone",
-    "url": "https://www.nbcnews.com/tech/tech-news/amazons-ring-debuts-security-robots-drone-rcna608538",
-    "discussion_url": "https://news.ycombinator.com/item?id=50469591",
-    "source": "nbcnews.com",
-    "date": "2026-11-12T16:02:57Z",
-    "timestamp": 1794499377,
+    "date": "2026-11-13T03:13:21Z",
+    "timestamp": 1794539601,
     "category": "Physical AI"
   },
   {
-    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
-    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50467383",
-    "source": "pytorch.org",
-    "date": "2026-11-12T14:09:35Z",
-    "timestamp": 1794492575,
+    "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
+    "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+    "discussion_url": "https://news.ycombinator.com/item?id=50477479",
+    "source": "notion.com",
+    "date": "2026-11-13T02:49:47Z",
+    "timestamp": 1794538187,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "No, AI agents did not discover a previously unknown Maya site",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "discussion_url": "https://news.ycombinator.com/item?id=50477335",
+    "source": "theverge.com",
+    "date": "2026-11-13T02:28:29Z",
+    "timestamp": 1794536909,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Love AI",
+    "url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50477137",
+    "source": "possibilityspace.org",
+    "date": "2026-11-13T02:01:59Z",
+    "timestamp": 1794535319,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AgentLeak – open-source privacy testing for multi-agent LLM systems",
+    "url": "https://github.com/Privatris/AgentLeak",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476987",
+    "source": "github.com",
+    "date": "2026-11-13T01:36:36Z",
+    "timestamp": 1794533796,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude designed FPGA scaler board for 6th-gen consoles",
+    "url": "https://github.com/bryfur/tang-av-scaler",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476792",
+    "source": "github.com",
+    "date": "2026-11-13T01:09:25Z",
+    "timestamp": 1794532165,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
+    "url": "https://github.com/kncshw/cybergate",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476691",
+    "source": "github.com",
+    "date": "2026-11-13T00:52:32Z",
+    "timestamp": 1794531152,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Math Kit – Open Problems. Explore Honestly",
+    "url": "https://chromewebstore.google.com/detail/ai-math-kit/acdddhokifmffbmnelpfcnhbpdedadkj",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476685",
+    "source": "chromewebstore.google.com",
+    "date": "2026-11-13T00:51:52Z",
+    "timestamp": 1794531112,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50476586",
+    "source": "techspot.com",
+    "date": "2026-11-13T00:38:41Z",
+    "timestamp": 1794530321,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474883",
+    "source": "unemploymentlabs.com",
+    "date": "2026-11-12T21:56:11Z",
+    "timestamp": 1794520571,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+    "url": "https://github.com/cerulion-inc/cerulion",
+    "discussion_url": "https://news.ycombinator.com/item?id=50474106",
+    "source": "github.com",
+    "date": "2026-11-12T20:53:04Z",
+    "timestamp": 1794516784,
+    "category": "Physical AI"
   },
   {
     "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
@@ -159,15 +150,6 @@
     "source": "github.com",
     "date": "2026-11-11T04:56:47Z",
     "timestamp": 1794373007,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "$30M Raised to Redo the CPU",
-    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-    "discussion_url": "https://news.ycombinator.com/item?id=50447036",
-    "source": "tendrils.co",
-    "date": "2026-11-10T22:14:03Z",
-    "timestamp": 1794348843,
     "category": "Computer Architecture"
   }
 ]
