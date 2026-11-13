@@ -1,129 +1,156 @@
 [
   {
-    "title": "United Airlines blocks AI agents from booking flights",
-    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50479219",
-    "source": "techcrunch.com",
-    "date": "2026-11-13T06:34:41Z",
-    "timestamp": 1794551681,
+    "title": "First inference results on Xbox Series X",
+    "url": "https://muse.ai/s/project-scorpio-first-inference-xki6pdxy7xgxjuw/wh9yeiC-VcH6LMkLaY_ZJrWTZKOCTUPSspuX9wR0RJM",
+    "discussion_url": "https://news.ycombinator.com/item?id=50488280",
+    "source": "muse.ai",
+    "date": "2026-11-13T19:09:42Z",
+    "timestamp": 1794596982,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
-    "url": "https://chatpanel.net/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50479186",
-    "source": "chatpanel.net",
-    "date": "2026-11-13T06:31:06Z",
-    "timestamp": 1794551466,
+    "title": "2017: \"Future milestones in AI predicted by experts\"",
+    "url": "https://www.futuretimeline.net/blog/2017/06/13.htm",
+    "discussion_url": "https://news.ycombinator.com/item?id=50488141",
+    "source": "futuretimeline.net",
+    "date": "2026-11-13T19:00:58Z",
+    "timestamp": 1794596458,
     "category": "Machine Learning"
   },
   {
-    "title": "Michelangelo AI",
-    "url": "https://michelangelo-ai.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50478531",
-    "source": "michelangelo-ai.org",
-    "date": "2026-11-13T04:56:40Z",
-    "timestamp": 1794545800,
+    "title": "The avalanche that hit math is coming for AI development",
+    "url": "https://www.dwarkesh.com/p/rsi",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487854",
+    "source": "dwarkesh.com",
+    "date": "2026-11-13T18:39:42Z",
+    "timestamp": 1794595182,
     "category": "Machine Learning"
   },
   {
-    "title": "Glue work is still harmful in the age of AI",
-    "url": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50478213",
-    "source": "seangoedecke.com",
-    "date": "2026-11-13T04:13:29Z",
-    "timestamp": 1794543209,
+    "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+    "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487510",
+    "source": "reuters.com",
+    "date": "2026-11-13T18:17:27Z",
+    "timestamp": 1794593847,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Security Wiki",
-    "url": "https://nachi065.github.io/AI-Security-Wiki/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50478007",
-    "source": "nachi065.github.io",
-    "date": "2026-11-13T03:48:55Z",
-    "timestamp": 1794541735,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50477699",
-    "source": "techcrunch.com",
-    "date": "2026-11-13T03:13:21Z",
-    "timestamp": 1794539601,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
-    "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-    "discussion_url": "https://news.ycombinator.com/item?id=50477479",
-    "source": "notion.com",
-    "date": "2026-11-13T02:49:47Z",
-    "timestamp": 1794538187,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "No, AI agents did not discover a previously unknown Maya site",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "discussion_url": "https://news.ycombinator.com/item?id=50477335",
-    "source": "theverge.com",
-    "date": "2026-11-13T02:28:29Z",
-    "timestamp": 1794536909,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I Love AI",
-    "url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50477137",
-    "source": "possibilityspace.org",
-    "date": "2026-11-13T02:01:59Z",
-    "timestamp": 1794535319,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AgentLeak – open-source privacy testing for multi-agent LLM systems",
-    "url": "https://github.com/Privatris/AgentLeak",
-    "discussion_url": "https://news.ycombinator.com/item?id=50476987",
-    "source": "github.com",
-    "date": "2026-11-13T01:36:36Z",
-    "timestamp": 1794533796,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claude designed FPGA scaler board for 6th-gen consoles",
-    "url": "https://github.com/bryfur/tang-av-scaler",
-    "discussion_url": "https://news.ycombinator.com/item?id=50476792",
-    "source": "github.com",
-    "date": "2026-11-13T01:09:25Z",
-    "timestamp": 1794532165,
+    "title": "The true fragility of the semiconductor supply chain",
+    "url": "https://haddyalchaer.com/supply-chain",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487438",
+    "source": "haddyalchaer.com",
+    "date": "2026-11-13T18:12:40Z",
+    "timestamp": 1794593560,
     "category": "Computer Architecture"
   },
   {
-    "title": "CyberGate – vLLM plugin to unlock cybersecurity without weight edits",
-    "url": "https://github.com/kncshw/cybergate",
-    "discussion_url": "https://news.ycombinator.com/item?id=50476691",
+    "title": "Is it OK to write blog posts with AI yet?",
+    "url": "https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487420",
+    "source": "rmoff.net",
+    "date": "2026-11-13T18:10:54Z",
+    "timestamp": 1794593454,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Serve Robotics Opens Its Robot Delivery Network for Anyone to Build On",
+    "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-opens-its-robot-delivery-network-anyone-build",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487411",
+    "source": "investors.serverobotics.com",
+    "date": "2026-11-13T18:10:03Z",
+    "timestamp": 1794593403,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Frontier AI takes only months to get 10 times cheaper",
+    "url": "https://village.dev/blog/frontier-ai-used-to-take-over-a-year-to-get-10-times-cheaper-now-it-takes-months/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487400",
+    "source": "village.dev",
+    "date": "2026-11-13T18:09:33Z",
+    "timestamp": 1794593373,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
+    "url": "https://github.com/figurehead-ai/AI-juggler",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487349",
     "source": "github.com",
-    "date": "2026-11-13T00:52:32Z",
-    "timestamp": 1794531152,
+    "date": "2026-11-13T18:06:55Z",
+    "timestamp": 1794593215,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: AI Math Kit – Open Problems. Explore Honestly",
-    "url": "https://chromewebstore.google.com/detail/ai-math-kit/acdddhokifmffbmnelpfcnhbpdedadkj",
-    "discussion_url": "https://news.ycombinator.com/item?id=50476685",
-    "source": "chromewebstore.google.com",
-    "date": "2026-11-13T00:51:52Z",
-    "timestamp": 1794531112,
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487184",
+    "source": "fortune.com",
+    "date": "2026-11-13T17:55:23Z",
+    "timestamp": 1794592523,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+    "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+    "discussion_url": "https://news.ycombinator.com/item?id=50487126",
+    "source": "apnews.com",
+    "date": "2026-11-13T17:52:00Z",
+    "timestamp": 1794592320,
     "category": "Machine Learning"
   },
   {
-    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50476586",
-    "source": "techspot.com",
-    "date": "2026-11-13T00:38:41Z",
-    "timestamp": 1794530321,
+    "title": "Show HN: Giving frontier AI models capital and access to onchain markets",
+    "url": "https://blink.cash/arena",
+    "discussion_url": "https://news.ycombinator.com/item?id=50486789",
+    "source": "blink.cash",
+    "date": "2026-11-13T17:32:45Z",
+    "timestamp": 1794591165,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "discussion_url": "https://news.ycombinator.com/item?id=50486748",
+    "source": "theguardian.com",
+    "date": "2026-11-13T17:30:10Z",
+    "timestamp": 1794591010,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I filed one complaint. An airport took its AI signer down",
+    "url": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50486193",
+    "source": "novaracg.com",
+    "date": "2026-11-13T16:51:31Z",
+    "timestamp": 1794588691,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Zoox robotaxi is now driving in Atlanta",
+    "url": "https://zoox.com/journal/atlanta-expansion-robotaxi",
+    "discussion_url": "https://news.ycombinator.com/item?id=50485967",
+    "source": "zoox.com",
+    "date": "2026-11-13T16:35:44Z",
+    "timestamp": 1794587744,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
+    "url": "https://nathan.rs/posts/detllm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50485914",
+    "source": "nathan.rs",
+    "date": "2026-11-13T16:32:18Z",
+    "timestamp": 1794587538,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
+    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50484388",
+    "source": "pytorch.org",
+    "date": "2026-11-13T14:52:05Z",
+    "timestamp": 1794581525,
+    "category": "Computer Architecture"
   },
   {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -133,15 +160,6 @@
     "date": "2026-11-12T21:56:11Z",
     "timestamp": 1794520571,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-    "url": "https://github.com/cerulion-inc/cerulion",
-    "discussion_url": "https://news.ycombinator.com/item?id=50474106",
-    "source": "github.com",
-    "date": "2026-11-12T20:53:04Z",
-    "timestamp": 1794516784,
-    "category": "Physical AI"
   },
   {
     "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
