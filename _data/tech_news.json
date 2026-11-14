@@ -1,5 +1,113 @@
 [
   {
+    "title": "Competition in Generative AI: Evidence from Consumer Demand",
+    "url": "https://www.nber.org/papers/w35953",
+    "discussion_url": "https://news.ycombinator.com/item?id=50501134",
+    "source": "nber.org",
+    "date": "2026-11-14T21:36:04Z",
+    "timestamp": 1794692164,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50500743",
+    "source": "arstechnica.com",
+    "date": "2026-11-14T20:58:43Z",
+    "timestamp": 1794689923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "0rwx: A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50500600",
+    "source": "0rwx.com",
+    "date": "2026-11-14T20:38:53Z",
+    "timestamp": 1794688733,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FAA's Smart AI System Now Active at All 22 ARTCCs [Nov 10]",
+    "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50500552",
+    "source": "flyingmag.com",
+    "date": "2026-11-14T20:35:14Z",
+    "timestamp": 1794688514,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Company Employees Should Unionize",
+    "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+    "discussion_url": "https://news.ycombinator.com/item?id=50500137",
+    "source": "astralcodexten.com",
+    "date": "2026-11-14T19:47:33Z",
+    "timestamp": 1794685653,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+    "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499730",
+    "source": "electrek.co",
+    "date": "2026-11-14T18:57:51Z",
+    "timestamp": 1794682671,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+    "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499627",
+    "source": "bbc.co.uk",
+    "date": "2026-11-14T18:47:10Z",
+    "timestamp": 1794682030,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Tried Every LLM Architecture Change Since 2020",
+    "url": "https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499588",
+    "source": "nikita-pavlichenko.com",
+    "date": "2026-11-14T18:41:54Z",
+    "timestamp": 1794681714,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
+    "url": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499499",
+    "source": "techspot.com",
+    "date": "2026-11-14T18:33:37Z",
+    "timestamp": 1794681217,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+    "url": "https://github.com/noambrand/ai-time-estimator",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499487",
+    "source": "github.com",
+    "date": "2026-11-14T18:32:30Z",
+    "timestamp": 1794681150,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI can achieve human-level intelligence: researchers call for change in tack",
+    "url": "https://www.nature.com/articles/d41586-025-00649-4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499479",
+    "source": "nature.com",
+    "date": "2026-11-14T18:31:36Z",
+    "timestamp": 1794681096,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nonna's ragù: AI skill files only get you started",
+    "url": "https://andreaazzini.com/notes/nonnas-ragu",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499222",
+    "source": "andreaazzini.com",
+    "date": "2026-11-14T18:03:43Z",
+    "timestamp": 1794679423,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
     "url": "https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/",
     "discussion_url": "https://news.ycombinator.com/item?id=50499186",
@@ -18,42 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Jensen Huang's departure blasts big hole in AI startup funding",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498492",
-    "source": "techcrunch.com",
-    "date": "2026-11-14T16:52:24Z",
-    "timestamp": 1794675144,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Preventing an AI catastrophe, a brief into to analysis by synthesis",
-    "url": "https://shukla.io/blog/2026-11/analysis-by-synthesis.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498325",
-    "source": "shukla.io",
-    "date": "2026-11-14T16:31:48Z",
-    "timestamp": 1794673908,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
-    "url": "https://github.com/slashman413/cowork",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498282",
-    "source": "github.com",
-    "date": "2026-11-14T16:27:00Z",
-    "timestamp": 1794673620,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Missing Ring-0 Protections for AI Agents",
-    "url": "https://hwtn.io/essays/t0013-missing-ring-0-protections-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498251",
-    "source": "hwtn.io",
-    "date": "2026-11-14T16:23:05Z",
-    "timestamp": 1794673385,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Robot startup cant pay staff after founder takes $4.6M from company to buy home",
     "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
     "discussion_url": "https://news.ycombinator.com/item?id=50498135",
@@ -63,15 +135,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "LLMs: Do the Benefits Outweigh the Costs?",
-    "url": "https://staydecent.ca/blog/on-llms-do-the-benefits-outweigh-the-costs/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498118",
-    "source": "staydecent.ca",
-    "date": "2026-11-14T16:06:37Z",
-    "timestamp": 1794672397,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
     "discussion_url": "https://news.ycombinator.com/item?id=50498051",
@@ -79,78 +142,6 @@
     "date": "2026-11-14T15:58:57Z",
     "timestamp": 1794671937,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
-    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497744",
-    "source": "restofworld.org",
-    "date": "2026-11-14T15:22:11Z",
-    "timestamp": 1794669731,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Scatter – better way to learn new things with AI",
-    "url": "https://www.scatter.study/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497647",
-    "source": "scatter.study",
-    "date": "2026-11-14T15:11:47Z",
-    "timestamp": 1794669107,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497589",
-    "source": "github.com",
-    "date": "2026-11-14T15:04:15Z",
-    "timestamp": 1794668655,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China builds 800MW AI data center campus to rival US Stargate project",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497561",
-    "source": "tomshardware.com",
-    "date": "2026-11-14T15:01:29Z",
-    "timestamp": 1794668489,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI model for predicting neurophysiological responses to text and pictures",
-    "url": "https://www.nature.com/articles/s41467-026-75653-x",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497213",
-    "source": "nature.com",
-    "date": "2026-11-14T14:18:09Z",
-    "timestamp": 1794665889,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
-    "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
-    "discussion_url": "https://news.ycombinator.com/item?id=50497161",
-    "source": "epyhia.com",
-    "date": "2026-11-14T14:10:31Z",
-    "timestamp": 1794665431,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "FPGA Chronicles",
-    "url": "https://hackaday.com/series_of_posts/fpga-chronicles/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50496765",
-    "source": "hackaday.com",
-    "date": "2026-11-14T13:13:20Z",
-    "timestamp": 1794662000,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tesla Cybercab orders open at $29,990 and $299/mo, only in Robotaxi zones",
-    "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50496652",
-    "source": "electrek.co",
-    "date": "2026-11-14T12:55:43Z",
-    "timestamp": 1794660943,
-    "category": "Physical AI"
   },
   {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
