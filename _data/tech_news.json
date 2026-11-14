@@ -1,84 +1,156 @@
 [
   {
-    "title": "First inference results on Xbox Series X",
-    "url": "https://muse.ai/s/project-scorpio-first-inference-xki6pdxy7xgxjuw/wh9yeiC-VcH6LMkLaY_ZJrWTZKOCTUPSspuX9wR0RJM",
-    "discussion_url": "https://news.ycombinator.com/item?id=50488280",
-    "source": "muse.ai",
-    "date": "2026-11-13T19:09:42Z",
-    "timestamp": 1794596982,
+    "title": "ShieldFont – Protect human muffins by poisoning unauthorized AI starfish",
+    "url": "https://shieldfont.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50494358",
+    "source": "shieldfont.org",
+    "date": "2026-11-14T05:43:30Z",
+    "timestamp": 1794635010,
     "category": "Machine Learning"
   },
   {
-    "title": "2017: \"Future milestones in AI predicted by experts\"",
-    "url": "https://www.futuretimeline.net/blog/2017/06/13.htm",
-    "discussion_url": "https://news.ycombinator.com/item?id=50488141",
-    "source": "futuretimeline.net",
-    "date": "2026-11-13T19:00:58Z",
-    "timestamp": 1794596458,
+    "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+    "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50494244",
+    "source": "entropicdrift.com",
+    "date": "2026-11-14T05:19:51Z",
+    "timestamp": 1794633591,
     "category": "Machine Learning"
   },
   {
-    "title": "The avalanche that hit math is coming for AI development",
-    "url": "https://www.dwarkesh.com/p/rsi",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487854",
-    "source": "dwarkesh.com",
-    "date": "2026-11-13T18:39:42Z",
-    "timestamp": 1794595182,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
-    "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487510",
-    "source": "reuters.com",
-    "date": "2026-11-13T18:17:27Z",
-    "timestamp": 1794593847,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The true fragility of the semiconductor supply chain",
-    "url": "https://haddyalchaer.com/supply-chain",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487438",
-    "source": "haddyalchaer.com",
-    "date": "2026-11-13T18:12:40Z",
-    "timestamp": 1794593560,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Is it OK to write blog posts with AI yet?",
-    "url": "https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487420",
-    "source": "rmoff.net",
-    "date": "2026-11-13T18:10:54Z",
-    "timestamp": 1794593454,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Serve Robotics Opens Its Robot Delivery Network for Anyone to Build On",
-    "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-opens-its-robot-delivery-network-anyone-build",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487411",
-    "source": "investors.serverobotics.com",
-    "date": "2026-11-13T18:10:03Z",
-    "timestamp": 1794593403,
+    "title": "I Built a $300 Robot Hand With 18 Motors [video]",
+    "url": "https://www.youtube.com/watch?v=Sk0x-xMNQks",
+    "discussion_url": "https://news.ycombinator.com/item?id=50494232",
+    "source": "youtube.com",
+    "date": "2026-11-14T05:18:11Z",
+    "timestamp": 1794633491,
     "category": "Physical AI"
   },
   {
-    "title": "Frontier AI takes only months to get 10 times cheaper",
-    "url": "https://village.dev/blog/frontier-ai-used-to-take-over-a-year-to-get-10-times-cheaper-now-it-takes-months/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487400",
-    "source": "village.dev",
-    "date": "2026-11-13T18:09:33Z",
-    "timestamp": 1794593373,
+    "title": "Show HN: EDNA – 100% on-device human sensing so AI can perceive the user",
+    "url": "https://openos.space",
+    "discussion_url": "https://news.ycombinator.com/item?id=50494144",
+    "source": "openos.space",
+    "date": "2026-11-14T05:04:37Z",
+    "timestamp": 1794632677,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
-    "url": "https://github.com/figurehead-ai/AI-juggler",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487349",
-    "source": "github.com",
-    "date": "2026-11-13T18:06:55Z",
-    "timestamp": 1794593215,
+    "title": "Sick of Herding AI Cats?",
+    "url": "https://clowder.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=50493836",
+    "source": "clowder.sh",
+    "date": "2026-11-14T04:13:42Z",
+    "timestamp": 1794629622,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "discussion_url": "https://news.ycombinator.com/item?id=50493251",
+    "source": "techpowerup.com",
+    "date": "2026-11-14T02:52:59Z",
+    "timestamp": 1794624779,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+    "url": "https://opencyclone.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50493213",
+    "source": "opencyclone.vercel.app",
+    "date": "2026-11-14T02:46:12Z",
+    "timestamp": 1794624372,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Of Course Americans Blamed the Ground Stop on AI",
+    "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492852",
+    "source": "theatlantic.com",
+    "date": "2026-11-14T02:02:02Z",
+    "timestamp": 1794621722,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI has become a utility bill for Gen Z",
+    "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492544",
+    "source": "reuters.com",
+    "date": "2026-11-14T01:23:14Z",
+    "timestamp": 1794619394,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
+    "url": "https://www.youtube.com/watch?v=_e2dk4Pothw",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492369",
+    "source": "youtube.com",
+    "date": "2026-11-14T00:59:29Z",
+    "timestamp": 1794617969,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
+    "url": "https://chipagents.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492245",
+    "source": "chipagents.ai",
+    "date": "2026-11-14T00:42:10Z",
+    "timestamp": 1794616930,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
+    "url": "https://kingstonyip.com/portal2bench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492238",
+    "source": "kingstonyip.com",
+    "date": "2026-11-14T00:40:55Z",
+    "timestamp": 1794616855,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+    "url": "https://claude.com/resources/articles/projects-redesigned",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492141",
+    "source": "claude.com",
+    "date": "2026-11-14T00:28:11Z",
+    "timestamp": 1794616091,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
+    "url": "https://dev-head.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50492050",
+    "source": "dev-head.com",
+    "date": "2026-11-14T00:14:50Z",
+    "timestamp": 1794615290,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+    "url": "https://news.ycombinator.com/item?id=50491841",
+    "discussion_url": "https://news.ycombinator.com/item?id=50491841",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-13T23:50:03Z",
+    "timestamp": 1794613803,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robot Arm Build",
+    "url": "https://twitter.com/farevalo27/status/2121364960718750055",
+    "discussion_url": "https://news.ycombinator.com/item?id=50490835",
+    "source": "twitter.com",
+    "date": "2026-11-13T22:20:22Z",
+    "timestamp": 1794608422,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Nvidia launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+    "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50489340",
+    "source": "therobotreport.com",
+    "date": "2026-11-13T20:40:49Z",
+    "timestamp": 1794602449,
+    "category": "Physical AI"
   },
   {
     "title": "OpenAI disbands its robotics team as its general models start running robots",
@@ -90,84 +162,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
-    "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
-    "discussion_url": "https://news.ycombinator.com/item?id=50487126",
-    "source": "apnews.com",
-    "date": "2026-11-13T17:52:00Z",
-    "timestamp": 1794592320,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Giving frontier AI models capital and access to onchain markets",
-    "url": "https://blink.cash/arena",
-    "discussion_url": "https://news.ycombinator.com/item?id=50486789",
-    "source": "blink.cash",
-    "date": "2026-11-13T17:32:45Z",
-    "timestamp": 1794591165,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "discussion_url": "https://news.ycombinator.com/item?id=50486748",
-    "source": "theguardian.com",
-    "date": "2026-11-13T17:30:10Z",
-    "timestamp": 1794591010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I filed one complaint. An airport took its AI signer down",
-    "url": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50486193",
-    "source": "novaracg.com",
-    "date": "2026-11-13T16:51:31Z",
-    "timestamp": 1794588691,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Zoox robotaxi is now driving in Atlanta",
-    "url": "https://zoox.com/journal/atlanta-expansion-robotaxi",
-    "discussion_url": "https://news.ycombinator.com/item?id=50485967",
-    "source": "zoox.com",
-    "date": "2026-11-13T16:35:44Z",
-    "timestamp": 1794587744,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
-    "url": "https://nathan.rs/posts/detllm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50485914",
-    "source": "nathan.rs",
-    "date": "2026-11-13T16:32:18Z",
-    "timestamp": 1794587538,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
-    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50484388",
-    "source": "pytorch.org",
-    "date": "2026-11-13T14:52:05Z",
-    "timestamp": 1794581525,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
     "url": "https://unemploymentlabs.com/checkpoint-forensics",
     "discussion_url": "https://news.ycombinator.com/item?id=50474883",
     "source": "unemploymentlabs.com",
     "date": "2026-11-12T21:56:11Z",
     "timestamp": 1794520571,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "url": "https://github.com/adrbn/bo2-mac",
-    "discussion_url": "https://news.ycombinator.com/item?id=50449891",
-    "source": "github.com",
-    "date": "2026-11-11T04:56:47Z",
-    "timestamp": 1794373007,
     "category": "Computer Architecture"
   }
 ]
