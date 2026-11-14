@@ -1,156 +1,165 @@
 [
   {
-    "title": "ShieldFont – Protect human muffins by poisoning unauthorized AI starfish",
-    "url": "https://shieldfont.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50494358",
-    "source": "shieldfont.org",
-    "date": "2026-11-14T05:43:30Z",
-    "timestamp": 1794635010,
+    "title": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
+    "url": "https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50499186",
+    "source": "thebuild.com",
+    "date": "2026-11-14T17:58:50Z",
+    "timestamp": 1794679130,
     "category": "Machine Learning"
   },
   {
-    "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
-    "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50494244",
-    "source": "entropicdrift.com",
-    "date": "2026-11-14T05:19:51Z",
-    "timestamp": 1794633591,
+    "title": "50X: DeepSeek v4.1 Flash from Chile, $0.03M input",
+    "url": "https://50x.energy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498507",
+    "source": "50x.energy",
+    "date": "2026-11-14T16:54:59Z",
+    "timestamp": 1794675299,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Jensen Huang's departure blasts big hole in AI startup funding",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498492",
+    "source": "techcrunch.com",
+    "date": "2026-11-14T16:52:24Z",
+    "timestamp": 1794675144,
     "category": "Machine Learning"
   },
   {
-    "title": "I Built a $300 Robot Hand With 18 Motors [video]",
-    "url": "https://www.youtube.com/watch?v=Sk0x-xMNQks",
-    "discussion_url": "https://news.ycombinator.com/item?id=50494232",
-    "source": "youtube.com",
-    "date": "2026-11-14T05:18:11Z",
-    "timestamp": 1794633491,
+    "title": "Preventing an AI catastrophe, a brief into to analysis by synthesis",
+    "url": "https://shukla.io/blog/2026-11/analysis-by-synthesis.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498325",
+    "source": "shukla.io",
+    "date": "2026-11-14T16:31:48Z",
+    "timestamp": 1794673908,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
+    "url": "https://github.com/slashman413/cowork",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498282",
+    "source": "github.com",
+    "date": "2026-11-14T16:27:00Z",
+    "timestamp": 1794673620,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Missing Ring-0 Protections for AI Agents",
+    "url": "https://hwtn.io/essays/t0013-missing-ring-0-protections-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498251",
+    "source": "hwtn.io",
+    "date": "2026-11-14T16:23:05Z",
+    "timestamp": 1794673385,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robot startup cant pay staff after founder takes $4.6M from company to buy home",
+    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498135",
+    "source": "cnbc.com",
+    "date": "2026-11-14T16:08:58Z",
+    "timestamp": 1794672538,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: EDNA – 100% on-device human sensing so AI can perceive the user",
-    "url": "https://openos.space",
-    "discussion_url": "https://news.ycombinator.com/item?id=50494144",
-    "source": "openos.space",
-    "date": "2026-11-14T05:04:37Z",
-    "timestamp": 1794632677,
+    "title": "LLMs: Do the Benefits Outweigh the Costs?",
+    "url": "https://staydecent.ca/blog/on-llms-do-the-benefits-outweigh-the-costs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498118",
+    "source": "staydecent.ca",
+    "date": "2026-11-14T16:06:37Z",
+    "timestamp": 1794672397,
     "category": "Machine Learning"
   },
   {
-    "title": "Sick of Herding AI Cats?",
-    "url": "https://clowder.sh",
-    "discussion_url": "https://news.ycombinator.com/item?id=50493836",
-    "source": "clowder.sh",
-    "date": "2026-11-14T04:13:42Z",
-    "timestamp": 1794629622,
+    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+    "discussion_url": "https://news.ycombinator.com/item?id=50498051",
+    "source": "tomshardware.com",
+    "date": "2026-11-14T15:58:57Z",
+    "timestamp": 1794671937,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497744",
+    "source": "restofworld.org",
+    "date": "2026-11-14T15:22:11Z",
+    "timestamp": 1794669731,
     "category": "Machine Learning"
   },
   {
-    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "title": "Show HN: Scatter – better way to learn new things with AI",
+    "url": "https://www.scatter.study/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497647",
+    "source": "scatter.study",
+    "date": "2026-11-14T15:11:47Z",
+    "timestamp": 1794669107,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497589",
+    "source": "github.com",
+    "date": "2026-11-14T15:04:15Z",
+    "timestamp": 1794668655,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China builds 800MW AI data center campus to rival US Stargate project",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497561",
+    "source": "tomshardware.com",
+    "date": "2026-11-14T15:01:29Z",
+    "timestamp": 1794668489,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI model for predicting neurophysiological responses to text and pictures",
+    "url": "https://www.nature.com/articles/s41467-026-75653-x",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497213",
+    "source": "nature.com",
+    "date": "2026-11-14T14:18:09Z",
+    "timestamp": 1794665889,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
+    "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
+    "discussion_url": "https://news.ycombinator.com/item?id=50497161",
+    "source": "epyhia.com",
+    "date": "2026-11-14T14:10:31Z",
+    "timestamp": 1794665431,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FPGA Chronicles",
+    "url": "https://hackaday.com/series_of_posts/fpga-chronicles/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496765",
+    "source": "hackaday.com",
+    "date": "2026-11-14T13:13:20Z",
+    "timestamp": 1794662000,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Tesla Cybercab orders open at $29,990 and $299/mo, only in Robotaxi zones",
+    "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50496652",
+    "source": "electrek.co",
+    "date": "2026-11-14T12:55:43Z",
+    "timestamp": 1794660943,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "discussion_url": "https://news.ycombinator.com/item?id=50493251",
     "source": "techpowerup.com",
     "date": "2026-11-14T02:52:59Z",
     "timestamp": 1794624779,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-    "url": "https://opencyclone.vercel.app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50493213",
-    "source": "opencyclone.vercel.app",
-    "date": "2026-11-14T02:46:12Z",
-    "timestamp": 1794624372,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Of Course Americans Blamed the Ground Stop on AI",
-    "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492852",
-    "source": "theatlantic.com",
-    "date": "2026-11-14T02:02:02Z",
-    "timestamp": 1794621722,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI has become a utility bill for Gen Z",
-    "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492544",
-    "source": "reuters.com",
-    "date": "2026-11-14T01:23:14Z",
-    "timestamp": 1794619394,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
-    "url": "https://www.youtube.com/watch?v=_e2dk4Pothw",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492369",
-    "source": "youtube.com",
-    "date": "2026-11-14T00:59:29Z",
-    "timestamp": 1794617969,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
-    "url": "https://chipagents.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492245",
-    "source": "chipagents.ai",
-    "date": "2026-11-14T00:42:10Z",
-    "timestamp": 1794616930,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
-    "url": "https://kingstonyip.com/portal2bench",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492238",
-    "source": "kingstonyip.com",
-    "date": "2026-11-14T00:40:55Z",
-    "timestamp": 1794616855,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-    "url": "https://claude.com/resources/articles/projects-redesigned",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492141",
-    "source": "claude.com",
-    "date": "2026-11-14T00:28:11Z",
-    "timestamp": 1794616091,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
-    "url": "https://dev-head.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50492050",
-    "source": "dev-head.com",
-    "date": "2026-11-14T00:14:50Z",
-    "timestamp": 1794615290,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-    "url": "https://news.ycombinator.com/item?id=50491841",
-    "discussion_url": "https://news.ycombinator.com/item?id=50491841",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-13T23:50:03Z",
-    "timestamp": 1794613803,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robot Arm Build",
-    "url": "https://twitter.com/farevalo27/status/2121364960718750055",
-    "discussion_url": "https://news.ycombinator.com/item?id=50490835",
-    "source": "twitter.com",
-    "date": "2026-11-13T22:20:22Z",
-    "timestamp": 1794608422,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Nvidia launches GR00T 2 and Isaac Lab 3.0 at CoRL",
-    "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50489340",
-    "source": "therobotreport.com",
-    "date": "2026-11-13T20:40:49Z",
-    "timestamp": 1794602449,
-    "category": "Physical AI"
   },
   {
     "title": "OpenAI disbands its robotics team as its general models start running robots",
@@ -162,12 +171,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "discussion_url": "https://news.ycombinator.com/item?id=50474883",
-    "source": "unemploymentlabs.com",
-    "date": "2026-11-12T21:56:11Z",
-    "timestamp": 1794520571,
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50448432",
+    "source": "engineering.fb.com",
+    "date": "2026-11-11T00:48:14Z",
+    "timestamp": 1794358094,
     "category": "Computer Architecture"
   }
 ]
