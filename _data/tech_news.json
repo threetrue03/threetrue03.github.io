@@ -1,39 +1,147 @@
 [
   {
-    "title": "Beau – An AI boyfriend app focused on everyday conversations",
-    "url": "https://play.google.com/store/apps/details?id=com.beau.aiboyfriend&hl=en_US",
-    "discussion_url": "https://news.ycombinator.com/item?id=50504376",
-    "source": "play.google.com",
-    "date": "2026-11-15T05:54:38Z",
-    "timestamp": 1794722078,
+    "title": "How AI will change engineering leadership in 2027",
+    "url": "https://bjorg.bjornroche.com/management/ai-in-2027/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509201",
+    "source": "bjorg.bjornroche.com",
+    "date": "2026-11-15T18:11:07Z",
+    "timestamp": 1794766267,
     "category": "Machine Learning"
   },
   {
-    "title": "Confessions of an AI Skeptic",
-    "url": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50504236",
-    "source": "daniel-azuma.com",
-    "date": "2026-11-15T05:20:55Z",
-    "timestamp": 1794720055,
+    "title": "We handed our lives to closed software. AI is about to show us the cost",
+    "url": "https://news.ycombinator.com/item?id=50509195",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509195",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-15T18:10:48Z",
+    "timestamp": 1794766248,
     "category": "Machine Learning"
   },
   {
-    "title": "Turing Complete: Learn CPU architecture with puzzles",
-    "url": "https://store.steampowered.com/app/1444480/Turing_Complete/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50504217",
-    "source": "store.steampowered.com",
-    "date": "2026-11-15T05:17:04Z",
-    "timestamp": 1794719824,
+    "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+    "url": "https://attest-framework.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509107",
+    "source": "attest-framework.github.io",
+    "date": "2026-11-15T18:03:01Z",
+    "timestamp": 1794765781,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI is likely to change Germany's job market",
+    "url": "https://www.dw.com/en/how-ai-is-likely-to-change-germanys-job-market/a-79941597",
+    "discussion_url": "https://news.ycombinator.com/item?id=50509052",
+    "source": "dw.com",
+    "date": "2026-11-15T17:57:05Z",
+    "timestamp": 1794765425,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can the AI boom make enough money to sustain itself?",
+    "url": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508910",
+    "source": "economist.com",
+    "date": "2026-11-15T17:41:06Z",
+    "timestamp": 1794764466,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508909",
+    "source": "restofworld.org",
+    "date": "2026-11-15T17:41:01Z",
+    "timestamp": 1794764461,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Victoria University lecturers steer students away from AI use in education",
+    "url": "https://www.rnz.co.nz/news/education/2618219/victoria-university-lecturers-steer-students-away-from-ai-use-in-education",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508890",
+    "source": "rnz.co.nz",
+    "date": "2026-11-15T17:39:07Z",
+    "timestamp": 1794764347,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Groma.md: Stay in control of your architecture as AI agents write code",
+    "url": "https://github.com/MrLesk/Groma.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508688",
+    "source": "github.com",
+    "date": "2026-11-15T17:18:44Z",
+    "timestamp": 1794763124,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GitSeed – Self-hosted control plane for AI coding agents",
+    "url": "https://github.com/gitseed-dev/gitseed",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508614",
+    "source": "github.com",
+    "date": "2026-11-15T17:12:48Z",
+    "timestamp": 1794762768,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Editing one row of an LLM's output layer to stop it overthinking",
+    "url": "https://think-graft.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508548",
+    "source": "think-graft.vercel.app",
+    "date": "2026-11-15T17:07:12Z",
+    "timestamp": 1794762432,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why I'm opposed to AI writing but not AI coding",
+    "url": "https://josh.earth/2026/11/14/writing-is-thinking",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508427",
+    "source": "josh.earth",
+    "date": "2026-11-15T16:53:59Z",
+    "timestamp": 1794761639,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GDC November 2026 survey shows 40% of developers using generative AI",
+    "url": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50508206",
+    "source": "gamingonlinux.com",
+    "date": "2026-11-15T16:30:50Z",
+    "timestamp": 1794760250,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU says 35% busy. Busy doing what?",
+    "url": "https://tensward.com/blog/gpu-busy-doing-what",
+    "discussion_url": "https://news.ycombinator.com/item?id=50507231",
+    "source": "tensward.com",
+    "date": "2026-11-15T14:36:28Z",
+    "timestamp": 1794753388,
     "category": "Computer Architecture"
   },
   {
-    "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
-    "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
-    "discussion_url": "https://news.ycombinator.com/item?id=50504083",
-    "source": "wsj.com",
-    "date": "2026-11-15T04:42:37Z",
-    "timestamp": 1794717757,
-    "category": "Machine Learning"
+    "title": "Show HN: A custom language that compiles and runs compute kernels on AMD GPUs",
+    "url": "https://github.com/drakestapleton/omega-mv",
+    "discussion_url": "https://news.ycombinator.com/item?id=50507157",
+    "source": "github.com",
+    "date": "2026-11-15T14:24:34Z",
+    "timestamp": 1794752674,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "RISC-V Matrix Extensions",
+    "url": "https://fprox.substack.com/p/risc-v-matrix-extensions",
+    "discussion_url": "https://news.ycombinator.com/item?id=50506962",
+    "source": "fprox.substack.com",
+    "date": "2026-11-15T13:54:52Z",
+    "timestamp": 1794750892,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Jensen Huang allegedly manufactured the GPU shortage",
+    "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50505905",
+    "source": "wccftech.com",
+    "date": "2026-11-15T10:53:50Z",
+    "timestamp": 1794740030,
+    "category": "Computer Architecture"
   },
   {
     "title": "SuperMimic: Compute is no longer the bottleneck to robotics",
@@ -43,123 +151,6 @@
     "date": "2026-11-15T03:59:45Z",
     "timestamp": 1794715185,
     "category": "Physical AI"
-  },
-  {
-    "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
-    "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503511",
-    "source": "youtube.com",
-    "date": "2026-11-15T02:49:18Z",
-    "timestamp": 1794710958,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Medicare's AI Experiment",
-    "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503509",
-    "source": "eff.org",
-    "date": "2026-11-15T02:49:09Z",
-    "timestamp": 1794710949,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
-    "url": "https://github.com/owenpatience2010-cmyk/paperpulse",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503435",
-    "source": "github.com",
-    "date": "2026-11-15T02:35:18Z",
-    "timestamp": 1794710118,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hardware-Agnostic Models in vLLM",
-    "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503374",
-    "source": "pytorch.org",
-    "date": "2026-11-15T02:25:51Z",
-    "timestamp": 1794709551,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in the Search for Extraterrestrial Life",
-    "url": "https://datarootlabs.com/blog/ai-search-extraterrestrial-life",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503078",
-    "source": "datarootlabs.com",
-    "date": "2026-11-15T01:31:26Z",
-    "timestamp": 1794706286,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
-    "url": "https://www.chosun.com/english/national-en/2026/11/15/3AYAGNRWENBAJISSMVP6HZQZ3E/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503069",
-    "source": "chosun.com",
-    "date": "2026-11-15T01:29:52Z",
-    "timestamp": 1794706192,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The First AI Music Awards",
-    "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503067",
-    "source": "variety.com",
-    "date": "2026-11-15T01:29:25Z",
-    "timestamp": 1794706165,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-    "url": "https://news.ycombinator.com/item?id=50503017",
-    "discussion_url": "https://news.ycombinator.com/item?id=50503017",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-15T01:22:43Z",
-    "timestamp": 1794705763,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Data Science and Machine Learning Projects for Your Portfolio, by Role",
-    "url": "https://datarootlabs.com/blog/data-science-projects-for-portfolio",
-    "discussion_url": "https://news.ycombinator.com/item?id=50502898",
-    "source": "datarootlabs.com",
-    "date": "2026-11-15T01:06:12Z",
-    "timestamp": 1794704772,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
-    "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50502675",
-    "source": "videocardz.com",
-    "date": "2026-11-15T00:34:55Z",
-    "timestamp": 1794702895,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-    "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-    "discussion_url": "https://news.ycombinator.com/item?id=50502453",
-    "source": "youtube.com",
-    "date": "2026-11-15T00:07:46Z",
-    "timestamp": 1794701266,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50501631",
-    "source": "techspot.com",
-    "date": "2026-11-14T22:26:30Z",
-    "timestamp": 1794695190,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-    "discussion_url": "https://news.ycombinator.com/item?id=50498051",
-    "source": "tomshardware.com",
-    "date": "2026-11-14T15:58:57Z",
-    "timestamp": 1794671937,
-    "category": "Computer Architecture"
   },
   {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -177,15 +168,6 @@
     "source": "unemploymentlabs.com",
     "date": "2026-11-12T21:56:11Z",
     "timestamp": 1794520571,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-    "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50448432",
-    "source": "engineering.fb.com",
-    "date": "2026-11-11T00:48:14Z",
-    "timestamp": 1794358094,
     "category": "Computer Architecture"
   }
 ]
