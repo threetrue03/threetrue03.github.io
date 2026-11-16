@@ -1,129 +1,156 @@
 [
   {
-    "title": "Show HN: OpenButterfly – Tracking the environmental impact of the AI ecosystem",
-    "url": "https://openbutterfly.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50514264",
-    "source": "openbutterfly.com",
-    "date": "2026-11-16T05:06:56Z",
-    "timestamp": 1794805616,
+    "title": "No matter how you ask, more Americans are negative than positive about AI",
+    "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523955",
+    "source": "ourworldindata.org",
+    "date": "2026-11-16T21:58:29Z",
+    "timestamp": 1794866309,
     "category": "Machine Learning"
   },
   {
-    "title": "Google AI Ultra Subscription Not Worth It",
-    "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50514224",
-    "source": "reddit.com",
-    "date": "2026-11-16T04:59:22Z",
-    "timestamp": 1794805162,
+    "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
+    "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523838",
+    "source": "reuters.com",
+    "date": "2026-11-16T21:51:24Z",
+    "timestamp": 1794865884,
     "category": "Machine Learning"
   },
   {
-    "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-    "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-    "discussion_url": "https://news.ycombinator.com/item?id=50513876",
-    "source": "wsj.com",
-    "date": "2026-11-16T04:03:51Z",
-    "timestamp": 1794801831,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
-    "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
-    "discussion_url": "https://news.ycombinator.com/item?id=50513087",
-    "source": "forecastingresearch.substack.com",
-    "date": "2026-11-16T01:54:34Z",
-    "timestamp": 1794794074,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
-    "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50513079",
-    "source": "buttondown.com",
-    "date": "2026-11-16T01:53:01Z",
-    "timestamp": 1794793981,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple launches research study to explore the use of AI for health",
-    "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50513026",
-    "source": "apple.com",
-    "date": "2026-11-16T01:43:47Z",
-    "timestamp": 1794793427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-    "url": "https://www.hntrends.com/2026/november.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512950",
-    "source": "hntrends.com",
-    "date": "2026-11-16T01:31:30Z",
-    "timestamp": 1794792690,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agentic AI Designs an Analog Synthesizer",
-    "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512933",
-    "source": "cpldcpu.github.io",
-    "date": "2026-11-16T01:28:10Z",
-    "timestamp": 1794792490,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Everything Made by an AI Is in the Public Domain",
-    "url": "https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512907",
-    "source": "pluralistic.net",
-    "date": "2026-11-16T01:24:15Z",
-    "timestamp": 1794792255,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "'It's like the Wild West': how AI has rocked the literary world",
-    "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512682",
-    "source": "theguardian.com",
-    "date": "2026-11-16T00:52:00Z",
-    "timestamp": 1794790320,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon MadPot: Honeypot for AI Agents",
-    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512675",
-    "source": "aws.amazon.com",
-    "date": "2026-11-16T00:50:59Z",
-    "timestamp": 1794790259,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CrowdGPT – AI Owned by Everyone",
-    "url": "https://www.crowdgpt.net/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50512383",
-    "source": "crowdgpt.net",
-    "date": "2026-11-16T00:13:30Z",
-    "timestamp": 1794788010,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Improve perception in robots by building around the optics instead",
-    "url": "https://opdo.ai/insights/how-to-design-camera-data-center-robot",
-    "discussion_url": "https://news.ycombinator.com/item?id=50511609",
-    "source": "opdo.ai",
-    "date": "2026-11-15T22:36:26Z",
-    "timestamp": 1794782186,
+    "title": "A Robot Just Built a Structure in Space All on Its Own – For the First Time",
+    "url": "https://www.sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523448",
+    "source": "sciencealert.com",
+    "date": "2026-11-16T21:19:19Z",
+    "timestamp": 1794863959,
     "category": "Physical AI"
   },
   {
-    "title": "Eric Trump-backed robot soldier startup can't pay staff; founder embezzled $4.6M",
-    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50511459",
+    "title": "Show HN: Emergency-AI – Offline knowledge base and AI chat (with no Internet)",
+    "url": "https://github.com/skanga/Emergency-AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523427",
+    "source": "github.com",
+    "date": "2026-11-16T21:17:44Z",
+    "timestamp": 1794863864,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tiny 2.1 – A Transformer for DOS",
+    "url": "https://github.com/WollyMonjac/Tiny-2.1",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523378",
+    "source": "github.com",
+    "date": "2026-11-16T21:14:46Z",
+    "timestamp": 1794863686,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+    "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523359",
+    "source": "calmatters.org",
+    "date": "2026-11-16T21:12:54Z",
+    "timestamp": 1794863574,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523346",
+    "source": "gizmodo.com",
+    "date": "2026-11-16T21:12:02Z",
+    "timestamp": 1794863522,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Goethe – turn your computer into an inference engine",
+    "url": "https://github.com/meshapplied/goethe",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523086",
+    "source": "github.com",
+    "date": "2026-11-16T20:52:34Z",
+    "timestamp": 1794862354,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+    "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523037",
+    "source": "cloudnativenow.com",
+    "date": "2026-11-16T20:48:53Z",
+    "timestamp": 1794862133,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Caltech professor no longer grades homework's because everyone uses AI",
+    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+    "discussion_url": "https://news.ycombinator.com/item?id=50523022",
+    "source": "businessinsider.com",
+    "date": "2026-11-16T20:47:53Z",
+    "timestamp": 1794862073,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Announces Collaboration with IBM and Fermi National Accelerator Lab",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521989",
+    "source": "nvidianews.nvidia.com",
+    "date": "2026-11-16T19:38:19Z",
+    "timestamp": 1794857899,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521752",
+    "source": "npr.org",
+    "date": "2026-11-16T19:20:30Z",
+    "timestamp": 1794856830,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Brazil added to the list of countries with restricted US GPU imports",
+    "url": "https://www.politico.com/news/2026/11/16/commerce-closes-chinas-backdoor-to-nvidia-chips-after-white-house-steps-in-01167199",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521727",
+    "source": "politico.com",
+    "date": "2026-11-16T19:19:12Z",
+    "timestamp": 1794856752,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+    "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521705",
+    "source": "thenextweb.com",
+    "date": "2026-11-16T19:17:09Z",
+    "timestamp": 1794856629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521684",
     "source": "cnbc.com",
-    "date": "2026-11-15T22:21:08Z",
-    "timestamp": 1794781268,
-    "category": "Physical AI"
+    "date": "2026-11-16T19:15:38Z",
+    "timestamp": 1794856538,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI bubble will likely burst and cause a recession by 2028 election",
+    "url": "https://www.cnn.com/2026/11/16/economy/ai-bubble-anthropic-ipo-recession",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521669",
+    "source": "cnn.com",
+    "date": "2026-11-16T19:14:39Z",
+    "timestamp": 1794856479,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU prices, October 2026: AI compute market report – Otium",
+    "url": "https://getotium.ai/market/2026-10",
+    "discussion_url": "https://news.ycombinator.com/item?id=50521294",
+    "source": "getotium.ai",
+    "date": "2026-11-16T18:49:21Z",
+    "timestamp": 1794854961,
+    "category": "Computer Architecture"
   },
   {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
