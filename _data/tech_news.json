@@ -1,156 +1,156 @@
 [
   {
-    "title": "No matter how you ask, more Americans are negative than positive about AI",
-    "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523955",
-    "source": "ourworldindata.org",
-    "date": "2026-11-16T21:58:29Z",
-    "timestamp": 1794866309,
+    "title": "Adopting AI inside an organization that has to pass a compliance audit",
+    "url": "https://zimmergren.net/ai-and-compliance/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50528420",
+    "source": "zimmergren.net",
+    "date": "2026-11-17T07:13:42Z",
+    "timestamp": 1794899622,
     "category": "Machine Learning"
   },
   {
-    "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
-    "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523838",
+    "title": "AI Slop Spiral",
+    "url": "https://nolanfrausto.com/posts/ai-slop-spiral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50528414",
+    "source": "nolanfrausto.com",
+    "date": "2026-11-17T07:13:21Z",
+    "timestamp": 1794899601,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Backplane – An AI Development Environment for Hardware",
+    "url": "https://backplaneworks.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50528196",
+    "source": "backplaneworks.com",
+    "date": "2026-11-17T06:41:02Z",
+    "timestamp": 1794897662,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Elderly people are buying Teslas for the 'full self-driving.' This is a problem",
+    "url": "https://www.fastcompany.com/91641371/elderly-people-are-buying-tesla-for-full-self-driving-this-is-a-problem",
+    "discussion_url": "https://news.ycombinator.com/item?id=50528073",
+    "source": "fastcompany.com",
+    "date": "2026-11-17T06:20:11Z",
+    "timestamp": 1794896411,
+    "category": "Physical AI"
+  },
+  {
+    "title": "LLMs are terrible at designing AI systems",
+    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50527962",
+    "source": "seangoedecke.com",
+    "date": "2026-11-17T06:01:09Z",
+    "timestamp": 1794895269,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is killing cheap VPS servers/manageable pricing",
+    "url": "https://news.ycombinator.com/item?id=50527395",
+    "discussion_url": "https://news.ycombinator.com/item?id=50527395",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-17T04:20:53Z",
+    "timestamp": 1794889253,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US to curb China's access to AI chips",
+    "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50527329",
     "source": "reuters.com",
-    "date": "2026-11-16T21:51:24Z",
-    "timestamp": 1794865884,
+    "date": "2026-11-17T04:11:11Z",
+    "timestamp": 1794888671,
     "category": "Machine Learning"
   },
   {
-    "title": "A Robot Just Built a Structure in Space All on Its Own – For the First Time",
-    "url": "https://www.sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523448",
-    "source": "sciencealert.com",
-    "date": "2026-11-16T21:19:19Z",
-    "timestamp": 1794863959,
+    "title": "AI Agents Can't Talk",
+    "url": "https://cacm.acm.org/blogcacm/ai-agents-cant-talk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50527237",
+    "source": "cacm.acm.org",
+    "date": "2026-11-17T03:57:11Z",
+    "timestamp": 1794887831,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+    "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526573",
+    "source": "oreilly.com",
+    "date": "2026-11-17T02:18:46Z",
+    "timestamp": 1794881926,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A free interactive course on AI agent governance",
+    "url": "https://studio.sinapsdata.com.br",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526527",
+    "source": "studio.sinapsdata.com.br",
+    "date": "2026-11-17T02:12:13Z",
+    "timestamp": 1794881533,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
+    "url": "https://robert-mcdermott.github.io/astrum/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526510",
+    "source": "robert-mcdermott.github.io",
+    "date": "2026-11-17T02:10:21Z",
+    "timestamp": 1794881421,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude's Workbench – Claude architects and reviews, local LLMs write the code",
+    "url": "https://github.com/a-schaefers/claudes-workbench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526444",
+    "source": "github.com",
+    "date": "2026-11-17T01:59:57Z",
+    "timestamp": 1794880797,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Ascent",
+    "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526341",
+    "source": "medium.com",
+    "date": "2026-11-17T01:45:59Z",
+    "timestamp": 1794879959,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "discussion_url": "https://news.ycombinator.com/item?id=50526264",
+    "source": "tomshardware.com",
+    "date": "2026-11-17T01:35:16Z",
+    "timestamp": 1794879316,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Uber Adds Zoox's Robotaxis to Its App. Everything to Know",
+    "url": "https://www.cnet.com/roadshow/automobiles/uber-adds-zoox-robotaxis-to-app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50525200",
+    "source": "cnet.com",
+    "date": "2026-11-16T23:40:05Z",
+    "timestamp": 1794872405,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: Emergency-AI – Offline knowledge base and AI chat (with no Internet)",
-    "url": "https://github.com/skanga/Emergency-AI",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523427",
-    "source": "github.com",
-    "date": "2026-11-16T21:17:44Z",
-    "timestamp": 1794863864,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tiny 2.1 – A Transformer for DOS",
-    "url": "https://github.com/WollyMonjac/Tiny-2.1",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523378",
-    "source": "github.com",
-    "date": "2026-11-16T21:14:46Z",
-    "timestamp": 1794863686,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "California is suing OpenAI over its 'rogue' AI agent hack",
-    "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523359",
-    "source": "calmatters.org",
-    "date": "2026-11-16T21:12:54Z",
-    "timestamp": 1794863574,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
-    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523346",
-    "source": "gizmodo.com",
-    "date": "2026-11-16T21:12:02Z",
-    "timestamp": 1794863522,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Goethe – turn your computer into an inference engine",
-    "url": "https://github.com/meshapplied/goethe",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523086",
-    "source": "github.com",
-    "date": "2026-11-16T20:52:34Z",
-    "timestamp": 1794862354,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
-    "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523037",
-    "source": "cloudnativenow.com",
-    "date": "2026-11-16T20:48:53Z",
-    "timestamp": 1794862133,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Caltech professor no longer grades homework's because everyone uses AI",
-    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-    "discussion_url": "https://news.ycombinator.com/item?id=50523022",
-    "source": "businessinsider.com",
-    "date": "2026-11-16T20:47:53Z",
-    "timestamp": 1794862073,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Announces Collaboration with IBM and Fermi National Accelerator Lab",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521989",
-    "source": "nvidianews.nvidia.com",
-    "date": "2026-11-16T19:38:19Z",
-    "timestamp": 1794857899,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-    "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521752",
-    "source": "npr.org",
-    "date": "2026-11-16T19:20:30Z",
-    "timestamp": 1794856830,
+    "title": "The Robotaxi Blame Game: Who Goes to Jail When the Autonomous Car Crashes?",
+    "url": "https://2tinteractive.com/watch/episodes/5641/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50525011",
+    "source": "2tinteractive.com",
+    "date": "2026-11-16T23:21:53Z",
+    "timestamp": 1794871313,
     "category": "Physical AI"
   },
   {
-    "title": "Brazil added to the list of countries with restricted US GPU imports",
-    "url": "https://www.politico.com/news/2026/11/16/commerce-closes-chinas-backdoor-to-nvidia-chips-after-white-house-steps-in-01167199",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521727",
-    "source": "politico.com",
-    "date": "2026-11-16T19:19:12Z",
-    "timestamp": 1794856752,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
-    "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521705",
-    "source": "thenextweb.com",
-    "date": "2026-11-16T19:17:09Z",
-    "timestamp": 1794856629,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-    "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521684",
-    "source": "cnbc.com",
-    "date": "2026-11-16T19:15:38Z",
-    "timestamp": 1794856538,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI bubble will likely burst and cause a recession by 2028 election",
-    "url": "https://www.cnn.com/2026/11/16/economy/ai-bubble-anthropic-ipo-recession",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521669",
-    "source": "cnn.com",
-    "date": "2026-11-16T19:14:39Z",
-    "timestamp": 1794856479,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPU prices, October 2026: AI compute market report – Otium",
-    "url": "https://getotium.ai/market/2026-10",
-    "discussion_url": "https://news.ycombinator.com/item?id=50521294",
-    "source": "getotium.ai",
-    "date": "2026-11-16T18:49:21Z",
-    "timestamp": 1794854961,
-    "category": "Computer Architecture"
+    "title": "US will say \"no\" to global ban on killer robots",
+    "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+    "discussion_url": "https://news.ycombinator.com/item?id=50524728",
+    "source": "newsweek.com",
+    "date": "2026-11-16T22:57:49Z",
+    "timestamp": 1794869869,
+    "category": "Physical AI"
   },
   {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
