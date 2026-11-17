@@ -1,155 +1,182 @@
 [
   {
-    "title": "Adopting AI inside an organization that has to pass a compliance audit",
-    "url": "https://zimmergren.net/ai-and-compliance/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50528420",
-    "source": "zimmergren.net",
-    "date": "2026-11-17T07:13:42Z",
-    "timestamp": 1794899622,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Slop Spiral",
-    "url": "https://nolanfrausto.com/posts/ai-slop-spiral/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50528414",
-    "source": "nolanfrausto.com",
-    "date": "2026-11-17T07:13:21Z",
-    "timestamp": 1794899601,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Backplane – An AI Development Environment for Hardware",
-    "url": "https://backplaneworks.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50528196",
-    "source": "backplaneworks.com",
-    "date": "2026-11-17T06:41:02Z",
-    "timestamp": 1794897662,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Elderly people are buying Teslas for the 'full self-driving.' This is a problem",
-    "url": "https://www.fastcompany.com/91641371/elderly-people-are-buying-tesla-for-full-self-driving-this-is-a-problem",
-    "discussion_url": "https://news.ycombinator.com/item?id=50528073",
-    "source": "fastcompany.com",
-    "date": "2026-11-17T06:20:11Z",
-    "timestamp": 1794896411,
-    "category": "Physical AI"
-  },
-  {
-    "title": "LLMs are terrible at designing AI systems",
-    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50527962",
-    "source": "seangoedecke.com",
-    "date": "2026-11-17T06:01:09Z",
-    "timestamp": 1794895269,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is killing cheap VPS servers/manageable pricing",
-    "url": "https://news.ycombinator.com/item?id=50527395",
-    "discussion_url": "https://news.ycombinator.com/item?id=50527395",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-17T04:20:53Z",
-    "timestamp": 1794889253,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US to curb China's access to AI chips",
-    "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50527329",
-    "source": "reuters.com",
-    "date": "2026-11-17T04:11:11Z",
-    "timestamp": 1794888671,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Can't Talk",
-    "url": "https://cacm.acm.org/blogcacm/ai-agents-cant-talk/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50527237",
-    "source": "cacm.acm.org",
-    "date": "2026-11-17T03:57:11Z",
-    "timestamp": 1794887831,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-    "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526573",
-    "source": "oreilly.com",
-    "date": "2026-11-17T02:18:46Z",
-    "timestamp": 1794881926,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: A free interactive course on AI agent governance",
-    "url": "https://studio.sinapsdata.com.br",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526527",
-    "source": "studio.sinapsdata.com.br",
-    "date": "2026-11-17T02:12:13Z",
-    "timestamp": 1794881533,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-    "url": "https://robert-mcdermott.github.io/astrum/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526510",
-    "source": "robert-mcdermott.github.io",
-    "date": "2026-11-17T02:10:21Z",
-    "timestamp": 1794881421,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claude's Workbench – Claude architects and reviews, local LLMs write the code",
-    "url": "https://github.com/a-schaefers/claudes-workbench",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526444",
-    "source": "github.com",
-    "date": "2026-11-17T01:59:57Z",
-    "timestamp": 1794880797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Ascent",
-    "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526341",
-    "source": "medium.com",
-    "date": "2026-11-17T01:45:59Z",
-    "timestamp": 1794879959,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-    "discussion_url": "https://news.ycombinator.com/item?id=50526264",
-    "source": "tomshardware.com",
-    "date": "2026-11-17T01:35:16Z",
-    "timestamp": 1794879316,
+    "title": "Decision model for all inputs \"videos, voices, txt \"",
+    "url": "https://www.rightnowai.co/rightnow",
+    "discussion_url": "https://news.ycombinator.com/item?id=50538038",
+    "source": "rightnowai.co",
+    "date": "2026-11-17T20:54:16Z",
+    "timestamp": 1794948856,
     "category": "Computer Architecture"
   },
   {
-    "title": "Uber Adds Zoox's Robotaxis to Its App. Everything to Know",
-    "url": "https://www.cnet.com/roadshow/automobiles/uber-adds-zoox-robotaxis-to-app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50525200",
-    "source": "cnet.com",
-    "date": "2026-11-16T23:40:05Z",
-    "timestamp": 1794872405,
+    "title": "A Man and His Muse AI Agent Sue Meta",
+    "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50537747",
+    "source": "404media.co",
+    "date": "2026-11-17T20:31:00Z",
+    "timestamp": 1794947460,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Deploying an Open Weights LLM as an API in Kubernetes",
+    "url": "https://www.pablols.com/posts/057_deploy_open_weights_llm_api/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50537210",
+    "source": "pablols.com",
+    "date": "2026-11-17T19:56:04Z",
+    "timestamp": 1794945364,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50537087",
+    "source": "bleepingcomputer.com",
+    "date": "2026-11-17T19:44:17Z",
+    "timestamp": 1794944657,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Spaceship IDE – Realtime Steering with Cerebras Ultra-Low Latency LLM",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536955",
+    "source": "github.com",
+    "date": "2026-11-17T19:35:33Z",
+    "timestamp": 1794944133,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Free AI Agent Lab – Create two agents and make them debate",
+    "url": "https://studio.sinapsdata.com.br",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536726",
+    "source": "studio.sinapsdata.com.br",
+    "date": "2026-11-17T19:19:30Z",
+    "timestamp": 1794943170,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft announces \"next chapter\" of Office with a focus on agentic AI systems",
+    "url": "https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536363",
+    "source": "neowin.net",
+    "date": "2026-11-17T18:54:25Z",
+    "timestamp": 1794941665,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Poll: Over 80% of respondents decided LLMs are fascist – Plenty use them anyway",
+    "url": "https://mastodon.ie/@pixmo/117535284723432379",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536353",
+    "source": "mastodon.ie",
+    "date": "2026-11-17T18:53:36Z",
+    "timestamp": 1794941616,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
+    "url": "https://news.ycombinator.com/item?id=50536334",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536334",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-17T18:52:48Z",
+    "timestamp": 1794941568,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alex Imas and I podcast on the economics of AI",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536328",
+    "source": "marginalrevolution.com",
+    "date": "2026-11-17T18:52:13Z",
+    "timestamp": 1794941533,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What End-to-End AI Means for ADAS",
+    "url": "https://www.aptiv.com/en/insights/article/what-end-to-end-really-means",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536311",
+    "source": "aptiv.com",
+    "date": "2026-11-17T18:51:20Z",
+    "timestamp": 1794941480,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "MAI Realtime 1: Leading voice AI at $0.01 per audio minute",
+    "url": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536186",
+    "source": "microsoft.ai",
+    "date": "2026-11-17T18:44:17Z",
+    "timestamp": 1794941057,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft increases its competitiveness against OpenAI and other AI companies",
+    "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536118",
+    "source": "axios.com",
+    "date": "2026-11-17T18:39:47Z",
+    "timestamp": 1794940787,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+    "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50536031",
+    "source": "puri.sm",
+    "date": "2026-11-17T18:34:10Z",
+    "timestamp": 1794940450,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "GPT 6.2 Astra Priced $8/$40 per 1M Input/Output Token",
+    "url": "https://openrouter.ai/openai/gpt-6.2-astra",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535688",
+    "source": "openrouter.ai",
+    "date": "2026-11-17T18:13:31Z",
+    "timestamp": 1794939211,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "I had an LLM edit a robot policy's weights directly, no fine-tuning",
+    "url": "https://www.abdulrahimmirani.com/research/vla-weight-editing",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535609",
+    "source": "abdulrahimmirani.com",
+    "date": "2026-11-17T18:08:47Z",
+    "timestamp": 1794938927,
     "category": "Physical AI"
   },
   {
-    "title": "The Robotaxi Blame Game: Who Goes to Jail When the Autonomous Car Crashes?",
-    "url": "https://2tinteractive.com/watch/episodes/5641/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50525011",
-    "source": "2tinteractive.com",
-    "date": "2026-11-16T23:21:53Z",
-    "timestamp": 1794871313,
-    "category": "Physical AI"
+    "title": "HTML-in-Canvas in Chrome 157: Interactive DOM Inside 2D, WebGL, and WebGPU",
+    "url": "https://developer.chrome.com/blog/html-in-canvas",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535317",
+    "source": "developer.chrome.com",
+    "date": "2026-11-17T17:52:09Z",
+    "timestamp": 1794937929,
+    "category": "Computer Architecture"
   },
   {
-    "title": "US will say \"no\" to global ban on killer robots",
-    "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
-    "discussion_url": "https://news.ycombinator.com/item?id=50524728",
-    "source": "newsweek.com",
-    "date": "2026-11-16T22:57:49Z",
-    "timestamp": 1794869869,
+    "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+    "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535228",
+    "source": "8bitarchitect.net",
+    "date": "2026-11-17T17:46:37Z",
+    "timestamp": 1794937597,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Introduction to GPU Inference, a short course with Interactive diagrams",
+    "url": "https://athrael.net/courses/gpu-inference/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50534544",
+    "source": "athrael.net",
+    "date": "2026-11-17T17:08:08Z",
+    "timestamp": 1794935288,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Solarian – Open-source Python framework for AI robots",
+    "url": "https://solarian.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=50534542",
+    "source": "solarian.dev",
+    "date": "2026-11-17T17:08:00Z",
+    "timestamp": 1794935280,
     "category": "Physical AI"
   },
   {
