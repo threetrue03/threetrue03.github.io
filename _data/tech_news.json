@@ -1,191 +1,182 @@
 [
   {
-    "title": "South Korea Offers $75,000 Bounties to Catch AI Exam Cheats",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-proposes-75-000-bounties-to-catch-ai-exam-cheats",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542854",
-    "source": "bloomberg.com",
-    "date": "2026-11-18T07:09:10Z",
-    "timestamp": 1794985750,
+    "title": "Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50551680",
+    "source": "openai.com",
+    "date": "2026-11-18T20:27:10Z",
+    "timestamp": 1795033630,
     "category": "Machine Learning"
   },
   {
-    "title": "AI is killing All About Berlin",
-    "url": "https://nicolasbouliane.com/blog/death-by-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542705",
-    "source": "nicolasbouliane.com",
-    "date": "2026-11-18T06:47:26Z",
-    "timestamp": 1794984446,
+    "title": "Bugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood",
+    "url": "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50551429",
+    "source": "techpolicy.press",
+    "date": "2026-11-18T20:07:23Z",
+    "timestamp": 1795032443,
     "category": "Machine Learning"
   },
   {
-    "title": "AI asked 'better questions' than KPMG accountants in pilot audit",
-    "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542658",
-    "source": "ft.com",
-    "date": "2026-11-18T06:40:55Z",
-    "timestamp": 1794984055,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Murmur: Efficient Long-Context ASR Inference with Hierarchical Chunking",
-    "url": "https://syfi.cs.washington.edu/blog/2026-11-13-murmur/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542657",
-    "source": "syfi.cs.washington.edu",
-    "date": "2026-11-18T06:40:34Z",
-    "timestamp": 1794984034,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
-    "url": "https://news.ycombinator.com/item?id=50542654",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542654",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-18T06:40:16Z",
-    "timestamp": 1794984016,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
-    "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542343",
-    "source": "youtube.com",
-    "date": "2026-11-18T05:49:48Z",
-    "timestamp": 1794980988,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I had AI read my field",
-    "url": "https://science.caseyhandmer.com/physics/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542217",
-    "source": "science.caseyhandmer.com",
-    "date": "2026-11-18T05:26:41Z",
-    "timestamp": 1794979601,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
-    "url": "https://zenodo.org/records/23778866",
-    "discussion_url": "https://news.ycombinator.com/item?id=50542112",
-    "source": "zenodo.org",
-    "date": "2026-11-18T05:06:36Z",
-    "timestamp": 1794978396,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How \"Independent\" AI Safety Groups Are Pumping Anthropic IPO – Internet of Bugs",
-    "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541738",
-    "source": "youtube.com",
-    "date": "2026-11-18T04:04:55Z",
-    "timestamp": 1794974695,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Provisioning Networks for AI Supercomputers: A Trace-Driven Study of Performance",
-    "url": "https://arxiv.org/abs/2610.41700",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541732",
+    "title": "Gateway-Free Kafka Streaming from FPGA-Based Detectors on Zynq-7000",
+    "url": "https://arxiv.org/abs/2611.22674",
+    "discussion_url": "https://news.ycombinator.com/item?id=50551360",
     "source": "arxiv.org",
-    "date": "2026-11-18T04:03:24Z",
-    "timestamp": 1794974604,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Project badges to show LLM preferences",
-    "url": "https://agentsp.lease/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541729",
-    "source": "agentsp.lease",
-    "date": "2026-11-18T04:02:55Z",
-    "timestamp": 1794974575,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Engineering Vitals in the Age of AI",
-    "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541542",
-    "source": "octopus.com",
-    "date": "2026-11-18T03:36:12Z",
-    "timestamp": 1794972972,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HTML-in-Canvas: Draw live DOM subtrees directly into 2D, WebGL, or WebGPU canvas",
-    "url": "https://developer.chrome.com/docs/web-platform/html-in-canvas",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541484",
-    "source": "developer.chrome.com",
-    "date": "2026-11-18T03:26:40Z",
-    "timestamp": 1794972400,
+    "date": "2026-11-18T20:01:52Z",
+    "timestamp": 1795032112,
     "category": "Computer Architecture"
   },
   {
-    "title": "California bans Waymo self-driving cars from freeways",
-    "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
-    "discussion_url": "https://news.ycombinator.com/item?id=50541172",
-    "source": "theguardian.com",
-    "date": "2026-11-18T02:40:06Z",
-    "timestamp": 1794969606,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Waymo pauses US freeway operations of its self-driving cars after California ban",
-    "url": "https://www.cnn.com/2026/11/17/us/california-waymo-ban-freeways",
-    "discussion_url": "https://news.ycombinator.com/item?id=50540167",
-    "source": "cnn.com",
-    "date": "2026-11-18T00:15:48Z",
-    "timestamp": 1794960948,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Build-a-Pal – Offline robot kids teach by voice and gesture",
-    "url": "https://www.indiegogo.com/en/projects/ghassen/build-a-pal",
-    "discussion_url": "https://news.ycombinator.com/item?id=50540106",
-    "source": "indiegogo.com",
-    "date": "2026-11-18T00:08:48Z",
-    "timestamp": 1794960528,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The Accelerator Gap in Cancer Therapy",
-    "url": "https://cerncourier.com/the-accelerator-gap-in-cancer-therapy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50539377",
-    "source": "cerncourier.com",
-    "date": "2026-11-17T22:49:23Z",
-    "timestamp": 1794955763,
+    "title": "TCBP-JOBS: GPU-Accelerated Quantum Error Correction",
+    "url": "https://arxiv.org/abs/2611.21321",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550982",
+    "source": "arxiv.org",
+    "date": "2026-11-18T19:35:03Z",
+    "timestamp": 1795030503,
     "category": "Computer Architecture"
   },
   {
-    "title": "Elderly people are buying Teslas for the 'full self-driving.' This is a problem",
-    "url": "https://www.fastcompany.com/91641371/elderly-people-are-buying-tesla-for-full-self-driving-this-is-a-problem",
-    "discussion_url": "https://news.ycombinator.com/item?id=50539340",
-    "source": "fastcompany.com",
-    "date": "2026-11-17T22:45:03Z",
-    "timestamp": 1794955503,
-    "category": "Physical AI"
+    "title": "Can LLMs Execute Algorithms?",
+    "url": "https://vkcr.dev/blog/02-gcd/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550953",
+    "source": "vkcr.dev",
+    "date": "2026-11-18T19:32:43Z",
+    "timestamp": 1795030363,
+    "category": "Machine Learning"
   },
   {
-    "title": "California bans Waymo autonomous vehicles from state freeways",
-    "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
-    "discussion_url": "https://news.ycombinator.com/item?id=50538841",
-    "source": "apnews.com",
-    "date": "2026-11-17T22:00:41Z",
-    "timestamp": 1794952841,
-    "category": "Physical AI"
+    "title": "WeightBench: Evaluating LLMs as weight-space programmers",
+    "url": "https://github.com/Aayush-Marasini/WeightBench",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550900",
+    "source": "github.com",
+    "date": "2026-11-18T19:29:42Z",
+    "timestamp": 1795030182,
+    "category": "Machine Learning"
   },
   {
-    "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-    "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50536031",
-    "source": "puri.sm",
-    "date": "2026-11-17T18:34:10Z",
-    "timestamp": 1794940450,
+    "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
+    "url": "https://intrusive.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550896",
+    "source": "intrusive.ai",
+    "date": "2026-11-18T19:29:25Z",
+    "timestamp": 1795030165,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+    "url": "https://www.kradle.ai?1=",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550700",
+    "source": "kradle.ai",
+    "date": "2026-11-18T19:14:28Z",
+    "timestamp": 1795029268,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
+    "url": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550691",
+    "source": "eaton-works.com",
+    "date": "2026-11-18T19:13:47Z",
+    "timestamp": 1795029227,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LeBron James sues makers of AI sports-betting app, saying they used his likeness",
+    "url": "https://abcnews.com/Technology/wireStory/lebron-james-sues-makers-ai-sports-betting-app-138229791",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550506",
+    "source": "abcnews.com",
+    "date": "2026-11-18T18:57:08Z",
+    "timestamp": 1795028228,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+    "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550461",
+    "source": "tin.computer",
+    "date": "2026-11-18T18:53:17Z",
+    "timestamp": 1795027997,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550412",
+    "source": "arstechnica.com",
+    "date": "2026-11-18T18:49:41Z",
+    "timestamp": 1795027781,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Our new book on AI agents is out, and it hit #1",
+    "url": "https://newsletter.languagemodels.co/p/our-new-book-on-ai-agents-is-out",
+    "discussion_url": "https://news.ycombinator.com/item?id=50550005",
+    "source": "newsletter.languagemodels.co",
+    "date": "2026-11-18T18:22:22Z",
+    "timestamp": 1795026142,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI chatbots and agents, ranked for your country (sovereignty first)",
+    "url": "https://botshub.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50549917",
+    "source": "botshub.com",
+    "date": "2026-11-18T18:16:10Z",
+    "timestamp": 1795025770,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50549493",
+    "source": "openai.com",
+    "date": "2026-11-18T17:45:47Z",
+    "timestamp": 1795023947,
     "category": "Computer Architecture"
   },
   {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "discussion_url": "https://news.ycombinator.com/item?id=50474883",
-    "source": "unemploymentlabs.com",
-    "date": "2026-11-12T21:56:11Z",
-    "timestamp": 1794520571,
+    "title": "We taught robots to carve marble sculptures",
+    "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50548808",
+    "source": "eleanorwiesler.com",
+    "date": "2026-11-18T17:03:53Z",
+    "timestamp": 1795021433,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Dissecting the GPU Load/Store Unit and Exposing Its Security Risks",
+    "url": "https://arxiv.org/abs/2611.23022",
+    "discussion_url": "https://news.ycombinator.com/item?id=50548119",
+    "source": "arxiv.org",
+    "date": "2026-11-18T16:15:48Z",
+    "timestamp": 1795018548,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
+    "url": "https://huggingface.co/n4ze3m/tiny-voca",
+    "discussion_url": "https://news.ycombinator.com/item?id=50547122",
+    "source": "huggingface.co",
+    "date": "2026-11-18T15:01:14Z",
+    "timestamp": 1795014074,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The x86 CPU: From 4004 to 486",
+    "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "discussion_url": "https://news.ycombinator.com/item?id=50546967",
+    "source": "pikuma.com",
+    "date": "2026-11-18T14:47:53Z",
+    "timestamp": 1795013273,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Dutch resist 'unacceptable' US bid to tighten semiconductor export controls",
+    "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50546253",
+    "source": "politico.eu",
+    "date": "2026-11-18T13:46:35Z",
+    "timestamp": 1795009595,
     "category": "Computer Architecture"
   }
 ]
