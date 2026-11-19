@@ -1,146 +1,146 @@
 [
   {
-    "title": "Will Wright's next simulation will use AI to mine content from your memories",
-    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50556339",
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50565836",
     "source": "arstechnica.com",
-    "date": "2026-11-19T05:17:36Z",
-    "timestamp": 1795065456,
+    "date": "2026-11-19T20:24:09Z",
+    "timestamp": 1795119849,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic IPO raises record $81.3B on strong AI demand",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-    "discussion_url": "https://news.ycombinator.com/item?id=50556197",
-    "source": "npr.org",
-    "date": "2026-11-19T04:52:30Z",
-    "timestamp": 1795063950,
+    "title": "Meta's AI agent Muse is mixing up conversations, could be exposing private data",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50565819",
+    "source": "techcrunch.com",
+    "date": "2026-11-19T20:22:58Z",
+    "timestamp": 1795119778,
     "category": "Machine Learning"
   },
   {
-    "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
-    "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
-    "discussion_url": "https://news.ycombinator.com/item?id=50556168",
-    "source": "newsletter.pragmaticengineer.com",
-    "date": "2026-11-19T04:44:22Z",
-    "timestamp": 1795063462,
+    "title": "AI Memorized the Internet. That's Not Intelligence. – Yann LeCun [video]",
+    "url": "https://www.youtube.com/watch?v=HjKRaty1dU4",
+    "discussion_url": "https://news.ycombinator.com/item?id=50565207",
+    "source": "youtube.com",
+    "date": "2026-11-19T19:42:32Z",
+    "timestamp": 1795117352,
     "category": "Machine Learning"
   },
   {
-    "title": "Madras School System and AI Learning Share Similarity",
-    "url": "https://news.ycombinator.com/item?id=50556148",
-    "discussion_url": "https://news.ycombinator.com/item?id=50556148",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-19T04:39:05Z",
-    "timestamp": 1795063145,
+    "title": "I benchmarked 22 local LLMs looking for the Qwen 3.8 35B we didn't get",
+    "url": "https://sevangelatos.github.io/spiruxbench-results/blog/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50565176",
+    "source": "sevangelatos.github.io",
+    "date": "2026-11-19T19:40:19Z",
+    "timestamp": 1795117219,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: What positive impact has AI had in the past 5 years?",
-    "url": "https://news.ycombinator.com/item?id=50556120",
-    "discussion_url": "https://news.ycombinator.com/item?id=50556120",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-19T04:33:47Z",
-    "timestamp": 1795062827,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
-    "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50555960",
-    "source": "reuters.com",
-    "date": "2026-11-19T04:06:49Z",
-    "timestamp": 1795061209,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
-    "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
-    "discussion_url": "https://news.ycombinator.com/item?id=50555633",
-    "source": "vllm.ai",
-    "date": "2026-11-19T03:19:35Z",
-    "timestamp": 1795058375,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
-    "url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50555337",
-    "source": "yahoo.com",
-    "date": "2026-11-19T02:32:01Z",
-    "timestamp": 1795055521,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
-    "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-    "discussion_url": "https://news.ycombinator.com/item?id=50555181",
-    "source": "theguardian.com",
-    "date": "2026-11-19T02:06:29Z",
-    "timestamp": 1795053989,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI will not make you rich (2025)",
-    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50555093",
-    "source": "colossus.com",
-    "date": "2026-11-19T01:51:28Z",
-    "timestamp": 1795053088,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-    "url": "https://arxiv.org/abs/2607.29378",
-    "discussion_url": "https://news.ycombinator.com/item?id=50554908",
-    "source": "arxiv.org",
-    "date": "2026-11-19T01:27:02Z",
-    "timestamp": 1795051622,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in the Courtroom",
-    "url": "https://www.theexpertrecord.com/ai-in-court/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50554858",
-    "source": "theexpertrecord.com",
-    "date": "2026-11-19T01:22:24Z",
-    "timestamp": 1795051344,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robotic Wood Mill, useful robots on the cheap",
-    "url": "https://last10pct.substack.com/p/making-a-robotic-wood-mill-completion",
-    "discussion_url": "https://news.ycombinator.com/item?id=50554542",
-    "source": "last10pct.substack.com",
-    "date": "2026-11-19T00:47:33Z",
-    "timestamp": 1795049253,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Ask HN: Cheapest CPU Vms",
-    "url": "https://news.ycombinator.com/item?id=50554381",
-    "discussion_url": "https://news.ycombinator.com/item?id=50554381",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-19T00:30:18Z",
-    "timestamp": 1795048218,
+    "title": "Show HN: IT Thinks – Build a GPU from a Single NAND Gate",
+    "url": "https://store.steampowered.com/app/5196330/IT_THINKS_Build_Your_Own_GPU/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50565099",
+    "source": "store.steampowered.com",
+    "date": "2026-11-19T19:35:03Z",
+    "timestamp": 1795116903,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
-    "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
-    "discussion_url": "https://news.ycombinator.com/item?id=50553913",
-    "source": "github.com",
-    "date": "2026-11-18T23:38:40Z",
-    "timestamp": 1795045120,
-    "category": "Physical AI"
+    "title": "With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper",
+    "url": "https://ploy.ai/blog/ploy-ai-gateway",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564625",
+    "source": "ploy.ai",
+    "date": "2026-11-19T19:03:21Z",
+    "timestamp": 1795115001,
+    "category": "Machine Learning"
   },
   {
-    "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
-    "url": "https://news.ycombinator.com/item?id=50553802",
-    "discussion_url": "https://news.ycombinator.com/item?id=50553802",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-18T23:26:30Z",
-    "timestamp": 1795044390,
+    "title": "Show HN: Relic – An AI that only answers from what you've saved",
+    "url": "https://relic-app.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564471",
+    "source": "relic-app.com",
+    "date": "2026-11-19T18:53:31Z",
+    "timestamp": 1795114411,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Frontier models need only one text to unmask its human or AI author",
+    "url": "https://twitter.com/atreydesai/status/2123473074230292737",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564427",
+    "source": "twitter.com",
+    "date": "2026-11-19T18:51:09Z",
+    "timestamp": 1795114269,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+    "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564282",
+    "source": "techpolicy.press",
+    "date": "2026-11-19T18:42:13Z",
+    "timestamp": 1795113733,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Thomas Nagel on AI Consciousness",
+    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564120",
+    "source": "wired.com",
+    "date": "2026-11-19T18:33:03Z",
+    "timestamp": 1795113183,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RDMA over USB4 on Windows: run larger local AI models across PCs",
+    "url": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+    "discussion_url": "https://news.ycombinator.com/item?id=50564019",
+    "source": "techcommunity.microsoft.com",
+    "date": "2026-11-19T18:27:18Z",
+    "timestamp": 1795112838,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hacks, AI or just overdue updates – why have there been so many outages?",
+    "url": "https://www.bbc.com/news/articles/c6z0kly2lll7o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50563577",
+    "source": "bbc.com",
+    "date": "2026-11-19T18:01:46Z",
+    "timestamp": 1795111306,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is a Net Negative",
+    "url": "https://www.jitbit.com/alexblog/ai-is-net-negative/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50563575",
+    "source": "jitbit.com",
+    "date": "2026-11-19T18:01:37Z",
+    "timestamp": 1795111297,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reviving the Nokia N810 with Modern Linux and GPU Acceleration",
+    "url": "https://gordol.github.io/n810-revival/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50562423",
+    "source": "gordol.github.io",
+    "date": "2026-11-19T16:40:40Z",
+    "timestamp": 1795106440,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Frostbite: A new CPU architecture designed, and verified by AI (4x less power)",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "discussion_url": "https://news.ycombinator.com/item?id=50562422",
+    "source": "architectlabs.com",
+    "date": "2026-11-19T16:40:40Z",
+    "timestamp": 1795106440,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Watch weight-space programming in action with WebGPU",
+    "url": "https://tabbyml.github.io/weight-space-playground/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50561436",
+    "source": "tabbyml.github.io",
+    "date": "2026-11-19T15:32:47Z",
+    "timestamp": 1795102367,
     "category": "Computer Architecture"
   },
   {
@@ -160,6 +160,15 @@
     "date": "2026-11-18T17:45:47Z",
     "timestamp": 1795023947,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Teaching robots to carve marble sculptures",
+    "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50548808",
+    "source": "eleanorwiesler.com",
+    "date": "2026-11-18T17:03:53Z",
+    "timestamp": 1795021433,
+    "category": "Physical AI"
   },
   {
     "title": "The x86 CPU: From 4004 to 486",
