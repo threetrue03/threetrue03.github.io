@@ -1,129 +1,156 @@
 [
   {
-    "title": "Managing frontier AI risk: From training to deployment",
-    "url": "https://openai.com/index/managing-frontier-ai-risk/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50551680",
-    "source": "openai.com",
-    "date": "2026-11-18T20:27:10Z",
-    "timestamp": 1795033630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood",
-    "url": "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50551429",
-    "source": "techpolicy.press",
-    "date": "2026-11-18T20:07:23Z",
-    "timestamp": 1795032443,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gateway-Free Kafka Streaming from FPGA-Based Detectors on Zynq-7000",
-    "url": "https://arxiv.org/abs/2611.22674",
-    "discussion_url": "https://news.ycombinator.com/item?id=50551360",
-    "source": "arxiv.org",
-    "date": "2026-11-18T20:01:52Z",
-    "timestamp": 1795032112,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "TCBP-JOBS: GPU-Accelerated Quantum Error Correction",
-    "url": "https://arxiv.org/abs/2611.21321",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550982",
-    "source": "arxiv.org",
-    "date": "2026-11-18T19:35:03Z",
-    "timestamp": 1795030503,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Can LLMs Execute Algorithms?",
-    "url": "https://vkcr.dev/blog/02-gcd/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550953",
-    "source": "vkcr.dev",
-    "date": "2026-11-18T19:32:43Z",
-    "timestamp": 1795030363,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "WeightBench: Evaluating LLMs as weight-space programmers",
-    "url": "https://github.com/Aayush-Marasini/WeightBench",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550900",
-    "source": "github.com",
-    "date": "2026-11-18T19:29:42Z",
-    "timestamp": 1795030182,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
-    "url": "https://intrusive.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550896",
-    "source": "intrusive.ai",
-    "date": "2026-11-18T19:29:25Z",
-    "timestamp": 1795030165,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-    "url": "https://www.kradle.ai?1=",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550700",
-    "source": "kradle.ai",
-    "date": "2026-11-18T19:14:28Z",
-    "timestamp": 1795029268,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
-    "url": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550691",
-    "source": "eaton-works.com",
-    "date": "2026-11-18T19:13:47Z",
-    "timestamp": 1795029227,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LeBron James sues makers of AI sports-betting app, saying they used his likeness",
-    "url": "https://abcnews.com/Technology/wireStory/lebron-james-sues-makers-ai-sports-betting-app-138229791",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550506",
-    "source": "abcnews.com",
-    "date": "2026-11-18T18:57:08Z",
-    "timestamp": 1795028228,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-    "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550461",
-    "source": "tin.computer",
-    "date": "2026-11-18T18:53:17Z",
-    "timestamp": 1795027997,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Will Wright's next simulation will use AI to mine content from your memories",
     "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550412",
+    "discussion_url": "https://news.ycombinator.com/item?id=50556339",
     "source": "arstechnica.com",
-    "date": "2026-11-18T18:49:41Z",
-    "timestamp": 1795027781,
+    "date": "2026-11-19T05:17:36Z",
+    "timestamp": 1795065456,
     "category": "Machine Learning"
   },
   {
-    "title": "Our new book on AI agents is out, and it hit #1",
-    "url": "https://newsletter.languagemodels.co/p/our-new-book-on-ai-agents-is-out",
-    "discussion_url": "https://news.ycombinator.com/item?id=50550005",
-    "source": "newsletter.languagemodels.co",
-    "date": "2026-11-18T18:22:22Z",
-    "timestamp": 1795026142,
+    "title": "Anthropic IPO raises record $81.3B on strong AI demand",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+    "discussion_url": "https://news.ycombinator.com/item?id=50556197",
+    "source": "npr.org",
+    "date": "2026-11-19T04:52:30Z",
+    "timestamp": 1795063950,
     "category": "Machine Learning"
   },
   {
-    "title": "AI chatbots and agents, ranked for your country (sovereignty first)",
-    "url": "https://botshub.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=50549917",
-    "source": "botshub.com",
-    "date": "2026-11-18T18:16:10Z",
-    "timestamp": 1795025770,
+    "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+    "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+    "discussion_url": "https://news.ycombinator.com/item?id=50556168",
+    "source": "newsletter.pragmaticengineer.com",
+    "date": "2026-11-19T04:44:22Z",
+    "timestamp": 1795063462,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Madras School System and AI Learning Share Similarity",
+    "url": "https://news.ycombinator.com/item?id=50556148",
+    "discussion_url": "https://news.ycombinator.com/item?id=50556148",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-19T04:39:05Z",
+    "timestamp": 1795063145,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What positive impact has AI had in the past 5 years?",
+    "url": "https://news.ycombinator.com/item?id=50556120",
+    "discussion_url": "https://news.ycombinator.com/item?id=50556120",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-19T04:33:47Z",
+    "timestamp": 1795062827,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+    "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50555960",
+    "source": "reuters.com",
+    "date": "2026-11-19T04:06:49Z",
+    "timestamp": 1795061209,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
+    "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+    "discussion_url": "https://news.ycombinator.com/item?id=50555633",
+    "source": "vllm.ai",
+    "date": "2026-11-19T03:19:35Z",
+    "timestamp": 1795058375,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+    "url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50555337",
+    "source": "yahoo.com",
+    "date": "2026-11-19T02:32:01Z",
+    "timestamp": 1795055521,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+    "discussion_url": "https://news.ycombinator.com/item?id=50555181",
+    "source": "theguardian.com",
+    "date": "2026-11-19T02:06:29Z",
+    "timestamp": 1795053989,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI will not make you rich (2025)",
+    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50555093",
+    "source": "colossus.com",
+    "date": "2026-11-19T01:51:28Z",
+    "timestamp": 1795053088,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "url": "https://arxiv.org/abs/2607.29378",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554908",
+    "source": "arxiv.org",
+    "date": "2026-11-19T01:27:02Z",
+    "timestamp": 1795051622,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI in the Courtroom",
+    "url": "https://www.theexpertrecord.com/ai-in-court/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554858",
+    "source": "theexpertrecord.com",
+    "date": "2026-11-19T01:22:24Z",
+    "timestamp": 1795051344,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robotic Wood Mill, useful robots on the cheap",
+    "url": "https://last10pct.substack.com/p/making-a-robotic-wood-mill-completion",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554542",
+    "source": "last10pct.substack.com",
+    "date": "2026-11-19T00:47:33Z",
+    "timestamp": 1795049253,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Ask HN: Cheapest CPU Vms",
+    "url": "https://news.ycombinator.com/item?id=50554381",
+    "discussion_url": "https://news.ycombinator.com/item?id=50554381",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-19T00:30:18Z",
+    "timestamp": 1795048218,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
+    "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+    "discussion_url": "https://news.ycombinator.com/item?id=50553913",
+    "source": "github.com",
+    "date": "2026-11-18T23:38:40Z",
+    "timestamp": 1795045120,
+    "category": "Physical AI"
+  },
+  {
+    "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+    "url": "https://news.ycombinator.com/item?id=50553802",
+    "discussion_url": "https://news.ycombinator.com/item?id=50553802",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-18T23:26:30Z",
+    "timestamp": 1795044390,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "url": "https://springcraft-ai.github.io/springrep/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50552140",
+    "source": "springcraft-ai.github.io",
+    "date": "2026-11-18T21:08:47Z",
+    "timestamp": 1795036127,
+    "category": "Physical AI"
   },
   {
     "title": "Advancing chip design with OpenAI models",
@@ -135,48 +162,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "We taught robots to carve marble sculptures",
-    "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50548808",
-    "source": "eleanorwiesler.com",
-    "date": "2026-11-18T17:03:53Z",
-    "timestamp": 1795021433,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Dissecting the GPU Load/Store Unit and Exposing Its Security Risks",
-    "url": "https://arxiv.org/abs/2611.23022",
-    "discussion_url": "https://news.ycombinator.com/item?id=50548119",
-    "source": "arxiv.org",
-    "date": "2026-11-18T16:15:48Z",
-    "timestamp": 1795018548,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
-    "url": "https://huggingface.co/n4ze3m/tiny-voca",
-    "discussion_url": "https://news.ycombinator.com/item?id=50547122",
-    "source": "huggingface.co",
-    "date": "2026-11-18T15:01:14Z",
-    "timestamp": 1795014074,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "The x86 CPU: From 4004 to 486",
     "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
     "discussion_url": "https://news.ycombinator.com/item?id=50546967",
     "source": "pikuma.com",
     "date": "2026-11-18T14:47:53Z",
     "timestamp": 1795013273,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Dutch resist 'unacceptable' US bid to tighten semiconductor export controls",
-    "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50546253",
-    "source": "politico.eu",
-    "date": "2026-11-18T13:46:35Z",
-    "timestamp": 1795009595,
     "category": "Computer Architecture"
   }
 ]
