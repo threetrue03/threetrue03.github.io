@@ -1,155 +1,146 @@
 [
   {
-    "title": "Federal Revenue When AI Replaces Labor",
-    "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50586471",
-    "source": "rand.org",
-    "date": "2026-11-21T06:12:31Z",
-    "timestamp": 1795241551,
-    "category": "Machine Learning"
+    "title": "Fine-tuning vision models: how expertise forms and how forgetting happens",
+    "url": "https://andrewxhill.com/from-clip-to-bioclip-2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50592225",
+    "source": "andrewxhill.com",
+    "date": "2026-11-21T18:42:33Z",
+    "timestamp": 1795286553,
+    "category": "Computer Vision"
   },
   {
-    "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-    "url": "https://github.com/Musset-App/musset",
-    "discussion_url": "https://news.ycombinator.com/item?id=50586323",
+    "title": "Show HN: Pencil – LLM writes whiteboard lessons as JSON, a browser draws them",
+    "url": "https://github.com/VBS2004/pencil",
+    "discussion_url": "https://news.ycombinator.com/item?id=50592137",
     "source": "github.com",
-    "date": "2026-11-21T05:42:49Z",
-    "timestamp": 1795239769,
+    "date": "2026-11-21T18:33:22Z",
+    "timestamp": 1795286002,
     "category": "Machine Learning"
   },
   {
-    "title": "Manage Kubernetes Clusters for GPU Infrastructure with Nvidia Kubernetes Engine",
-    "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50586311",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-21T05:40:32Z",
-    "timestamp": 1795239632,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "ClawDOS – An AI coding agent for DOS",
-    "url": "http://ricapar.net/ClawDOS/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50586292",
-    "source": "ricapar.net",
-    "date": "2026-11-21T05:38:01Z",
-    "timestamp": 1795239481,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Most Important Charts in AI Are Wrong",
-    "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
-    "discussion_url": "https://news.ycombinator.com/item?id=50585411",
-    "source": "rameznaam.com",
-    "date": "2026-11-21T02:45:31Z",
-    "timestamp": 1795229131,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Experts warn: Everyone in AI is susceptible to a honey-trap scheme",
-    "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50585239",
-    "source": "techcrunch.com",
-    "date": "2026-11-21T02:19:42Z",
-    "timestamp": 1795227582,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Find and serve fast LLM config for your GPU",
-    "url": "https://github.com/Aagam-Bothara/rigtune",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584965",
-    "source": "github.com",
-    "date": "2026-11-21T01:40:35Z",
-    "timestamp": 1795225235,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI R&D-relevant model capabilities are improving rapidly",
-    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584825",
-    "source": "metr.org",
-    "date": "2026-11-21T01:23:46Z",
-    "timestamp": 1795224226,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Things I learned coding with AI for a year",
-    "url": "https://twnstr.com/blogs/software-development-post-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584786",
-    "source": "twnstr.com",
-    "date": "2026-11-21T01:18:18Z",
-    "timestamp": 1795223898,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
-    "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584675",
-    "source": "chinaselectcommittee.house.gov",
-    "date": "2026-11-21T01:03:45Z",
-    "timestamp": 1795223025,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A taste of formal verification for PyTorch (PTX semantics, weak memory models) [video]",
-    "url": "https://www.youtube.com/watch?v=bs7UEh4HgnA",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584584",
-    "source": "youtube.com",
-    "date": "2026-11-21T00:55:07Z",
-    "timestamp": 1795222507,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-    "url": "https://github.com/elixir-hls/elixir-hls",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584526",
-    "source": "github.com",
-    "date": "2026-11-21T00:47:57Z",
-    "timestamp": 1795222077,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Is Ssense Pivoting to AI Slop?",
-    "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50584218",
-    "source": "thecut.com",
-    "date": "2026-11-21T00:06:18Z",
-    "timestamp": 1795219578,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI models change their answers when they are monitored",
-    "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
-    "discussion_url": "https://news.ycombinator.com/item?id=50583899",
-    "source": "jordannews.jo",
-    "date": "2026-11-20T23:33:44Z",
-    "timestamp": 1795217624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
-    "url": "https://saturnsql.com/context-layer",
-    "discussion_url": "https://news.ycombinator.com/item?id=50583881",
-    "source": "saturnsql.com",
-    "date": "2026-11-20T23:31:55Z",
-    "timestamp": 1795217515,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What's stopping us from putting agents in general purpose robots?",
-    "url": "https://news.ycombinator.com/item?id=50582662",
-    "discussion_url": "https://news.ycombinator.com/item?id=50582662",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-20T21:44:46Z",
-    "timestamp": 1795211086,
+    "title": "Countries open path towards 'killer robots' pact",
+    "url": "https://www.afp.com/en/countries-open-path-towards-killer-robots-pact",
+    "discussion_url": "https://news.ycombinator.com/item?id=50592134",
+    "source": "afp.com",
+    "date": "2026-11-21T18:32:56Z",
+    "timestamp": 1795285976,
     "category": "Physical AI"
   },
   {
-    "title": "TensorLean: Formal verification framework for GPU kernels at the PTX level",
-    "url": "https://tensorlean.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50582141",
-    "source": "tensorlean.ai",
-    "date": "2026-11-20T21:09:29Z",
-    "timestamp": 1795208969,
+    "title": "Forkwise – AI engineer that runs in your terminal",
+    "url": "https://forkwiseai.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591976",
+    "source": "forkwiseai.com",
+    "date": "2026-11-21T18:16:50Z",
+    "timestamp": 1795285010,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Loom: Shared memory, document search, and code indexing for AI agents",
+    "url": "https://github.com/ClickHouse/loom",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591960",
+    "source": "github.com",
+    "date": "2026-11-21T18:14:29Z",
+    "timestamp": 1795284869,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Zero retention AI providers caught logging prompts",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591871",
+    "source": "dragos.com",
+    "date": "2026-11-21T18:04:54Z",
+    "timestamp": 1795284294,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is swallowing maths. Is economics next?",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591808",
+    "source": "economist.com",
+    "date": "2026-11-21T17:57:18Z",
+    "timestamp": 1795283838,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
+    "url": "https://twitter.com/theallinpod/status/2123994998156722681",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591687",
+    "source": "twitter.com",
+    "date": "2026-11-21T17:45:41Z",
+    "timestamp": 1795283141,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Actors Licensing AI Likenesses: A New Frontier for Hollywood Labor",
+    "url": "https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591410",
+    "source": "kfn.one",
+    "date": "2026-11-21T17:22:28Z",
+    "timestamp": 1795281748,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Antseed is a peer-to-peer network for AI services",
+    "url": "https://antseed.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591379",
+    "source": "antseed.com",
+    "date": "2026-11-21T17:18:46Z",
+    "timestamp": 1795281526,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I got banned from Lobsters for writing like an LLM",
+    "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591189",
+    "source": "en.andros.dev",
+    "date": "2026-11-21T17:00:41Z",
+    "timestamp": 1795280441,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'I was shaking, crying': the trauma of breaking up with AI companions",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+    "discussion_url": "https://news.ycombinator.com/item?id=50591126",
+    "source": "theguardian.com",
+    "date": "2026-11-21T16:55:27Z",
+    "timestamp": 1795280127,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Libreboot: AI Slop Reduction Policy",
+    "url": "https://libreboot.org/news/clankers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50590953",
+    "source": "libreboot.org",
+    "date": "2026-11-21T16:41:07Z",
+    "timestamp": 1795279267,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+    "url": "https://arxiv.org/abs/2611.06257",
+    "discussion_url": "https://news.ycombinator.com/item?id=50590286",
+    "source": "arxiv.org",
+    "date": "2026-11-21T15:39:28Z",
+    "timestamp": 1795275568,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Made an USB GPU for 20¢ [video]",
+    "url": "https://www.youtube.com/watch?v=mAM5MpFBTu8",
+    "discussion_url": "https://news.ycombinator.com/item?id=50589788",
+    "source": "youtube.com",
+    "date": "2026-11-21T14:52:54Z",
+    "timestamp": 1795272774,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Apollo, Goldman lead $44B SpaceX GPU debt financing",
+    "url": "https://www.reuters.com/business/media-telecom/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-2026-11-20/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50589335",
+    "source": "reuters.com",
+    "date": "2026-11-21T14:05:55Z",
+    "timestamp": 1795269955,
     "category": "Computer Architecture"
   },
   {
@@ -171,12 +162,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "The x86 CPU: From 4004 to 486",
-    "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-    "discussion_url": "https://news.ycombinator.com/item?id=50546967",
-    "source": "pikuma.com",
-    "date": "2026-11-18T14:47:53Z",
-    "timestamp": 1795013273,
+    "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+    "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50535228",
+    "source": "8bitarchitect.net",
+    "date": "2026-11-17T17:46:37Z",
+    "timestamp": 1794937597,
     "category": "Computer Architecture"
   }
 ]
