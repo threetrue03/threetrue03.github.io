@@ -1,146 +1,137 @@
 [
   {
+    "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+    "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+    "discussion_url": "https://news.ycombinator.com/item?id=50608427",
+    "source": "ft.com",
+    "date": "2026-11-23T07:06:30Z",
+    "timestamp": 1795417590,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+    "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+    "discussion_url": "https://news.ycombinator.com/item?id=50608343",
+    "source": "dl.acm.org",
+    "date": "2026-11-23T06:54:08Z",
+    "timestamp": 1795416848,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI with Human Guidance May Have Cracked Quantum Gravity",
+    "url": "https://atuf-explorer.toughlute16.chatgpt.site/lean.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50608053",
+    "source": "atuf-explorer.toughlute16.chatgpt.site",
+    "date": "2026-11-23T06:05:45Z",
+    "timestamp": 1795413945,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "url": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+    "discussion_url": "https://news.ycombinator.com/item?id=50607695",
+    "source": "bbc.com",
+    "date": "2026-11-23T05:06:12Z",
+    "timestamp": 1795410372,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs Reproduce Human Purchase Intent via Semantic Similarity of Likert Ratings (2025)",
+    "url": "https://arxiv.org/abs/2510.08338",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606889",
+    "source": "arxiv.org",
+    "date": "2026-11-23T02:42:35Z",
+    "timestamp": 1795401755,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "VistaPrint applies generative AI edits to prints without consent or warning",
+    "url": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606811",
+    "source": "bsky.app",
+    "date": "2026-11-23T02:30:24Z",
+    "timestamp": 1795401024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "It Will Never: confident predictions and verdicts about AI [video]",
+    "url": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606723",
+    "source": "youtube.com",
+    "date": "2026-11-23T02:19:24Z",
+    "timestamp": 1795400364,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606447",
+    "source": "theverge.com",
+    "date": "2026-11-23T01:45:50Z",
+    "timestamp": 1795398350,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI will eliminate many jobs. What should your children study now?",
+    "url": "https://www.rnz.co.nz/life/relationships/family/ai-will-eliminate-many-jobs-what-should-your-children-study-now",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606249",
+    "source": "rnz.co.nz",
+    "date": "2026-11-23T01:20:26Z",
+    "timestamp": 1795396826,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Goldman's SpaceX pitch helps solve AI debt puzzle",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+    "discussion_url": "https://news.ycombinator.com/item?id=50606210",
+    "source": "bloomberg.com",
+    "date": "2026-11-23T01:15:59Z",
+    "timestamp": 1795396559,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What 47,000 Companies' Disclosures Reveal About the AI Stack",
+    "url": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
+    "discussion_url": "https://news.ycombinator.com/item?id=50605987",
+    "source": "kamathhrishi.substack.com",
+    "date": "2026-11-23T00:52:46Z",
+    "timestamp": 1795395166,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
+    "url": "https://github.com/salespeak-ai/inbox-envoy",
+    "discussion_url": "https://news.ycombinator.com/item?id=50605502",
+    "source": "github.com",
+    "date": "2026-11-23T00:00:35Z",
+    "timestamp": 1795392035,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50605445",
+    "source": "0rwx.com",
+    "date": "2026-11-22T23:53:00Z",
+    "timestamp": 1795391580,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Nvidia Must Fall: The End of the GPU Monopoly Era",
+    "url": "https://starlight-ai.freemyip.com/sandbox/ae1b44336c58cd285837383f68d144d3d480388dd4489f2d95e60689f7e09dd2/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50604832",
+    "source": "starlight-ai.freemyip.com",
+    "date": "2026-11-22T22:49:27Z",
+    "timestamp": 1795387767,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Meridian: Web-browser built on GPUI and Servo",
     "url": "https://op.tngl.io/meridian/",
     "discussion_url": "https://news.ycombinator.com/item?id=50602735",
     "source": "op.tngl.io",
     "date": "2026-11-22T18:56:53Z",
     "timestamp": 1795373813,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Make your own Meta Muse / AI charm keychain",
-    "url": "https://github.com/devniz/znp-re",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602722",
-    "source": "github.com",
-    "date": "2026-11-22T18:56:01Z",
-    "timestamp": 1795373761,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and hiring: bad for employees, bad for employers",
-    "url": "https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602618",
-    "source": "johnhempton.substack.com",
-    "date": "2026-11-22T18:46:11Z",
-    "timestamp": 1795373171,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A pay-once alternative to subscription AI photo trend apps",
-    "url": "https://flowood.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602226",
-    "source": "flowood.app",
-    "date": "2026-11-22T18:09:38Z",
-    "timestamp": 1795370978,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "26 AI agents rewrote a backend from Django to Rust with no human merges",
-    "url": "https://airepublic.com/blog/pi-dash-self-evolution-experiment/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602218",
-    "source": "airepublic.com",
-    "date": "2026-11-22T18:09:02Z",
-    "timestamp": 1795370942,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Harvard CS 2881R AI Safety",
-    "url": "https://boazbk.github.io/mltheoryseminar/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602153",
-    "source": "boazbk.github.io",
-    "date": "2026-11-22T18:01:54Z",
-    "timestamp": 1795370514,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
-    "url": "https://news.ycombinator.com/item?id=50602128",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602128",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-22T17:59:16Z",
-    "timestamp": 1795370356,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Testing What Economists Know About Bubbles",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/is-ai-a-bubble-what-economists-know-about-market-bubbles",
-    "discussion_url": "https://news.ycombinator.com/item?id=50602015",
-    "source": "bloomberg.com",
-    "date": "2026-11-22T17:50:25Z",
-    "timestamp": 1795369825,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "WSJ, Streetwise: Has the AI Bubble Already Burst?",
-    "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8",
-    "discussion_url": "https://news.ycombinator.com/item?id=50601946",
-    "source": "wsj.com",
-    "date": "2026-11-22T17:43:40Z",
-    "timestamp": 1795369420,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Why do these LLM models seem to improve like clockwork over time?",
-    "url": "https://news.ycombinator.com/item?id=50601623",
-    "discussion_url": "https://news.ycombinator.com/item?id=50601623",
-    "source": "news.ycombinator.com",
-    "date": "2026-11-22T17:14:00Z",
-    "timestamp": 1795367640,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs have made bot programming boring, how can we make it fun again?",
-    "url": "https://neilnaveen.dev/posts/llm-bot-programming/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50601410",
-    "source": "neilnaveen.dev",
-    "date": "2026-11-22T16:56:15Z",
-    "timestamp": 1795366575,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AWS Lambda Adds GPU Instances for Event Functions on Lambda Managed Instances",
-    "url": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50601122",
-    "source": "aws.amazon.com",
-    "date": "2026-11-22T16:32:54Z",
-    "timestamp": 1795365174,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Isaac Asimov: Jokester",
-    "url": "https://lecturia.org/en/short-stories/isaac-asimov-jokester/29130/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50600956",
-    "source": "lecturia.org",
-    "date": "2026-11-22T16:15:26Z",
-    "timestamp": 1795364126,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
-    "url": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50600632",
-    "source": "eunews.it",
-    "date": "2026-11-22T15:36:36Z",
-    "timestamp": 1795361796,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How do you check that an AI agent finished a task?",
-    "url": "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
-    "discussion_url": "https://news.ycombinator.com/item?id=50600422",
-    "source": "medium.com",
-    "date": "2026-11-22T15:14:42Z",
-    "timestamp": 1795360482,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Rmux – A lightweight GPU rendered terminal workspace",
-    "url": "https://rmux.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=50599552",
-    "source": "rmux.app",
-    "date": "2026-11-22T13:33:18Z",
-    "timestamp": 1795354398,
     "category": "Computer Architecture"
   },
   {
