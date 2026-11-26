@@ -1,147 +1,165 @@
 [
   {
-    "title": "AI Chief of Staff",
-    "url": "https://airbots.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50647456",
-    "source": "airbots.ai",
-    "date": "2026-11-25T21:00:16Z",
-    "timestamp": 1795640416,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What to know before using AI agents for Black Friday shopping",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-    "discussion_url": "https://news.ycombinator.com/item?id=50646548",
-    "source": "npr.org",
-    "date": "2026-11-25T19:49:26Z",
-    "timestamp": 1795636166,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
-    "url": "https://github.com/onatm/rustling",
-    "discussion_url": "https://news.ycombinator.com/item?id=50646482",
-    "source": "github.com",
-    "date": "2026-11-25T19:42:36Z",
-    "timestamp": 1795635756,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50646034",
-    "source": "techcrunch.com",
-    "date": "2026-11-25T19:04:25Z",
-    "timestamp": 1795633465,
+    "title": "EU postpones discussion to approve Tesla's self-driving tech",
+    "url": "https://www.reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50652549",
+    "source": "reuters.com",
+    "date": "2026-11-26T07:36:15Z",
+    "timestamp": 1795678575,
     "category": "Physical AI"
   },
   {
-    "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
-    "url": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645782",
-    "source": "wsj.com",
-    "date": "2026-11-25T18:39:02Z",
-    "timestamp": 1795631942,
+    "title": "Anthropic Created a Honeypot to Lure AI Agents into Misbehaving",
+    "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50652514",
+    "source": "wired.com",
+    "date": "2026-11-26T07:30:49Z",
+    "timestamp": 1795678249,
     "category": "Machine Learning"
   },
   {
-    "title": "Attackers use Hugging Face's AI to make phishing pages",
-    "url": "https://www.aikido.dev/blog/hugging-face-phishing-pages",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645623",
-    "source": "aikido.dev",
-    "date": "2026-11-25T18:26:42Z",
-    "timestamp": 1795631202,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dario Amodei advocates for AI to be governed by legitimate democratic processes",
-    "url": "https://twitter.com/DarioAmodei/status/2125656399392690605",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645613",
-    "source": "twitter.com",
-    "date": "2026-11-25T18:25:43Z",
-    "timestamp": 1795631143,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Flawrence – LLM-based vulnerability analysis for everyone",
-    "url": "https://github.com/mschwarzl/flawrence",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645565",
-    "source": "github.com",
-    "date": "2026-11-25T18:22:11Z",
-    "timestamp": 1795630931,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Local AI setups tested across 80 tasks on a 512GB Mac Studio M5 Ultra",
-    "url": "https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645458",
-    "source": "github.com",
-    "date": "2026-11-25T18:14:23Z",
-    "timestamp": 1795630463,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Weight-Space Micromachines: Brain Implants for LLMs",
-    "url": "https://papail.io/papers/wsm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645406",
-    "source": "papail.io",
-    "date": "2026-11-25T18:10:24Z",
-    "timestamp": 1795630224,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reverse engineering the Nikon Z 6II with LLMs",
-    "url": "https://arnebaeyens.com/blog/2026/reverse-engineering-with-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645246",
-    "source": "arnebaeyens.com",
-    "date": "2026-11-25T17:58:08Z",
-    "timestamp": 1795629488,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sam Altman on X: \"We're now testing Private Inference \"",
-    "url": "https://twitter.com/sama/status/2125638790593274259",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645072",
-    "source": "twitter.com",
-    "date": "2026-11-25T17:43:38Z",
-    "timestamp": 1795628618,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Trying to get our Arms around AI efficiency",
-    "url": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50645008",
-    "source": "stackoverflow.blog",
-    "date": "2026-11-25T17:37:13Z",
-    "timestamp": 1795628233,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Mergeon – A native desktop Git client written in Rust with GPUI",
-    "url": "https://github.com/Spilveru/mergeon",
-    "discussion_url": "https://news.ycombinator.com/item?id=50637887",
-    "source": "github.com",
-    "date": "2026-11-25T03:03:53Z",
-    "timestamp": 1795575833,
+    "title": "A shallow dive into open-source chip design",
+    "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50652102",
+    "source": "vitalik.eth.limo",
+    "date": "2026-11-26T06:20:58Z",
+    "timestamp": 1795674058,
     "category": "Computer Architecture"
   },
   {
-    "title": "Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III",
-    "url": "https://github.com/mawlicious/bo3mac",
-    "discussion_url": "https://news.ycombinator.com/item?id=50637863",
-    "source": "github.com",
-    "date": "2026-11-25T03:00:12Z",
-    "timestamp": 1795575612,
+    "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
+    "url": "https://www.edutopia.org/article/does-ai-help-students-learn/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651977",
+    "source": "edutopia.org",
+    "date": "2026-11-26T05:58:37Z",
+    "timestamp": 1795672717,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How can people make money as AI replaces intellectual jobs?",
+    "url": "https://news.ycombinator.com/item?id=50651911",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651911",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-26T05:46:33Z",
+    "timestamp": 1795671993,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Who wrote the Book of Mormon? Testing with pre-1830 language models",
+    "url": "https://lifehug.com/book-of-mormon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651732",
+    "source": "lifehug.com",
+    "date": "2026-11-26T05:14:43Z",
+    "timestamp": 1795670083,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Learned to Stop Worrying and Love the AI",
+    "url": "https://news.ycombinator.com/item?id=50651635",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651635",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-26T05:01:25Z",
+    "timestamp": 1795669285,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651535",
+    "source": "arstechnica.com",
+    "date": "2026-11-26T04:46:50Z",
+    "timestamp": 1795668410,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
-    "url": "https://github.com/cerulion-inc/cerulion",
-    "discussion_url": "https://news.ycombinator.com/item?id=50635055",
+    "title": "Show HN: Hush, the fastest computer use for AI agents",
+    "url": "https://github.com/OgnjenAdzic28/hush",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651523",
     "source": "github.com",
-    "date": "2026-11-24T21:33:44Z",
-    "timestamp": 1795556024,
+    "date": "2026-11-26T04:45:29Z",
+    "timestamp": 1795668329,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+    "url": "https://gameautoresearch.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50651501",
+    "source": "gameautoresearch.github.io",
+    "date": "2026-11-26T04:42:59Z",
+    "timestamp": 1795668179,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650979",
+    "source": "bloomberg.com",
+    "date": "2026-11-26T03:13:51Z",
+    "timestamp": 1795662831,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tell HN: Finality is like the speed of light to LLMs from the labs",
+    "url": "https://news.ycombinator.com/item?id=50650927",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650927",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-26T03:07:30Z",
+    "timestamp": 1795662450,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
+    "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650812",
+    "source": "vllm.ai",
+    "date": "2026-11-26T02:47:01Z",
+    "timestamp": 1795661221,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RISC-V Profiles RVA23.1 and RVB23.1 Ratified and Merged into the Manual",
+    "url": "https://riscv.github.io/riscv-isa-manual/snapshot/spec/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650760",
+    "source": "riscv.github.io",
+    "date": "2026-11-26T02:39:42Z",
+    "timestamp": 1795660782,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
+    "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650667",
+    "source": "mindstudio.ai",
+    "date": "2026-11-26T02:28:06Z",
+    "timestamp": 1795660086,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Featherweight flying microrobot carries its own sensors and computers",
+    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650525",
+    "source": "news.mit.edu",
+    "date": "2026-11-26T02:08:54Z",
+    "timestamp": 1795658934,
     "category": "Physical AI"
+  },
+  {
+    "title": "Will the next big discovery using LLM's solve Fusion Energy?",
+    "url": "https://news.ycombinator.com/item?id=50650485",
+    "discussion_url": "https://news.ycombinator.com/item?id=50650485",
+    "source": "news.ycombinator.com",
+    "date": "2026-11-26T02:03:14Z",
+    "timestamp": 1795658594,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Neckrez – hourly VPS, GPU, CPU you pay for in crypto (API, MCP, CLI)",
+    "url": "https://neckrez.tech/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50649953",
+    "source": "neckrez.tech",
+    "date": "2026-11-26T00:54:52Z",
+    "timestamp": 1795654492,
+    "category": "Computer Architecture"
   },
   {
     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
@@ -150,15 +168,6 @@
     "source": "andlukyane.com",
     "date": "2026-11-24T19:40:43Z",
     "timestamp": 1795549243,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-    "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-    "discussion_url": "https://news.ycombinator.com/item?id=50608343",
-    "source": "dl.acm.org",
-    "date": "2026-11-23T06:54:08Z",
-    "timestamp": 1795416848,
     "category": "Computer Architecture"
   }
 ]
