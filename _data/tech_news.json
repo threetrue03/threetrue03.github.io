@@ -1,5 +1,149 @@
 [
   {
+    "title": "To Think or Not to Think: AI tools and the loss of engineering fundamentals",
+    "url": "https://ristonthomas.com/essays/to_think_or_not_to_think/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50675401",
+    "source": "ristonthomas.com",
+    "date": "2026-11-28T07:03:08Z",
+    "timestamp": 1795849388,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+    "discussion_url": "https://news.ycombinator.com/item?id=50675303",
+    "source": "theguardian.com",
+    "date": "2026-11-28T06:43:19Z",
+    "timestamp": 1795848199,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI",
+    "url": "https://thenewstack.io/openai-matrix-multiplication-exponent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50675139",
+    "source": "thenewstack.io",
+    "date": "2026-11-28T06:01:54Z",
+    "timestamp": 1795845714,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google adding official Google AI plan support to Pi coding agent",
+    "url": "https://github.com/earendil-works/pi/pull/12614",
+    "discussion_url": "https://news.ycombinator.com/item?id=50675069",
+    "source": "github.com",
+    "date": "2026-11-28T05:42:49Z",
+    "timestamp": 1795844569,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+    "url": "https://twitter.com/superalesha/status/2125682626056839259",
+    "discussion_url": "https://news.ycombinator.com/item?id=50675022",
+    "source": "twitter.com",
+    "date": "2026-11-28T05:30:51Z",
+    "timestamp": 1795843851,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: WikiVectors – makes any LLM smarter",
+    "url": "https://wikivectors.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674887",
+    "source": "wikivectors.com",
+    "date": "2026-11-28T05:06:05Z",
+    "timestamp": 1795842365,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What It Takes to Let AI Agents Work While You Walk Away",
+    "url": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674708",
+    "source": "ivankahl.com",
+    "date": "2026-11-28T04:32:38Z",
+    "timestamp": 1795840358,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What Happens When AI Aligns Itself?",
+    "url": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674692",
+    "source": "rameznaam.com",
+    "date": "2026-11-28T04:29:03Z",
+    "timestamp": 1795840143,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Intel Razor Lake-AX May Pack 52 CPU Cores and 192 GB of Memory",
+    "url": "https://vgtimes.com/tech-and-hardware/176003-intel-razor-lake-ax-may-pack-52-cpu-cores-and-192-gb-of-memory.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674601",
+    "source": "vgtimes.com",
+    "date": "2026-11-28T04:12:18Z",
+    "timestamp": 1795839138,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI micro dramas turn China's entertainment industry on its head",
+    "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674540",
+    "source": "abc.net.au",
+    "date": "2026-11-28T04:01:59Z",
+    "timestamp": 1795838519,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Estimating LLM decode speed and the price of a token per second",
+    "url": "https://wanabai.com/build-finder/paper.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674533",
+    "source": "wanabai.com",
+    "date": "2026-11-28T04:01:14Z",
+    "timestamp": 1795838474,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+    "url": "https://github.com/alesha-pro/llm.asm",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674381",
+    "source": "github.com",
+    "date": "2026-11-28T03:39:41Z",
+    "timestamp": 1795837181,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Frontier models need only one text to unmask its human or AI author",
+    "url": "https://arxiv.org/abs/2611.26216",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674338",
+    "source": "arxiv.org",
+    "date": "2026-11-28T03:32:57Z",
+    "timestamp": 1795836777,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Turkish wedding party receives Nvidia RTX 5090, RAM, and CPU as wedding gifts",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
+    "discussion_url": "https://news.ycombinator.com/item?id=50674108",
+    "source": "tomshardware.com",
+    "date": "2026-11-28T03:05:27Z",
+    "timestamp": 1795835127,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "GTA 6 Recompiled for WebGPU",
+    "url": "https://grandtheftgta.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50673912",
+    "source": "grandtheftgta.com",
+    "date": "2026-11-28T02:40:16Z",
+    "timestamp": 1795833616,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A shallow dive into open-source chip design",
+    "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50672344",
+    "source": "vitalik.eth.limo",
+    "date": "2026-11-27T22:33:18Z",
+    "timestamp": 1795818798,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
     "url": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
     "discussion_url": "https://news.ycombinator.com/item?id=50671606",
@@ -7,131 +151,5 @@
     "date": "2026-11-27T21:02:13Z",
     "timestamp": 1795813333,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Trader Agent show up and trade live publicly everyday, win 8/9 past sessions",
-    "url": "https://henryzhang.substack.com/p/8-green-sessions-out-of-9-all-traded",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671584",
-    "source": "henryzhang.substack.com",
-    "date": "2026-11-27T20:59:40Z",
-    "timestamp": 1795813180,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Banks look to dump AI debt",
-    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671559",
-    "source": "semafor.com",
-    "date": "2026-11-27T20:56:17Z",
-    "timestamp": 1795812977,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Man and His Muse AI Agent Sue Meta",
-    "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671558",
-    "source": "404media.co",
-    "date": "2026-11-27T20:56:11Z",
-    "timestamp": 1795812971,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SAP Weighs Cutting at Least 10k Roles in AI Restructure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671453",
-    "source": "bloomberg.com",
-    "date": "2026-11-27T20:43:03Z",
-    "timestamp": 1795812183,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AMD and Intel's AI Compute Extensions Integrated into GCC",
-    "url": "https://cryptobriefing.com/amd-intel-ai-compute-extensions-gcc/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671375",
-    "source": "cryptobriefing.com",
-    "date": "2026-11-27T20:33:34Z",
-    "timestamp": 1795811614,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "German sofware giant SAP weighs at least 10k job cuts amid AI shift",
-    "url": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671308",
-    "source": "euronews.com",
-    "date": "2026-11-27T20:26:15Z",
-    "timestamp": 1795811175,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-    "url": "https://github.com/skeeto/prospero",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671275",
-    "source": "github.com",
-    "date": "2026-11-27T20:23:14Z",
-    "timestamp": 1795810994,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Do weight space edits transfer between language models?",
-    "url": "https://nishparadox.com/research/weightmap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671060",
-    "source": "nishparadox.com",
-    "date": "2026-11-27T20:04:18Z",
-    "timestamp": 1795809858,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
-    "url": "https://substack.com/@pancooke/note/c-395539528",
-    "discussion_url": "https://news.ycombinator.com/item?id=50671028",
-    "source": "substack.com",
-    "date": "2026-11-27T20:01:33Z",
-    "timestamp": 1795809693,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Machine-load – see which AI coding session is slowing your Mac",
-    "url": "https://github.com/Stak-Technologies/machine-load",
-    "discussion_url": "https://news.ycombinator.com/item?id=50670688",
-    "source": "github.com",
-    "date": "2026-11-27T19:24:30Z",
-    "timestamp": 1795807470,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
-    "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
-    "discussion_url": "https://news.ycombinator.com/item?id=50670531",
-    "source": "dwarkesh.com",
-    "date": "2026-11-27T19:07:22Z",
-    "timestamp": 1795806442,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US Stocks rise in abbreviated Black Friday trading as AI concerns ease",
-    "url": "https://www.upi.com/Top_News/US/2026/11/27/stocks-AI-thanksgiving/3631795799509/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50670486",
-    "source": "upi.com",
-    "date": "2026-11-27T19:03:46Z",
-    "timestamp": 1795806226,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
-    "discussion_url": "https://news.ycombinator.com/item?id=50670226",
-    "source": "tomshardware.com",
-    "date": "2026-11-27T18:40:22Z",
-    "timestamp": 1795804822,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Robots will have a staggering economic impact",
-    "url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
-    "discussion_url": "https://news.ycombinator.com/item?id=50654035",
-    "source": "economist.com",
-    "date": "2026-11-26T11:15:03Z",
-    "timestamp": 1795691703,
-    "category": "Physical AI"
   }
 ]
